@@ -303,7 +303,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-06-28T14:01:37.660858+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-28T14:01:37.660858+00:00"
   },
   {
     "id": "rss_3414b714ed10",
@@ -330,6 +331,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-28T14:01:41.634183+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-28T14:01:41.634183+00:00"
   }
 ]
