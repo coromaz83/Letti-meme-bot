@@ -1,0 +1,335 @@
+[
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3a86da63fcf",
+    "source": "Cointelegraph Base",
+    "title": "Travala lets AI agents book hotels with USDC on Base",
+    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb1f3e4f40b0",
+    "source": "Cointelegraph Base",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd2b56f1e18b",
+    "source": "Cointelegraph Base",
+    "title": "Base launches new tool to connect crypto wallets to AI agents",
+    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d565fa6cef39",
+    "source": "Cointelegraph Base",
+    "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
+    "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 21 May 2026 06:30:06 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5444d8e1573",
+    "source": "Cointelegraph Base",
+    "title": "Circle makes USDC push into AI agent payment tools",
+    "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 11 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_796a0e9ef18d",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase and AWS launch USDC payment rails for AI agents",
+    "url": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 07 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_85a1b3339037",
+    "source": "Cointelegraph Base",
+    "title": "Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B",
+    "url": "https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 29 Apr 2026 16:21:55 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_197ac5ad83ce",
+    "source": "Cointelegraph Base",
+    "title": "Base joins Ethereum, Tron, others in betting big on AI agent future",
+    "url": "https://cointelegraph.com/news/base-joins-ethereum-tron-others-betting-big-ai-agent-future?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 31 Mar 2026 14:00:00 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f4512c004a07",
+    "source": "Cointelegraph Base",
+    "title": "Dynamic adds embedded wallet infrastructure to TON for Telegram apps",
+    "url": "https://cointelegraph.com/news/fireblocks-backed-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps-embargo-tues-march-31-7am-et?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 31 Mar 2026 12:00:00 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3470a8664af",
+    "source": "Cointelegraph Base",
+    "title": "Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push",
+    "url": "https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 26 Mar 2026 17:01:44 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d78072dd8b69",
+    "source": "Cointelegraph Base",
+    "title": "World launches AgentKit with Coinbase integration to enable human-verified AI agents",
+    "url": "https://cointelegraph.com/news/world-launches-agentkit-coinbase-integration-enable-human-verified-ai-agents-embargo?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 17 Mar 2026 15:57:47 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_26058ed2662e",
+    "source": "Cointelegraph Base",
+    "title": "Monad's cbBTC bridge may add $5B in Bitcoin-backed liquidity",
+    "url": "https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 02 Mar 2026 21:21:31 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7bce90e13ae2",
+    "source": "Cointelegraph Base",
+    "title": "How SocialFi, memecoins and AI pushed Base to the top of the L2 ladder",
+    "url": "https://cointelegraph.com/features/socialfi-memecoins-ai-pushed-base-l2-ladder?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 23 Feb 2026 13:26:49 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bdbc317b9fc",
+    "source": "CoinDesk",
+    "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+    "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+    "published_at": "Sat, 27 Jun 2026 15:00:00 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c23c01cdd43b",
+    "source": "CoinDesk",
+    "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
+    "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
+    "published_at": "Sat, 27 Jun 2026 14:11:45 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d3306652209b",
+    "source": "CoinDesk",
+    "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+    "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+    "published_at": "Fri, 26 Jun 2026 18:37:50 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7bd93142d744",
+    "source": "The Defiant",
+    "title": "AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum",
+    "url": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
+    "published_at": "Sat, 27 Jun 2026 17:13:43 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0a7877ae150",
+    "source": "The Defiant",
+    "title": "Aave Confirms Aavenomics 3.0 Is Live With Buybacks and DAO Spending Cut",
+    "url": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
+    "published_at": "Sat, 27 Jun 2026 14:57:39 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c65ad60cc1e9",
+    "source": "The Defiant",
+    "title": "Strategy's Enterprise mNAV Drops Below 1 for the First Time",
+    "url": "https://thedefiant.io/news/markets/strategy-enterprise-mnav-drops-below-1-first-time",
+    "published_at": "Sat, 27 Jun 2026 14:57:36 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e1cfc5ee2fc8",
+    "source": "The Defiant",
+    "title": "Aave Advances Automated AAVE Buyback Overhaul With Aavenomics 3.0",
+    "url": "https://thedefiant.io/news/defi/aave-advances-automated-aave-buyback-overhaul-aavenomics-3-0",
+    "published_at": "Sat, 27 Jun 2026 10:48:02 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_91c4c802eabf",
+    "source": "The Defiant",
+    "title": "MoneyGram CEO on rolling out MGUSD to its 60 million users, globally",
+    "url": "https://thedefiant.io/converge/podcast/moneygram-ceo-on-rolling-out-mgusd-to-its-60-million-users-globally",
+    "published_at": "Sat, 27 Jun 2026 02:47:16 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_173288c9ecc4",
+    "source": "The Defiant",
+    "title": "Kraken's xStocks Opens Bending Spoons IPO Registration to EEA Retail",
+    "url": "https://thedefiant.io/news/cefi/kraken-xstocks-bending-spoons-ipo-eea-registration",
+    "published_at": "Sat, 27 Jun 2026 02:05:50 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_814d7d93957c",
+    "source": "The Defiant",
+    "title": "Polymarket Confirms $3 Million Loss From Third-Party Front-End Supply-Chain Breach",
+    "url": "https://thedefiant.io/news/hacks/polymarket-confirms-3-million-loss-third-party-front-end-supply-chain-breach",
+    "published_at": "Sat, 27 Jun 2026 00:49:27 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ccf6b400e528",
+    "source": "The Defiant",
+    "title": "Zuckerberg Urges Meta to Explore Polymarket and Kalshi Partnerships",
+    "url": "https://thedefiant.io/news/nfts-and-web3/zuckerberg-urges-meta-explore-polymarket-kalshi-partnerships",
+    "published_at": "Fri, 26 Jun 2026 22:48:37 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_397df3966ef1",
+    "source": "The Defiant",
+    "title": "Chainlink Launches Project Pangea With 50+ Banks Across 16 Countries for T+0 FX Settlement",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-project-pangea-50-banks-16-countries-t0-fx-settlement",
+    "published_at": "Fri, 26 Jun 2026 22:48:34 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dac69f03f1d5",
+    "source": "The Defiant",
+    "title": "Ripple Launches RLUSD in Japan via SBI as Circle and Nomura Join Stablecoin Race",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-rlusd-japan-jfsa-sbi-vc-trade-circle-nomura-stablecoin",
+    "published_at": "Fri, 26 Jun 2026 21:54:48 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e830bb790c7b",
+    "source": "The Defiant",
+    "title": "17 Democratic Senators Seek to Bar CFTC From Funding Prediction-Market State Lawsuits",
+    "url": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
+    "published_at": "Fri, 26 Jun 2026 20:45:50 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc1c28d0c324",
+    "source": "The Defiant",
+    "title": "Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
+    "url": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
+    "published_at": "Fri, 26 Jun 2026 20:37:06 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cd5dad7bd1a8",
+    "source": "The Defiant",
+    "title": "Tokenized Asset Value Stalls Even as Stock Token Holders Surge",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-asset-value-stalls-even-as-stock-token-holders-surge",
+    "published_at": "Fri, 26 Jun 2026 20:16:02 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bd32057d7ff6",
+    "source": "The Defiant",
+    "title": "Base Suffers Second Chain Halt in 24 Hours, Complicating B20 Activation Window",
+    "url": "https://thedefiant.io/news/blockchains/base-second-chain-halt-24-hours-b20-activation-window",
+    "published_at": "Fri, 26 Jun 2026 19:59:08 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_830efa24222e",
+    "source": "The Defiant",
+    "title": "Canton Network Tops Blockchain Fee Rankings With $60M in 30 Days",
+    "url": "https://thedefiant.io/converge/blockchains/canton-network-tops-blockchain-fee-rankings-60m-30-days",
+    "published_at": "Fri, 26 Jun 2026 19:07:41 GMT",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3414b714ed10",
+    "source": "CryptoSlate",
+    "title": "Fed stress tests reveal whether banks can survive a 10% unemployment shock",
+    "url": "https://cryptoslate.com/fed-stress-tests-reveal-whether-banks-can-survive-a-10-unemployment-shock/",
+    "published_at": "Sat, 27 Jun 2026 20:55:34 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5c8d7cc4db23",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s oldest wallets are selling into the $1,500 demand line buyers cannot dodge",
+    "url": "https://cryptoslate.com/ethereums-oldest-wallets-are-selling-into-the-one-price-test-buyers-cannot-dodge/",
+    "published_at": "Sat, 27 Jun 2026 14:40:05 +0000",
+    "fetched_at": "2026-06-28T14:01:37.660858+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026062814",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,098,357,787 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-28T14:01:41.634183+00:00",
+    "used": false
+  }
+]
