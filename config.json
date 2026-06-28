@@ -5,5 +5,5 @@
     "eth", "ethereum", "defi"
   ],
   "meme_count_per_run": 3,
-  "max_news_age_hours": 24
+  "max_news_age_hours": 12
 }
