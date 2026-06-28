@@ -404,6 +404,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-28T15:22:39.733017+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-28T15:22:39.733017+00:00"
   }
 ]
