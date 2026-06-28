@@ -1,0 +1,9 @@
+{
+  "filter_keywords": [
+    "base", "base network", "coinbase", "l2", "layer 2",
+    "aerodrome", "uniswap", "cbeth", "base chain", "onchain",
+    "eth", "ethereum", "defi"
+  ],
+  "meme_count_per_run": 3,
+  "max_news_age_hours": 24
+}
