@@ -1,0 +1,31 @@
+name: Generate Meme Ideas
+
+on:
+  schedule:
+    - cron: "0 9,15,21 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Generate memes
+        env:
+          OPENCAP_API_KEY: ${{ secrets.OPENCAP_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_MEMES_CHAT_ID: ${{ secrets.TELEGRAM_MEMES_CHAT_ID }}
+        run: python generate_memes.py
+      - name: Commit usage
+        run: |
+          git config user.name "letti-meme-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: mark news as used"
+          git push
