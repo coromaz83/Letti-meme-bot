@@ -135,20 +135,47 @@ def save_news(news):
 
 
 def get_fresh_unused_news(news, max_age_hours):
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    """Filter by real publication date, sort newest first."""
+    from email.utils import parsedate_to_datetime
+
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=max_age_hours)
     out = []
+
     for item in news:
         if item.get("used"):
             continue
-        fetched = item.get("fetched_at")
-        if not fetched:
-            continue
-        try:
-            when = datetime.fromisoformat(fetched.replace("Z", "+00:00"))
-            if when > cutoff:
-                out.append(item)
-        except Exception:
-            continue
+
+        # Try real publication date first
+        article_date = None
+        pub = item.get("published_at", "")
+        if pub:
+            try:
+                article_date = parsedate_to_datetime(pub)
+            except Exception:
+                article_date = None
+
+        # Fall back to fetch time if no pub date
+        if not article_date:
+            fetched = item.get("fetched_at", "")
+            if fetched:
+                try:
+                    article_date = datetime.fromisoformat(fetched.replace("Z", "+00:00"))
+                except Exception:
+                    continue
+            else:
+                continue
+
+        # Make timezone-aware
+        if article_date.tzinfo is None:
+            article_date = article_date.replace(tzinfo=timezone.utc)
+
+        if article_date > cutoff:
+            item["_sort_date"] = article_date.isoformat()
+            out.append(item)
+
+    # Newest first
+    out.sort(key=lambda x: x.get("_sort_date", ""), reverse=True)
     return out
 
 
