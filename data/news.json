@@ -552,7 +552,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
     "published_at": "Mon, 29 Jun 2026 17:25:51 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T17:25:51+00:00"
   },
   {
     "id": "rss_935792a80964",
@@ -561,7 +562,8 @@
     "url": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
     "published_at": "Mon, 29 Jun 2026 16:56:02 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T16:56:02+00:00"
   },
   {
     "id": "rss_70ce0cfb0d9f",
@@ -570,7 +572,8 @@
     "url": "https://thedefiant.io/news/markets/draftkings-launches-proprietary-prediction-markets-exchange-dkex",
     "published_at": "Mon, 29 Jun 2026 16:53:52 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T16:53:52+00:00"
   },
   {
     "id": "rss_9f1abe106209",
@@ -579,7 +582,8 @@
     "url": "https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline",
     "published_at": "Mon, 29 Jun 2026 16:48:42 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T16:48:42+00:00"
   },
   {
     "id": "rss_df6f423bc431",
@@ -588,7 +592,8 @@
     "url": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
     "published_at": "Mon, 29 Jun 2026 16:20:08 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T16:20:08+00:00"
   },
   {
     "id": "rss_aba8efbf7237",
@@ -597,7 +602,8 @@
     "url": "https://thedefiant.io/news/cefi/strategy-authorizes-up-to-usd1-25b-of-bitcoin-sales-as-saylor-formalizes-capital-pivot",
     "published_at": "Mon, 29 Jun 2026 15:39:23 GMT",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T15:39:23+00:00"
   },
   {
     "id": "rss_b73948a30ac3",
@@ -606,7 +612,8 @@
     "url": "https://cryptoslate.com/aave-rally-makes-defi-lending-look-more-like-a-bank-to-investors/",
     "published_at": "Mon, 29 Jun 2026 16:15:15 +0000",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T16:15:15+00:00"
   },
   {
     "id": "rss_7e4978d65a34",
@@ -615,7 +622,8 @@
     "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
     "published_at": "Mon, 29 Jun 2026 15:13:16 +0000",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T15:13:16+00:00"
   },
   {
     "id": "rss_2344de6d93e9",
@@ -624,7 +632,8 @@
     "url": "https://www.bankless.com/read/news/blackrock-adds-ethenas-usde-to-risk-management-platform",
     "published_at": "Mon, 29 Jun 2026 13:11:42 -0400",
     "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T13:11:42-04:00"
   },
   {
     "id": "llama_2026062917",
@@ -633,7 +642,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T17:44:59.197782+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T17:44:59.197782+00:00"
   },
   {
     "id": "rss_3e0e8aa64f4b",
@@ -642,7 +652,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
     "published_at": "Mon, 29 Jun 2026 16:30:00 GMT",
     "fetched_at": "2026-06-29T20:09:41.268429+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T16:30:00+00:00"
   },
   {
     "id": "rss_72285993b352",
@@ -651,7 +662,8 @@
     "url": "https://www.bankless.com/read/the-case-for-a-second-ethereum-r-d-lab",
     "published_at": "Mon, 29 Jun 2026 13:52:40 -0400",
     "fetched_at": "2026-06-29T20:09:41.268429+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T13:52:40-04:00"
   },
   {
     "id": "llama_2026062920",
@@ -660,7 +672,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T20:09:46.450888+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T20:09:46.450888+00:00"
   },
   {
     "id": "rss_6030e6b5701f",
@@ -669,7 +682,8 @@
     "url": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
     "published_at": "Mon, 29 Jun 2026 21:13:18 GMT",
     "fetched_at": "2026-06-29T21:54:29.624170+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T21:13:18+00:00"
   },
   {
     "id": "llama_2026062921",
@@ -678,6 +692,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T21:54:33.384434+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T21:54:33.384434+00:00"
   }
 ]
