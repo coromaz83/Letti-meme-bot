@@ -544,5 +544,95 @@
     "fetched_at": "2026-06-29T14:36:01.595055+00:00",
     "used": true,
     "_sort_date": "2026-06-29T14:36:01.595055+00:00"
+  },
+  {
+    "id": "rss_d19a9a1352df",
+    "source": "The Defiant",
+    "title": "Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat",
+    "url": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
+    "published_at": "Mon, 29 Jun 2026 17:25:51 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935792a80964",
+    "source": "The Defiant",
+    "title": "CFTC Expands Polymarket Probe to Staged Trades and Fake Wins",
+    "url": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
+    "published_at": "Mon, 29 Jun 2026 16:56:02 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_70ce0cfb0d9f",
+    "source": "The Defiant",
+    "title": "DraftKings Launches Proprietary Prediction Markets Exchange With $3.4B Annualized Consumer Volume",
+    "url": "https://thedefiant.io/news/markets/draftkings-launches-proprietary-prediction-markets-exchange-dkex",
+    "published_at": "Mon, 29 Jun 2026 16:53:52 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f1abe106209",
+    "source": "The Defiant",
+    "title": "OKX and Coinbase Race to Sign Up Binance's Displaced EU Users Before MiCA Deadline",
+    "url": "https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline",
+    "published_at": "Mon, 29 Jun 2026 16:48:42 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_df6f423bc431",
+    "source": "The Defiant",
+    "title": "BlackRock Adds Ethena's Synthetic Dollar to Its $20T Aladdin Risk Management Platform",
+    "url": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
+    "published_at": "Mon, 29 Jun 2026 16:20:08 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aba8efbf7237",
+    "source": "The Defiant",
+    "title": "Strategy Authorizes up to $1.25B of Bitcoin Sales as Saylor Formalizes Capital Pivot",
+    "url": "https://thedefiant.io/news/cefi/strategy-authorizes-up-to-usd1-25b-of-bitcoin-sales-as-saylor-formalizes-capital-pivot",
+    "published_at": "Mon, 29 Jun 2026 15:39:23 GMT",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b73948a30ac3",
+    "source": "CryptoSlate",
+    "title": "Aave rally makes DeFi lending look more like a bank to investors",
+    "url": "https://cryptoslate.com/aave-rally-makes-defi-lending-look-more-like-a-bank-to-investors/",
+    "published_at": "Mon, 29 Jun 2026 16:15:15 +0000",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7e4978d65a34",
+    "source": "Decrypt",
+    "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
+    "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
+    "published_at": "Mon, 29 Jun 2026 15:13:16 +0000",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2344de6d93e9",
+    "source": "Bankless",
+    "title": "BlackRock Adds Ethena’s USDe to Risk Management Platform",
+    "url": "https://www.bankless.com/read/news/blackrock-adds-ethenas-usde-to-risk-management-platform",
+    "published_at": "Mon, 29 Jun 2026 13:11:42 -0400",
+    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026062917",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,102,339,089 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-29T17:44:59.197782+00:00",
+    "used": false
   }
 ]
