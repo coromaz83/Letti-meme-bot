@@ -512,7 +512,8 @@
     "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
     "published_at": "Mon, 29 Jun 2026 14:02:10 +0000",
     "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T14:02:10+00:00"
   },
   {
     "id": "rss_d57e744cf1ac",
@@ -521,7 +522,8 @@
     "url": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
     "published_at": "Mon, 29 Jun 2026 12:51:44 +0000",
     "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T12:51:44+00:00"
   },
   {
     "id": "rss_638d60f5067b",
@@ -530,7 +532,8 @@
     "url": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
     "published_at": "Mon, 29 Jun 2026 12:00:46 +0000",
     "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T12:00:46+00:00"
   },
   {
     "id": "llama_2026062914",
@@ -539,6 +542,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T14:36:01.595055+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T14:36:01.595055+00:00"
   }
 ]
