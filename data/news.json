@@ -504,5 +504,41 @@
     "fetched_at": "2026-06-29T10:11:14.089499+00:00",
     "used": true,
     "_sort_date": "2026-06-29T10:11:14.089499+00:00"
+  },
+  {
+    "id": "rss_a5f4aaf918f7",
+    "source": "CoinDesk",
+    "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
+    "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
+    "published_at": "Mon, 29 Jun 2026 14:02:10 +0000",
+    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d57e744cf1ac",
+    "source": "CoinDesk",
+    "title": "Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH",
+    "url": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
+    "published_at": "Mon, 29 Jun 2026 12:51:44 +0000",
+    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_638d60f5067b",
+    "source": "CoinDesk",
+    "title": "Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown",
+    "url": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
+    "published_at": "Mon, 29 Jun 2026 12:00:46 +0000",
+    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026062914",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,105,893,757 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-29T14:36:01.595055+00:00",
+    "used": false
   }
 ]
