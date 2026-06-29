@@ -661,5 +661,23 @@
     "published_at": "",
     "fetched_at": "2026-06-29T20:09:46.450888+00:00",
     "used": false
+  },
+  {
+    "id": "rss_6030e6b5701f",
+    "source": "The Defiant",
+    "title": "Stream Finance Starts Collecting Creditor Claims in Step Toward 'Global Resolution'",
+    "url": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
+    "published_at": "Mon, 29 Jun 2026 21:13:18 GMT",
+    "fetched_at": "2026-06-29T21:54:29.624170+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026062921",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,155,665,947 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-29T21:54:33.384434+00:00",
+    "used": false
   }
 ]
