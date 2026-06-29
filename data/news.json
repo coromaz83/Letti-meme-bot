@@ -472,7 +472,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T05:15:32.765945+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-29T05:15:32.765945+00:00"
   },
   {
     "id": "rss_2c886774a1e7",
@@ -481,7 +482,8 @@
     "url": "https://cryptoslate.com/institutions-dumped-bitcoin-and-ethereum-etfs-but-still-bought-xrp-and-hype-again/",
     "published_at": "Mon, 29 Jun 2026 10:10:51 +0000",
     "fetched_at": "2026-06-29T10:11:07.380421+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T10:10:51+00:00"
   },
   {
     "id": "rss_39530e55185b",
@@ -490,7 +492,8 @@
     "url": "https://cryptoslate.com/tether-trades-8-5-above-indias-dollar-rate-as-policy-pressure-hits-usdt-access/",
     "published_at": "Mon, 29 Jun 2026 09:15:59 +0000",
     "fetched_at": "2026-06-29T10:11:07.380421+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T09:15:59+00:00"
   },
   {
     "id": "llama_2026062910",
@@ -499,6 +502,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-29T10:11:14.089499+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-29T10:11:14.089499+00:00"
   }
 ]
