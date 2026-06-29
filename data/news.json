@@ -694,5 +694,23 @@
     "fetched_at": "2026-06-29T21:54:33.384434+00:00",
     "used": true,
     "_sort_date": "2026-06-29T21:54:33.384434+00:00"
+  },
+  {
+    "id": "rss_80b00938837a",
+    "source": "The Defiant",
+    "title": "Ansem Airdrops $7M of $ANSEM Memecoin in Bid to Reach 1M Holders",
+    "url": "https://thedefiant.io/news/defi/ansem-airdrops-usd7m-of-usdansem-memecoin-in-bid-to-reach-1m-holders",
+    "published_at": "Mon, 29 Jun 2026 22:03:53 GMT",
+    "fetched_at": "2026-06-29T23:06:48.888455+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026062923",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,155,617,609 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-29T23:06:54.595437+00:00",
+    "used": false
   }
 ]
