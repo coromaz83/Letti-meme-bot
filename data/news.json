@@ -720,7 +720,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-30T01:32:41.433421+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-30T01:32:41.433421+00:00"
   },
   {
     "id": "rss_c193d12b5e90",
@@ -729,7 +730,8 @@
     "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
     "published_at": "Tue, 30 Jun 2026 05:01:09 +0000",
     "fetched_at": "2026-06-30T06:21:19.047778+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-30T05:01:09+00:00"
   },
   {
     "id": "rss_eaf3fe22cd24",
@@ -738,7 +740,8 @@
     "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
     "published_at": "Tue, 30 Jun 2026 04:59:04 +0000",
     "fetched_at": "2026-06-30T06:21:19.047778+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-30T04:59:04+00:00"
   },
   {
     "id": "rss_422526fed839",
@@ -756,7 +759,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-30T06:21:23.489421+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-06-30T06:21:23.489421+00:00"
   },
   {
     "id": "llama_2026063010",
@@ -765,6 +769,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-06-30T10:09:49.610244+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-06-30T10:09:49.610244+00:00"
   }
 ]
