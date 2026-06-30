@@ -721,5 +721,41 @@
     "published_at": "",
     "fetched_at": "2026-06-30T01:32:41.433421+00:00",
     "used": false
+  },
+  {
+    "id": "rss_c193d12b5e90",
+    "source": "CoinDesk",
+    "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+    "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+    "published_at": "Tue, 30 Jun 2026 05:01:09 +0000",
+    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eaf3fe22cd24",
+    "source": "CoinDesk",
+    "title": "Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand",
+    "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+    "published_at": "Tue, 30 Jun 2026 04:59:04 +0000",
+    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_422526fed839",
+    "source": "The Defiant",
+    "title": "JPMorgan's Kinexys Blockchain Hits $4 Trillion, Adds Five APAC Currencies",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-kinexys-4-trillion-apac-currencies",
+    "published_at": "Mon, 29 Jun 2026 23:25:00 GMT",
+    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026063006",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,102,268,018 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-30T06:21:23.489421+00:00",
+    "used": false
   }
 ]
