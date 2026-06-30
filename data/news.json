@@ -825,5 +825,50 @@
     "published_at": "",
     "fetched_at": "2026-06-30T15:37:37.038452+00:00",
     "used": false
+  },
+  {
+    "id": "rss_fff5ca227f47",
+    "source": "CoinDesk",
+    "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
+    "url": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
+    "published_at": "Tue, 30 Jun 2026 17:51:57 +0000",
+    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0d4fc96383d7",
+    "source": "The Defiant",
+    "title": "Magic Eden, Founders Sued by $ME Buyers Over Broken 'Utility' Promises",
+    "url": "https://thedefiant.io/news/defi/magic-eden-founders-sued-by-usdme-buyers-over-broken-utility-promises",
+    "published_at": "Tue, 30 Jun 2026 16:56:34 GMT",
+    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_064ba60897ec",
+    "source": "Decrypt",
+    "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
+    "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
+    "published_at": "Tue, 30 Jun 2026 17:38:12 +0000",
+    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d5dd50675b85",
+    "source": "Decrypt",
+    "title": "Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak",
+    "url": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
+    "published_at": "Tue, 30 Jun 2026 15:54:01 +0000",
+    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026063018",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,060,419,739 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-30T18:05:36.455057+00:00",
+    "used": false
   }
 ]
