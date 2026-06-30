@@ -789,5 +789,41 @@
     "published_at": "",
     "fetched_at": "2026-06-30T12:30:51.373273+00:00",
     "used": false
+  },
+  {
+    "id": "rss_91afd3440be5",
+    "source": "CoinDesk",
+    "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+    "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
+    "published_at": "Tue, 30 Jun 2026 14:32:33 +0000",
+    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_172d020155db",
+    "source": "The Defiant",
+    "title": "Open Standard Unveils Open USD, a Bank- and Tech-Backed Stablecoin Governed by Its Users",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/open-standard-open-usd-ousd-stablecoin-consortium-blackrock-visa-mastercard",
+    "published_at": "Tue, 30 Jun 2026 15:04:12 GMT",
+    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b37c45aab56b",
+    "source": "CryptoSlate",
+    "title": "US starts clock to bring in ID checks for converting dollars to stablecoins but DeFi stays outside the rules",
+    "url": "https://cryptoslate.com/stablecoin-issuers-get-a-new-kyc-clock-but-defis-harder-fight-is-still-ahead/",
+    "published_at": "Tue, 30 Jun 2026 14:30:01 +0000",
+    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026063015",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,064,231,337 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-06-30T15:37:37.038452+00:00",
+    "used": false
   }
 ]
