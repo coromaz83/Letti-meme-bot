@@ -202,7 +202,7 @@ Generate {count} meme ideas. Return JSON:
 
     log("Requesting OpenCAP...")
     resp = ai.chat.completions.create(
-        model="virtuals/anthropic-claude-opus-4-8",
+        model="surplus/deepseek-v4-flash",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
