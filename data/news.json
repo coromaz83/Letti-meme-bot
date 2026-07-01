@@ -1082,5 +1082,68 @@
     "fetched_at": "2026-07-01T15:21:55.464979+00:00",
     "used": false,
     "_sort_date": "2026-07-01T15:21:55.464979+00:00"
+  },
+  {
+    "id": "rss_897e88ce3394",
+    "source": "The Defiant",
+    "title": "Binance and Anchorage Digital Launch Off-Exchange Settlement for Institutional Traders",
+    "url": "https://thedefiant.io/converge/cefi/binance-anchorage-digital-off-exchange-settlement-institutional-traders",
+    "published_at": "Wed, 01 Jul 2026 17:12:26 GMT",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_101bfa602a06",
+    "source": "The Defiant",
+    "title": "Drift Protocol Rebrands to Velocity DEX Ahead of Relaunch",
+    "url": "https://thedefiant.io/news/defi/drift-protocol-rebrands-to-velocity-dex-ahead-of-relaunch",
+    "published_at": "Wed, 01 Jul 2026 17:10:03 GMT",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a5525c2ce82f",
+    "source": "The Defiant",
+    "title": "ENS Community Member Proposes Dissolving DAO After Founder Blocks Security Council Renewal",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ens-community-member-proposes-dissolving-dao-after-founder-blocks-security-council-renewal",
+    "published_at": "Wed, 01 Jul 2026 16:38:00 GMT",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3d809fb72c48",
+    "source": "The Defiant",
+    "title": "Circle CEO Rebuts OUSD Pitch, Defends USDC's Network Effects After Stock Slide",
+    "url": "https://thedefiant.io/converge/markets/circle-ceo-rebuts-ousd-pitch-defends-usdc-s-network-effects-after-stock-slide",
+    "published_at": "Wed, 01 Jul 2026 16:20:04 GMT",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b8131a289ef",
+    "source": "The Defiant",
+    "title": "Ethereum Institutional Launches as Independent Nonprofit to Court Banks and Asset Managers",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-institutional-launches-as-independent-nonprofit-to-court-banks-and-asset-managers",
+    "published_at": "Wed, 01 Jul 2026 15:53:38 GMT",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_54adfe8d065e",
+    "source": "Decrypt",
+    "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+    "url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+    "published_at": "Wed, 01 Jul 2026 16:36:39 +0000",
+    "fetched_at": "2026-07-01T17:31:00.380001+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070117",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,157,141,233 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-01T17:31:04.371765+00:00",
+    "used": false
   }
 ]
