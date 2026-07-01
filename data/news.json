@@ -1226,5 +1226,77 @@
     "published_at": "",
     "fetched_at": "2026-07-01T20:09:17.570130+00:00",
     "used": false
+  },
+  {
+    "id": "rss_ecf7cea79575",
+    "source": "CoinDesk",
+    "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+    "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+    "published_at": "Wed, 01 Jul 2026 21:13:24 +0000",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1a15da453bb0",
+    "source": "The Defiant",
+    "title": "Solana Launches Onchain Governance With Stake-Weighted Voting for Validators",
+    "url": "https://thedefiant.io/news/blockchains/solana-launches-onchain-governance-stake-weighted-voting",
+    "published_at": "Wed, 01 Jul 2026 21:16:40 GMT",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_acecf9ff9f30",
+    "source": "The Defiant",
+    "title": "Venice Raises $65M Series A at $1B Valuation Led by Dragonfly",
+    "url": "https://thedefiant.io/news/markets/venice-raises-65m-series-a-1b-valuation-dragonfly",
+    "published_at": "Wed, 01 Jul 2026 20:45:10 GMT",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_be07933483f5",
+    "source": "The Defiant",
+    "title": "Cloudflare Launches Monetization Gateway for Stablecoin Payments via x402",
+    "url": "https://thedefiant.io/news/defi/cloudflare-monetization-gateway-x402-stablecoin-payments",
+    "published_at": "Wed, 01 Jul 2026 20:41:53 GMT",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3cf1e8f429a",
+    "source": "The Defiant",
+    "title": "Avalanche Treasury Corp Stock Crashes 93%, Warns SEC It May Not Survive the Year",
+    "url": "https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern",
+    "published_at": "Wed, 01 Jul 2026 20:39:28 GMT",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8b8637d756e2",
+    "source": "The Defiant",
+    "title": "Supreme Court Overturns Humphrey's Executor, Clearing Trump to Fire SEC and CFTC Commissioners",
+    "url": "https://thedefiant.io/news/regulation/supreme-court-trump-fire-sec-cftc-commissioners-humphreys-executor",
+    "published_at": "Wed, 01 Jul 2026 20:38:12 GMT",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a779b184f906",
+    "source": "Decrypt",
+    "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
+    "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
+    "published_at": "Wed, 01 Jul 2026 20:56:38 +0000",
+    "fetched_at": "2026-07-01T22:05:20.753659+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,168,331,370 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-01T22:05:25.867505+00:00",
+    "used": false
   }
 ]
