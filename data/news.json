@@ -998,5 +998,77 @@
     "published_at": "",
     "fetched_at": "2026-07-01T12:13:55.789292+00:00",
     "used": false
+  },
+  {
+    "id": "rss_5097d9938a19",
+    "source": "CoinDesk",
+    "title": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+    "url": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
+    "published_at": "Wed, 01 Jul 2026 14:09:56 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_87c1b4bef30d",
+    "source": "CoinDesk",
+    "title": "Morpho poised to scale as DeFi infrastructure play, Standard Chartered says",
+    "url": "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
+    "published_at": "Wed, 01 Jul 2026 13:46:40 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0c82e822cc54",
+    "source": "CoinDesk",
+    "title": "Ethereum gets a new nonprofit focused on institutional adoption",
+    "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
+    "published_at": "Wed, 01 Jul 2026 13:41:44 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f280f9f97f01",
+    "source": "CoinDesk",
+    "title": "Citi slashes 12-month bitcoin, ether targets as ETF flows dry up",
+    "url": "https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up",
+    "published_at": "Wed, 01 Jul 2026 13:39:19 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dc142319917d",
+    "source": "CoinDesk",
+    "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+    "url": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
+    "published_at": "Wed, 01 Jul 2026 13:32:20 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c647a9950dd5",
+    "source": "CoinDesk",
+    "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+    "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+    "published_at": "Wed, 01 Jul 2026 13:00:00 +0000",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ada0011052d8",
+    "source": "The Defiant",
+    "title": "New York Life Partners with Centrifuge on Tokenized Corporate Bonds",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/new-york-life-partners-centrifuge-tokenized-corporate-bonds",
+    "published_at": "Wed, 01 Jul 2026 14:38:10 GMT",
+    "fetched_at": "2026-07-01T15:21:52.247861+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070115",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,086,902,068 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-01T15:21:55.464979+00:00",
+    "used": false
   }
 ]
