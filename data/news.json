@@ -950,7 +950,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-01T04:45:25.291780+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-01T04:45:25.291780+00:00"
   },
   {
     "id": "llama_2026070108",
@@ -959,6 +960,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-01T08:52:50.426923+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-01T08:52:50.426923+00:00"
   }
 ]
