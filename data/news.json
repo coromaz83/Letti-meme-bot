@@ -1349,5 +1349,23 @@
     "published_at": "",
     "fetched_at": "2026-07-02T04:12:25.107615+00:00",
     "used": false
+  },
+  {
+    "id": "rss_c4c5da77436a",
+    "source": "CoinDesk",
+    "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+    "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
+    "published_at": "Thu, 02 Jul 2026 05:22:54 +0000",
+    "fetched_at": "2026-07-02T07:51:47.035137+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070207",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,185,938,998 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-02T07:51:50.972408+00:00",
+    "used": false
   }
 ]
