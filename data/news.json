@@ -1401,5 +1401,32 @@
     "fetched_at": "2026-07-02T10:49:00.923974+00:00",
     "used": true,
     "_sort_date": "2026-07-02T10:49:00.923974+00:00"
+  },
+  {
+    "id": "rss_b52e875e3060",
+    "source": "CoinDesk",
+    "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
+    "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
+    "published_at": "Thu, 02 Jul 2026 11:55:03 +0000",
+    "fetched_at": "2026-07-02T13:02:40.665740+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1424d3867f3",
+    "source": "CryptoSlate",
+    "title": "Ethereum is splitting into three power centers and ETH treasury firms are paying for two",
+    "url": "https://cryptoslate.com/ethereum-is-splitting-into-three-power-centers-and-eth-treasury-firms-are-paying-for-two/",
+    "published_at": "Thu, 02 Jul 2026 10:55:45 +0000",
+    "fetched_at": "2026-07-02T13:02:40.665740+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070213",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,219,515,571 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-02T13:02:43.874751+00:00",
+    "used": false
   }
 ]
