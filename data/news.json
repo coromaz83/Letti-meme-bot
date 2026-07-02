@@ -1549,5 +1549,32 @@
     "published_at": "",
     "fetched_at": "2026-07-02T19:45:36.266991+00:00",
     "used": false
+  },
+  {
+    "id": "rss_f6c703321b45",
+    "source": "The Defiant",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "published_at": "Thu, 02 Jul 2026 21:17:51 GMT",
+    "fetched_at": "2026-07-02T21:17:50.117428+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2650bdb3beee",
+    "source": "The Defiant",
+    "title": "Passive Income on Ethereum for All: How Rocket Pool Scales Liquid Staking",
+    "url": "https://thedefiant.io/podcasts-and-videos/videos/passive-income-on-ethereum-for-all-how-rocket-pool-scales-liquid-staking",
+    "published_at": "Thu, 02 Jul 2026 19:49:11 GMT",
+    "fetched_at": "2026-07-02T21:17:50.117428+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070221",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,260,651,550 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-02T21:17:54.134702+00:00",
+    "used": false
   }
 ]
