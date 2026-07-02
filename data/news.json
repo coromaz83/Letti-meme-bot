@@ -1441,5 +1441,41 @@
     "fetched_at": "2026-07-02T15:54:04.350503+00:00",
     "used": false,
     "_sort_date": "2026-07-02T15:54:04.350503+00:00"
+  },
+  {
+    "id": "rss_1d6217f93285",
+    "source": "CoinDesk",
+    "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+    "url": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+    "published_at": "Thu, 02 Jul 2026 17:00:00 +0000",
+    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d473c73de1f2",
+    "source": "CryptoSlate",
+    "title": "Tether freezes 134 ISIS terror wallets as stablecoins now sit inside the sanctions machine",
+    "url": "https://cryptoslate.com/tether-freezes-isis-k-wallets-proving-that-stablecoins-now-side-inside-a-sanctions-machine/",
+    "published_at": "Thu, 02 Jul 2026 16:00:58 +0000",
+    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_099fda8872f7",
+    "source": "Decrypt",
+    "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
+    "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
+    "published_at": "Thu, 02 Jul 2026 17:29:19 +0000",
+    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,261,569,034 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-02T17:58:23.358981+00:00",
+    "used": false
   }
 ]
