@@ -1331,5 +1331,23 @@
     "published_at": "",
     "fetched_at": "2026-07-01T23:53:01.951034+00:00",
     "used": false
+  },
+  {
+    "id": "rss_0dfb13f56562",
+    "source": "The Defiant",
+    "title": "dYdX Launches Arcus, a DEX Pairing Stock Tokens With Perpetuals on Robinhood Chain",
+    "url": "https://thedefiant.io/news/defi/dydx-launches-arcus-dex-stock-tokens-perpetuals-robinhood-chain",
+    "published_at": "Wed, 01 Jul 2026 19:35:00 GMT",
+    "fetched_at": "2026-07-02T04:12:21.831706+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070204",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,172,820,134 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-02T04:12:25.107615+00:00",
+    "used": false
   }
 ]
