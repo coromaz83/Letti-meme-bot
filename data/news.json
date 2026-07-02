@@ -1359,7 +1359,7 @@
     "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
     "published_at": "Thu, 02 Jul 2026 05:22:54 +0000",
     "fetched_at": "2026-07-02T07:51:47.035137+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-07-02T05:22:54+00:00"
   },
   {
@@ -1409,7 +1409,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
     "published_at": "Thu, 02 Jul 2026 11:55:03 +0000",
     "fetched_at": "2026-07-02T13:02:40.665740+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-02T11:55:03+00:00"
   },
   {
     "id": "rss_d1424d3867f3",
@@ -1418,7 +1419,8 @@
     "url": "https://cryptoslate.com/ethereum-is-splitting-into-three-power-centers-and-eth-treasury-firms-are-paying-for-two/",
     "published_at": "Thu, 02 Jul 2026 10:55:45 +0000",
     "fetched_at": "2026-07-02T13:02:40.665740+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-02T10:55:45+00:00"
   },
   {
     "id": "llama_2026070213",
@@ -1427,7 +1429,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-02T13:02:43.874751+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-02T13:02:43.874751+00:00"
   },
   {
     "id": "llama_2026070215",
@@ -1436,6 +1439,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-02T15:54:04.350503+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-02T15:54:04.350503+00:00"
   }
 ]
