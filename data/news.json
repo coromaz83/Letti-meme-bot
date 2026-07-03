@@ -1608,7 +1608,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T00:14:53.619974+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-03T00:14:53.619974+00:00"
   },
   {
     "id": "llama_2026070304",
@@ -1617,7 +1618,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T04:27:54.827338+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T04:27:54.827338+00:00"
   },
   {
     "id": "rss_6040b4636e17",
@@ -1626,7 +1628,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
     "published_at": "Fri, 03 Jul 2026 05:18:58 +0000",
     "fetched_at": "2026-07-03T07:48:31.475941+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T05:18:58+00:00"
   },
   {
     "id": "llama_2026070307",
@@ -1635,7 +1638,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T07:48:35.091565+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-03T07:48:35.091565+00:00"
   },
   {
     "id": "llama_2026070310",
@@ -1644,6 +1648,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T10:46:30.722468+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T10:46:30.722468+00:00"
   }
 ]
