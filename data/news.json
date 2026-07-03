@@ -1618,5 +1618,23 @@
     "published_at": "",
     "fetched_at": "2026-07-03T04:27:54.827338+00:00",
     "used": false
+  },
+  {
+    "id": "rss_6040b4636e17",
+    "source": "CoinDesk",
+    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+    "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+    "published_at": "Fri, 03 Jul 2026 05:18:58 +0000",
+    "fetched_at": "2026-07-03T07:48:31.475941+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070307",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,292,652,887 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-03T07:48:35.091565+00:00",
+    "used": false
   }
 ]
