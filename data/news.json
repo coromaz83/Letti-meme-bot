@@ -1658,7 +1658,8 @@
     "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
     "published_at": "Fri, 03 Jul 2026 11:27:44 +0000",
     "fetched_at": "2026-07-03T13:01:49.260731+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T11:27:44+00:00"
   },
   {
     "id": "rss_768d615d1815",
@@ -1667,7 +1668,8 @@
     "url": "https://cryptoslate.com/bitcoin-rally-hinges-on-whether-the-fed-buys-into-the-weak-jobs-report-after-bad-miss/",
     "published_at": "Fri, 03 Jul 2026 11:05:42 +0000",
     "fetched_at": "2026-07-03T13:01:49.260731+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T11:05:42+00:00"
   },
   {
     "id": "llama_2026070313",
@@ -1676,7 +1678,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T13:01:58.698365+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-03T13:01:58.698365+00:00"
   },
   {
     "id": "llama_2026070315",
@@ -1685,6 +1688,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-03T15:35:12.423379+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-03T15:35:12.423379+00:00"
   }
 ]
