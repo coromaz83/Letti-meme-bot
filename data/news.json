@@ -1774,5 +1774,14 @@
     "published_at": "",
     "fetched_at": "2026-07-04T07:25:07.696745+00:00",
     "used": false
+  },
+  {
+    "id": "llama_2026070409",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,348,191,523 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-04T09:38:56.486517+00:00",
+    "used": false
   }
 ]
