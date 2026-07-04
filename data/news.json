@@ -1737,7 +1737,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T00:13:07.056358+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T00:13:07.056358+00:00"
   },
   {
     "id": "llama_2026070404",
@@ -1746,7 +1747,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T04:22:13.692122+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T04:22:13.692122+00:00"
   },
   {
     "id": "rss_f697dbb1bfb7",
@@ -1755,7 +1757,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
     "published_at": "Sat, 04 Jul 2026 07:08:00 +0000",
     "fetched_at": "2026-07-04T07:24:52.076622+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T07:08:00+00:00"
   },
   {
     "id": "rss_93a95109587a",
@@ -1764,7 +1767,8 @@
     "url": "https://thedefiant.io/converge/regulation/esma-warns-prediction-market-event-contracts-may-fall-under-eu-binary-options-ban",
     "published_at": "Sat, 04 Jul 2026 04:42:51 GMT",
     "fetched_at": "2026-07-04T07:24:52.076622+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T04:42:51+00:00"
   },
   {
     "id": "llama_2026070407",
@@ -1773,7 +1777,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T07:25:07.696745+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T07:25:07.696745+00:00"
   },
   {
     "id": "llama_2026070409",
@@ -1782,6 +1787,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T09:38:56.486517+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T09:38:56.486517+00:00"
   }
 ]
