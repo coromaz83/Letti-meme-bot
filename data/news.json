@@ -1856,5 +1856,23 @@
     "published_at": "",
     "fetched_at": "2026-07-04T19:47:13.531154+00:00",
     "used": false
+  },
+  {
+    "id": "rss_778d69431368",
+    "source": "CoinDesk",
+    "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+    "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+    "published_at": "Sat, 04 Jul 2026 18:00:00 +0000",
+    "fetched_at": "2026-07-04T21:07:04.157598+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070421",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,406,879,447 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-04T21:07:07.835311+00:00",
+    "used": false
   }
 ]
