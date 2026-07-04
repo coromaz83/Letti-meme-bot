@@ -1747,5 +1747,32 @@
     "published_at": "",
     "fetched_at": "2026-07-04T04:22:13.692122+00:00",
     "used": false
+  },
+  {
+    "id": "rss_f697dbb1bfb7",
+    "source": "CoinDesk",
+    "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+    "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+    "published_at": "Sat, 04 Jul 2026 07:08:00 +0000",
+    "fetched_at": "2026-07-04T07:24:52.076622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_93a95109587a",
+    "source": "The Defiant",
+    "title": "ESMA Warns Prediction Market Event Contracts May Fall Under EU Binary Options Ban",
+    "url": "https://thedefiant.io/converge/regulation/esma-warns-prediction-market-event-contracts-may-fall-under-eu-binary-options-ban",
+    "published_at": "Sat, 04 Jul 2026 04:42:51 GMT",
+    "fetched_at": "2026-07-04T07:24:52.076622+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070407",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,349,801,385 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-04T07:25:07.696745+00:00",
+    "used": false
   }
 ]
