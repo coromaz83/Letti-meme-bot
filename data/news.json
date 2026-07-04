@@ -1797,7 +1797,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T11:40:18.236744+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T11:40:18.236744+00:00"
   },
   {
     "id": "rss_169d9415f59b",
@@ -1806,7 +1807,8 @@
     "url": "https://thedefiant.io/news/blockchains/moonbeam-to-fully-migrate-glmr-from-polkadot-to-base-pivot-to-ai-agent-network",
     "published_at": "Sat, 04 Jul 2026 12:51:22 GMT",
     "fetched_at": "2026-07-04T13:51:33.894284+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T12:51:22+00:00"
   },
   {
     "id": "llama_2026070413",
@@ -1815,7 +1817,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T13:51:37.397200+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T13:51:37.397200+00:00"
   },
   {
     "id": "llama_2026070415",
@@ -1824,6 +1827,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T15:13:52.602857+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T15:13:52.602857+00:00"
   }
 ]
