@@ -1837,7 +1837,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T16:34:15.142927+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T16:34:15.142927+00:00"
   },
   {
     "id": "llama_2026070418",
@@ -1846,7 +1847,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T18:08:18.082485+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-04T18:08:18.082485+00:00"
   },
   {
     "id": "llama_2026070419",
@@ -1855,7 +1857,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T19:47:13.531154+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T19:47:13.531154+00:00"
   },
   {
     "id": "rss_778d69431368",
@@ -1864,7 +1867,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
     "published_at": "Sat, 04 Jul 2026 18:00:00 +0000",
     "fetched_at": "2026-07-04T21:07:04.157598+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T18:00:00+00:00"
   },
   {
     "id": "llama_2026070421",
@@ -1873,6 +1877,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-04T21:07:07.835311+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-04T21:07:07.835311+00:00"
   }
 ]
