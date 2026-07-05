@@ -1508,7 +1508,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T04:42:54.501690+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-07-05T04:42:54.501690+00:00"
   },
   {
@@ -1538,7 +1538,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T12:22:09.115104+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-05T12:22:09.115104+00:00"
   },
   {
     "id": "llama_2026070514",
@@ -1547,7 +1548,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T14:18:39.612897+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-05T14:18:39.612897+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -1682,7 +1684,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-07-05T15:49:25.539585+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-05T15:49:25.539585+00:00"
   },
   {
     "id": "llama_2026070515",
@@ -1691,6 +1694,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T15:49:29.691148+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-05T15:49:29.691148+00:00"
   }
 ]
