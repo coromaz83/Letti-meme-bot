@@ -1896,7 +1896,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T00:08:11.249239+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-05T00:08:11.249239+00:00"
   },
   {
     "id": "rss_287140871b21",
@@ -1905,7 +1906,8 @@
     "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
     "fetched_at": "2026-07-05T04:42:50.816177+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-05T00:50:30+00:00"
   },
   {
     "id": "llama_2026070504",
@@ -1914,7 +1916,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T04:42:54.501690+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-05T04:42:54.501690+00:00"
   },
   {
     "id": "llama_2026070508",
@@ -1923,7 +1926,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T08:07:39.214515+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-05T08:07:39.214515+00:00"
   },
   {
     "id": "llama_2026070510",
@@ -1932,6 +1936,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T10:40:29.913673+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-05T10:40:29.913673+00:00"
   }
 ]
