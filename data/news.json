@@ -1,78 +1,5 @@
 [
   {
-    "id": "rss_1442891cff71",
-    "source": "Bankless",
-    "title": "Spark Unveils Stablecoin FX Layer on Uniswap v4",
-    "url": "https://www.bankless.com/read/news/spark-unveils-stablecoin-fx-layer-on-uniswap-v4",
-    "published_at": "Thu, 25 Jun 2026 15:26:04 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_906ff340d701",
-    "source": "Bankless",
-    "title": "Sophon Is Shuttering Its L2 and Doubling Down on Apps",
-    "url": "https://www.bankless.com/read/news/sophon-is-shuttering-its-l2-and-doubling-down-on-apps",
-    "published_at": "Thu, 25 Jun 2026 14:48:26 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a1afb50ca051",
-    "source": "Bankless",
-    "title": "Base Hit a Brief Chain Stall Prior to Beryl Upgrade",
-    "url": "https://www.bankless.com/read/news/base-hit-a-brief-chain-stall-prior-to-beryl-upgrade",
-    "published_at": "Thu, 25 Jun 2026 14:21:59 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_59caffc4b6ca",
-    "source": "Bankless",
-    "title": "DeFi Education Fund Launches Security Coalition OPSeC",
-    "url": "https://www.bankless.com/read/news/defi-education-fund-launches-security-coalition-opsec",
-    "published_at": "Tue, 23 Jun 2026 14:30:14 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_be80ad49dc0f",
-    "source": "Bankless",
-    "title": "The Ethereum Foundation Reveals New Structure",
-    "url": "https://www.bankless.com/read/news/the-ethereum-foundation-reveals-new-structure",
-    "published_at": "Tue, 23 Jun 2026 14:04:08 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9af27e208912",
-    "source": "Bankless",
-    "title": "Ethereum Foundation Cuts 20% of Staff in Restructuring",
-    "url": "https://www.bankless.com/read/news/ethereum-foundation-cuts-20-of-staff-in-restructuring",
-    "published_at": "Tue, 23 Jun 2026 13:23:19 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_55b2a1118d5a",
-    "source": "Bankless",
-    "title": "Ethlabs Is the Latest Group Fighting for Ethereum's Future",
-    "url": "https://www.bankless.com/read/ethlabs-fighting-for-ethereums-future",
-    "published_at": "Mon, 22 Jun 2026 15:30:31 -0400",
-    "fetched_at": "2026-06-28T15:22:36.114613+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026062815",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,094,485,795 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-28T15:22:39.733017+00:00",
-    "used": true,
-    "_sort_date": "2026-06-28T15:22:39.733017+00:00"
-  },
-  {
     "id": "llama_2026062816",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,093,992,552 🟢 +0.00% (24h)",
@@ -1620,6 +1547,150 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-05T14:18:39.612897+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3a86da63fcf",
+    "source": "Cointelegraph Base",
+    "title": "Travala lets AI agents book hotels with USDC on Base",
+    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb1f3e4f40b0",
+    "source": "Cointelegraph Base",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd2b56f1e18b",
+    "source": "Cointelegraph Base",
+    "title": "Base launches new tool to connect crypto wallets to AI agents",
+    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d565fa6cef39",
+    "source": "Cointelegraph Base",
+    "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
+    "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 21 May 2026 06:30:06 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5444d8e1573",
+    "source": "Cointelegraph Base",
+    "title": "Circle makes USDC push into AI agent payment tools",
+    "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 11 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_796a0e9ef18d",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase and AWS launch USDC payment rails for AI agents",
+    "url": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 07 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_85a1b3339037",
+    "source": "Cointelegraph Base",
+    "title": "Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B",
+    "url": "https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 29 Apr 2026 16:21:55 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_197ac5ad83ce",
+    "source": "Cointelegraph Base",
+    "title": "Base joins Ethereum, Tron, others in betting big on AI agent future",
+    "url": "https://cointelegraph.com/news/base-joins-ethereum-tron-others-betting-big-ai-agent-future?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 31 Mar 2026 14:00:00 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f4512c004a07",
+    "source": "Cointelegraph Base",
+    "title": "Dynamic adds embedded wallet infrastructure to TON for Telegram apps",
+    "url": "https://cointelegraph.com/news/fireblocks-backed-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps-embargo-tues-march-31-7am-et?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 31 Mar 2026 12:00:00 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3470a8664af",
+    "source": "Cointelegraph Base",
+    "title": "Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push",
+    "url": "https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 26 Mar 2026 17:01:44 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d78072dd8b69",
+    "source": "Cointelegraph Base",
+    "title": "World launches AgentKit with Coinbase integration to enable human-verified AI agents",
+    "url": "https://cointelegraph.com/news/world-launches-agentkit-coinbase-integration-enable-human-verified-ai-agents-embargo?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 17 Mar 2026 15:57:47 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_26058ed2662e",
+    "source": "Cointelegraph Base",
+    "title": "Monad's cbBTC bridge may add $5B in Bitcoin-backed liquidity",
+    "url": "https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 02 Mar 2026 21:21:31 +0000",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-07-05T15:49:25.539585+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,371,264,105 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-05T15:49:29.691148+00:00",
     "used": false
   }
 ]
