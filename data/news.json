@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_2c886774a1e7",
-    "source": "CryptoSlate",
-    "title": "Institutions dumped Bitcoin and Ethereum ETFs but still bought XRP and HYPE again",
-    "url": "https://cryptoslate.com/institutions-dumped-bitcoin-and-ethereum-etfs-but-still-bought-xrp-and-hype-again/",
-    "published_at": "Mon, 29 Jun 2026 10:10:51 +0000",
-    "fetched_at": "2026-06-29T10:11:07.380421+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T10:10:51+00:00"
-  },
-  {
-    "id": "rss_39530e55185b",
-    "source": "CryptoSlate",
-    "title": "Tether trades 8.5% above India’s dollar rate as policy pressure hits USDT access",
-    "url": "https://cryptoslate.com/tether-trades-8-5-above-indias-dollar-rate-as-policy-pressure-hits-usdt-access/",
-    "published_at": "Mon, 29 Jun 2026 09:15:59 +0000",
-    "fetched_at": "2026-06-29T10:11:07.380421+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T09:15:59+00:00"
-  },
-  {
-    "id": "llama_2026062910",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,103,486,607 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-29T10:11:14.089499+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T10:11:14.089499+00:00"
-  },
-  {
     "id": "rss_a5f4aaf918f7",
     "source": "CoinDesk",
     "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
@@ -1703,6 +1673,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T06:06:14.364545+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ef13384ef63c",
+    "source": "CoinDesk",
+    "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
+    "url": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
+    "published_at": "Mon, 06 Jul 2026 09:39:52 +0000",
+    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b68f4a7781f5",
+    "source": "CoinDesk",
+    "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+    "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+    "published_at": "Mon, 06 Jul 2026 07:44:58 +0000",
+    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c59b1756df68",
+    "source": "CryptoSlate",
+    "title": "Trump memecoin ethics fight still controls CLARITY Act vote after law enforcement opposition cracks",
+    "url": "https://cryptoslate.com/trump-memecoin-ethics-fight-still-controls-clarity-act-vote-after-law-enforcement-opposition-cracks/",
+    "published_at": "Mon, 06 Jul 2026 10:00:26 +0000",
+    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_228a9257fc76",
+    "source": "CryptoSlate",
+    "title": "Vitalik’s new Lean Ethereum plan puts ETH’s Wall Street pitch on a 4 year clock",
+    "url": "https://cryptoslate.com/vitaliks-lean-ethereum-plan-turns-eths-wall-street-pitch-into-a-delivery-reckoning/",
+    "published_at": "Mon, 06 Jul 2026 07:00:38 +0000",
+    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070611",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,370,978,825 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-06T11:14:25.015943+00:00",
     "used": false
   }
 ]
