@@ -1695,7 +1695,8 @@
     "url": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
     "published_at": "Mon, 06 Jul 2026 13:42:12 +0000",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T13:42:12+00:00"
   },
   {
     "id": "rss_e841d6674b0f",
@@ -1704,7 +1705,8 @@
     "url": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
     "published_at": "Mon, 06 Jul 2026 12:54:37 +0000",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T12:54:37+00:00"
   },
   {
     "id": "rss_80129b52670c",
@@ -1713,7 +1715,8 @@
     "url": "https://thedefiant.io/news/security/certik-says-h1-2026-web3-losses-topped-1-31b-up-28-excluding-bybit-baseline",
     "published_at": "Mon, 06 Jul 2026 14:31:43 GMT",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T14:31:43+00:00"
   },
   {
     "id": "rss_854a4a8ee228",
@@ -1722,7 +1725,8 @@
     "url": "https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul",
     "published_at": "Mon, 06 Jul 2026 14:29:28 GMT",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T14:29:28+00:00"
   },
   {
     "id": "rss_56e3919acd40",
@@ -1731,7 +1735,8 @@
     "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
     "published_at": "Mon, 06 Jul 2026 14:41:45 +0000",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T14:41:45+00:00"
   },
   {
     "id": "rss_57b914ced293",
@@ -1740,7 +1745,8 @@
     "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
     "published_at": "Mon, 06 Jul 2026 12:51:53 +0000",
     "fetched_at": "2026-07-06T14:44:04.564834+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T12:51:53+00:00"
   },
   {
     "id": "llama_2026070614",
@@ -1749,6 +1755,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T14:44:08.545333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T14:44:08.545333+00:00"
   }
 ]
