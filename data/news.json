@@ -1655,7 +1655,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T01:17:21.352998+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T01:17:21.352998+00:00"
   },
   {
     "id": "rss_46e88d5edeb8",
@@ -1664,7 +1665,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
     "published_at": "Mon, 06 Jul 2026 05:09:07 +0000",
     "fetched_at": "2026-07-06T06:06:11.305083+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T05:09:07+00:00"
   },
   {
     "id": "llama_2026070606",
@@ -1673,7 +1675,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T06:06:14.364545+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T06:06:14.364545+00:00"
   },
   {
     "id": "rss_ef13384ef63c",
@@ -1682,7 +1685,8 @@
     "url": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
     "published_at": "Mon, 06 Jul 2026 09:39:52 +0000",
     "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T09:39:52+00:00"
   },
   {
     "id": "rss_b68f4a7781f5",
@@ -1691,7 +1695,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
     "published_at": "Mon, 06 Jul 2026 07:44:58 +0000",
     "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T07:44:58+00:00"
   },
   {
     "id": "rss_c59b1756df68",
@@ -1700,7 +1705,8 @@
     "url": "https://cryptoslate.com/trump-memecoin-ethics-fight-still-controls-clarity-act-vote-after-law-enforcement-opposition-cracks/",
     "published_at": "Mon, 06 Jul 2026 10:00:26 +0000",
     "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-06T10:00:26+00:00"
   },
   {
     "id": "rss_228a9257fc76",
@@ -1709,7 +1715,8 @@
     "url": "https://cryptoslate.com/vitaliks-lean-ethereum-plan-turns-eths-wall-street-pitch-into-a-delivery-reckoning/",
     "published_at": "Mon, 06 Jul 2026 07:00:38 +0000",
     "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T07:00:38+00:00"
   },
   {
     "id": "llama_2026070611",
@@ -1718,6 +1725,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T11:14:25.015943+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-06T11:14:25.015943+00:00"
   }
 ]
