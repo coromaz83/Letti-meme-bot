@@ -1,105 +1,5 @@
 [
   {
-    "id": "rss_d19a9a1352df",
-    "source": "The Defiant",
-    "title": "Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat",
-    "url": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
-    "published_at": "Mon, 29 Jun 2026 17:25:51 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T17:25:51+00:00"
-  },
-  {
-    "id": "rss_935792a80964",
-    "source": "The Defiant",
-    "title": "CFTC Expands Polymarket Probe to Staged Trades and Fake Wins",
-    "url": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
-    "published_at": "Mon, 29 Jun 2026 16:56:02 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T16:56:02+00:00"
-  },
-  {
-    "id": "rss_70ce0cfb0d9f",
-    "source": "The Defiant",
-    "title": "DraftKings Launches Proprietary Prediction Markets Exchange With $3.4B Annualized Consumer Volume",
-    "url": "https://thedefiant.io/news/markets/draftkings-launches-proprietary-prediction-markets-exchange-dkex",
-    "published_at": "Mon, 29 Jun 2026 16:53:52 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T16:53:52+00:00"
-  },
-  {
-    "id": "rss_9f1abe106209",
-    "source": "The Defiant",
-    "title": "OKX and Coinbase Race to Sign Up Binance's Displaced EU Users Before MiCA Deadline",
-    "url": "https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline",
-    "published_at": "Mon, 29 Jun 2026 16:48:42 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T16:48:42+00:00"
-  },
-  {
-    "id": "rss_df6f423bc431",
-    "source": "The Defiant",
-    "title": "BlackRock Adds Ethena's Synthetic Dollar to Its $20T Aladdin Risk Management Platform",
-    "url": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
-    "published_at": "Mon, 29 Jun 2026 16:20:08 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T16:20:08+00:00"
-  },
-  {
-    "id": "rss_aba8efbf7237",
-    "source": "The Defiant",
-    "title": "Strategy Authorizes up to $1.25B of Bitcoin Sales as Saylor Formalizes Capital Pivot",
-    "url": "https://thedefiant.io/news/cefi/strategy-authorizes-up-to-usd1-25b-of-bitcoin-sales-as-saylor-formalizes-capital-pivot",
-    "published_at": "Mon, 29 Jun 2026 15:39:23 GMT",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T15:39:23+00:00"
-  },
-  {
-    "id": "rss_b73948a30ac3",
-    "source": "CryptoSlate",
-    "title": "Aave rally makes DeFi lending look more like a bank to investors",
-    "url": "https://cryptoslate.com/aave-rally-makes-defi-lending-look-more-like-a-bank-to-investors/",
-    "published_at": "Mon, 29 Jun 2026 16:15:15 +0000",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T16:15:15+00:00"
-  },
-  {
-    "id": "rss_7e4978d65a34",
-    "source": "Decrypt",
-    "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
-    "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-    "published_at": "Mon, 29 Jun 2026 15:13:16 +0000",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T15:13:16+00:00"
-  },
-  {
-    "id": "rss_2344de6d93e9",
-    "source": "Bankless",
-    "title": "BlackRock Adds Ethena’s USDe to Risk Management Platform",
-    "url": "https://www.bankless.com/read/news/blackrock-adds-ethenas-usde-to-risk-management-platform",
-    "published_at": "Mon, 29 Jun 2026 13:11:42 -0400",
-    "fetched_at": "2026-06-29T17:44:54.807547+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T13:11:42-04:00"
-  },
-  {
-    "id": "llama_2026062917",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,102,339,089 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-29T17:44:59.197782+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T17:44:59.197782+00:00"
-  },
-  {
     "id": "rss_3e0e8aa64f4b",
     "source": "The Defiant",
     "title": "BNY Adds USDC to Institutional Custody Platform in Expanded Circle Partnership",
@@ -1757,5 +1657,95 @@
     "fetched_at": "2026-07-06T14:44:08.545333+00:00",
     "used": false,
     "_sort_date": "2026-07-06T14:44:08.545333+00:00"
+  },
+  {
+    "id": "rss_b16c5822053b",
+    "source": "CoinDesk",
+    "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+    "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+    "published_at": "Mon, 06 Jul 2026 16:00:15 +0000",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6a130158504f",
+    "source": "CoinDesk",
+    "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+    "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+    "published_at": "Mon, 06 Jul 2026 15:34:33 +0000",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f62f6b075404",
+    "source": "The Defiant",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "published_at": "Mon, 06 Jul 2026 17:48:58 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5e83bda16870",
+    "source": "The Defiant",
+    "title": "Summer Finance Drained of $6M in Flash Loan Exploit",
+    "url": "https://thedefiant.io/news/hacks/summer-finance-drained-of-6m-in-flash-loan-exploit",
+    "published_at": "Mon, 06 Jul 2026 17:08:57 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bcb84d6b0b6",
+    "source": "The Defiant",
+    "title": "AVAX One CEO Jolie Kahn Resigns Days After Stock Crash Warning",
+    "url": "https://thedefiant.io/news/people/avax-one-ceo-jolie-kahn-resigns-days-after-stock-crash-warning",
+    "published_at": "Mon, 06 Jul 2026 16:16:04 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_85c4aec898e0",
+    "source": "The Defiant",
+    "title": "Yield Guild Games Sunsets YGG Play Publishing Unit, Cuts 35 Jobs",
+    "url": "https://thedefiant.io/news/nfts-and-web3/yield-guild-games-sunsets-ygg-play-publishing-unit-cuts-35-jobs",
+    "published_at": "Mon, 06 Jul 2026 15:53:51 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e559135b286c",
+    "source": "The Defiant",
+    "title": "ENS Co-Founder Proposes Delegating 5M ENS Tokens to Reform DAO Governance",
+    "url": "https://thedefiant.io/news/defi/ens-co-founder-proposes-delegating-5m-ens-tokens-to-reform-dao-governance",
+    "published_at": "Mon, 06 Jul 2026 15:27:50 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b18e98d5c7e8",
+    "source": "The Defiant",
+    "title": "Strategy Sells 3,588 Bitcoin for $216M to Fund Dividend Payments",
+    "url": "https://thedefiant.io/news/cefi/strategy-sells-3-588-bitcoin-for-216m-to-fund-dividend-payments",
+    "published_at": "Mon, 06 Jul 2026 14:58:11 GMT",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dfa05e07bfb2",
+    "source": "Bankless",
+    "title": "Buterin Proposes 'Extremely Lean' Ethereum Overhaul",
+    "url": "https://www.bankless.com/read/news/buterin-proposes-extremely-lean-ethereum-overhaul",
+    "published_at": "Mon, 06 Jul 2026 13:35:04 -0400",
+    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070617",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,353,319,592 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-06T17:49:00.109618+00:00",
+    "used": false
   }
 ]
