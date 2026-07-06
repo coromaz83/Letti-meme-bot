@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_3e0e8aa64f4b",
-    "source": "The Defiant",
-    "title": "BNY Adds USDC to Institutional Custody Platform in Expanded Circle Partnership",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
-    "published_at": "Mon, 29 Jun 2026 16:30:00 GMT",
-    "fetched_at": "2026-06-29T20:09:41.268429+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T16:30:00+00:00"
-  },
-  {
-    "id": "rss_72285993b352",
-    "source": "Bankless",
-    "title": "The Case for a Second Ethereum R&D Lab",
-    "url": "https://www.bankless.com/read/the-case-for-a-second-ethereum-r-d-lab",
-    "published_at": "Mon, 29 Jun 2026 13:52:40 -0400",
-    "fetched_at": "2026-06-29T20:09:41.268429+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T13:52:40-04:00"
-  },
-  {
-    "id": "llama_2026062920",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,146,147,638 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-29T20:09:46.450888+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T20:09:46.450888+00:00"
-  },
-  {
-    "id": "rss_6030e6b5701f",
-    "source": "The Defiant",
-    "title": "Stream Finance Starts Collecting Creditor Claims in Step Toward 'Global Resolution'",
-    "url": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
-    "published_at": "Mon, 29 Jun 2026 21:13:18 GMT",
-    "fetched_at": "2026-06-29T21:54:29.624170+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T21:13:18+00:00"
-  },
-  {
-    "id": "llama_2026062921",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,155,665,947 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-29T21:54:33.384434+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T21:54:33.384434+00:00"
-  },
-  {
     "id": "rss_80b00938837a",
     "source": "The Defiant",
     "title": "Ansem Airdrops $7M of $ANSEM Memecoin in Bid to Reach 1M Holders",
@@ -1782,6 +1732,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-06T20:08:29.202687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69cfbac156ee",
+    "source": "The Defiant",
+    "title": "JPMorgan's JLTXX Tokenized Money Market Fund AUM Grows 250% in a Month on Ethereum",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-s-jltxx-tokenized-money-market-fund-aum-grows-250-in-a-month-on-ethereum",
+    "published_at": "Mon, 06 Jul 2026 21:07:18 GMT",
+    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1f2a60dff83c",
+    "source": "The Defiant",
+    "title": "Ripple Secures Full MiCA License, Completing EU Compliance",
+    "url": "https://thedefiant.io/converge/regulation/ripple-secures-full-mica-license-completing-eu-compliance",
+    "published_at": "Mon, 06 Jul 2026 21:04:12 GMT",
+    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1f71cbfd5a45",
+    "source": "The Defiant",
+    "title": "EMURGO Says Hacked Cardano Wallet SecondFi Won't Reopen",
+    "url": "https://thedefiant.io/news/hacks/emurgo-says-hacked-cardano-wallet-secondfi-won-t-reopen",
+    "published_at": "Mon, 06 Jul 2026 20:46:04 GMT",
+    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_122292d94cba",
+    "source": "The Defiant",
+    "title": "BonkDAO Treasury Drained of $20M via Malicious Proposal",
+    "url": "https://thedefiant.io/news/hacks/bonkdao-treasury-drained-of-20m-via-malicious-proposal",
+    "published_at": "Mon, 06 Jul 2026 20:34:24 GMT",
+    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070621",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,440,402,926 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-06T21:57:34.079843+00:00",
     "used": false
   }
 ]
