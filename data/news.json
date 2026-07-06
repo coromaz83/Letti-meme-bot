@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_a5f4aaf918f7",
-    "source": "CoinDesk",
-    "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
-    "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
-    "published_at": "Mon, 29 Jun 2026 14:02:10 +0000",
-    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T14:02:10+00:00"
-  },
-  {
-    "id": "rss_d57e744cf1ac",
-    "source": "CoinDesk",
-    "title": "Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH",
-    "url": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
-    "published_at": "Mon, 29 Jun 2026 12:51:44 +0000",
-    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T12:51:44+00:00"
-  },
-  {
-    "id": "rss_638d60f5067b",
-    "source": "CoinDesk",
-    "title": "Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown",
-    "url": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
-    "published_at": "Mon, 29 Jun 2026 12:00:46 +0000",
-    "fetched_at": "2026-06-29T14:35:58.347579+00:00",
-    "used": false,
-    "_sort_date": "2026-06-29T12:00:46+00:00"
-  },
-  {
-    "id": "llama_2026062914",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,105,893,757 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-29T14:36:01.595055+00:00",
-    "used": true,
-    "_sort_date": "2026-06-29T14:36:01.595055+00:00"
-  },
-  {
     "id": "rss_d19a9a1352df",
     "source": "The Defiant",
     "title": "Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat",
@@ -1727,5 +1687,68 @@
     "fetched_at": "2026-07-06T11:14:25.015943+00:00",
     "used": false,
     "_sort_date": "2026-07-06T11:14:25.015943+00:00"
+  },
+  {
+    "id": "rss_d26dd3e2eb82",
+    "source": "CoinDesk",
+    "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
+    "url": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
+    "published_at": "Mon, 06 Jul 2026 13:42:12 +0000",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e841d6674b0f",
+    "source": "CoinDesk",
+    "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
+    "url": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
+    "published_at": "Mon, 06 Jul 2026 12:54:37 +0000",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_80129b52670c",
+    "source": "The Defiant",
+    "title": "CertiK Says H1 2026 Web3 Losses Topped $1.31B, Up 28% Excluding Bybit Baseline",
+    "url": "https://thedefiant.io/news/security/certik-says-h1-2026-web3-losses-topped-1-31b-up-28-excluding-bybit-baseline",
+    "published_at": "Mon, 06 Jul 2026 14:31:43 GMT",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_854a4a8ee228",
+    "source": "The Defiant",
+    "title": "Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul",
+    "url": "https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul",
+    "published_at": "Mon, 06 Jul 2026 14:29:28 GMT",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_56e3919acd40",
+    "source": "Decrypt",
+    "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+    "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+    "published_at": "Mon, 06 Jul 2026 14:41:45 +0000",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57b914ced293",
+    "source": "Decrypt",
+    "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
+    "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
+    "published_at": "Mon, 06 Jul 2026 12:51:53 +0000",
+    "fetched_at": "2026-07-06T14:44:04.564834+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070614",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,341,026,140 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-06T14:44:08.545333+00:00",
+    "used": false
   }
 ]
