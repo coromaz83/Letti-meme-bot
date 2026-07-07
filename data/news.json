@@ -1,33 +1,5 @@
 [
   {
-    "id": "llama_2026063010",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,108,924,857 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T10:09:49.610244+00:00",
-    "used": true,
-    "_sort_date": "2026-06-30T10:09:49.610244+00:00"
-  },
-  {
-    "id": "rss_6a7678206a04",
-    "source": "CoinDesk",
-    "title": "New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge",
-    "url": "https://www.coindesk.com/business/2026/06/29/new-york-life-makes-tokenization-debut-with-onchain-high-yield-bond-fund-with-centrifuge",
-    "published_at": "Tue, 30 Jun 2026 11:20:30 +0000",
-    "fetched_at": "2026-06-30T12:30:45.700931+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063012",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,096,785,151 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T12:30:51.373273+00:00",
-    "used": false
-  },
-  {
     "id": "rss_91afd3440be5",
     "source": "CoinDesk",
     "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
@@ -1779,5 +1751,32 @@
     "fetched_at": "2026-07-07T09:56:22.903155+00:00",
     "used": true,
     "_sort_date": "2026-07-07T09:56:22.903155+00:00"
+  },
+  {
+    "id": "rss_a92192cef4c8",
+    "source": "CoinDesk",
+    "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
+    "url": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
+    "published_at": "Tue, 07 Jul 2026 11:37:01 +0000",
+    "fetched_at": "2026-07-07T12:33:11.974005+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69510cf7ac95",
+    "source": "CryptoSlate",
+    "title": "New SummerFi DeFi exploit shows AI automation now sits above smart contract risk",
+    "url": "https://cryptoslate.com/summer-fi-exploit-shows-ai-automation-now-sits-above-defi-smart-contract-risk/",
+    "published_at": "Tue, 07 Jul 2026 11:25:36 +0000",
+    "fetched_at": "2026-07-07T12:33:11.974005+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070712",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,413,704,811 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T12:33:14.672726+00:00",
+    "used": false
   }
 ]
