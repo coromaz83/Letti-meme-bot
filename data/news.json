@@ -1723,7 +1723,8 @@
     "url": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
     "published_at": "Tue, 07 Jul 2026 11:37:01 +0000",
     "fetched_at": "2026-07-07T12:33:11.974005+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T11:37:01+00:00"
   },
   {
     "id": "rss_69510cf7ac95",
@@ -1732,7 +1733,8 @@
     "url": "https://cryptoslate.com/summer-fi-exploit-shows-ai-automation-now-sits-above-defi-smart-contract-risk/",
     "published_at": "Tue, 07 Jul 2026 11:25:36 +0000",
     "fetched_at": "2026-07-07T12:33:11.974005+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T11:25:36+00:00"
   },
   {
     "id": "llama_2026070712",
@@ -1741,7 +1743,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T12:33:14.672726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T12:33:14.672726+00:00"
   },
   {
     "id": "rss_a803ee77a955",
@@ -1750,7 +1753,8 @@
     "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
     "published_at": "Tue, 07 Jul 2026 13:46:25 +0000",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T13:46:25+00:00"
   },
   {
     "id": "rss_320433978fde",
@@ -1759,7 +1763,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T15:47:09+00:00"
   },
   {
     "id": "rss_88bc616eacb4",
@@ -1768,7 +1773,8 @@
     "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
     "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T15:47:09+00:00"
   },
   {
     "id": "rss_e12d2079fa99",
@@ -1777,7 +1783,8 @@
     "url": "https://thedefiant.io/news/hacks/bonkdao-attacker-moves-19m-loot-into-new-bonk-2-0-dao",
     "published_at": "Tue, 07 Jul 2026 15:22:23 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T15:22:23+00:00"
   },
   {
     "id": "rss_dde92d105809",
@@ -1786,7 +1793,8 @@
     "url": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
     "published_at": "Tue, 07 Jul 2026 15:09:04 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T15:09:04+00:00"
   },
   {
     "id": "rss_70d4f316a4d9",
@@ -1795,7 +1803,8 @@
     "url": "https://thedefiant.io/news/defi/cap-token-climbs-to-2-lending-borrowing-protocol-by-volume-10-days-after-launch",
     "published_at": "Tue, 07 Jul 2026 13:30:00 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T13:30:00+00:00"
   },
   {
     "id": "rss_94d2d5b706cb",
@@ -1804,7 +1813,8 @@
     "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
     "published_at": "Tue, 07 Jul 2026 13:48:44 +0000",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T13:48:44+00:00"
   },
   {
     "id": "llama_2026070715",
@@ -1813,6 +1823,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T15:47:10.563636+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T15:47:10.563636+00:00"
   }
 ]
