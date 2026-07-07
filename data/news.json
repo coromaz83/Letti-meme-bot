@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_6f9df810233c",
-    "source": "The Defiant",
-    "title": "Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company",
-    "published_at": "Tue, 30 Jun 2026 18:56:55 GMT",
-    "fetched_at": "2026-06-30T20:31:12.939039+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_468c9ef77194",
-    "source": "CryptoSlate",
-    "title": "DeFi hacks are turning high yields into a hidden liquidity tax",
-    "url": "https://cryptoslate.com/defis-hack-problem-is-becoming-a-liquidity-tax/",
-    "published_at": "Tue, 30 Jun 2026 19:00:47 +0000",
-    "fetched_at": "2026-06-30T20:31:12.939039+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063020",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,074,539,594 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T20:31:16.631195+00:00",
-    "used": false
-  },
-  {
     "id": "rss_6d5ac8cce0e7",
     "source": "The Defiant",
     "title": "Lighter to Burn Repurchased LIT, Fund Staking from Ecosystem Reserve",
@@ -1815,6 +1788,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T20:27:52.461109+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_756aaac7a96d",
+    "source": "Decrypt",
+    "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+    "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
+    "published_at": "Tue, 07 Jul 2026 21:31:09 +0000",
+    "fetched_at": "2026-07-07T21:57:09.619874+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070721",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,437,262,520 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T21:57:32.131025+00:00",
     "used": false
   }
 ]
