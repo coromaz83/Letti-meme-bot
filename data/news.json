@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026063001",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,140,447,114 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T01:32:41.433421+00:00",
-    "used": false,
-    "_sort_date": "2026-06-30T01:32:41.433421+00:00"
-  },
-  {
     "id": "rss_c193d12b5e90",
     "source": "CoinDesk",
     "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
@@ -1796,6 +1786,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T01:19:08.451107+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070705",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,425,111,223 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T05:46:39.220901+00:00",
     "used": false
   }
 ]
