@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_6d5ac8cce0e7",
-    "source": "The Defiant",
-    "title": "Lighter to Burn Repurchased LIT, Fund Staking from Ecosystem Reserve",
-    "url": "https://thedefiant.io/news/markets/lighter-to-burn-repurchased-lit-fund-staking-from-ecosystem-reserve",
-    "published_at": "Tue, 30 Jun 2026 21:54:49 GMT",
-    "fetched_at": "2026-06-30T22:19:25.241344+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2b53284ee571",
-    "source": "The Defiant",
-    "title": "Machi Big Brother's Hyperliquid Losses Top $80M as He Sells Bored Apes for Margin",
-    "url": "https://thedefiant.io/news/defi/machi-big-brother-s-hyperliquid-losses-top-usd80m-as-he-sells-bored-apes-for-margin",
-    "published_at": "Tue, 30 Jun 2026 21:17:49 GMT",
-    "fetched_at": "2026-06-30T22:19:25.241344+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f4ca2f67ed86",
-    "source": "The Defiant",
-    "title": "Phantom Hires Ventuals Founders After Hyperliquid Perps Venue Winds Down",
-    "url": "https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down",
-    "published_at": "Tue, 30 Jun 2026 21:16:52 GMT",
-    "fetched_at": "2026-06-30T22:19:25.241344+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063022",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,074,505,353 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T22:19:28.458638+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026063023",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,085,827,098 🟢 +0.00% (24h)",
@@ -1813,5 +1777,23 @@
     "fetched_at": "2026-07-07T21:57:32.131025+00:00",
     "used": false,
     "_sort_date": "2026-07-07T21:57:32.131025+00:00"
+  },
+  {
+    "id": "rss_ba2b847fb463",
+    "source": "CryptoSlate",
+    "title": "Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins",
+    "url": "https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/",
+    "published_at": "Tue, 07 Jul 2026 22:05:33 +0000",
+    "fetched_at": "2026-07-07T23:10:20.788503+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070723",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,419,702,501 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T23:10:25.026428+00:00",
+    "used": false
   }
 ]
