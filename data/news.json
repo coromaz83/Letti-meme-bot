@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_fff5ca227f47",
-    "source": "CoinDesk",
-    "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
-    "url": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
-    "published_at": "Tue, 30 Jun 2026 17:51:57 +0000",
-    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0d4fc96383d7",
-    "source": "The Defiant",
-    "title": "Magic Eden, Founders Sued by $ME Buyers Over Broken 'Utility' Promises",
-    "url": "https://thedefiant.io/news/defi/magic-eden-founders-sued-by-usdme-buyers-over-broken-utility-promises",
-    "published_at": "Tue, 30 Jun 2026 16:56:34 GMT",
-    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_064ba60897ec",
-    "source": "Decrypt",
-    "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
-    "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
-    "published_at": "Tue, 30 Jun 2026 17:38:12 +0000",
-    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d5dd50675b85",
-    "source": "Decrypt",
-    "title": "Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak",
-    "url": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
-    "published_at": "Tue, 30 Jun 2026 15:54:01 +0000",
-    "fetched_at": "2026-06-30T18:05:31.014445+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063018",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,060,419,739 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T18:05:36.455057+00:00",
-    "used": false
-  },
-  {
     "id": "rss_6f9df810233c",
     "source": "The Defiant",
     "title": "Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company",
@@ -1825,5 +1780,32 @@
     "fetched_at": "2026-07-07T15:47:10.563636+00:00",
     "used": false,
     "_sort_date": "2026-07-07T15:47:10.563636+00:00"
+  },
+  {
+    "id": "rss_f3139006704a",
+    "source": "The Defiant",
+    "title": "KAST's ToS Draw Fire After Public Feud With EtherFi CEO",
+    "url": "https://thedefiant.io/news/cefi/kast-s-terms-of-service-draw-fire-after-public-feud-with-etherfi-ceo",
+    "published_at": "Tue, 07 Jul 2026 17:34:15 GMT",
+    "fetched_at": "2026-07-07T18:07:53.873705+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c87b6bc2544a",
+    "source": "The Defiant",
+    "title": "Tether Invests $20M in Brazil's Mercado Bitcoin",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-invests-20m-in-brazil-s-mercado-bitcoin",
+    "published_at": "Tue, 07 Jul 2026 16:16:29 GMT",
+    "fetched_at": "2026-07-07T18:07:53.873705+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070718",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,457,451,760 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T18:07:56.858653+00:00",
+    "used": false
   }
 ]
