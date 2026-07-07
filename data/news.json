@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_91afd3440be5",
-    "source": "CoinDesk",
-    "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
-    "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
-    "published_at": "Tue, 30 Jun 2026 14:32:33 +0000",
-    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_172d020155db",
-    "source": "The Defiant",
-    "title": "Open Standard Unveils Open USD, a Bank- and Tech-Backed Stablecoin Governed by Its Users",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/open-standard-open-usd-ousd-stablecoin-consortium-blackrock-visa-mastercard",
-    "published_at": "Tue, 30 Jun 2026 15:04:12 GMT",
-    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b37c45aab56b",
-    "source": "CryptoSlate",
-    "title": "US starts clock to bring in ID checks for converting dollars to stablecoins but DeFi stays outside the rules",
-    "url": "https://cryptoslate.com/stablecoin-issuers-get-a-new-kyc-clock-but-defis-harder-fight-is-still-ahead/",
-    "published_at": "Tue, 30 Jun 2026 14:30:01 +0000",
-    "fetched_at": "2026-06-30T15:37:33.434980+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063015",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,064,231,337 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T15:37:37.038452+00:00",
-    "used": false
-  },
-  {
     "id": "rss_fff5ca227f47",
     "source": "CoinDesk",
     "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
@@ -1777,6 +1741,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T12:33:14.672726+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a803ee77a955",
+    "source": "CoinDesk",
+    "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
+    "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
+    "published_at": "Tue, 07 Jul 2026 13:46:25 +0000",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_320433978fde",
+    "source": "The Defiant",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_88bc616eacb4",
+    "source": "The Defiant",
+    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
+    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
+    "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e12d2079fa99",
+    "source": "The Defiant",
+    "title": "BonkDAO Attacker Moves $19M Loot Into New 'BONK 2.0' DAO",
+    "url": "https://thedefiant.io/news/hacks/bonkdao-attacker-moves-19m-loot-into-new-bonk-2-0-dao",
+    "published_at": "Tue, 07 Jul 2026 15:22:23 GMT",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dde92d105809",
+    "source": "The Defiant",
+    "title": "Traders Sue Polymarket, CEO Coplan Over Strategy Market Decision",
+    "url": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
+    "published_at": "Tue, 07 Jul 2026 15:09:04 GMT",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_70d4f316a4d9",
+    "source": "The Defiant",
+    "title": "CAP Token Climbs to #2 Lending-Borrowing Protocol by Volume, 10 Days After Launch",
+    "url": "https://thedefiant.io/news/defi/cap-token-climbs-to-2-lending-borrowing-protocol-by-volume-10-days-after-launch",
+    "published_at": "Tue, 07 Jul 2026 13:30:00 GMT",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94d2d5b706cb",
+    "source": "Decrypt",
+    "title": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
+    "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
+    "published_at": "Tue, 07 Jul 2026 13:48:44 +0000",
+    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070715",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,407,210,843 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T15:47:10.563636+00:00",
     "used": false
   }
 ]
