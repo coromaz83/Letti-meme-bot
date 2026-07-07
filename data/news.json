@@ -1,44 +1,5 @@
 [
   {
-    "id": "rss_c193d12b5e90",
-    "source": "CoinDesk",
-    "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
-    "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
-    "published_at": "Tue, 30 Jun 2026 05:01:09 +0000",
-    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
-    "used": true,
-    "_sort_date": "2026-06-30T05:01:09+00:00"
-  },
-  {
-    "id": "rss_eaf3fe22cd24",
-    "source": "CoinDesk",
-    "title": "Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand",
-    "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
-    "published_at": "Tue, 30 Jun 2026 04:59:04 +0000",
-    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
-    "used": true,
-    "_sort_date": "2026-06-30T04:59:04+00:00"
-  },
-  {
-    "id": "rss_422526fed839",
-    "source": "The Defiant",
-    "title": "JPMorgan's Kinexys Blockchain Hits $4 Trillion, Adds Five APAC Currencies",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-kinexys-4-trillion-apac-currencies",
-    "published_at": "Mon, 29 Jun 2026 23:25:00 GMT",
-    "fetched_at": "2026-06-30T06:21:19.047778+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026063006",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,102,268,018 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-06-30T06:21:23.489421+00:00",
-    "used": false,
-    "_sort_date": "2026-06-30T06:21:23.489421+00:00"
-  },
-  {
     "id": "llama_2026063010",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,108,924,857 🟢 +0.00% (24h)",
@@ -1795,6 +1756,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T05:46:39.220901+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2ee09fb7c24a",
+    "source": "CoinDesk",
+    "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+    "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+    "published_at": "Tue, 07 Jul 2026 06:51:28 +0000",
+    "fetched_at": "2026-07-07T09:56:20.203046+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070709",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,410,781,486 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-07T09:56:22.903155+00:00",
     "used": false
   }
 ]
