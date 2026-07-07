@@ -1747,7 +1747,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T01:19:08.451107+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T01:19:08.451107+00:00"
   },
   {
     "id": "llama_2026070705",
@@ -1756,7 +1757,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T05:46:39.220901+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T05:46:39.220901+00:00"
   },
   {
     "id": "rss_2ee09fb7c24a",
@@ -1765,7 +1767,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
     "published_at": "Tue, 07 Jul 2026 06:51:28 +0000",
     "fetched_at": "2026-07-07T09:56:20.203046+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T06:51:28+00:00"
   },
   {
     "id": "llama_2026070709",
@@ -1774,6 +1777,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T09:56:22.903155+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T09:56:22.903155+00:00"
   }
 ]
