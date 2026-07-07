@@ -1691,7 +1691,7 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-07-07T15:47:09+00:00"
   },
   {
@@ -1721,7 +1721,7 @@
     "url": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
     "published_at": "Tue, 07 Jul 2026 15:09:04 GMT",
     "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-07-07T15:09:04+00:00"
   },
   {
@@ -1761,7 +1761,8 @@
     "url": "https://thedefiant.io/news/cefi/kast-s-terms-of-service-draw-fire-after-public-feud-with-etherfi-ceo",
     "published_at": "Tue, 07 Jul 2026 17:34:15 GMT",
     "fetched_at": "2026-07-07T18:07:53.873705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T17:34:15+00:00"
   },
   {
     "id": "rss_c87b6bc2544a",
@@ -1770,7 +1771,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-invests-20m-in-brazil-s-mercado-bitcoin",
     "published_at": "Tue, 07 Jul 2026 16:16:29 GMT",
     "fetched_at": "2026-07-07T18:07:53.873705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T16:16:29+00:00"
   },
   {
     "id": "llama_2026070718",
@@ -1779,7 +1781,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T18:07:56.858653+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T18:07:56.858653+00:00"
   },
   {
     "id": "llama_2026070720",
@@ -1788,7 +1791,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T20:27:52.461109+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T20:27:52.461109+00:00"
   },
   {
     "id": "rss_756aaac7a96d",
@@ -1797,7 +1801,8 @@
     "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
     "published_at": "Tue, 07 Jul 2026 21:31:09 +0000",
     "fetched_at": "2026-07-07T21:57:09.619874+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-07T21:31:09+00:00"
   },
   {
     "id": "llama_2026070721",
@@ -1806,6 +1811,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-07T21:57:32.131025+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-07T21:57:32.131025+00:00"
   }
 ]
