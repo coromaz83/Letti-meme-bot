@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070108",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,086,238,097 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-01T08:52:50.426923+00:00",
-    "used": true,
-    "_sort_date": "2026-07-01T08:52:50.426923+00:00"
-  },
-  {
     "id": "rss_6ec2de8a8fdb",
     "source": "CoinDesk",
     "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
@@ -1802,6 +1792,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T07:35:55.376462+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_47390af2a910",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s treasury boom now has one company nearing 5% of supply",
+    "url": "https://cryptoslate.com/ethereums-treasury-boom-now-has-one-company-nearing-5-of-supply/",
+    "published_at": "Wed, 08 Jul 2026 08:32:22 +0000",
+    "fetched_at": "2026-07-08T10:27:28.359800+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070810",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,364,703,665 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-08T10:27:31.764813+00:00",
     "used": false
   }
 ]
