@@ -1595,7 +1595,8 @@
     "url": "https://thedefiant.io/news/tokens/pump-fun-adds-trading-for-robinhood-chain-tokens-as-cashcat-meme-coin-frenzy-builds",
     "published_at": "Wed, 08 Jul 2026 15:19:45 GMT",
     "fetched_at": "2026-07-08T16:46:25.963728+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T15:19:45+00:00"
   },
   {
     "id": "llama_2026070816",
@@ -1604,7 +1605,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T16:46:28.916625+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T16:46:28.916625+00:00"
   },
   {
     "id": "rss_dd81bc5185bb",
@@ -1613,7 +1615,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-tzero-partner-on-tokenized-us-stock-framework",
     "published_at": "Wed, 08 Jul 2026 17:34:57 GMT",
     "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T17:34:57+00:00"
   },
   {
     "id": "rss_04a2b10f117e",
@@ -1622,7 +1625,8 @@
     "url": "https://thedefiant.io/converge/cefi/strike-launches-bitcoin-loans-with-no-price-liquidations",
     "published_at": "Wed, 08 Jul 2026 17:28:15 GMT",
     "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T17:28:15+00:00"
   },
   {
     "id": "rss_abf21d972541",
@@ -1631,7 +1635,8 @@
     "url": "https://thedefiant.io/news/cefi/ascendex-halts-operations-freezes-automated-withdrawals",
     "published_at": "Wed, 08 Jul 2026 17:23:03 GMT",
     "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T17:23:03+00:00"
   },
   {
     "id": "llama_2026070818",
@@ -1640,7 +1645,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T18:23:25.293119+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T18:23:25.293119+00:00"
   },
   {
     "id": "rss_243aa20cb724",
@@ -1649,7 +1655,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-metrics-surge-as-the-network-leans-into-memecoins",
     "published_at": "Wed, 08 Jul 2026 18:57:58 GMT",
     "fetched_at": "2026-07-08T20:06:00.836245+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T18:57:58+00:00"
   },
   {
     "id": "rss_df13bb4dc079",
@@ -1658,7 +1665,8 @@
     "url": "https://thedefiant.io/news/markets/paradigm-raises-1-2-billion-for-fourth-venture-fund",
     "published_at": "Wed, 08 Jul 2026 18:31:51 GMT",
     "fetched_at": "2026-07-08T20:06:00.836245+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T18:31:51+00:00"
   },
   {
     "id": "rss_ff7c5c059298",
@@ -1667,7 +1675,8 @@
     "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
     "published_at": "Wed, 08 Jul 2026 19:23:13 +0000",
     "fetched_at": "2026-07-08T20:06:00.836245+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T19:23:13+00:00"
   },
   {
     "id": "llama_2026070820",
@@ -1676,7 +1685,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T20:06:04.991088+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T20:06:04.991088+00:00"
   },
   {
     "id": "llama_2026070821",
@@ -1685,6 +1695,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T21:44:35.066278+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T21:44:35.066278+00:00"
   }
 ]
