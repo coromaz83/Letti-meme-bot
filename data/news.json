@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_f8c48ebc657c",
-    "source": "CoinDesk",
-    "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
-    "url": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
-    "published_at": "Wed, 01 Jul 2026 17:52:33 +0000",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T17:52:33+00:00"
-  },
-  {
-    "id": "rss_8956daf1903d",
-    "source": "The Defiant",
-    "title": "Robinhood Launches Robinhood Chain Mainnet, Adds Stock Tokens, Onchain Lending, and Agentic Crypto Trading",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto",
-    "published_at": "Wed, 01 Jul 2026 18:21:41 GMT",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T18:21:41+00:00"
-  },
-  {
-    "id": "rss_dce9a30f2e37",
-    "source": "The Defiant",
-    "title": "SEC Opens 60-Day Comment Period on 'Novel' ETF Rules as Prediction Market Funds Pile Up",
-    "url": "https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds",
-    "published_at": "Wed, 01 Jul 2026 17:38:00 GMT",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T17:38:00+00:00"
-  },
-  {
-    "id": "rss_598eaeebed55",
-    "source": "The Defiant",
-    "title": "World Launches Onchain Prediction Market on Solana Through Phantom",
-    "url": "https://thedefiant.io/news/defi/world-launches-onchain-prediction-market-on-solana-through-phantom",
-    "published_at": "Wed, 01 Jul 2026 17:33:25 GMT",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T17:33:25+00:00"
-  },
-  {
-    "id": "rss_a9ede19ed093",
-    "source": "The Defiant",
-    "title": "Chinese Exile Miles Guo Sentenced to 30 Years for $1B Crypto Fraud Scheme",
-    "url": "https://thedefiant.io/news/hacks/miles-guo-sentenced-30-years-himalaya-coin-fraud",
-    "published_at": "Wed, 01 Jul 2026 17:19:56 GMT",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T17:19:56+00:00"
-  },
-  {
-    "id": "rss_0d5f1fadacd2",
-    "source": "Decrypt",
-    "title": "BitMine, Sharplink and Joe Lubin Accelerate Wall Street Ethereum Push With Nonprofit Launch",
-    "url": "https://decrypt.co/372540/bitmine-sharplink-joe-lubin-wall-street-ethereum-push-nonprofit",
-    "published_at": "Wed, 01 Jul 2026 18:40:40 +0000",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T18:40:40+00:00"
-  },
-  {
-    "id": "rss_36c36544c5c8",
-    "source": "Bankless",
-    "title": "Tokenized Trading Card Gachas Blow Past $300M in June",
-    "url": "https://www.bankless.com/read/news/onchain-gachas-new-june-ath",
-    "published_at": "Wed, 01 Jul 2026 14:51:39 -0400",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T14:51:39-04:00"
-  },
-  {
-    "id": "rss_a91c42922840",
-    "source": "Bankless",
-    "title": "Ethereum Institutional Launches as Ecosystem's New Wall Street Liaison",
-    "url": "https://www.bankless.com/read/news/ethereum-institutional-launches-as-ecosystems-new-wall-street-liaison",
-    "published_at": "Wed, 01 Jul 2026 14:14:22 -0400",
-    "fetched_at": "2026-07-01T20:09:12.750771+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T14:14:22-04:00"
-  },
-  {
-    "id": "llama_2026070120",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,169,918,259 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-01T20:09:17.570130+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T20:09:17.570130+00:00"
-  },
-  {
     "id": "rss_ecf7cea79575",
     "source": "CoinDesk",
     "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
@@ -1766,6 +1676,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T20:06:04.991088+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070821",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,335,041,209 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-08T21:44:35.066278+00:00",
     "used": false
   }
 ]
