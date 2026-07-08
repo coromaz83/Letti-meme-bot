@@ -1785,7 +1785,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T12:06:30.119081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T12:06:30.119081+00:00"
   },
   {
     "id": "rss_14e3026da474",
@@ -1794,7 +1795,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
     "published_at": "Wed, 08 Jul 2026 14:57:41 GMT",
     "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T14:57:41+00:00"
   },
   {
     "id": "rss_881582f67faf",
@@ -1803,7 +1805,8 @@
     "url": "https://thedefiant.io/converge/regulation/sec-adds-three-crypto-rules-to-2026-regulatory-agenda",
     "published_at": "Wed, 08 Jul 2026 14:40:51 GMT",
     "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T14:40:51+00:00"
   },
   {
     "id": "rss_2de5f029a6c2",
@@ -1812,7 +1815,8 @@
     "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
     "published_at": "Wed, 08 Jul 2026 12:06:35 +0000",
     "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-08T12:06:35+00:00"
   },
   {
     "id": "llama_2026070814",
@@ -1821,6 +1825,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T14:57:43.055922+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-08T14:57:43.055922+00:00"
   }
 ]
