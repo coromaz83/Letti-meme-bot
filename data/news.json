@@ -1731,5 +1731,41 @@
     "published_at": "",
     "fetched_at": "2026-07-08T18:23:25.293119+00:00",
     "used": false
+  },
+  {
+    "id": "rss_243aa20cb724",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Metrics Surge as the Network Leans Into Memecoins",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-metrics-surge-as-the-network-leans-into-memecoins",
+    "published_at": "Wed, 08 Jul 2026 18:57:58 GMT",
+    "fetched_at": "2026-07-08T20:06:00.836245+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_df13bb4dc079",
+    "source": "The Defiant",
+    "title": "Paradigm Raises $1.2 Billion for Fourth Venture Fund",
+    "url": "https://thedefiant.io/news/markets/paradigm-raises-1-2-billion-for-fourth-venture-fund",
+    "published_at": "Wed, 08 Jul 2026 18:31:51 GMT",
+    "fetched_at": "2026-07-08T20:06:00.836245+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ff7c5c059298",
+    "source": "Decrypt",
+    "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
+    "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
+    "published_at": "Wed, 08 Jul 2026 19:23:13 +0000",
+    "fetched_at": "2026-07-08T20:06:00.836245+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070820",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,326,972,861 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-08T20:06:04.991088+00:00",
+    "used": false
   }
 ]
