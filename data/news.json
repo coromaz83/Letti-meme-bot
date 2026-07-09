@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,208,055,845 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-01T23:53:01.951034+00:00",
-    "used": false,
-    "_sort_date": "2026-07-01T23:53:01.951034+00:00"
-  },
-  {
     "id": "rss_0dfb13f56562",
     "source": "The Defiant",
     "title": "dYdX Launches Arcus, a DEX Pairing Stock Tokens With Perpetuals on Robinhood Chain",
@@ -1625,6 +1615,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-08T23:16:58.540968+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070901",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,340,549,148 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T01:11:33.844144+00:00",
     "used": false
   }
 ]
