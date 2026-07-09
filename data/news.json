@@ -1585,7 +1585,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T01:11:33.844144+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T01:11:33.844144+00:00"
   },
   {
     "id": "rss_d6c9b7293d92",
@@ -1594,7 +1595,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
     "published_at": "Thu, 09 Jul 2026 04:57:35 +0000",
     "fetched_at": "2026-07-09T05:45:50.010952+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T04:57:35+00:00"
   },
   {
     "id": "llama_2026070905",
@@ -1603,7 +1605,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T05:45:52.746596+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T05:45:52.746596+00:00"
   },
   {
     "id": "rss_a996cd6af126",
@@ -1612,7 +1615,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
     "published_at": "Thu, 09 Jul 2026 06:51:10 +0000",
     "fetched_at": "2026-07-09T09:53:37.304343+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T06:51:10+00:00"
   },
   {
     "id": "llama_2026070909",
@@ -1621,6 +1625,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T09:53:39.741656+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T09:53:39.741656+00:00"
   }
 ]
