@@ -1495,7 +1495,8 @@
     "url": "https://thedefiant.io/news/defi/gauntlet-raises-125m-series-c-from-sbi-holdings",
     "published_at": "Thu, 09 Jul 2026 17:30:45 GMT",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T17:30:45+00:00"
   },
   {
     "id": "rss_8314408d92dd",
@@ -1504,7 +1505,8 @@
     "url": "https://thedefiant.io/news/security/interpol-ties-122-5m-crypto-wallet-to-romance-scam-ring",
     "published_at": "Thu, 09 Jul 2026 17:14:06 GMT",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T17:14:06+00:00"
   },
   {
     "id": "rss_25ef2dba9625",
@@ -1513,7 +1515,8 @@
     "url": "https://thedefiant.io/news/hacks/summer-fi-hacker-moves-1-35m-into-tornado-cash",
     "published_at": "Thu, 09 Jul 2026 16:24:47 GMT",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:24:47+00:00"
   },
   {
     "id": "rss_3fb04b433d4f",
@@ -1522,7 +1525,8 @@
     "url": "https://thedefiant.io/news/tokens/arbitrum-to-capture-10-of-fees-from-robinhood-chain",
     "published_at": "Thu, 09 Jul 2026 16:23:59 GMT",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:23:59+00:00"
   },
   {
     "id": "rss_789040b61ff1",
@@ -1531,7 +1535,8 @@
     "url": "https://thedefiant.io/news/defi/aave-labs-launches-stable-vaults-for-fintech-stablecoin-yield",
     "published_at": "Thu, 09 Jul 2026 16:06:34 GMT",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:06:34+00:00"
   },
   {
     "id": "rss_978eae8f7ed4",
@@ -1540,7 +1545,8 @@
     "url": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
     "published_at": "Thu, 09 Jul 2026 16:25:31 +0000",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:25:31+00:00"
   },
   {
     "id": "rss_9d767425e65c",
@@ -1549,7 +1555,8 @@
     "url": "https://www.bankless.com/read/news/hyperliquid-policy-center-and-phantom-ask-cftc-to-pave-way-for-onchain-infra",
     "published_at": "Thu, 09 Jul 2026 14:08:42 -0400",
     "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T14:08:42-04:00"
   },
   {
     "id": "llama_2026070918",
@@ -1558,7 +1565,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T18:19:29.085202+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T18:19:29.085202+00:00"
   },
   {
     "id": "rss_6fe98ffaf6f7",
@@ -1567,7 +1575,8 @@
     "url": "https://thedefiant.io/news/regulation/hyperliquid-phantom-ask-cftc-to-exempt-defi-from-broker-rules",
     "published_at": "Thu, 09 Jul 2026 19:53:58 GMT",
     "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T19:53:58+00:00"
   },
   {
     "id": "rss_af96c8b57d5f",
@@ -1576,7 +1585,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/privy-launches-global-fiat-onramps-with-stripe-in-us-eu",
     "published_at": "Thu, 09 Jul 2026 18:58:24 GMT",
     "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T18:58:24+00:00"
   },
   {
     "id": "rss_21bbbd82a270",
@@ -1585,7 +1595,8 @@
     "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
     "published_at": "Thu, 09 Jul 2026 18:27:47 +0000",
     "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T18:27:47+00:00"
   },
   {
     "id": "llama_2026070920",
@@ -1594,7 +1605,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T20:23:28.146458+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T20:23:28.146458+00:00"
   },
   {
     "id": "rss_be56ce5749c2",
@@ -1603,7 +1615,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
     "published_at": "Thu, 09 Jul 2026 20:31:39 +0000",
     "fetched_at": "2026-07-09T22:04:07.448810+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T20:31:39+00:00"
   },
   {
     "id": "rss_a6a890725b46",
@@ -1612,7 +1625,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
     "published_at": "Thu, 09 Jul 2026 20:28:51 +0000",
     "fetched_at": "2026-07-09T22:04:07.448810+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T20:28:51+00:00"
   },
   {
     "id": "rss_d7d4cb7f2342",
@@ -1630,6 +1644,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T22:04:09.991692+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T22:04:09.991692+00:00"
   }
 ]
