@@ -1565,7 +1565,8 @@
     "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
     "published_at": "Thu, 09 Jul 2026 10:55:37 +0000",
     "fetched_at": "2026-07-09T12:44:45.317146+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T10:55:37+00:00"
   },
   {
     "id": "llama_2026070912",
@@ -1574,7 +1575,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T12:44:47.871875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T12:44:47.871875+00:00"
   },
   {
     "id": "rss_d2c16c5cdb33",
@@ -1583,7 +1585,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
     "published_at": "Thu, 09 Jul 2026 14:58:55 +0000",
     "fetched_at": "2026-07-09T16:06:33.489942+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T14:58:55+00:00"
   },
   {
     "id": "rss_ce4efd4c850d",
@@ -1592,7 +1595,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-goes-native-on-polygon-joins-open-money-stack",
     "published_at": "Thu, 09 Jul 2026 16:01:45 GMT",
     "fetched_at": "2026-07-09T16:06:33.489942+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:01:45+00:00"
   },
   {
     "id": "rss_f5a865483c15",
@@ -1601,7 +1605,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/mara-buys-texas-site-from-hif-in-600m-bitcoin-ai-deal",
     "published_at": "Thu, 09 Jul 2026 16:00:08 GMT",
     "fetched_at": "2026-07-09T16:06:33.489942+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:00:08+00:00"
   },
   {
     "id": "rss_1706999d9884",
@@ -1610,7 +1615,8 @@
     "url": "https://thedefiant.io/news/defi/zapper-to-shut-down-aug-3-after-nearly-seven-years",
     "published_at": "Thu, 09 Jul 2026 15:59:45 GMT",
     "fetched_at": "2026-07-09T16:06:33.489942+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T15:59:45+00:00"
   },
   {
     "id": "rss_cffa2e583909",
@@ -1619,7 +1625,8 @@
     "url": "https://cryptoslate.com/cardanos-wallet-hack-exposed-the-user-layer-holding-its-on-chain-government-together/",
     "published_at": "Thu, 09 Jul 2026 14:40:07 +0000",
     "fetched_at": "2026-07-09T16:06:33.489942+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-09T14:40:07+00:00"
   },
   {
     "id": "llama_2026070916",
@@ -1628,6 +1635,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T16:06:37.152356+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-09T16:06:37.152356+00:00"
   }
 ]
