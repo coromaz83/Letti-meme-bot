@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_813015137d47",
-    "source": "The Defiant",
-    "title": "Warren Pushes to Bar Trump Family From Crypto Profits After $1.4B Disclosure",
-    "url": "https://thedefiant.io/converge/regulation/warren-bar-trump-family-crypto-profits-disclosure",
-    "published_at": "Thu, 02 Jul 2026 18:41:01 GMT",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": true,
-    "_sort_date": "2026-07-02T18:41:01+00:00"
-  },
-  {
-    "id": "rss_ef07a50cf088",
-    "source": "The Defiant",
-    "title": "ShapeShift's Voorhees Defends Venice Token Terms After Critics Call Deal Underpriced",
-    "url": "https://thedefiant.io/news/markets/shapeshift-voorhees-defends-venice-token-terms-otc-deal",
-    "published_at": "Thu, 02 Jul 2026 18:30:37 GMT",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T18:30:37+00:00"
-  },
-  {
-    "id": "rss_66366b3b36d5",
-    "source": "The Defiant",
-    "title": "ENS DAO Sunsets Public Goods Working Group After 4.5 Years of Ecosystem Grants",
-    "url": "https://thedefiant.io/news/blockchains/ens-dao-sunsets-public-goods-working-group-after-4-5-years",
-    "published_at": "Thu, 02 Jul 2026 18:25:18 GMT",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T18:25:18+00:00"
-  },
-  {
-    "id": "rss_9627aa4a5bab",
-    "source": "The Defiant",
-    "title": "Strategy CEO Phong Le Buys 11,000 STRC Shares Through Revocable Trust",
-    "url": "https://thedefiant.io/news/people/strategy-ceo-phong-le-buys-11000-strc-shares-revocable-trust",
-    "published_at": "Thu, 02 Jul 2026 18:23:28 GMT",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T18:23:28+00:00"
-  },
-  {
-    "id": "rss_3f3a755feeb3",
-    "source": "The Defiant",
-    "title": "Securitize Tokenizes Its Own NYSE Stock SECZ on Its First Day as a Public Company",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-tokenizes-own-nyse-stock-secz-listing-day",
-    "published_at": "Thu, 02 Jul 2026 17:04:21 GMT",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T17:04:21+00:00"
-  },
-  {
-    "id": "rss_d7d4cb7f2342",
-    "source": "Bankless",
-    "title": "eToro Leads $12.5M Round for Onchain Perps Platform Extended",
-    "url": "https://www.bankless.com/read/news/etoro-leads-12-5m-round-for-onchain-perps-platform-extended",
-    "published_at": "Thu, 02 Jul 2026 14:59:57 -0400",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T14:59:57-04:00"
-  },
-  {
-    "id": "rss_f94f3efc0ecf",
-    "source": "Bankless",
-    "title": "Solana Launches Onchain Governance With 100K SOL Entry",
-    "url": "https://www.bankless.com/read/news/solana-launches-onchain-governance-with-100k-sol-entry",
-    "published_at": "Thu, 02 Jul 2026 13:58:33 -0400",
-    "fetched_at": "2026-07-02T19:45:31.910547+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T13:58:33-04:00"
-  },
-  {
-    "id": "llama_2026070219",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,261,595,734 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T19:45:36.266991+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T19:45:36.266991+00:00"
-  },
-  {
     "id": "rss_f6c703321b45",
     "source": "The Defiant",
     "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
@@ -1668,6 +1588,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T18:19:29.085202+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6fe98ffaf6f7",
+    "source": "The Defiant",
+    "title": "Hyperliquid, Phantom Ask CFTC to Exempt DeFi From Broker Rules",
+    "url": "https://thedefiant.io/news/regulation/hyperliquid-phantom-ask-cftc-to-exempt-defi-from-broker-rules",
+    "published_at": "Thu, 09 Jul 2026 19:53:58 GMT",
+    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_af96c8b57d5f",
+    "source": "The Defiant",
+    "title": "Privy Launches Global Fiat Onramps With Stripe in US, EU",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/privy-launches-global-fiat-onramps-with-stripe-in-us-eu",
+    "published_at": "Thu, 09 Jul 2026 18:58:24 GMT",
+    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_21bbbd82a270",
+    "source": "Decrypt",
+    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
+    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
+    "published_at": "Thu, 09 Jul 2026 18:27:47 +0000",
+    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070920",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,389,949,575 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T20:23:28.146458+00:00",
     "used": false
   }
 ]
