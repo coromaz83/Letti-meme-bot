@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_c4c5da77436a",
-    "source": "CoinDesk",
-    "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
-    "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
-    "published_at": "Thu, 02 Jul 2026 05:22:54 +0000",
-    "fetched_at": "2026-07-02T07:51:47.035137+00:00",
-    "used": true,
-    "_sort_date": "2026-07-02T05:22:54+00:00"
-  },
-  {
-    "id": "llama_2026070207",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,185,938,998 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T07:51:50.972408+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T07:51:50.972408+00:00"
-  },
-  {
     "id": "rss_97fadd2c630d",
     "source": "CoinDesk",
     "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
@@ -1623,6 +1603,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T05:45:52.746596+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a996cd6af126",
+    "source": "CoinDesk",
+    "title": "Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops",
+    "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
+    "published_at": "Thu, 09 Jul 2026 06:51:10 +0000",
+    "fetched_at": "2026-07-09T09:53:37.304343+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070909",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,363,927,248 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T09:53:39.741656+00:00",
     "used": false
   }
 ]
