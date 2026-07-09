@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_1d6217f93285",
-    "source": "CoinDesk",
-    "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
-    "url": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
-    "published_at": "Thu, 02 Jul 2026 17:00:00 +0000",
-    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T17:00:00+00:00"
-  },
-  {
-    "id": "rss_d473c73de1f2",
-    "source": "CryptoSlate",
-    "title": "Tether freezes 134 ISIS terror wallets as stablecoins now sit inside the sanctions machine",
-    "url": "https://cryptoslate.com/tether-freezes-isis-k-wallets-proving-that-stablecoins-now-side-inside-a-sanctions-machine/",
-    "published_at": "Thu, 02 Jul 2026 16:00:58 +0000",
-    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T16:00:58+00:00"
-  },
-  {
-    "id": "rss_099fda8872f7",
-    "source": "Decrypt",
-    "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
-    "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
-    "published_at": "Thu, 02 Jul 2026 17:29:19 +0000",
-    "fetched_at": "2026-07-02T17:58:18.580692+00:00",
-    "used": true,
-    "_sort_date": "2026-07-02T17:29:19+00:00"
-  },
-  {
-    "id": "llama_2026070217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,261,569,034 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T17:58:23.358981+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T17:58:23.358981+00:00"
-  },
-  {
     "id": "rss_813015137d47",
     "source": "The Defiant",
     "title": "Warren Pushes to Bar Trump Family From Crypto Profits After $1.4B Disclosure",
@@ -1637,5 +1597,77 @@
     "fetched_at": "2026-07-09T16:06:37.152356+00:00",
     "used": false,
     "_sort_date": "2026-07-09T16:06:37.152356+00:00"
+  },
+  {
+    "id": "rss_48f84c24fd04",
+    "source": "The Defiant",
+    "title": "Gauntlet Raises $125M Series C From SBI Holdings",
+    "url": "https://thedefiant.io/news/defi/gauntlet-raises-125m-series-c-from-sbi-holdings",
+    "published_at": "Thu, 09 Jul 2026 17:30:45 GMT",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8314408d92dd",
+    "source": "The Defiant",
+    "title": "Interpol Ties $122.5M Crypto Wallet to Romance Scam Ring",
+    "url": "https://thedefiant.io/news/security/interpol-ties-122-5m-crypto-wallet-to-romance-scam-ring",
+    "published_at": "Thu, 09 Jul 2026 17:14:06 GMT",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_25ef2dba9625",
+    "source": "The Defiant",
+    "title": "Summer.fi Hacker Moves $1.35M Into Tornado Cash",
+    "url": "https://thedefiant.io/news/hacks/summer-fi-hacker-moves-1-35m-into-tornado-cash",
+    "published_at": "Thu, 09 Jul 2026 16:24:47 GMT",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3fb04b433d4f",
+    "source": "The Defiant",
+    "title": "Arbitrum to Capture 10% of Fees From Robinhood Chain",
+    "url": "https://thedefiant.io/news/tokens/arbitrum-to-capture-10-of-fees-from-robinhood-chain",
+    "published_at": "Thu, 09 Jul 2026 16:23:59 GMT",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_789040b61ff1",
+    "source": "The Defiant",
+    "title": "Aave Labs Launches Stable Vaults for Fintech Stablecoin Yield",
+    "url": "https://thedefiant.io/news/defi/aave-labs-launches-stable-vaults-for-fintech-stablecoin-yield",
+    "published_at": "Thu, 09 Jul 2026 16:06:34 GMT",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_978eae8f7ed4",
+    "source": "CryptoSlate",
+    "title": "Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first",
+    "url": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
+    "published_at": "Thu, 09 Jul 2026 16:25:31 +0000",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d767425e65c",
+    "source": "Bankless",
+    "title": "Hyperliquid Policy Center and Phantom Ask CFTC to Pave Way for Onchain Infra",
+    "url": "https://www.bankless.com/read/news/hyperliquid-policy-center-and-phantom-ask-cftc-to-pave-way-for-onchain-infra",
+    "published_at": "Thu, 09 Jul 2026 14:08:42 -0400",
+    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070918",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,376,496,041 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T18:19:29.085202+00:00",
+    "used": false
   }
 ]
