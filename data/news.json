@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026070222",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,271,386,772 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T22:40:18.522762+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026070300",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,265,218,740 🟢 +0.00% (24h)",
@@ -1646,5 +1637,23 @@
     "fetched_at": "2026-07-09T22:04:09.991692+00:00",
     "used": false,
     "_sort_date": "2026-07-09T22:04:09.991692+00:00"
+  },
+  {
+    "id": "rss_f6c703321b45",
+    "source": "The Defiant",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "published_at": "Thu, 09 Jul 2026 23:47:56 GMT",
+    "fetched_at": "2026-07-09T23:47:54.848571+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070923",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,396,257,144 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T23:47:58.188676+00:00",
+    "used": false
   }
 ]
