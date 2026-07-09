@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_b52e875e3060",
-    "source": "CoinDesk",
-    "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
-    "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
-    "published_at": "Thu, 02 Jul 2026 11:55:03 +0000",
-    "fetched_at": "2026-07-02T13:02:40.665740+00:00",
-    "used": true,
-    "_sort_date": "2026-07-02T11:55:03+00:00"
-  },
-  {
-    "id": "rss_d1424d3867f3",
-    "source": "CryptoSlate",
-    "title": "Ethereum is splitting into three power centers and ETH treasury firms are paying for two",
-    "url": "https://cryptoslate.com/ethereum-is-splitting-into-three-power-centers-and-eth-treasury-firms-are-paying-for-two/",
-    "published_at": "Thu, 02 Jul 2026 10:55:45 +0000",
-    "fetched_at": "2026-07-02T13:02:40.665740+00:00",
-    "used": true,
-    "_sort_date": "2026-07-02T10:55:45+00:00"
-  },
-  {
-    "id": "llama_2026070213",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,219,515,571 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T13:02:43.874751+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T13:02:43.874751+00:00"
-  },
-  {
-    "id": "llama_2026070215",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,249,640,910 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-02T15:54:04.350503+00:00",
-    "used": false,
-    "_sort_date": "2026-07-02T15:54:04.350503+00:00"
-  },
-  {
     "id": "rss_1d6217f93285",
     "source": "CoinDesk",
     "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
@@ -1614,6 +1574,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T12:44:47.871875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d2c16c5cdb33",
+    "source": "CoinDesk",
+    "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
+    "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
+    "published_at": "Thu, 09 Jul 2026 14:58:55 +0000",
+    "fetched_at": "2026-07-09T16:06:33.489942+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ce4efd4c850d",
+    "source": "The Defiant",
+    "title": "PayPal's PYUSD Goes Native on Polygon, Joins Open Money Stack",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-goes-native-on-polygon-joins-open-money-stack",
+    "published_at": "Thu, 09 Jul 2026 16:01:45 GMT",
+    "fetched_at": "2026-07-09T16:06:33.489942+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f5a865483c15",
+    "source": "The Defiant",
+    "title": "MARA Buys Texas Site From HIF in $600M Bitcoin, AI Deal",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/mara-buys-texas-site-from-hif-in-600m-bitcoin-ai-deal",
+    "published_at": "Thu, 09 Jul 2026 16:00:08 GMT",
+    "fetched_at": "2026-07-09T16:06:33.489942+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1706999d9884",
+    "source": "The Defiant",
+    "title": "Zapper to Shut Down Aug. 3 After Nearly Seven Years",
+    "url": "https://thedefiant.io/news/defi/zapper-to-shut-down-aug-3-after-nearly-seven-years",
+    "published_at": "Thu, 09 Jul 2026 15:59:45 GMT",
+    "fetched_at": "2026-07-09T16:06:33.489942+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cffa2e583909",
+    "source": "CryptoSlate",
+    "title": "Cardano’s wallet hack exposed the user layer holding its on-chain government together",
+    "url": "https://cryptoslate.com/cardanos-wallet-hack-exposed-the-user-layer-holding-its-on-chain-government-together/",
+    "published_at": "Thu, 09 Jul 2026 14:40:07 +0000",
+    "fetched_at": "2026-07-09T16:06:33.489942+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026070916",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,365,330,428 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-09T16:06:37.152356+00:00",
     "used": false
   }
 ]
