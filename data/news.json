@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_f43c6472f887",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-    "published_at": "Fri, 03 Jul 2026 11:27:44 +0000",
-    "fetched_at": "2026-07-03T13:01:49.260731+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T11:27:44+00:00"
-  },
-  {
-    "id": "rss_768d615d1815",
-    "source": "CryptoSlate",
-    "title": "Bitcoin rally hinges on whether the Fed buys into the weak jobs report after bad miss",
-    "url": "https://cryptoslate.com/bitcoin-rally-hinges-on-whether-the-fed-buys-into-the-weak-jobs-report-after-bad-miss/",
-    "published_at": "Fri, 03 Jul 2026 11:05:42 +0000",
-    "fetched_at": "2026-07-03T13:01:49.260731+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T11:05:42+00:00"
-  },
-  {
-    "id": "llama_2026070313",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,300,495,721 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T13:01:58.698365+00:00",
-    "used": false,
-    "_sort_date": "2026-07-03T13:01:58.698365+00:00"
-  },
-  {
     "id": "llama_2026070315",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,315,981,666 🟢 +0.00% (24h)",
@@ -1665,5 +1635,14 @@
     "fetched_at": "2026-07-10T11:15:55.854865+00:00",
     "used": true,
     "_sort_date": "2026-07-10T11:15:55.854865+00:00"
+  },
+  {
+    "id": "llama_2026071013",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,490,022,186 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T13:29:16.907257+00:00",
+    "used": false
   }
 ]
