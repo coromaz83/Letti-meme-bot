@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070300",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,265,218,740 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T00:14:53.619974+00:00",
-    "used": false,
-    "_sort_date": "2026-07-03T00:14:53.619974+00:00"
-  },
-  {
     "id": "llama_2026070304",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,275,847,681 🟢 +0.00% (24h)",
@@ -1654,6 +1644,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-09T23:47:58.188676+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_46e87387624a",
+    "source": "The Defiant",
+    "title": "HSBC Issues First Digitally Native Structured Product in Hong Kong",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-issues-first-digitally-native-structured-product-in-hong-kong",
+    "published_at": "Fri, 10 Jul 2026 02:21:34 GMT",
+    "fetched_at": "2026-07-10T04:02:18.607868+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071004",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,432,179,491 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T04:02:21.195575+00:00",
     "used": false
   }
 ]
