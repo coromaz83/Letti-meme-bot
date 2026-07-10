@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070315",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,315,981,666 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T15:35:12.423379+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T15:35:12.423379+00:00"
-  },
-  {
     "id": "llama_2026070317",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,317,234,689 🟢 +0.00% (24h)",
@@ -1643,6 +1633,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T13:29:16.907257+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ccd7eee3e7c1",
+    "source": "The Defiant",
+    "title": "South Korea Super-App Toss to Run Won Stablecoin Pilot on OP Stack",
+    "url": "https://thedefiant.io/news/blockchains/south-korea-super-app-toss-to-run-won-stablecoin-pilot-on-op-stack",
+    "published_at": "Fri, 10 Jul 2026 15:34:13 GMT",
+    "fetched_at": "2026-07-10T16:00:20.391529+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_243d8be9dd4e",
+    "source": "The Defiant",
+    "title": "Coinbase Chief Legal Officer Paul Grewal to Step Down",
+    "url": "https://thedefiant.io/converge/people/coinbase-chief-legal-officer-paul-grewal-to-step-down",
+    "published_at": "Fri, 10 Jul 2026 14:49:09 GMT",
+    "fetched_at": "2026-07-10T16:00:20.391529+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6fcda7d703e2",
+    "source": "The Defiant",
+    "title": "Circle Wins Final OCC Approval for National Trust Bank",
+    "url": "https://thedefiant.io/news/cefi/circle-wins-final-occ-approval-for-national-trust-bank",
+    "published_at": "Fri, 10 Jul 2026 14:05:02 GMT",
+    "fetched_at": "2026-07-10T16:00:20.391529+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071016",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,462,444,628 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T16:00:24.390018+00:00",
     "used": false
   }
 ]
