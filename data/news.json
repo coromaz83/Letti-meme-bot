@@ -1633,7 +1633,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T13:29:16.907257+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T13:29:16.907257+00:00"
   },
   {
     "id": "rss_ccd7eee3e7c1",
@@ -1642,7 +1643,8 @@
     "url": "https://thedefiant.io/news/blockchains/south-korea-super-app-toss-to-run-won-stablecoin-pilot-on-op-stack",
     "published_at": "Fri, 10 Jul 2026 15:34:13 GMT",
     "fetched_at": "2026-07-10T16:00:20.391529+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T15:34:13+00:00"
   },
   {
     "id": "rss_243d8be9dd4e",
@@ -1651,7 +1653,8 @@
     "url": "https://thedefiant.io/converge/people/coinbase-chief-legal-officer-paul-grewal-to-step-down",
     "published_at": "Fri, 10 Jul 2026 14:49:09 GMT",
     "fetched_at": "2026-07-10T16:00:20.391529+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T14:49:09+00:00"
   },
   {
     "id": "rss_6fcda7d703e2",
@@ -1660,7 +1663,8 @@
     "url": "https://thedefiant.io/news/cefi/circle-wins-final-occ-approval-for-national-trust-bank",
     "published_at": "Fri, 10 Jul 2026 14:05:02 GMT",
     "fetched_at": "2026-07-10T16:00:20.391529+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T14:05:02+00:00"
   },
   {
     "id": "llama_2026071016",
@@ -1669,6 +1673,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T16:00:24.390018+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T16:00:24.390018+00:00"
   }
 ]
