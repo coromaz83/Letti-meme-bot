@@ -1663,7 +1663,8 @@
     "url": "https://thedefiant.io/news/defi/uniswap-floats-turning-on-protocol-fees-for-v4-pools",
     "published_at": "Fri, 10 Jul 2026 16:50:09 GMT",
     "fetched_at": "2026-07-10T18:08:48.863516+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T16:50:09+00:00"
   },
   {
     "id": "rss_9d854244f480",
@@ -1672,7 +1673,8 @@
     "url": "https://thedefiant.io/converge/podcast/coinbase-s-brian-foster-stablecoins-will-overtake-fiat-volume-in-5-years",
     "published_at": "Fri, 10 Jul 2026 16:27:45 GMT",
     "fetched_at": "2026-07-10T18:08:48.863516+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T16:27:45+00:00"
   },
   {
     "id": "llama_2026071018",
@@ -1681,7 +1683,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T18:08:51.542917+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T18:08:51.542917+00:00"
   },
   {
     "id": "rss_1ea8267896ef",
@@ -1690,7 +1693,8 @@
     "url": "https://thedefiant.io/news/regulation/polymarket-applies-for-us-license-to-offer-margin-trading",
     "published_at": "Fri, 10 Jul 2026 19:55:47 GMT",
     "fetched_at": "2026-07-10T20:00:13.279173+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T19:55:47+00:00"
   },
   {
     "id": "rss_1e7384d0624c",
@@ -1699,7 +1703,8 @@
     "url": "https://thedefiant.io/news/defi/sky-reports-record-419m-revenue-run-rate-for-june-2026",
     "published_at": "Fri, 10 Jul 2026 19:52:23 GMT",
     "fetched_at": "2026-07-10T20:00:13.279173+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T19:52:23+00:00"
   },
   {
     "id": "llama_2026071020",
@@ -1708,7 +1713,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T20:00:16.692973+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T20:00:16.692973+00:00"
   },
   {
     "id": "llama_2026071021",
@@ -1717,6 +1723,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T21:16:28.044248+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-10T21:16:28.044248+00:00"
   }
 ]
