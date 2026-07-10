@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,291,092,407 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T10:46:30.722468+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T10:46:30.722468+00:00"
-  },
-  {
     "id": "rss_f43c6472f887",
     "source": "CoinDesk",
     "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
@@ -1650,6 +1640,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T08:00:14.432373+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_505a7d2250f0",
+    "source": "CoinDesk",
+    "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
+    "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
+    "published_at": "Fri, 10 Jul 2026 10:37:44 +0000",
+    "fetched_at": "2026-07-10T11:15:52.430167+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071011",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,487,026,009 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T11:15:55.854865+00:00",
     "used": false
   }
 ]
