@@ -1,35 +1,5 @@
 [
   {
-    "id": "llama_2026070304",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,275,847,681 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T04:27:54.827338+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T04:27:54.827338+00:00"
-  },
-  {
-    "id": "rss_6040b4636e17",
-    "source": "CoinDesk",
-    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-    "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-    "published_at": "Fri, 03 Jul 2026 05:18:58 +0000",
-    "fetched_at": "2026-07-03T07:48:31.475941+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T05:18:58+00:00"
-  },
-  {
-    "id": "llama_2026070307",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,292,652,887 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T07:48:35.091565+00:00",
-    "used": false,
-    "_sort_date": "2026-07-03T07:48:35.091565+00:00"
-  },
-  {
     "id": "llama_2026070310",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,291,092,407 🟢 +0.00% (24h)",
@@ -1662,6 +1632,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T04:02:21.195575+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb841e986822",
+    "source": "CoinDesk",
+    "title": "Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak",
+    "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
+    "published_at": "Fri, 10 Jul 2026 06:21:34 +0000",
+    "fetched_at": "2026-07-10T08:00:10.464935+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071008",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,460,082,490 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T08:00:14.432373+00:00",
     "used": false
   }
 ]
