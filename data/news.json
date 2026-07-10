@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,321,701,392 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T19:40:58.914724+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T19:40:58.914724+00:00"
-  },
-  {
     "id": "llama_2026070321",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,330,794,808 🟢 +0.00% (24h)",
@@ -1691,6 +1681,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T18:08:51.542917+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1ea8267896ef",
+    "source": "The Defiant",
+    "title": "Polymarket Applies for US License to Offer Margin Trading",
+    "url": "https://thedefiant.io/news/regulation/polymarket-applies-for-us-license-to-offer-margin-trading",
+    "published_at": "Fri, 10 Jul 2026 19:55:47 GMT",
+    "fetched_at": "2026-07-10T20:00:13.279173+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e7384d0624c",
+    "source": "The Defiant",
+    "title": "Sky Reports Record $419M Revenue Run-Rate for June 2026",
+    "url": "https://thedefiant.io/news/defi/sky-reports-record-419m-revenue-run-rate-for-june-2026",
+    "published_at": "Fri, 10 Jul 2026 19:52:23 GMT",
+    "fetched_at": "2026-07-10T20:00:13.279173+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,450,596,206 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T20:00:16.692973+00:00",
     "used": false
   }
 ]
