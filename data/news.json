@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070317",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,317,234,689 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-03T17:41:16.387264+00:00",
-    "used": true,
-    "_sort_date": "2026-07-03T17:41:16.387264+00:00"
-  },
-  {
     "id": "llama_2026070319",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,321,701,392 🟢 +0.00% (24h)",
@@ -1675,5 +1665,32 @@
     "fetched_at": "2026-07-10T16:00:24.390018+00:00",
     "used": false,
     "_sort_date": "2026-07-10T16:00:24.390018+00:00"
+  },
+  {
+    "id": "rss_5e5782e4226c",
+    "source": "The Defiant",
+    "title": "Uniswap Floats Turning On Protocol Fees for v4 Pools",
+    "url": "https://thedefiant.io/news/defi/uniswap-floats-turning-on-protocol-fees-for-v4-pools",
+    "published_at": "Fri, 10 Jul 2026 16:50:09 GMT",
+    "fetched_at": "2026-07-10T18:08:48.863516+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d854244f480",
+    "source": "The Defiant",
+    "title": "\"Coinbase’s Brian Foster: Stablecoins Will Overtake Fiat Volume in 5 Years”",
+    "url": "https://thedefiant.io/converge/podcast/coinbase-s-brian-foster-stablecoins-will-overtake-fiat-volume-in-5-years",
+    "published_at": "Fri, 10 Jul 2026 16:27:45 GMT",
+    "fetched_at": "2026-07-10T18:08:48.863516+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071018",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,452,800,546 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-10T18:08:51.542917+00:00",
+    "used": false
   }
 ]
