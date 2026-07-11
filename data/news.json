@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_169d9415f59b",
-    "source": "The Defiant",
-    "title": "Moonbeam to Fully Migrate GLMR From Polkadot to Base, Pivot to AI Agent Network",
-    "url": "https://thedefiant.io/news/blockchains/moonbeam-to-fully-migrate-glmr-from-polkadot-to-base-pivot-to-ai-agent-network",
-    "published_at": "Sat, 04 Jul 2026 12:51:22 GMT",
-    "fetched_at": "2026-07-04T13:51:33.894284+00:00",
-    "used": true,
-    "_sort_date": "2026-07-04T12:51:22+00:00"
-  },
-  {
-    "id": "llama_2026070413",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,358,843,536 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-04T13:51:37.397200+00:00",
-    "used": false,
-    "_sort_date": "2026-07-04T13:51:37.397200+00:00"
-  },
-  {
     "id": "llama_2026070415",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,360,019,981 🟢 +0.00% (24h)",
@@ -1731,6 +1711,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T13:43:53.242980+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071115",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,470,450,808 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-11T15:02:57.456350+00:00",
     "used": false
   }
 ]
