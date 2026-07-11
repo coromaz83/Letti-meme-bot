@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070404",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,347,703,666 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-04T04:22:13.692122+00:00",
-    "used": false,
-    "_sort_date": "2026-07-04T04:22:13.692122+00:00"
-  },
-  {
     "id": "rss_f697dbb1bfb7",
     "source": "CoinDesk",
     "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
@@ -1731,6 +1721,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T03:54:25.177056+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071106",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,464,389,033 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-11T06:22:02.871731+00:00",
     "used": false
   }
 ]
