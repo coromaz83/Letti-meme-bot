@@ -1673,7 +1673,8 @@
     "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
     "published_at": "Sat, 11 Jul 2026 16:21:34 +0000",
     "fetched_at": "2026-07-11T16:27:51.909762+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T16:21:34+00:00"
   },
   {
     "id": "llama_2026071116",
@@ -1682,7 +1683,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T16:27:55.593066+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-11T16:27:55.593066+00:00"
   },
   {
     "id": "llama_2026071117",
@@ -1691,7 +1693,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T17:34:30.852798+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-11T17:34:30.852798+00:00"
   },
   {
     "id": "llama_2026071119",
@@ -1700,7 +1703,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T19:16:24.925239+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-11T19:16:24.925239+00:00"
   },
   {
     "id": "llama_2026071120",
@@ -1709,7 +1713,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T20:24:55.037206+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T20:24:55.037206+00:00"
   },
   {
     "id": "llama_2026071121",
@@ -1718,6 +1723,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T21:24:55.079123+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T21:24:55.079123+00:00"
   }
 ]
