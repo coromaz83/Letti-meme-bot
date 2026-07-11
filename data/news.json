@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070415",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,360,019,981 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-04T15:13:52.602857+00:00",
-    "used": true,
-    "_sort_date": "2026-07-04T15:13:52.602857+00:00"
-  },
-  {
     "id": "llama_2026070416",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,365,730,422 🟢 +0.00% (24h)",
@@ -1725,5 +1715,23 @@
     "fetched_at": "2026-07-11T15:02:57.456350+00:00",
     "used": true,
     "_sort_date": "2026-07-11T15:02:57.456350+00:00"
+  },
+  {
+    "id": "rss_c44aee85f9e0",
+    "source": "Decrypt",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "published_at": "Sat, 11 Jul 2026 16:21:34 +0000",
+    "fetched_at": "2026-07-11T16:27:51.909762+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071116",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,488,393,092 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-11T16:27:55.593066+00:00",
+    "used": false
   }
 ]
