@@ -1663,7 +1663,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-10T22:34:02.420847+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-10T22:34:02.420847+00:00"
   },
   {
     "id": "llama_2026071100",
@@ -1672,7 +1673,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T00:05:08.488813+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-11T00:05:08.488813+00:00"
   },
   {
     "id": "llama_2026071103",
@@ -1681,7 +1683,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T03:54:25.177056+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-11T03:54:25.177056+00:00"
   },
   {
     "id": "llama_2026071106",
@@ -1690,7 +1693,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T06:22:02.871731+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T06:22:02.871731+00:00"
   },
   {
     "id": "llama_2026071108",
@@ -1699,7 +1703,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T08:22:20.838130+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T08:22:20.838130+00:00"
   },
   {
     "id": "llama_2026071110",
@@ -1708,6 +1713,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T10:01:42.210958+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-11T10:01:42.210958+00:00"
   }
 ]
