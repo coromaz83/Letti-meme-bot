@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,358,467,591 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-04T11:40:18.236744+00:00",
-    "used": false,
-    "_sort_date": "2026-07-04T11:40:18.236744+00:00"
-  },
-  {
     "id": "rss_169d9415f59b",
     "source": "The Defiant",
     "title": "Moonbeam to Fully Migrate GLMR From Polkadot to Base, Pivot to AI Agent Network",
@@ -1723,6 +1713,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-11T11:32:26.112260+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_26391e0400b9",
+    "source": "CoinDesk",
+    "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+    "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+    "published_at": "Sat, 11 Jul 2026 12:00:00 +0000",
+    "fetched_at": "2026-07-11T13:43:50.216359+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071113",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,470,187,456 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-11T13:43:53.242980+00:00",
     "used": false
   }
 ]
