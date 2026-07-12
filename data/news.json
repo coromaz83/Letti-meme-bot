@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-07-05T04:42:50.816177+00:00",
-    "used": true,
-    "_sort_date": "2026-07-05T00:50:30+00:00"
-  },
-  {
-    "id": "llama_2026070504",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,370,983,493 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-05T04:42:54.501690+00:00",
-    "used": true,
-    "_sort_date": "2026-07-05T04:42:54.501690+00:00"
-  },
-  {
     "id": "llama_2026070508",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,369,453,174 🟢 +0.00% (24h)",
@@ -1732,6 +1712,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-12T03:40:40.574522+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18e3b43b6ea5",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+    "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+    "published_at": "Sun, 12 Jul 2026 06:18:15 +0000",
+    "fetched_at": "2026-07-12T06:41:51.767677+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071206",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,470,115,541 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-12T06:41:54.120896+00:00",
     "used": false
   }
 ]
