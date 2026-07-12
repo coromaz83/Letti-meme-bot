@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070512",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,363,182,535 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-05T12:22:09.115104+00:00",
-    "used": true,
-    "_sort_date": "2026-07-05T12:22:09.115104+00:00"
-  },
-  {
     "id": "llama_2026070514",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,364,138,871 🟢 +0.00% (24h)",
@@ -1752,6 +1742,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-12T12:04:28.970809+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0b478c12f428",
+    "source": "CryptoSlate",
+    "title": "Adam Back’s 30,021 BTC Bitcoin treasury deal just lost the funding structure holding it together",
+    "url": "https://cryptoslate.com/adam-backs-30021-btc-bitcoin-treasury-deal-just-lost-the-funding-structure-holding-it-together/",
+    "published_at": "Sun, 12 Jul 2026 13:45:43 +0000",
+    "fetched_at": "2026-07-12T14:07:00.026938+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071214",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,463,108,982 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-12T14:07:02.580975+00:00",
     "used": false
   }
 ]
