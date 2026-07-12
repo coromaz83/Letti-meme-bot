@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070514",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,364,138,871 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-05T14:18:39.612897+00:00",
-    "used": false,
-    "_sort_date": "2026-07-05T14:18:39.612897+00:00"
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -1760,6 +1750,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-12T14:07:02.580975+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071215",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,464,575,811 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-12T15:36:11.051717+00:00",
     "used": false
   }
 ]
