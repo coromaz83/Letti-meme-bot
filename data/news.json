@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070601",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,407,829,815 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-06T01:17:21.352998+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T01:17:21.352998+00:00"
-  },
-  {
     "id": "rss_46e88d5edeb8",
     "source": "CoinDesk",
     "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
@@ -1763,6 +1753,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-12T23:31:11.865926+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071303",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,437,682,216 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-13T03:42:40.525152+00:00",
     "used": false
   }
 ]
