@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_46e88d5edeb8",
-    "source": "CoinDesk",
-    "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
-    "url": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
-    "published_at": "Mon, 06 Jul 2026 05:09:07 +0000",
-    "fetched_at": "2026-07-06T06:06:11.305083+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T05:09:07+00:00"
-  },
-  {
-    "id": "llama_2026070606",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,401,966,257 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-06T06:06:14.364545+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T06:06:14.364545+00:00"
-  },
-  {
     "id": "rss_ef13384ef63c",
     "source": "CoinDesk",
     "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
@@ -1762,6 +1742,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-13T03:42:40.525152+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071307",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,398,489,711 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-13T07:30:10.791970+00:00",
     "used": false
   }
 ]
