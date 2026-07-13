@@ -1582,7 +1582,8 @@
     "url": "https://thedefiant.io/news/blockchains/coinbase-ceo-says-base-s-content-coins-didn-t-work",
     "published_at": "Mon, 13 Jul 2026 17:27:01 GMT",
     "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-13T17:27:01+00:00"
   },
   {
     "id": "rss_f5a7d507794d",
@@ -1591,7 +1592,8 @@
     "url": "https://thedefiant.io/news/regulation/trump-urges-senate-to-pass-clarity-act-for-lindsey-graham",
     "published_at": "Mon, 13 Jul 2026 16:38:29 GMT",
     "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T16:38:29+00:00"
   },
   {
     "id": "rss_6f925c48f211",
@@ -1600,7 +1602,8 @@
     "url": "https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/",
     "published_at": "Mon, 13 Jul 2026 16:45:52 +0000",
     "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T16:45:52+00:00"
   },
   {
     "id": "llama_2026071318",
@@ -1609,7 +1612,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-13T18:17:51.897163+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T18:17:51.897163+00:00"
   },
   {
     "id": "rss_f62f6b075404",
@@ -1618,7 +1622,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
     "published_at": "Mon, 13 Jul 2026 20:00:34 GMT",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T20:00:34+00:00"
   },
   {
     "id": "rss_12c722667e6b",
@@ -1627,7 +1632,8 @@
     "url": "https://thedefiant.io/news/hacks/bonzo-lend-loses-9m-on-hedera-in-supra-oracle-exploit",
     "published_at": "Mon, 13 Jul 2026 19:48:08 GMT",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-13T19:48:08+00:00"
   },
   {
     "id": "rss_e93bf6bbc351",
@@ -1636,7 +1642,8 @@
     "url": "https://thedefiant.io/news/defi/sablier-labs-enters-maintenance-mode-halts-development",
     "published_at": "Mon, 13 Jul 2026 19:25:13 GMT",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T19:25:13+00:00"
   },
   {
     "id": "rss_430e7b8132ba",
@@ -1645,7 +1652,8 @@
     "url": "https://thedefiant.io/news/defi/uniswap-auctions-go-live-on-robinhood-chain",
     "published_at": "Mon, 13 Jul 2026 19:00:00 GMT",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T19:00:00+00:00"
   },
   {
     "id": "rss_0461b497f6cb",
@@ -1654,7 +1662,8 @@
     "url": "https://thedefiant.io/news/cefi/strategy-sells-467m-in-mstr-shares-bitcoin-stack-steady",
     "published_at": "Mon, 13 Jul 2026 17:25:00 GMT",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T17:25:00+00:00"
   },
   {
     "id": "rss_780778d65a66",
@@ -1663,7 +1672,8 @@
     "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
     "published_at": "Mon, 13 Jul 2026 18:57:19 +0000",
     "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T18:57:19+00:00"
   },
   {
     "id": "llama_2026071320",
@@ -1672,7 +1682,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-13T20:00:36.145805+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T20:00:36.145805+00:00"
   },
   {
     "id": "rss_45ff8598b9a5",
@@ -1681,7 +1692,8 @@
     "url": "https://thedefiant.io/news/defi/cap-cuts-its-stabledrop-airdrop-to-usd4-2m-from-usd12m-as-backlash-mounts",
     "published_at": "Mon, 13 Jul 2026 20:31:30 GMT",
     "fetched_at": "2026-07-13T21:30:18.903687+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-13T20:31:30+00:00"
   },
   {
     "id": "llama_2026071321",
@@ -1690,6 +1702,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-13T21:30:22.585559+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T21:30:22.585559+00:00"
   }
 ]
