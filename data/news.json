@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_69cfbac156ee",
-    "source": "The Defiant",
-    "title": "JPMorgan's JLTXX Tokenized Money Market Fund AUM Grows 250% in a Month on Ethereum",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-s-jltxx-tokenized-money-market-fund-aum-grows-250-in-a-month-on-ethereum",
-    "published_at": "Mon, 06 Jul 2026 21:07:18 GMT",
-    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
-    "used": true,
-    "_sort_date": "2026-07-06T21:07:18+00:00"
-  },
-  {
-    "id": "rss_1f2a60dff83c",
-    "source": "The Defiant",
-    "title": "Ripple Secures Full MiCA License, Completing EU Compliance",
-    "url": "https://thedefiant.io/converge/regulation/ripple-secures-full-mica-license-completing-eu-compliance",
-    "published_at": "Mon, 06 Jul 2026 21:04:12 GMT",
-    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T21:04:12+00:00"
-  },
-  {
-    "id": "rss_1f71cbfd5a45",
-    "source": "The Defiant",
-    "title": "EMURGO Says Hacked Cardano Wallet SecondFi Won't Reopen",
-    "url": "https://thedefiant.io/news/hacks/emurgo-says-hacked-cardano-wallet-secondfi-won-t-reopen",
-    "published_at": "Mon, 06 Jul 2026 20:46:04 GMT",
-    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T20:46:04+00:00"
-  },
-  {
-    "id": "rss_122292d94cba",
-    "source": "The Defiant",
-    "title": "BonkDAO Treasury Drained of $20M via Malicious Proposal",
-    "url": "https://thedefiant.io/news/hacks/bonkdao-treasury-drained-of-20m-via-malicious-proposal",
-    "published_at": "Mon, 06 Jul 2026 20:34:24 GMT",
-    "fetched_at": "2026-07-06T21:57:30.651530+00:00",
-    "used": true,
-    "_sort_date": "2026-07-06T20:34:24+00:00"
-  },
-  {
-    "id": "llama_2026070621",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,440,402,926 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-06T21:57:34.079843+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T21:57:34.079843+00:00"
-  },
-  {
     "id": "llama_2026070623",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,459,604,591 🟢 +0.00% (24h)",
@@ -1704,5 +1654,14 @@
     "fetched_at": "2026-07-13T21:30:22.585559+00:00",
     "used": false,
     "_sort_date": "2026-07-13T21:30:22.585559+00:00"
+  },
+  {
+    "id": "llama_2026071323",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,358,735,208 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-13T23:02:18.420698+00:00",
+    "used": false
   }
 ]
