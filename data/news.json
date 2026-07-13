@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_ef13384ef63c",
-    "source": "CoinDesk",
-    "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
-    "url": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
-    "published_at": "Mon, 06 Jul 2026 09:39:52 +0000",
-    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": true,
-    "_sort_date": "2026-07-06T09:39:52+00:00"
-  },
-  {
-    "id": "rss_b68f4a7781f5",
-    "source": "CoinDesk",
-    "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
-    "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
-    "published_at": "Mon, 06 Jul 2026 07:44:58 +0000",
-    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": true,
-    "_sort_date": "2026-07-06T07:44:58+00:00"
-  },
-  {
-    "id": "rss_c59b1756df68",
-    "source": "CryptoSlate",
-    "title": "Trump memecoin ethics fight still controls CLARITY Act vote after law enforcement opposition cracks",
-    "url": "https://cryptoslate.com/trump-memecoin-ethics-fight-still-controls-clarity-act-vote-after-law-enforcement-opposition-cracks/",
-    "published_at": "Mon, 06 Jul 2026 10:00:26 +0000",
-    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": true,
-    "_sort_date": "2026-07-06T10:00:26+00:00"
-  },
-  {
-    "id": "rss_228a9257fc76",
-    "source": "CryptoSlate",
-    "title": "Vitalik’s new Lean Ethereum plan puts ETH’s Wall Street pitch on a 4 year clock",
-    "url": "https://cryptoslate.com/vitaliks-lean-ethereum-plan-turns-eths-wall-street-pitch-into-a-delivery-reckoning/",
-    "published_at": "Mon, 06 Jul 2026 07:00:38 +0000",
-    "fetched_at": "2026-07-06T11:14:20.737511+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T07:00:38+00:00"
-  },
-  {
-    "id": "llama_2026070611",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,370,978,825 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-06T11:14:25.015943+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T11:14:25.015943+00:00"
-  },
-  {
     "id": "rss_d26dd3e2eb82",
     "source": "CoinDesk",
     "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
@@ -1764,5 +1714,32 @@
     "fetched_at": "2026-07-13T10:41:19.708337+00:00",
     "used": true,
     "_sort_date": "2026-07-13T10:41:19.708337+00:00"
+  },
+  {
+    "id": "rss_1ed7b80a2508",
+    "source": "CryptoSlate",
+    "title": "Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending",
+    "url": "https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
+    "published_at": "Mon, 13 Jul 2026 13:15:28 +0000",
+    "fetched_at": "2026-07-13T13:27:59.014953+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_adfceb787fe0",
+    "source": "Decrypt",
+    "title": "Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch",
+    "url": "https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
+    "published_at": "Mon, 13 Jul 2026 11:53:11 +0000",
+    "fetched_at": "2026-07-13T13:27:59.014953+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071313",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,398,389,421 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-13T13:28:01.445330+00:00",
+    "used": false
   }
 ]
