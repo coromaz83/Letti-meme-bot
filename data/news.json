@@ -1,105 +1,5 @@
 [
   {
-    "id": "rss_b16c5822053b",
-    "source": "CoinDesk",
-    "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
-    "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
-    "published_at": "Mon, 06 Jul 2026 16:00:15 +0000",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T16:00:15+00:00"
-  },
-  {
-    "id": "rss_6a130158504f",
-    "source": "CoinDesk",
-    "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
-    "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
-    "published_at": "Mon, 06 Jul 2026 15:34:33 +0000",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T15:34:33+00:00"
-  },
-  {
-    "id": "rss_f62f6b075404",
-    "source": "The Defiant",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "published_at": "Mon, 06 Jul 2026 17:48:58 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T17:48:58+00:00"
-  },
-  {
-    "id": "rss_5e83bda16870",
-    "source": "The Defiant",
-    "title": "Summer Finance Drained of $6M in Flash Loan Exploit",
-    "url": "https://thedefiant.io/news/hacks/summer-finance-drained-of-6m-in-flash-loan-exploit",
-    "published_at": "Mon, 06 Jul 2026 17:08:57 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T17:08:57+00:00"
-  },
-  {
-    "id": "rss_3bcb84d6b0b6",
-    "source": "The Defiant",
-    "title": "AVAX One CEO Jolie Kahn Resigns Days After Stock Crash Warning",
-    "url": "https://thedefiant.io/news/people/avax-one-ceo-jolie-kahn-resigns-days-after-stock-crash-warning",
-    "published_at": "Mon, 06 Jul 2026 16:16:04 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T16:16:04+00:00"
-  },
-  {
-    "id": "rss_85c4aec898e0",
-    "source": "The Defiant",
-    "title": "Yield Guild Games Sunsets YGG Play Publishing Unit, Cuts 35 Jobs",
-    "url": "https://thedefiant.io/news/nfts-and-web3/yield-guild-games-sunsets-ygg-play-publishing-unit-cuts-35-jobs",
-    "published_at": "Mon, 06 Jul 2026 15:53:51 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T15:53:51+00:00"
-  },
-  {
-    "id": "rss_e559135b286c",
-    "source": "The Defiant",
-    "title": "ENS Co-Founder Proposes Delegating 5M ENS Tokens to Reform DAO Governance",
-    "url": "https://thedefiant.io/news/defi/ens-co-founder-proposes-delegating-5m-ens-tokens-to-reform-dao-governance",
-    "published_at": "Mon, 06 Jul 2026 15:27:50 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T15:27:50+00:00"
-  },
-  {
-    "id": "rss_b18e98d5c7e8",
-    "source": "The Defiant",
-    "title": "Strategy Sells 3,588 Bitcoin for $216M to Fund Dividend Payments",
-    "url": "https://thedefiant.io/news/cefi/strategy-sells-3-588-bitcoin-for-216m-to-fund-dividend-payments",
-    "published_at": "Mon, 06 Jul 2026 14:58:11 GMT",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T14:58:11+00:00"
-  },
-  {
-    "id": "rss_dfa05e07bfb2",
-    "source": "Bankless",
-    "title": "Buterin Proposes 'Extremely Lean' Ethereum Overhaul",
-    "url": "https://www.bankless.com/read/news/buterin-proposes-extremely-lean-ethereum-overhaul",
-    "published_at": "Mon, 06 Jul 2026 13:35:04 -0400",
-    "fetched_at": "2026-07-06T17:48:56.956201+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T13:35:04-04:00"
-  },
-  {
-    "id": "llama_2026070617",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,353,319,592 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-06T17:49:00.109618+00:00",
-    "used": false,
-    "_sort_date": "2026-07-06T17:49:00.109618+00:00"
-  },
-  {
     "id": "rss_5da5fb57106a",
     "source": "CryptoSlate",
     "title": "Coinbase World Cup error shows prediction markets still have a proof problem",
@@ -1714,5 +1614,41 @@
     "fetched_at": "2026-07-13T16:07:25.227811+00:00",
     "used": false,
     "_sort_date": "2026-07-13T16:07:25.227811+00:00"
+  },
+  {
+    "id": "rss_e1835b04f233",
+    "source": "The Defiant",
+    "title": "Coinbase CEO Says Base's Content Coins 'Didn't Work'",
+    "url": "https://thedefiant.io/news/blockchains/coinbase-ceo-says-base-s-content-coins-didn-t-work",
+    "published_at": "Mon, 13 Jul 2026 17:27:01 GMT",
+    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f5a7d507794d",
+    "source": "The Defiant",
+    "title": "Trump Urges Senate to Pass Clarity Act for Lindsey Graham",
+    "url": "https://thedefiant.io/news/regulation/trump-urges-senate-to-pass-clarity-act-for-lindsey-graham",
+    "published_at": "Mon, 13 Jul 2026 16:38:29 GMT",
+    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6f925c48f211",
+    "source": "CryptoSlate",
+    "title": "How a zeroed oracle signature unlocked $9M from Hedera DeFi lender Bonzo Lend",
+    "url": "https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/",
+    "published_at": "Mon, 13 Jul 2026 16:45:52 +0000",
+    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071318",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,375,574,681 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-13T18:17:51.897163+00:00",
+    "used": false
   }
 ]
