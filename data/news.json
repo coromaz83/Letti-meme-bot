@@ -1643,7 +1643,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
     "published_at": "Tue, 14 Jul 2026 10:27:21 +0000",
     "fetched_at": "2026-07-14T11:09:33.779833+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T10:27:21+00:00"
   },
   {
     "id": "rss_0abcac7e9262",
@@ -1652,7 +1653,8 @@
     "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
     "published_at": "Tue, 14 Jul 2026 11:08:43 +0000",
     "fetched_at": "2026-07-14T11:09:33.779833+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T11:08:43+00:00"
   },
   {
     "id": "llama_2026071411",
@@ -1661,7 +1663,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T11:09:37.134230+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T11:09:37.134230+00:00"
   },
   {
     "id": "llama_2026071412",
@@ -1670,7 +1673,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T12:49:54.940500+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T12:49:54.940500+00:00"
   },
   {
     "id": "rss_2f3b0932d508",
@@ -1679,7 +1683,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
     "published_at": "Tue, 14 Jul 2026 14:31:44 +0000",
     "fetched_at": "2026-07-14T15:00:05.955532+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T14:31:44+00:00"
   },
   {
     "id": "rss_2327ccb9dd94",
@@ -1688,7 +1693,8 @@
     "url": "https://thedefiant.io/news/defi/ens-dao-votes-to-seat-new-security-council-weeks-after-founder-blocked-renewal",
     "published_at": "Tue, 14 Jul 2026 14:56:23 GMT",
     "fetched_at": "2026-07-14T15:00:05.955532+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T14:56:23+00:00"
   },
   {
     "id": "llama_2026071415",
@@ -1697,6 +1703,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T15:00:08.811199+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T15:00:08.811199+00:00"
   }
 ]
