@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_ba2b847fb463",
-    "source": "CryptoSlate",
-    "title": "Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins",
-    "url": "https://cryptoslate.com/base-moved-565b-in-stablecoins-revealing-that-ethereum-could-lose-ownership-of-the-crypto-payment-layer/",
-    "published_at": "Tue, 07 Jul 2026 22:05:33 +0000",
-    "fetched_at": "2026-07-07T23:10:20.788503+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026070723",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,419,702,501 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-07T23:10:25.026428+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T23:10:25.026428+00:00"
-  },
-  {
     "id": "llama_2026070801",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,428,203,115 🟢 +0.00% (24h)",
@@ -1733,6 +1714,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T22:32:56.944890+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071423",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,558,172,640 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T23:59:01.691270+00:00",
     "used": false
   }
 ]
