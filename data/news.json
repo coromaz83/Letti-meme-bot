@@ -1671,5 +1671,32 @@
     "published_at": "",
     "fetched_at": "2026-07-14T12:49:54.940500+00:00",
     "used": false
+  },
+  {
+    "id": "rss_2f3b0932d508",
+    "source": "CoinDesk",
+    "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
+    "url": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
+    "published_at": "Tue, 14 Jul 2026 14:31:44 +0000",
+    "fetched_at": "2026-07-14T15:00:05.955532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2327ccb9dd94",
+    "source": "The Defiant",
+    "title": "ENS DAO Votes to Seat New Security Council Weeks After Founder Blocked Renewal",
+    "url": "https://thedefiant.io/news/defi/ens-dao-votes-to-seat-new-security-council-weeks-after-founder-blocked-renewal",
+    "published_at": "Tue, 14 Jul 2026 14:56:23 GMT",
+    "fetched_at": "2026-07-14T15:00:05.955532+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071415",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,487,115,575 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T15:00:08.811199+00:00",
+    "used": false
   }
 ]
