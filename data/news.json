@@ -1633,7 +1633,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-13T23:02:18.420698+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-13T23:02:18.420698+00:00"
   },
   {
     "id": "llama_2026071400",
@@ -1642,7 +1643,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T00:55:10.865166+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T00:55:10.865166+00:00"
   },
   {
     "id": "llama_2026071404",
@@ -1651,7 +1653,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T04:09:00.311229+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T04:09:00.311229+00:00"
   },
   {
     "id": "llama_2026071406",
@@ -1660,7 +1663,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T06:36:27.371942+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T06:36:27.371942+00:00"
   },
   {
     "id": "rss_e46f37a24a15",
@@ -1669,7 +1673,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
     "published_at": "Tue, 14 Jul 2026 06:28:43 +0000",
     "fetched_at": "2026-07-14T09:10:43.288031+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T06:28:43+00:00"
   },
   {
     "id": "llama_2026071409",
@@ -1678,6 +1683,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T09:10:48.057309+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T09:10:48.057309+00:00"
   }
 ]
