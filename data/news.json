@@ -1661,5 +1661,23 @@
     "published_at": "",
     "fetched_at": "2026-07-14T06:36:27.371942+00:00",
     "used": false
+  },
+  {
+    "id": "rss_e46f37a24a15",
+    "source": "CoinDesk",
+    "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+    "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+    "published_at": "Tue, 14 Jul 2026 06:28:43 +0000",
+    "fetched_at": "2026-07-14T09:10:43.288031+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071409",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,405,227,703 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T09:10:48.057309+00:00",
+    "used": false
   }
 ]
