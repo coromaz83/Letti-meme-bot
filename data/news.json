@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_a92192cef4c8",
-    "source": "CoinDesk",
-    "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
-    "url": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
-    "published_at": "Tue, 07 Jul 2026 11:37:01 +0000",
-    "fetched_at": "2026-07-07T12:33:11.974005+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T11:37:01+00:00"
-  },
-  {
-    "id": "rss_69510cf7ac95",
-    "source": "CryptoSlate",
-    "title": "New SummerFi DeFi exploit shows AI automation now sits above smart contract risk",
-    "url": "https://cryptoslate.com/summer-fi-exploit-shows-ai-automation-now-sits-above-defi-smart-contract-risk/",
-    "published_at": "Tue, 07 Jul 2026 11:25:36 +0000",
-    "fetched_at": "2026-07-07T12:33:11.974005+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T11:25:36+00:00"
-  },
-  {
-    "id": "llama_2026070712",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,413,704,811 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-07T12:33:14.672726+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T12:33:14.672726+00:00"
-  },
-  {
     "id": "rss_a803ee77a955",
     "source": "CoinDesk",
     "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
@@ -1691,6 +1661,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T11:09:37.134230+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071412",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,398,047,960 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T12:49:54.940500+00:00",
     "used": false
   }
 ]
