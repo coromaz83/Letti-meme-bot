@@ -1593,7 +1593,8 @@
     "url": "https://thedefiant.io/news/cefi/coinbase-matches-robinhood-s-7-yield-with-a-different-design",
     "published_at": "Tue, 14 Jul 2026 15:40:01 GMT",
     "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T15:40:01+00:00"
   },
   {
     "id": "rss_b9462ed8f08a",
@@ -1602,7 +1603,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-leads-7m-series-a-in-pact-labs-for-usa-payroll",
     "published_at": "Tue, 14 Jul 2026 15:37:20 GMT",
     "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T15:37:20+00:00"
   },
   {
     "id": "rss_ae9acd693dff",
@@ -1611,7 +1613,8 @@
     "url": "https://thedefiant.io/converge/regulation/lummis-says-clarity-act-text-coming-in-next-few-days",
     "published_at": "Tue, 14 Jul 2026 15:37:02 GMT",
     "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T15:37:02+00:00"
   },
   {
     "id": "rss_01238ff1c90f",
@@ -1620,7 +1623,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethsystems-launches-privacy-tools-for-institutional-ethereum",
     "published_at": "Tue, 14 Jul 2026 15:24:14 GMT",
     "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T15:24:14+00:00"
   },
   {
     "id": "rss_13abf9454ecb",
@@ -1629,7 +1633,8 @@
     "url": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
     "published_at": "Tue, 14 Jul 2026 15:00:26 +0000",
     "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T15:00:26+00:00"
   },
   {
     "id": "llama_2026071416",
@@ -1638,7 +1643,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T16:24:19.349582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T16:24:19.349582+00:00"
   },
   {
     "id": "rss_320433978fde",
@@ -1647,7 +1653,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 14 Jul 2026 17:42:29 GMT",
     "fetched_at": "2026-07-14T17:42:27.947760+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T17:42:29+00:00"
   },
   {
     "id": "rss_88bc616eacb4",
@@ -1656,7 +1663,8 @@
     "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
     "published_at": "Tue, 14 Jul 2026 17:42:29 GMT",
     "fetched_at": "2026-07-14T17:42:27.947760+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T17:42:29+00:00"
   },
   {
     "id": "llama_2026071417",
@@ -1665,7 +1673,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T17:42:30.309731+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T17:42:30.309731+00:00"
   },
   {
     "id": "rss_64f1bdee2f12",
@@ -1674,7 +1683,8 @@
     "url": "https://thedefiant.io/news/hacks/prism-relaunches-on-new-contract-after-exploit-diverted-nearly-40-of-fees",
     "published_at": "Tue, 14 Jul 2026 18:25:53 GMT",
     "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T18:25:53+00:00"
   },
   {
     "id": "rss_25a0dcd5126a",
@@ -1683,7 +1693,8 @@
     "url": "https://thedefiant.io/news/defi/builder-deployed-markets-overtake-crypto-on-hyperliquid",
     "published_at": "Tue, 14 Jul 2026 17:49:13 GMT",
     "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T17:49:13+00:00"
   },
   {
     "id": "rss_3cb512204bfc",
@@ -1692,7 +1703,8 @@
     "url": "https://www.bankless.com/read/news/galaxy-debuts-gofr-to-pipe-institutions-into-defi-credit",
     "published_at": "Tue, 14 Jul 2026 13:26:16 -0400",
     "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T13:26:16-04:00"
   },
   {
     "id": "rss_ebc655ba7422",
@@ -1701,7 +1713,8 @@
     "url": "https://www.bankless.com/read/news/ethereum-foundation-privacy-team-spins-out-as-ethsystems",
     "published_at": "Tue, 14 Jul 2026 12:59:48 -0400",
     "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T12:59:48-04:00"
   },
   {
     "id": "llama_2026071419",
@@ -1710,7 +1723,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T19:37:51.642836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T19:37:51.642836+00:00"
   },
   {
     "id": "rss_10cedc0592d6",
@@ -1719,7 +1733,8 @@
     "url": "https://thedefiant.io/news/regulation/argentine-judge-orders-id-freeze-of-25-libra-linked-crypto-wallets",
     "published_at": "Tue, 14 Jul 2026 21:07:25 GMT",
     "fetched_at": "2026-07-14T21:07:23.714935+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-14T21:07:25+00:00"
   },
   {
     "id": "llama_2026071421",
@@ -1728,6 +1743,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T21:07:27.686277+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T21:07:27.686277+00:00"
   }
 ]
