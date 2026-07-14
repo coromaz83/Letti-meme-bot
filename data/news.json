@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_a803ee77a955",
-    "source": "CoinDesk",
-    "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
-    "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
-    "published_at": "Tue, 07 Jul 2026 13:46:25 +0000",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T13:46:25+00:00"
-  },
-  {
-    "id": "rss_320433978fde",
-    "source": "The Defiant",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T15:47:09+00:00"
-  },
-  {
-    "id": "rss_88bc616eacb4",
-    "source": "The Defiant",
-    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
-    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-    "published_at": "Tue, 07 Jul 2026 15:47:09 GMT",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T15:47:09+00:00"
-  },
-  {
-    "id": "rss_e12d2079fa99",
-    "source": "The Defiant",
-    "title": "BonkDAO Attacker Moves $19M Loot Into New 'BONK 2.0' DAO",
-    "url": "https://thedefiant.io/news/hacks/bonkdao-attacker-moves-19m-loot-into-new-bonk-2-0-dao",
-    "published_at": "Tue, 07 Jul 2026 15:22:23 GMT",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T15:22:23+00:00"
-  },
-  {
-    "id": "rss_dde92d105809",
-    "source": "The Defiant",
-    "title": "Traders Sue Polymarket, CEO Coplan Over Strategy Market Decision",
-    "url": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
-    "published_at": "Tue, 07 Jul 2026 15:09:04 GMT",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T15:09:04+00:00"
-  },
-  {
-    "id": "rss_70d4f316a4d9",
-    "source": "The Defiant",
-    "title": "CAP Token Climbs to #2 Lending-Borrowing Protocol by Volume, 10 Days After Launch",
-    "url": "https://thedefiant.io/news/defi/cap-token-climbs-to-2-lending-borrowing-protocol-by-volume-10-days-after-launch",
-    "published_at": "Tue, 07 Jul 2026 13:30:00 GMT",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T13:30:00+00:00"
-  },
-  {
-    "id": "rss_94d2d5b706cb",
-    "source": "Decrypt",
-    "title": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-    "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
-    "published_at": "Tue, 07 Jul 2026 13:48:44 +0000",
-    "fetched_at": "2026-07-07T15:46:53.668395+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T13:48:44+00:00"
-  },
-  {
-    "id": "llama_2026070715",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,407,210,843 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-07T15:47:10.563636+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T15:47:10.563636+00:00"
-  },
-  {
     "id": "rss_f3139006704a",
     "source": "The Defiant",
     "title": "KAST's ToS Draw Fire After Public Feud With EtherFi CEO",
@@ -1705,5 +1625,59 @@
     "fetched_at": "2026-07-14T15:00:08.811199+00:00",
     "used": false,
     "_sort_date": "2026-07-14T15:00:08.811199+00:00"
+  },
+  {
+    "id": "rss_de1c136f4cb0",
+    "source": "The Defiant",
+    "title": "Coinbase Matches Robinhood's 7% Yield With a Different Design",
+    "url": "https://thedefiant.io/news/cefi/coinbase-matches-robinhood-s-7-yield-with-a-different-design",
+    "published_at": "Tue, 14 Jul 2026 15:40:01 GMT",
+    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b9462ed8f08a",
+    "source": "The Defiant",
+    "title": "Tether Leads $7M Series A in Pact Labs for USA₮ Payroll",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-leads-7m-series-a-in-pact-labs-for-usa-payroll",
+    "published_at": "Tue, 14 Jul 2026 15:37:20 GMT",
+    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ae9acd693dff",
+    "source": "The Defiant",
+    "title": "Lummis Says CLARITY Act Text Coming 'in Next Few Days'",
+    "url": "https://thedefiant.io/converge/regulation/lummis-says-clarity-act-text-coming-in-next-few-days",
+    "published_at": "Tue, 14 Jul 2026 15:37:02 GMT",
+    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_01238ff1c90f",
+    "source": "The Defiant",
+    "title": "EthSystems Launches Privacy Tools for Institutional Ethereum",
+    "url": "https://thedefiant.io/news/blockchains/ethsystems-launches-privacy-tools-for-institutional-ethereum",
+    "published_at": "Tue, 14 Jul 2026 15:24:14 GMT",
+    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_13abf9454ecb",
+    "source": "Decrypt",
+    "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
+    "url": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
+    "published_at": "Tue, 14 Jul 2026 15:00:26 +0000",
+    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071416",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,513,634,717 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T16:24:19.349582+00:00",
+    "used": false
   }
 ]
