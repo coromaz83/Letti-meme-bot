@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070705",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,425,111,223 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-07T05:46:39.220901+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T05:46:39.220901+00:00"
-  },
-  {
     "id": "rss_2ee09fb7c24a",
     "source": "CoinDesk",
     "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
@@ -1661,6 +1651,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T04:09:00.311229+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071406",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,397,393,863 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T06:36:27.371942+00:00",
     "used": false
   }
 ]
