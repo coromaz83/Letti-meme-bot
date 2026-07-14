@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_756aaac7a96d",
-    "source": "Decrypt",
-    "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
-    "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-    "published_at": "Tue, 07 Jul 2026 21:31:09 +0000",
-    "fetched_at": "2026-07-07T21:57:09.619874+00:00",
-    "used": true,
-    "_sort_date": "2026-07-07T21:31:09+00:00"
-  },
-  {
-    "id": "llama_2026070721",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,437,262,520 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-07T21:57:32.131025+00:00",
-    "used": false,
-    "_sort_date": "2026-07-07T21:57:32.131025+00:00"
-  },
-  {
     "id": "rss_ba2b847fb463",
     "source": "CryptoSlate",
     "title": "Ethereum is losing ownership of crypto payments as Base moves $565B in stablecoins",
@@ -1745,5 +1725,14 @@
     "fetched_at": "2026-07-14T21:07:27.686277+00:00",
     "used": false,
     "_sort_date": "2026-07-14T21:07:27.686277+00:00"
+  },
+  {
+    "id": "llama_2026071422",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,537,224,094 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-14T22:32:56.944890+00:00",
+    "used": false
   }
 ]
