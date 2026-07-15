@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_47390af2a910",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s treasury boom now has one company nearing 5% of supply",
-    "url": "https://cryptoslate.com/ethereums-treasury-boom-now-has-one-company-nearing-5-of-supply/",
-    "published_at": "Wed, 08 Jul 2026 08:32:22 +0000",
-    "fetched_at": "2026-07-08T10:27:28.359800+00:00",
-    "used": true,
-    "_sort_date": "2026-07-08T08:32:22+00:00"
-  },
-  {
-    "id": "llama_2026070810",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,364,703,665 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-08T10:27:31.764813+00:00",
-    "used": true,
-    "_sort_date": "2026-07-08T10:27:31.764813+00:00"
-  },
-  {
     "id": "llama_2026070812",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,321,070,740 🟢 +0.00% (24h)",
@@ -1755,5 +1735,23 @@
     "fetched_at": "2026-07-15T10:24:36.593440+00:00",
     "used": true,
     "_sort_date": "2026-07-15T10:24:36.593440+00:00"
+  },
+  {
+    "id": "rss_cb49a2ffe150",
+    "source": "Decrypt",
+    "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
+    "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+    "published_at": "Wed, 15 Jul 2026 11:12:45 +0000",
+    "fetched_at": "2026-07-15T12:02:34.672068+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071512",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,555,586,314 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T12:02:37.711660+00:00",
+    "used": false
   }
 ]
