@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_dd81bc5185bb",
-    "source": "The Defiant",
-    "title": "Dinari, tZERO Partner on Tokenized US Stock Framework",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-tzero-partner-on-tokenized-us-stock-framework",
-    "published_at": "Wed, 08 Jul 2026 17:34:57 GMT",
-    "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T17:34:57+00:00"
-  },
-  {
-    "id": "rss_04a2b10f117e",
-    "source": "The Defiant",
-    "title": "Strike Launches Bitcoin Loans With No Price Liquidations",
-    "url": "https://thedefiant.io/converge/cefi/strike-launches-bitcoin-loans-with-no-price-liquidations",
-    "published_at": "Wed, 08 Jul 2026 17:28:15 GMT",
-    "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T17:28:15+00:00"
-  },
-  {
-    "id": "rss_abf21d972541",
-    "source": "The Defiant",
-    "title": "AscendEX Halts Operations, Freezes Automated Withdrawals",
-    "url": "https://thedefiant.io/news/cefi/ascendex-halts-operations-freezes-automated-withdrawals",
-    "published_at": "Wed, 08 Jul 2026 17:23:03 GMT",
-    "fetched_at": "2026-07-08T18:23:22.251803+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T17:23:03+00:00"
-  },
-  {
-    "id": "llama_2026070818",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,301,242,886 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-08T18:23:25.293119+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T18:23:25.293119+00:00"
-  },
-  {
     "id": "rss_243aa20cb724",
     "source": "The Defiant",
     "title": "Robinhood Chain Metrics Surge as the Network Leans Into Memecoins",
@@ -1819,6 +1779,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T17:49:58.816552+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e05c815b0859",
+    "source": "The Defiant",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "published_at": "Wed, 15 Jul 2026 19:23:40 GMT",
+    "fetched_at": "2026-07-15T19:23:38.880852+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3e46aaa96a91",
+    "source": "Decrypt",
+    "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
+    "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
+    "published_at": "Wed, 15 Jul 2026 18:50:55 +0000",
+    "fetched_at": "2026-07-15T19:23:38.880852+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071519",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,597,305,468 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T19:23:43.029554+00:00",
     "used": false
   }
 ]
