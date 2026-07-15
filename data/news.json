@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070821",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,335,041,209 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-08T21:44:35.066278+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T21:44:35.066278+00:00"
-  },
-  {
     "id": "llama_2026070823",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,331,643,919 🟢 +0.00% (24h)",
@@ -1793,6 +1783,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T20:36:03.263656+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_604283e17c22",
+    "source": "Decrypt",
+    "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
+    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
+    "published_at": "Wed, 15 Jul 2026 21:38:43 +0000",
+    "fetched_at": "2026-07-15T22:08:29.997582+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071522",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,595,453,179 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T22:08:33.654927+00:00",
     "used": false
   }
 ]
