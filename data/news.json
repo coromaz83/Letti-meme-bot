@@ -1693,7 +1693,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-14T23:59:01.691270+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-14T23:59:01.691270+00:00"
   },
   {
     "id": "llama_2026071503",
@@ -1702,7 +1703,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T03:25:16.273610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T03:25:16.273610+00:00"
   },
   {
     "id": "llama_2026071505",
@@ -1711,7 +1713,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T05:55:07.902359+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T05:55:07.902359+00:00"
   },
   {
     "id": "llama_2026071508",
@@ -1720,7 +1723,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T08:27:46.545902+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T08:27:46.545902+00:00"
   },
   {
     "id": "rss_7fc822760ae3",
@@ -1729,7 +1733,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
     "published_at": "Wed, 15 Jul 2026 08:29:18 +0000",
     "fetched_at": "2026-07-15T10:24:32.835311+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T08:29:18+00:00"
   },
   {
     "id": "rss_e2ff9a1153ee",
@@ -1738,7 +1743,8 @@
     "url": "https://cryptoslate.com/us-turns-stablecoin-issuer-tether-into-a-financial-weapon-against-iran-freezing-nearly-500-million/",
     "published_at": "Wed, 15 Jul 2026 09:18:54 +0000",
     "fetched_at": "2026-07-15T10:24:32.835311+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T09:18:54+00:00"
   },
   {
     "id": "llama_2026071510",
@@ -1747,6 +1753,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T10:24:36.593440+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T10:24:36.593440+00:00"
   }
 ]
