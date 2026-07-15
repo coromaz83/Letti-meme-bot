@@ -1721,5 +1721,32 @@
     "published_at": "",
     "fetched_at": "2026-07-15T08:27:46.545902+00:00",
     "used": false
+  },
+  {
+    "id": "rss_7fc822760ae3",
+    "source": "CoinDesk",
+    "title": "Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%",
+    "url": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
+    "published_at": "Wed, 15 Jul 2026 08:29:18 +0000",
+    "fetched_at": "2026-07-15T10:24:32.835311+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e2ff9a1153ee",
+    "source": "CryptoSlate",
+    "title": "US turns stablecoin issuer Tether into a financial weapon against Iran, freezing nearly $500 million",
+    "url": "https://cryptoslate.com/us-turns-stablecoin-issuer-tether-into-a-financial-weapon-against-iran-freezing-nearly-500-million/",
+    "published_at": "Wed, 15 Jul 2026 09:18:54 +0000",
+    "fetched_at": "2026-07-15T10:24:32.835311+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071510",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,558,629,729 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T10:24:36.593440+00:00",
+    "used": false
   }
 ]
