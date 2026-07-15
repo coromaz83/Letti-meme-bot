@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_14e3026da474",
-    "source": "The Defiant",
-    "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
-    "published_at": "Wed, 08 Jul 2026 14:57:41 GMT",
-    "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": true,
-    "_sort_date": "2026-07-08T14:57:41+00:00"
-  },
-  {
-    "id": "rss_881582f67faf",
-    "source": "The Defiant",
-    "title": "SEC Adds Three Crypto Rules to 2026 Regulatory Agenda",
-    "url": "https://thedefiant.io/converge/regulation/sec-adds-three-crypto-rules-to-2026-regulatory-agenda",
-    "published_at": "Wed, 08 Jul 2026 14:40:51 GMT",
-    "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": true,
-    "_sort_date": "2026-07-08T14:40:51+00:00"
-  },
-  {
-    "id": "rss_2de5f029a6c2",
-    "source": "Decrypt",
-    "title": "Bankers Filed Suspicious Activity Report Over Farage's £5M Gift From Tether Billionaire",
-    "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-    "published_at": "Wed, 08 Jul 2026 12:06:35 +0000",
-    "fetched_at": "2026-07-08T14:57:40.350356+00:00",
-    "used": true,
-    "_sort_date": "2026-07-08T12:06:35+00:00"
-  },
-  {
-    "id": "llama_2026070814",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,322,676,432 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-08T14:57:43.055922+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T14:57:43.055922+00:00"
-  },
-  {
     "id": "rss_ac2804d77bac",
     "source": "The Defiant",
     "title": "Pump.fun Adds Trading for Robinhood Chain Tokens as CASHCAT Meme Coin Frenzy Builds",
@@ -1769,6 +1729,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T14:22:32.376352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_242fdc58587d",
+    "source": "CoinDesk",
+    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+    "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+    "published_at": "Wed, 15 Jul 2026 15:27:43 +0000",
+    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ebc468d00bb",
+    "source": "CoinDesk",
+    "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+    "published_at": "Wed, 15 Jul 2026 14:58:09 +0000",
+    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7112a7481d6b",
+    "source": "CoinDesk",
+    "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
+    "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+    "published_at": "Wed, 15 Jul 2026 14:37:36 +0000",
+    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2bf3704e629c",
+    "source": "The Defiant",
+    "title": "DTCC Starts Live Tokenized-Securities Trades With More Than Two Dozen Firms",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-starts-live-tokenized-securities-trades-with-more-than-two-dozen-firms",
+    "published_at": "Wed, 15 Jul 2026 14:22:10 GMT",
+    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_da6b1e228e8e",
+    "source": "CryptoSlate",
+    "title": "BitMine made $46 million staking Ethereum then lost twice that betting on it",
+    "url": "https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/",
+    "published_at": "Wed, 15 Jul 2026 15:50:25 +0000",
+    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071516",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,590,937,474 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T16:05:22.169874+00:00",
     "used": false
   }
 ]
