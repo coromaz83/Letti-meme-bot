@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070812",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,321,070,740 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-08T12:06:30.119081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-08T12:06:30.119081+00:00"
-  },
-  {
     "id": "rss_14e3026da474",
     "source": "The Defiant",
     "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
@@ -1752,6 +1742,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T12:02:37.711660+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_30dc62cc24e5",
+    "source": "CoinDesk",
+    "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
+    "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
+    "published_at": "Wed, 15 Jul 2026 13:19:48 +0000",
+    "fetched_at": "2026-07-15T14:22:29.456950+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23cba8e1c807",
+    "source": "The Defiant",
+    "title": "Stripe's $53B PayPal Bid Would Combine Bridge and PYUSD Under One Owner",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-s-usd53b-paypal-bid-would-combine-bridge-and-pyusd-under-one-owner",
+    "published_at": "Wed, 15 Jul 2026 14:00:51 GMT",
+    "fetched_at": "2026-07-15T14:22:29.456950+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071514",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,560,611,489 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-15T14:22:32.376352+00:00",
     "used": false
   }
 ]
