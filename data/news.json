@@ -1693,7 +1693,8 @@
     "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
     "published_at": "Wed, 15 Jul 2026 11:12:45 +0000",
     "fetched_at": "2026-07-15T12:02:34.672068+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T11:12:45+00:00"
   },
   {
     "id": "llama_2026071512",
@@ -1702,7 +1703,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T12:02:37.711660+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T12:02:37.711660+00:00"
   },
   {
     "id": "rss_30dc62cc24e5",
@@ -1711,7 +1713,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
     "published_at": "Wed, 15 Jul 2026 13:19:48 +0000",
     "fetched_at": "2026-07-15T14:22:29.456950+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T13:19:48+00:00"
   },
   {
     "id": "rss_23cba8e1c807",
@@ -1720,7 +1723,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-s-usd53b-paypal-bid-would-combine-bridge-and-pyusd-under-one-owner",
     "published_at": "Wed, 15 Jul 2026 14:00:51 GMT",
     "fetched_at": "2026-07-15T14:22:29.456950+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T14:00:51+00:00"
   },
   {
     "id": "llama_2026071514",
@@ -1729,7 +1733,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T14:22:32.376352+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T14:22:32.376352+00:00"
   },
   {
     "id": "rss_242fdc58587d",
@@ -1738,7 +1743,8 @@
     "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
     "published_at": "Wed, 15 Jul 2026 15:27:43 +0000",
     "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T15:27:43+00:00"
   },
   {
     "id": "rss_4ebc468d00bb",
@@ -1747,7 +1753,8 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
     "published_at": "Wed, 15 Jul 2026 14:58:09 +0000",
     "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T14:58:09+00:00"
   },
   {
     "id": "rss_7112a7481d6b",
@@ -1756,7 +1763,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
     "published_at": "Wed, 15 Jul 2026 14:37:36 +0000",
     "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T14:37:36+00:00"
   },
   {
     "id": "rss_2bf3704e629c",
@@ -1765,7 +1773,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-starts-live-tokenized-securities-trades-with-more-than-two-dozen-firms",
     "published_at": "Wed, 15 Jul 2026 14:22:10 GMT",
     "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T14:22:10+00:00"
   },
   {
     "id": "rss_da6b1e228e8e",
@@ -1774,7 +1783,8 @@
     "url": "https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/",
     "published_at": "Wed, 15 Jul 2026 15:50:25 +0000",
     "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-15T15:50:25+00:00"
   },
   {
     "id": "llama_2026071516",
@@ -1783,6 +1793,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T16:05:22.169874+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T16:05:22.169874+00:00"
   }
 ]
