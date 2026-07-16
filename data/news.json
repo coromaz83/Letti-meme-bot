@@ -1801,7 +1801,8 @@
     "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
     "published_at": "Thu, 16 Jul 2026 10:12:05 +0000",
     "fetched_at": "2026-07-16T11:06:22.302357+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T10:12:05+00:00"
   },
   {
     "id": "rss_1dd6df935a22",
@@ -1810,7 +1811,8 @@
     "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
     "published_at": "Thu, 16 Jul 2026 10:07:06 +0000",
     "fetched_at": "2026-07-16T11:06:22.302357+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T10:07:06+00:00"
   },
   {
     "id": "llama_2026071611",
@@ -1819,7 +1821,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T11:06:25.124353+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T11:06:25.124353+00:00"
   },
   {
     "id": "rss_465042e669c4",
@@ -1828,7 +1831,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
     "published_at": "Thu, 16 Jul 2026 12:00:00 +0000",
     "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T12:00:00+00:00"
   },
   {
     "id": "rss_d00341e85dee",
@@ -1837,7 +1841,8 @@
     "url": "https://cryptoslate.com/bitcoins-old-coins-have-gone-quiet-and-69000-could-reveal-whether-the-new-holders-crack/",
     "published_at": "Thu, 16 Jul 2026 12:05:57 +0000",
     "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T12:05:57+00:00"
   },
   {
     "id": "rss_8b2649fafc49",
@@ -1846,7 +1851,8 @@
     "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
     "published_at": "Thu, 16 Jul 2026 12:03:28 +0000",
     "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T12:03:28+00:00"
   },
   {
     "id": "llama_2026071613",
@@ -1855,7 +1861,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T13:04:21.369270+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T13:04:21.369270+00:00"
   },
   {
     "id": "rss_510e9e7daff2",
@@ -1864,7 +1871,8 @@
     "url": "https://thedefiant.io/converge/infrastructure/visa-s-sheffield-pegs-adjusted-x402-volume-at-19m",
     "published_at": "Thu, 16 Jul 2026 14:31:23 GMT",
     "fetched_at": "2026-07-16T15:18:30.517411+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T14:31:23+00:00"
   },
   {
     "id": "rss_c7a0d0bbc694",
@@ -1873,7 +1881,8 @@
     "url": "https://thedefiant.io/news/regulation/cftc-orders-kalshi-to-honor-trades-a-michigan-court-told-it-to-cancel",
     "published_at": "Thu, 16 Jul 2026 14:31:11 GMT",
     "fetched_at": "2026-07-16T15:18:30.517411+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T14:31:11+00:00"
   },
   {
     "id": "rss_bc0a68927a88",
@@ -1882,7 +1891,8 @@
     "url": "https://thedefiant.io/news/people/base-creator-jesse-pollak-hands-app-to-cobie-says-social-bet-was-definitively-wrong",
     "published_at": "Thu, 16 Jul 2026 14:27:58 GMT",
     "fetched_at": "2026-07-16T15:18:30.517411+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T14:27:58+00:00"
   },
   {
     "id": "rss_4a73844de3cb",
@@ -1891,7 +1901,8 @@
     "url": "https://thedefiant.io/news/people/1inch-co-founder-anton-bukov-says-he-was-fired-starts-new-venture-second-tier",
     "published_at": "Thu, 16 Jul 2026 14:12:04 GMT",
     "fetched_at": "2026-07-16T15:18:30.517411+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T14:12:04+00:00"
   },
   {
     "id": "rss_73766f47a918",
@@ -1900,7 +1911,8 @@
     "url": "https://cryptoslate.com/robinhood-took-on-coinbase-and-immediately-inherited-bases-biggest-problem/",
     "published_at": "Thu, 16 Jul 2026 15:05:54 +0000",
     "fetched_at": "2026-07-16T15:18:30.517411+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T15:05:54+00:00"
   },
   {
     "id": "llama_2026071615",
@@ -1909,6 +1921,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T15:18:33.456833+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T15:18:33.456833+00:00"
   }
 ]
