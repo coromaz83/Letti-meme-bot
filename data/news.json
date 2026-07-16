@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_715e5c9587b5",
-    "source": "CoinDesk",
-    "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-    "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-    "published_at": "Thu, 09 Jul 2026 10:55:37 +0000",
-    "fetched_at": "2026-07-09T12:44:45.317146+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T10:55:37+00:00"
-  },
-  {
-    "id": "llama_2026070912",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,362,104,230 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T12:44:47.871875+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T12:44:47.871875+00:00"
-  },
-  {
     "id": "rss_d2c16c5cdb33",
     "source": "CoinDesk",
     "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
@@ -1839,6 +1819,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T11:06:25.124353+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_465042e669c4",
+    "source": "CoinDesk",
+    "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
+    "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
+    "published_at": "Thu, 16 Jul 2026 12:00:00 +0000",
+    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d00341e85dee",
+    "source": "CryptoSlate",
+    "title": "Bitcoin’s old coins have gone quiet and $69,000 could reveal whether the new holders crack",
+    "url": "https://cryptoslate.com/bitcoins-old-coins-have-gone-quiet-and-69000-could-reveal-whether-the-new-holders-crack/",
+    "published_at": "Thu, 16 Jul 2026 12:05:57 +0000",
+    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8b2649fafc49",
+    "source": "Decrypt",
+    "title": "Morning Minute: Base Hands Its App Over to Cobie",
+    "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
+    "published_at": "Thu, 16 Jul 2026 12:03:28 +0000",
+    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071613",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,542,196,452 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T13:04:21.369270+00:00",
     "used": false
   }
 ]
