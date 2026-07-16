@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_a996cd6af126",
-    "source": "CoinDesk",
-    "title": "Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops",
-    "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
-    "published_at": "Thu, 09 Jul 2026 06:51:10 +0000",
-    "fetched_at": "2026-07-09T09:53:37.304343+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T06:51:10+00:00"
-  },
-  {
-    "id": "llama_2026070909",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,363,927,248 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T09:53:39.741656+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T09:53:39.741656+00:00"
-  },
-  {
     "id": "rss_715e5c9587b5",
     "source": "CoinDesk",
     "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
@@ -1833,5 +1813,32 @@
     "fetched_at": "2026-07-16T08:55:41.951022+00:00",
     "used": false,
     "_sort_date": "2026-07-16T08:55:41.951022+00:00"
+  },
+  {
+    "id": "rss_202e878c8579",
+    "source": "CoinDesk",
+    "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
+    "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+    "published_at": "Thu, 16 Jul 2026 10:12:05 +0000",
+    "fetched_at": "2026-07-16T11:06:22.302357+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1dd6df935a22",
+    "source": "CoinDesk",
+    "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+    "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+    "published_at": "Thu, 16 Jul 2026 10:07:06 +0000",
+    "fetched_at": "2026-07-16T11:06:22.302357+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071611",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,537,339,057 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T11:06:25.124353+00:00",
+    "used": false
   }
 ]
