@@ -1856,5 +1856,59 @@
     "published_at": "",
     "fetched_at": "2026-07-16T13:04:21.369270+00:00",
     "used": false
+  },
+  {
+    "id": "rss_510e9e7daff2",
+    "source": "The Defiant",
+    "title": "Visa's Sheffield Pegs Adjusted x402 Volume at $19M",
+    "url": "https://thedefiant.io/converge/infrastructure/visa-s-sheffield-pegs-adjusted-x402-volume-at-19m",
+    "published_at": "Thu, 16 Jul 2026 14:31:23 GMT",
+    "fetched_at": "2026-07-16T15:18:30.517411+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c7a0d0bbc694",
+    "source": "The Defiant",
+    "title": "CFTC Orders Kalshi to Honor Trades a Michigan Court Told It to Cancel",
+    "url": "https://thedefiant.io/news/regulation/cftc-orders-kalshi-to-honor-trades-a-michigan-court-told-it-to-cancel",
+    "published_at": "Thu, 16 Jul 2026 14:31:11 GMT",
+    "fetched_at": "2026-07-16T15:18:30.517411+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc0a68927a88",
+    "source": "The Defiant",
+    "title": "Coinbase's Jesse Pollak Hands Base App to Cobie, Says Social Bet Was 'Definitively Wrong'",
+    "url": "https://thedefiant.io/news/people/base-creator-jesse-pollak-hands-app-to-cobie-says-social-bet-was-definitively-wrong",
+    "published_at": "Thu, 16 Jul 2026 14:27:58 GMT",
+    "fetched_at": "2026-07-16T15:18:30.517411+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a73844de3cb",
+    "source": "The Defiant",
+    "title": "1inch Co-Founder Anton Bukov Says He Was Fired, Starts New Venture Second Tier",
+    "url": "https://thedefiant.io/news/people/1inch-co-founder-anton-bukov-says-he-was-fired-starts-new-venture-second-tier",
+    "published_at": "Thu, 16 Jul 2026 14:12:04 GMT",
+    "fetched_at": "2026-07-16T15:18:30.517411+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_73766f47a918",
+    "source": "CryptoSlate",
+    "title": "Robinhood tackled Coinbase head-on then immediately inherited Base’s biggest problem",
+    "url": "https://cryptoslate.com/robinhood-took-on-coinbase-and-immediately-inherited-bases-biggest-problem/",
+    "published_at": "Thu, 16 Jul 2026 15:05:54 +0000",
+    "fetched_at": "2026-07-16T15:18:30.517411+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071615",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,540,946,821 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T15:18:33.456833+00:00",
+    "used": false
   }
 ]
