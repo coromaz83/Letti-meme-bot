@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026070901",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,340,549,148 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T01:11:33.844144+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T01:11:33.844144+00:00"
-  },
-  {
     "id": "rss_d6c9b7293d92",
     "source": "CoinDesk",
     "title": "Bitcoin, ether steady, gold slides as US-Iran tensions escalate again",
@@ -1801,6 +1791,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T23:32:16.361207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-07-16T03:24:31.333647+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071603",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,590,944,572 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T03:24:35.396359+00:00",
     "used": false
   }
 ]
