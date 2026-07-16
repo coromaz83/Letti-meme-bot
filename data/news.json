@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_48f84c24fd04",
-    "source": "The Defiant",
-    "title": "Gauntlet Raises $125M Series C From SBI Holdings",
-    "url": "https://thedefiant.io/news/defi/gauntlet-raises-125m-series-c-from-sbi-holdings",
-    "published_at": "Thu, 09 Jul 2026 17:30:45 GMT",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T17:30:45+00:00"
-  },
-  {
-    "id": "rss_8314408d92dd",
-    "source": "The Defiant",
-    "title": "Interpol Ties $122.5M Crypto Wallet to Romance Scam Ring",
-    "url": "https://thedefiant.io/news/security/interpol-ties-122-5m-crypto-wallet-to-romance-scam-ring",
-    "published_at": "Thu, 09 Jul 2026 17:14:06 GMT",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T17:14:06+00:00"
-  },
-  {
-    "id": "rss_25ef2dba9625",
-    "source": "The Defiant",
-    "title": "Summer.fi Hacker Moves $1.35M Into Tornado Cash",
-    "url": "https://thedefiant.io/news/hacks/summer-fi-hacker-moves-1-35m-into-tornado-cash",
-    "published_at": "Thu, 09 Jul 2026 16:24:47 GMT",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T16:24:47+00:00"
-  },
-  {
-    "id": "rss_3fb04b433d4f",
-    "source": "The Defiant",
-    "title": "Arbitrum to Capture 10% of Fees From Robinhood Chain",
-    "url": "https://thedefiant.io/news/tokens/arbitrum-to-capture-10-of-fees-from-robinhood-chain",
-    "published_at": "Thu, 09 Jul 2026 16:23:59 GMT",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T16:23:59+00:00"
-  },
-  {
-    "id": "rss_789040b61ff1",
-    "source": "The Defiant",
-    "title": "Aave Labs Launches Stable Vaults for Fintech Stablecoin Yield",
-    "url": "https://thedefiant.io/news/defi/aave-labs-launches-stable-vaults-for-fintech-stablecoin-yield",
-    "published_at": "Thu, 09 Jul 2026 16:06:34 GMT",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T16:06:34+00:00"
-  },
-  {
-    "id": "rss_978eae8f7ed4",
-    "source": "CryptoSlate",
-    "title": "Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first",
-    "url": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
-    "published_at": "Thu, 09 Jul 2026 16:25:31 +0000",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T16:25:31+00:00"
-  },
-  {
-    "id": "rss_9d767425e65c",
-    "source": "Bankless",
-    "title": "Hyperliquid Policy Center and Phantom Ask CFTC to Pave Way for Onchain Infra",
-    "url": "https://www.bankless.com/read/news/hyperliquid-policy-center-and-phantom-ask-cftc-to-pave-way-for-onchain-infra",
-    "published_at": "Thu, 09 Jul 2026 14:08:42 -0400",
-    "fetched_at": "2026-07-09T18:19:26.095175+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T14:08:42-04:00"
-  },
-  {
-    "id": "llama_2026070918",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,376,496,041 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T18:19:29.085202+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T18:19:29.085202+00:00"
-  },
-  {
     "id": "rss_6fe98ffaf6f7",
     "source": "The Defiant",
     "title": "Hyperliquid, Phantom Ask CFTC to Exempt DeFi From Broker Rules",
@@ -1925,6 +1845,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T18:12:43.118748+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c930ff31d118",
+    "source": "Bankless",
+    "title": "Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs",
+    "url": "https://www.bankless.com/read/news/ethereum-researcher-francesco-damato-departs-ef-for-ethlabs",
+    "published_at": "Thu, 16 Jul 2026 14:50:51 -0400",
+    "fetched_at": "2026-07-16T19:43:05.745610+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071619",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,556,726,712 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T19:43:08.711189+00:00",
     "used": false
   }
 ]
