@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_6fe98ffaf6f7",
-    "source": "The Defiant",
-    "title": "Hyperliquid, Phantom Ask CFTC to Exempt DeFi From Broker Rules",
-    "url": "https://thedefiant.io/news/regulation/hyperliquid-phantom-ask-cftc-to-exempt-defi-from-broker-rules",
-    "published_at": "Thu, 09 Jul 2026 19:53:58 GMT",
-    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T19:53:58+00:00"
-  },
-  {
-    "id": "rss_af96c8b57d5f",
-    "source": "The Defiant",
-    "title": "Privy Launches Global Fiat Onramps With Stripe in US, EU",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/privy-launches-global-fiat-onramps-with-stripe-in-us-eu",
-    "published_at": "Thu, 09 Jul 2026 18:58:24 GMT",
-    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T18:58:24+00:00"
-  },
-  {
-    "id": "rss_21bbbd82a270",
-    "source": "Decrypt",
-    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
-    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
-    "published_at": "Thu, 09 Jul 2026 18:27:47 +0000",
-    "fetched_at": "2026-07-09T20:23:25.373636+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T18:27:47+00:00"
-  },
-  {
-    "id": "llama_2026070920",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,389,949,575 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T20:23:28.146458+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T20:23:28.146458+00:00"
-  },
-  {
     "id": "rss_be56ce5749c2",
     "source": "CoinDesk",
     "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
@@ -1863,6 +1823,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T19:43:08.711189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2adf11ca4059",
+    "source": "Decrypt",
+    "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+    "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+    "published_at": "Thu, 16 Jul 2026 20:01:03 +0000",
+    "fetched_at": "2026-07-16T21:10:44.397652+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071621",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,542,578,735 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T21:10:47.153121+00:00",
     "used": false
   }
 ]
