@@ -1771,7 +1771,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-15T23:32:16.361207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-15T23:32:16.361207+00:00"
   },
   {
     "id": "rss_3cbb9fdb2d7f",
@@ -1780,7 +1781,8 @@
     "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
     "fetched_at": "2026-07-16T03:24:31.333647+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T01:14:58+00:00"
   },
   {
     "id": "llama_2026071603",
@@ -1789,7 +1791,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T03:24:35.396359+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T03:24:35.396359+00:00"
   },
   {
     "id": "rss_abc10adff12d",
@@ -1798,7 +1801,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
     "published_at": "Thu, 16 Jul 2026 04:56:15 +0000",
     "fetched_at": "2026-07-16T06:00:37.589466+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T04:56:15+00:00"
   },
   {
     "id": "llama_2026071606",
@@ -1807,7 +1811,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T06:00:41.635834+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T06:00:41.635834+00:00"
   },
   {
     "id": "rss_4903cdfc91b3",
@@ -1816,7 +1821,8 @@
     "url": "https://cryptoslate.com/ethereum-is-gaining-on-bitcoin-as-traders-see-a-bigger-breakout-taking-shape/",
     "published_at": "Thu, 16 Jul 2026 08:32:37 +0000",
     "fetched_at": "2026-07-16T08:55:39.046771+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T08:32:37+00:00"
   },
   {
     "id": "llama_2026071608",
@@ -1825,6 +1831,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T08:55:41.951022+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T08:55:41.951022+00:00"
   }
 ]
