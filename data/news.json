@@ -1899,5 +1899,32 @@
     "published_at": "",
     "fetched_at": "2026-07-16T16:50:26.886442+00:00",
     "used": false
+  },
+  {
+    "id": "rss_4bef84c910a6",
+    "source": "The Defiant",
+    "title": "Ostium Vault Exploiter Routes 10,540 ETH to Tornado Cash",
+    "url": "https://thedefiant.io/news/hacks/ostium-vault-exploiter-routes-10-540-eth-to-tornado-cash",
+    "published_at": "Thu, 16 Jul 2026 17:20:06 GMT",
+    "fetched_at": "2026-07-16T18:12:40.096002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b62b1d55d91",
+    "source": "The Defiant",
+    "title": "Visa Launches Stablecoin Platform Built on Open USD",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-launches-stablecoin-platform-built-on-open-usd",
+    "published_at": "Thu, 16 Jul 2026 17:17:18 GMT",
+    "fetched_at": "2026-07-16T18:12:40.096002+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071618",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,557,927,079 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T18:12:43.118748+00:00",
+    "used": false
   }
 ]
