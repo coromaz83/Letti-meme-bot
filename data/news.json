@@ -1751,7 +1751,8 @@
     "url": "https://thedefiant.io/news/people/polygon-labs-cuts-staff-again-as-it-closes-coinme-deal",
     "published_at": "Thu, 16 Jul 2026 15:34:18 GMT",
     "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T15:34:18+00:00"
   },
   {
     "id": "rss_63bf049ad9e5",
@@ -1760,7 +1761,8 @@
     "url": "https://thedefiant.io/news/defi/dune-study-for-1inch-finds-85-of-concentrated-liquidity-idle",
     "published_at": "Thu, 16 Jul 2026 15:33:07 GMT",
     "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T15:33:07+00:00"
   },
   {
     "id": "rss_7ce7401aa104",
@@ -1769,7 +1771,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-finance-partners-with-sbi-to-tokenize-japanese-assets",
     "published_at": "Thu, 16 Jul 2026 15:21:50 GMT",
     "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T15:21:50+00:00"
   },
   {
     "id": "llama_2026071616",
@@ -1778,7 +1781,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T16:50:26.886442+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T16:50:26.886442+00:00"
   },
   {
     "id": "rss_4bef84c910a6",
@@ -1787,7 +1791,8 @@
     "url": "https://thedefiant.io/news/hacks/ostium-vault-exploiter-routes-10-540-eth-to-tornado-cash",
     "published_at": "Thu, 16 Jul 2026 17:20:06 GMT",
     "fetched_at": "2026-07-16T18:12:40.096002+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T17:20:06+00:00"
   },
   {
     "id": "rss_9b62b1d55d91",
@@ -1796,7 +1801,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-launches-stablecoin-platform-built-on-open-usd",
     "published_at": "Thu, 16 Jul 2026 17:17:18 GMT",
     "fetched_at": "2026-07-16T18:12:40.096002+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T17:17:18+00:00"
   },
   {
     "id": "llama_2026071618",
@@ -1805,7 +1811,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T18:12:43.118748+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T18:12:43.118748+00:00"
   },
   {
     "id": "rss_c930ff31d118",
@@ -1814,7 +1821,8 @@
     "url": "https://www.bankless.com/read/news/ethereum-researcher-francesco-damato-departs-ef-for-ethlabs",
     "published_at": "Thu, 16 Jul 2026 14:50:51 -0400",
     "fetched_at": "2026-07-16T19:43:05.745610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T14:50:51-04:00"
   },
   {
     "id": "llama_2026071619",
@@ -1823,7 +1831,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T19:43:08.711189+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T19:43:08.711189+00:00"
   },
   {
     "id": "rss_2adf11ca4059",
@@ -1832,7 +1841,8 @@
     "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
     "published_at": "Thu, 16 Jul 2026 20:01:03 +0000",
     "fetched_at": "2026-07-16T21:10:44.397652+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-16T20:01:03+00:00"
   },
   {
     "id": "llama_2026071621",
@@ -1841,6 +1851,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T21:10:47.153121+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-16T21:10:47.153121+00:00"
   }
 ]
