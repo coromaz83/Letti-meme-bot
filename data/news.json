@@ -1,44 +1,5 @@
 [
   {
-    "id": "rss_be56ce5749c2",
-    "source": "CoinDesk",
-    "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-    "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-    "published_at": "Thu, 09 Jul 2026 20:31:39 +0000",
-    "fetched_at": "2026-07-09T22:04:07.448810+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T20:31:39+00:00"
-  },
-  {
-    "id": "rss_a6a890725b46",
-    "source": "CoinDesk",
-    "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
-    "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
-    "published_at": "Thu, 09 Jul 2026 20:28:51 +0000",
-    "fetched_at": "2026-07-09T22:04:07.448810+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T20:28:51+00:00"
-  },
-  {
-    "id": "rss_d7d4cb7f2342",
-    "source": "Bankless",
-    "title": "eToro Leads $12.5M Round for Onchain Perps Platform Extended",
-    "url": "https://www.bankless.com/read/news/etoro-leads-12-5m-round-for-onchain-perps-platform-extended",
-    "published_at": "Thu, 02 Jul 2026 14:59:57 -0400",
-    "fetched_at": "2026-07-09T22:04:07.448810+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026070922",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,395,630,116 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T22:04:09.991692+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T22:04:09.991692+00:00"
-  },
-  {
     "id": "rss_f6c703321b45",
     "source": "The Defiant",
     "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
@@ -1853,5 +1814,14 @@
     "fetched_at": "2026-07-16T21:10:47.153121+00:00",
     "used": false,
     "_sort_date": "2026-07-16T21:10:47.153121+00:00"
+  },
+  {
+    "id": "llama_2026071622",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,538,169,974 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T22:31:00.125124+00:00",
+    "used": false
   }
 ]
