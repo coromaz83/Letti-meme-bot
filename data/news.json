@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_d6c9b7293d92",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether steady, gold slides as US-Iran tensions escalate again",
-    "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
-    "published_at": "Thu, 09 Jul 2026 04:57:35 +0000",
-    "fetched_at": "2026-07-09T05:45:50.010952+00:00",
-    "used": true,
-    "_sort_date": "2026-07-09T04:57:35+00:00"
-  },
-  {
-    "id": "llama_2026070905",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,326,072,253 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-09T05:45:52.746596+00:00",
-    "used": false,
-    "_sort_date": "2026-07-09T05:45:52.746596+00:00"
-  },
-  {
     "id": "rss_a996cd6af126",
     "source": "CoinDesk",
     "title": "Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops",
@@ -1809,6 +1789,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-16T03:24:35.396359+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_abc10adff12d",
+    "source": "CoinDesk",
+    "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+    "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+    "published_at": "Thu, 16 Jul 2026 04:56:15 +0000",
+    "fetched_at": "2026-07-16T06:00:37.589466+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071606",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,584,945,417 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-16T06:00:41.635834+00:00",
     "used": false
   }
 ]
