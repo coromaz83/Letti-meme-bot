@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_505a7d2250f0",
-    "source": "CoinDesk",
-    "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-    "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
-    "published_at": "Fri, 10 Jul 2026 10:37:44 +0000",
-    "fetched_at": "2026-07-10T11:15:52.430167+00:00",
-    "used": true,
-    "_sort_date": "2026-07-10T10:37:44+00:00"
-  },
-  {
-    "id": "llama_2026071011",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,487,026,009 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-10T11:15:55.854865+00:00",
-    "used": true,
-    "_sort_date": "2026-07-10T11:15:55.854865+00:00"
-  },
-  {
     "id": "llama_2026071013",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,490,022,186 🟢 +0.00% (24h)",
@@ -1843,6 +1823,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T10:54:20.778189+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071712",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,485,639,540 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T12:16:18.443922+00:00",
     "used": false
   }
 ]
