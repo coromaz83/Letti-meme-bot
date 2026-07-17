@@ -1814,5 +1814,23 @@
     "published_at": "",
     "fetched_at": "2026-07-17T00:04:53.737878+00:00",
     "used": false
+  },
+  {
+    "id": "rss_f6c703321b45",
+    "source": "The Defiant",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "published_at": "Fri, 17 Jul 2026 03:48:48 GMT",
+    "fetched_at": "2026-07-17T03:48:46.834660+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071703",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,503,567,715 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T03:48:49.495596+00:00",
+    "used": false
   }
 ]
