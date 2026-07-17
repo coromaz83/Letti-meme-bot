@@ -1832,5 +1832,23 @@
     "published_at": "",
     "fetched_at": "2026-07-17T14:13:38.332300+00:00",
     "used": false
+  },
+  {
+    "id": "rss_9bf20ad153ef",
+    "source": "CryptoSlate",
+    "title": "Bitmine nears its Ethereum buying limit – Now it needs demand to make the bet pay off",
+    "url": "https://cryptoslate.com/bitmine-nears-its-ethereum-buying-limit-now-it-needs-demand-to-make-the-bet-pay-off/",
+    "published_at": "Fri, 17 Jul 2026 14:45:28 +0000",
+    "fetched_at": "2026-07-17T15:58:54.711266+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071715",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,480,747,218 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T15:58:57.525308+00:00",
+    "used": false
   }
 ]
