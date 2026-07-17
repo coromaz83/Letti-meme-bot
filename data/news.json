@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071013",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,490,022,186 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-10T13:29:16.907257+00:00",
-    "used": false,
-    "_sort_date": "2026-07-10T13:29:16.907257+00:00"
-  },
-  {
     "id": "rss_ccd7eee3e7c1",
     "source": "The Defiant",
     "title": "South Korea Super-App Toss to Run Won Stablecoin Pilot on OP Stack",
@@ -1832,6 +1822,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T12:16:18.443922+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071714",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,488,149,815 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T14:13:38.332300+00:00",
     "used": false
   }
 ]
