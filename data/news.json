@@ -1773,7 +1773,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T00:04:53.737878+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T00:04:53.737878+00:00"
   },
   {
     "id": "rss_f6c703321b45",
@@ -1782,7 +1783,8 @@
     "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
     "published_at": "Fri, 17 Jul 2026 03:48:48 GMT",
     "fetched_at": "2026-07-17T03:48:46.834660+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T03:48:48+00:00"
   },
   {
     "id": "llama_2026071703",
@@ -1791,7 +1793,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T03:48:49.495596+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T03:48:49.495596+00:00"
   },
   {
     "id": "llama_2026071706",
@@ -1800,7 +1803,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T06:23:37.977604+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T06:23:37.977604+00:00"
   },
   {
     "id": "rss_9932ea901df9",
@@ -1809,7 +1813,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
     "published_at": "Fri, 17 Jul 2026 07:29:41 +0000",
     "fetched_at": "2026-07-17T08:36:56.487026+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T07:29:41+00:00"
   },
   {
     "id": "rss_9eb489e65542",
@@ -1818,7 +1823,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
     "published_at": "Fri, 17 Jul 2026 07:28:52 +0000",
     "fetched_at": "2026-07-17T08:36:56.487026+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T07:28:52+00:00"
   },
   {
     "id": "llama_2026071708",
@@ -1827,6 +1833,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T08:36:59.711157+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T08:36:59.711157+00:00"
   }
 ]
