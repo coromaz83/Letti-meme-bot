@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_5e5782e4226c",
-    "source": "The Defiant",
-    "title": "Uniswap Floats Turning On Protocol Fees for v4 Pools",
-    "url": "https://thedefiant.io/news/defi/uniswap-floats-turning-on-protocol-fees-for-v4-pools",
-    "published_at": "Fri, 10 Jul 2026 16:50:09 GMT",
-    "fetched_at": "2026-07-10T18:08:48.863516+00:00",
-    "used": true,
-    "_sort_date": "2026-07-10T16:50:09+00:00"
-  },
-  {
-    "id": "rss_9d854244f480",
-    "source": "The Defiant",
-    "title": "\"Coinbase’s Brian Foster: Stablecoins Will Overtake Fiat Volume in 5 Years”",
-    "url": "https://thedefiant.io/converge/podcast/coinbase-s-brian-foster-stablecoins-will-overtake-fiat-volume-in-5-years",
-    "published_at": "Fri, 10 Jul 2026 16:27:45 GMT",
-    "fetched_at": "2026-07-10T18:08:48.863516+00:00",
-    "used": false,
-    "_sort_date": "2026-07-10T16:27:45+00:00"
-  },
-  {
-    "id": "llama_2026071018",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,452,800,546 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-10T18:08:51.542917+00:00",
-    "used": false,
-    "_sort_date": "2026-07-10T18:08:51.542917+00:00"
-  },
-  {
     "id": "rss_1ea8267896ef",
     "source": "The Defiant",
     "title": "Polymarket Applies for US License to Offer Margin Trading",
@@ -1823,6 +1793,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T17:20:18.665956+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc9cba31b136",
+    "source": "Bankless",
+    "title": "Ethereum Is Building Reunification Machinery",
+    "url": "https://www.bankless.com/read/ethereum-is-building-reunification-machinery",
+    "published_at": "Fri, 17 Jul 2026 14:35:11 -0400",
+    "fetched_at": "2026-07-17T18:36:23.871551+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071718",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,507,688,267 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T18:36:28.506935+00:00",
     "used": false
   }
 ]
