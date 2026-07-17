@@ -1753,7 +1753,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T17:20:18.665956+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T17:20:18.665956+00:00"
   },
   {
     "id": "rss_cc9cba31b136",
@@ -1762,7 +1763,8 @@
     "url": "https://www.bankless.com/read/ethereum-is-building-reunification-machinery",
     "published_at": "Fri, 17 Jul 2026 14:35:11 -0400",
     "fetched_at": "2026-07-17T18:36:23.871551+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T14:35:11-04:00"
   },
   {
     "id": "llama_2026071718",
@@ -1771,7 +1773,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T18:36:28.506935+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T18:36:28.506935+00:00"
   },
   {
     "id": "rss_579ddfa6978c",
@@ -1780,7 +1783,8 @@
     "url": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
     "published_at": "Fri, 17 Jul 2026 19:53:05 GMT",
     "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T19:53:05+00:00"
   },
   {
     "id": "rss_e0e90516f833",
@@ -1789,7 +1793,8 @@
     "url": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
     "published_at": "Fri, 17 Jul 2026 19:06:48 GMT",
     "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T19:06:48+00:00"
   },
   {
     "id": "rss_fac6d6537862",
@@ -1798,7 +1803,8 @@
     "url": "https://thedefiant.io/news/tokens/cashcat-falls-75-from-peak-after-hyperliquid-perp-listing",
     "published_at": "Fri, 17 Jul 2026 18:34:57 GMT",
     "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T18:34:57+00:00"
   },
   {
     "id": "llama_2026071720",
@@ -1807,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T20:11:54.784346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T20:11:54.784346+00:00"
   },
   {
     "id": "llama_2026071721",
@@ -1816,6 +1823,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T21:24:07.365426+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T21:24:07.365426+00:00"
   }
 ]
