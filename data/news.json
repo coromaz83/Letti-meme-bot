@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_1ea8267896ef",
-    "source": "The Defiant",
-    "title": "Polymarket Applies for US License to Offer Margin Trading",
-    "url": "https://thedefiant.io/news/regulation/polymarket-applies-for-us-license-to-offer-margin-trading",
-    "published_at": "Fri, 10 Jul 2026 19:55:47 GMT",
-    "fetched_at": "2026-07-10T20:00:13.279173+00:00",
-    "used": true,
-    "_sort_date": "2026-07-10T19:55:47+00:00"
-  },
-  {
-    "id": "rss_1e7384d0624c",
-    "source": "The Defiant",
-    "title": "Sky Reports Record $419M Revenue Run-Rate for June 2026",
-    "url": "https://thedefiant.io/news/defi/sky-reports-record-419m-revenue-run-rate-for-june-2026",
-    "published_at": "Fri, 10 Jul 2026 19:52:23 GMT",
-    "fetched_at": "2026-07-10T20:00:13.279173+00:00",
-    "used": false,
-    "_sort_date": "2026-07-10T19:52:23+00:00"
-  },
-  {
-    "id": "llama_2026071020",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,450,596,206 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-10T20:00:16.692973+00:00",
-    "used": false,
-    "_sort_date": "2026-07-10T20:00:16.692973+00:00"
-  },
-  {
     "id": "llama_2026071021",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,439,918,087 🟢 +0.00% (24h)",
@@ -1811,6 +1781,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T18:36:28.506935+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_579ddfa6978c",
+    "source": "The Defiant",
+    "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
+    "url": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
+    "published_at": "Fri, 17 Jul 2026 19:53:05 GMT",
+    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e0e90516f833",
+    "source": "The Defiant",
+    "title": "Tokenized Stock Lending TVL Reaches $23M as DEX Volume Climbs",
+    "url": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
+    "published_at": "Fri, 17 Jul 2026 19:06:48 GMT",
+    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fac6d6537862",
+    "source": "The Defiant",
+    "title": "CASHCAT Falls 75% from Peak After Hyperliquid Perp Listing",
+    "url": "https://thedefiant.io/news/tokens/cashcat-falls-75-from-peak-after-hyperliquid-perp-listing",
+    "published_at": "Fri, 17 Jul 2026 18:34:57 GMT",
+    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071720",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,524,139,804 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-17T20:11:54.784346+00:00",
     "used": false
   }
 ]
