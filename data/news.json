@@ -1813,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T10:54:20.778189+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T10:54:20.778189+00:00"
   },
   {
     "id": "llama_2026071712",
@@ -1822,7 +1823,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T12:16:18.443922+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-17T12:16:18.443922+00:00"
   },
   {
     "id": "llama_2026071714",
@@ -1831,7 +1833,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T14:13:38.332300+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T14:13:38.332300+00:00"
   },
   {
     "id": "rss_9bf20ad153ef",
@@ -1840,7 +1843,8 @@
     "url": "https://cryptoslate.com/bitmine-nears-its-ethereum-buying-limit-now-it-needs-demand-to-make-the-bet-pay-off/",
     "published_at": "Fri, 17 Jul 2026 14:45:28 +0000",
     "fetched_at": "2026-07-17T15:58:54.711266+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T14:45:28+00:00"
   },
   {
     "id": "llama_2026071715",
@@ -1849,6 +1853,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-17T15:58:57.525308+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-17T15:58:57.525308+00:00"
   }
 ]
