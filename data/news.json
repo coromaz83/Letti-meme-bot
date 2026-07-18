@@ -1,35 +1,5 @@
 [
   {
-    "id": "llama_2026071115",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,470,450,808 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-11T15:02:57.456350+00:00",
-    "used": true,
-    "_sort_date": "2026-07-11T15:02:57.456350+00:00"
-  },
-  {
-    "id": "rss_c44aee85f9e0",
-    "source": "Decrypt",
-    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "published_at": "Sat, 11 Jul 2026 16:21:34 +0000",
-    "fetched_at": "2026-07-11T16:27:51.909762+00:00",
-    "used": true,
-    "_sort_date": "2026-07-11T16:21:34+00:00"
-  },
-  {
-    "id": "llama_2026071116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,488,393,092 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-11T16:27:55.593066+00:00",
-    "used": false,
-    "_sort_date": "2026-07-11T16:27:55.593066+00:00"
-  },
-  {
     "id": "llama_2026071117",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,474,035,378 🟢 +0.00% (24h)",
@@ -1835,5 +1805,23 @@
     "fetched_at": "2026-07-18T15:02:39.386386+00:00",
     "used": true,
     "_sort_date": "2026-07-18T15:02:39.386386+00:00"
+  },
+  {
+    "id": "rss_32e39275dea8",
+    "source": "The Defiant",
+    "title": "'Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk",
+    "url": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
+    "published_at": "Sat, 18 Jul 2026 15:59:24 GMT",
+    "fetched_at": "2026-07-18T16:29:09.831055+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071816",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,533,460,402 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-18T16:29:12.891796+00:00",
+    "used": false
   }
 ]
