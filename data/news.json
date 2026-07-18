@@ -1773,7 +1773,8 @@
     "url": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
     "published_at": "Sat, 18 Jul 2026 15:59:24 GMT",
     "fetched_at": "2026-07-18T16:29:09.831055+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-18T15:59:24+00:00"
   },
   {
     "id": "llama_2026071816",
@@ -1782,7 +1783,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T16:29:12.891796+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-18T16:29:12.891796+00:00"
   },
   {
     "id": "llama_2026071817",
@@ -1791,7 +1793,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T17:36:48.675995+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-18T17:36:48.675995+00:00"
   },
   {
     "id": "llama_2026071819",
@@ -1800,7 +1803,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T19:14:53.666514+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-18T19:14:53.666514+00:00"
   },
   {
     "id": "llama_2026071820",
@@ -1809,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T20:22:39.569091+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-18T20:22:39.569091+00:00"
   },
   {
     "id": "llama_2026071821",
@@ -1818,6 +1823,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T21:26:41.060577+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-18T21:26:41.060577+00:00"
   }
 ]
