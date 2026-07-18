@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,469,279,942 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-11T11:32:26.112260+00:00",
-    "used": true,
-    "_sort_date": "2026-07-11T11:32:26.112260+00:00"
-  },
-  {
     "id": "rss_26391e0400b9",
     "source": "CoinDesk",
     "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
@@ -1842,6 +1832,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T11:31:39.888100+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071813",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,529,917,357 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-18T13:38:51.297663+00:00",
     "used": false
   }
 ]
