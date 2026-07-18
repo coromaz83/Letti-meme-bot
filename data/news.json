@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071106",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,464,389,033 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-11T06:22:02.871731+00:00",
-    "used": true,
-    "_sort_date": "2026-07-11T06:22:02.871731+00:00"
-  },
-  {
     "id": "llama_2026071108",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,467,686,035 🟢 +0.00% (24h)",
@@ -1821,6 +1811,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-18T04:29:35.006244+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f901fbf6dfcf",
+    "source": "Bankless",
+    "title": "DeFi's Big Robinhood Chain Winners",
+    "url": "https://www.bankless.com/read/defis-big-robinhood-chain-winners",
+    "published_at": "Fri, 10 Jul 2026 16:13:22 -0400",
+    "fetched_at": "2026-07-18T06:30:54.208124+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071806",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,528,374,635 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-18T06:30:57.378084+00:00",
     "used": false
   }
 ]
