@@ -1647,7 +1647,8 @@
     "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking/",
     "published_at": "Sun, 19 Jul 2026 17:00:42 +0000",
     "fetched_at": "2026-07-19T17:07:08.783277+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T17:00:42+00:00"
   },
   {
     "id": "llama_2026071917",
@@ -1656,7 +1657,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T17:07:11.637687+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-19T17:07:11.637687+00:00"
   },
   {
     "id": "llama_2026071918",
@@ -1665,7 +1667,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T18:31:44.979054+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-19T18:31:44.979054+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -1791,7 +1794,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-07-19T20:09:52.110017+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T20:09:52.110017+00:00"
   },
   {
     "id": "llama_2026071920",
@@ -1800,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T20:09:54.462942+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-19T20:09:54.462942+00:00"
   },
   {
     "id": "llama_2026071921",
@@ -1809,6 +1814,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T21:27:19.919598+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T21:27:19.919598+00:00"
   }
 ]
