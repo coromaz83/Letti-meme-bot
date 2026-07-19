@@ -1783,7 +1783,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T10:55:01.681259+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-19T10:55:01.681259+00:00"
   },
   {
     "id": "llama_2026071912",
@@ -1792,7 +1793,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T12:02:44.892333+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T12:02:44.892333+00:00"
   },
   {
     "id": "rss_cc5d0b825c64",
@@ -1801,7 +1803,8 @@
     "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
     "published_at": "Sun, 19 Jul 2026 13:00:00 +0000",
     "fetched_at": "2026-07-19T14:04:45.725681+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T13:00:00+00:00"
   },
   {
     "id": "llama_2026071914",
@@ -1810,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T14:04:49.559214+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-19T14:04:49.559214+00:00"
   },
   {
     "id": "llama_2026071915",
@@ -1819,6 +1823,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T15:32:34.658470+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-19T15:32:34.658470+00:00"
   }
 ]
