@@ -1,161 +1,5 @@
 [
   {
-    "id": "llama_2026071217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,468,191,130 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-12T17:09:06.208048+00:00",
-    "used": true,
-    "_sort_date": "2026-07-12T17:09:06.208048+00:00"
-  },
-  {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3a86da63fcf",
-    "source": "Cointelegraph Base",
-    "title": "Travala lets AI agents book hotels with USDC on Base",
-    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cb1f3e4f40b0",
-    "source": "Cointelegraph Base",
-    "title": "Agentic payment activity tops 100M transactions on Base",
-    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dd2b56f1e18b",
-    "source": "Cointelegraph Base",
-    "title": "Base launches new tool to connect crypto wallets to AI agents",
-    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d565fa6cef39",
-    "source": "Cointelegraph Base",
-    "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
-    "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 21 May 2026 06:30:06 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e5444d8e1573",
-    "source": "Cointelegraph Base",
-    "title": "Circle makes USDC push into AI agent payment tools",
-    "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 11 May 2026 06:00:00 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_796a0e9ef18d",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase and AWS launch USDC payment rails for AI agents",
-    "url": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 07 May 2026 06:00:00 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_85a1b3339037",
-    "source": "Cointelegraph Base",
-    "title": "Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B",
-    "url": "https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Apr 2026 16:21:55 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_197ac5ad83ce",
-    "source": "Cointelegraph Base",
-    "title": "Base joins Ethereum, Tron, others in betting big on AI agent future",
-    "url": "https://cointelegraph.com/news/base-joins-ethereum-tron-others-betting-big-ai-agent-future?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 31 Mar 2026 14:00:00 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f4512c004a07",
-    "source": "Cointelegraph Base",
-    "title": "Dynamic adds embedded wallet infrastructure to TON for Telegram apps",
-    "url": "https://cointelegraph.com/news/fireblocks-backed-dynamic-adds-embedded-wallet-infrastructure-to-ton-for-telegram-apps-embargo-tues-march-31-7am-et?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 31 Mar 2026 12:00:00 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3470a8664af",
-    "source": "Cointelegraph Base",
-    "title": "Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push",
-    "url": "https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 26 Mar 2026 17:01:44 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d78072dd8b69",
-    "source": "Cointelegraph Base",
-    "title": "World launches AgentKit with Coinbase integration to enable human-verified AI agents",
-    "url": "https://cointelegraph.com/news/world-launches-agentkit-coinbase-integration-enable-human-verified-ai-agents-embargo?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 17 Mar 2026 15:57:47 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_26058ed2662e",
-    "source": "Cointelegraph Base",
-    "title": "Monad's cbBTC bridge may add $5B in Bitcoin-backed liquidity",
-    "url": "https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 02 Mar 2026 21:21:31 +0000",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-07-12T18:29:44.181180+00:00",
-    "used": true,
-    "_sort_date": "2026-07-12T18:29:44.181180+00:00"
-  },
-  {
-    "id": "llama_2026071218",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,474,809,714 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-12T18:29:47.884711+00:00",
-    "used": false,
-    "_sort_date": "2026-07-12T18:29:47.884711+00:00"
-  },
-  {
     "id": "llama_2026071219",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,470,167,919 🟢 +0.00% (24h)",
@@ -1832,6 +1676,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-19T17:07:11.637687+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026071918",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,564,179,325 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-19T18:31:44.979054+00:00",
     "used": false
   }
 ]
