@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_e1835b04f233",
-    "source": "The Defiant",
-    "title": "Coinbase CEO Says Base's Content Coins 'Didn't Work'",
-    "url": "https://thedefiant.io/news/blockchains/coinbase-ceo-says-base-s-content-coins-didn-t-work",
-    "published_at": "Mon, 13 Jul 2026 17:27:01 GMT",
-    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T17:27:01+00:00"
-  },
-  {
-    "id": "rss_f5a7d507794d",
-    "source": "The Defiant",
-    "title": "Trump Urges Senate to Pass Clarity Act for Lindsey Graham",
-    "url": "https://thedefiant.io/news/regulation/trump-urges-senate-to-pass-clarity-act-for-lindsey-graham",
-    "published_at": "Mon, 13 Jul 2026 16:38:29 GMT",
-    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T16:38:29+00:00"
-  },
-  {
-    "id": "rss_6f925c48f211",
-    "source": "CryptoSlate",
-    "title": "How a zeroed oracle signature unlocked $9M from Hedera DeFi lender Bonzo Lend",
-    "url": "https://cryptoslate.com/how-a-zeroed-oracle-signature-unlocked-9m-from-hedera-defi-lender-bonzo-lend/",
-    "published_at": "Mon, 13 Jul 2026 16:45:52 +0000",
-    "fetched_at": "2026-07-13T18:17:48.780837+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T16:45:52+00:00"
-  },
-  {
-    "id": "llama_2026071318",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,375,574,681 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T18:17:51.897163+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T18:17:51.897163+00:00"
-  },
-  {
     "id": "rss_f62f6b075404",
     "source": "The Defiant",
     "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
@@ -1803,6 +1763,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T17:00:41.849100+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18e9dfd2dba6",
+    "source": "The Defiant",
+    "title": "Lighter Makes Stock Tokens Eligible Collateral on Robinhood Chain",
+    "url": "https://thedefiant.io/news/defi/lighter-makes-stock-tokens-eligible-collateral-on-robinhood-chain",
+    "published_at": "Mon, 20 Jul 2026 19:05:16 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_570fa1870e47",
+    "source": "The Defiant",
+    "title": "Saylor Opposes Bitcoin's BIP-110 in 110-Point Essay",
+    "url": "https://thedefiant.io/news/blockchains/saylor-opposes-bitcoin-s-bip-110-in-110-point-essay",
+    "published_at": "Mon, 20 Jul 2026 18:58:13 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ae7b32565701",
+    "source": "The Defiant",
+    "title": "Hyperliquid to Open HIP-4 Prediction Markets Behind 500,000 HYPE Stake",
+    "url": "https://thedefiant.io/news/defi/hyperliquid-to-open-hip-4-prediction-markets-behind-500-000-hype-stake",
+    "published_at": "Mon, 20 Jul 2026 18:43:16 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3b3ad2432c0",
+    "source": "The Defiant",
+    "title": "Allbridge Halts Core Bridge After $1.65M Flash Loan Exploit",
+    "url": "https://thedefiant.io/news/hacks/allbridge-halts-core-bridge-after-1-65m-flash-loan-exploit",
+    "published_at": "Mon, 20 Jul 2026 18:26:57 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_607d9fd502bd",
+    "source": "The Defiant",
+    "title": "Strategy Sells $263.5M in MSTR Shares, Skips Bitcoin Again",
+    "url": "https://thedefiant.io/converge/cefi/strategy-sells-263-5m-in-mstr-shares-skips-bitcoin-again",
+    "published_at": "Mon, 20 Jul 2026 18:25:24 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ee275132b659",
+    "source": "The Defiant",
+    "title": "Bernstein Lifts Robinhood Target to $160 on Prediction Markets",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bernstein-lifts-robinhood-target-to-160-on-prediction-markets",
+    "published_at": "Mon, 20 Jul 2026 18:22:25 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c8678ce4287b",
+    "source": "The Defiant",
+    "title": "Bitmine Slowed ETH Buys to Smallest Weekly Pace Since June 2025",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-slowed-eth-buys-to-smallest-weekly-pace-since-june-2025",
+    "published_at": "Mon, 20 Jul 2026 18:19:02 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_53c889499e1e",
+    "source": "The Defiant",
+    "title": "HYPE Spot ETFs Log First Weekly Outflow Since May",
+    "url": "https://thedefiant.io/converge/markets/hype-spot-etfs-log-first-weekly-outflow-since-may",
+    "published_at": "Mon, 20 Jul 2026 18:11:02 GMT",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aa25a3c5eb90",
+    "source": "Bankless",
+    "title": "Morpho Midnight and the Rate DeFi's Been Missing",
+    "url": "https://www.bankless.com/read/morpho-midnight-and-the-rate-defis-been-missing",
+    "published_at": "Mon, 20 Jul 2026 14:59:40 -0400",
+    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072019",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,614,916,376 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T19:14:59.613889+00:00",
     "used": false
   }
 ]
