@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_f714fbca6bc7",
-    "source": "CoinDesk",
-    "title": "Bolivia weighs adding Tether's USDT to its national payments system",
-    "url": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
-    "published_at": "Mon, 13 Jul 2026 14:47:52 +0000",
-    "fetched_at": "2026-07-13T16:07:22.391126+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T14:47:52+00:00"
-  },
-  {
-    "id": "rss_56598dfa3523",
-    "source": "CoinDesk",
-    "title": "Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply",
-    "url": "https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply",
-    "published_at": "Mon, 13 Jul 2026 14:04:01 +0000",
-    "fetched_at": "2026-07-13T16:07:22.391126+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T14:04:01+00:00"
-  },
-  {
-    "id": "rss_05b523119895",
-    "source": "Decrypt",
-    "title": "BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand",
-    "url": "https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
-    "published_at": "Mon, 13 Jul 2026 15:22:10 +0000",
-    "fetched_at": "2026-07-13T16:07:22.391126+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T15:22:10+00:00"
-  },
-  {
-    "id": "llama_2026071316",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,374,487,915 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T16:07:25.227811+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T16:07:25.227811+00:00"
-  },
-  {
     "id": "rss_e1835b04f233",
     "source": "The Defiant",
     "title": "Coinbase CEO Says Base's Content Coins 'Didn't Work'",
@@ -1826,5 +1786,23 @@
     "fetched_at": "2026-07-20T15:17:15.388905+00:00",
     "used": true,
     "_sort_date": "2026-07-20T15:17:15.388905+00:00"
+  },
+  {
+    "id": "rss_290e5dec73a2",
+    "source": "Decrypt",
+    "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
+    "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
+    "published_at": "Mon, 20 Jul 2026 16:12:36 +0000",
+    "fetched_at": "2026-07-20T17:00:38.446115+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072017",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,572,010,907 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T17:00:41.849100+00:00",
+    "used": false
   }
 ]
