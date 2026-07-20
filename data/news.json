@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071307",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,398,489,711 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T07:30:10.791970+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T07:30:10.791970+00:00"
-  },
-  {
     "id": "llama_2026071310",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,412,512,129 🟢 +0.00% (24h)",
@@ -1823,6 +1813,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T06:55:41.874853+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_74c5a2495db0",
+    "source": "CryptoSlate",
+    "title": "Ethereum bridge users have 24 hours to exit before chain shuts down after just 5 week warning",
+    "url": "https://cryptoslate.com/ethereum-bridge-users-have-24-hours-to-exit-before-chain-shutdown-announced-just-five-weeks-ago/",
+    "published_at": "Mon, 20 Jul 2026 09:44:44 +0000",
+    "fetched_at": "2026-07-20T10:18:58.880207+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072010",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,552,732,136 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T10:19:04.121292+00:00",
     "used": false
   }
 ]
