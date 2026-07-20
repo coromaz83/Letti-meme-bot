@@ -1804,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T12:35:05.378763+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-20T12:35:05.378763+00:00"
   },
   {
     "id": "rss_dd5706623a84",
@@ -1813,7 +1814,8 @@
     "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
     "published_at": "Mon, 20 Jul 2026 12:55:36 +0000",
     "fetched_at": "2026-07-20T15:17:11.270711+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-20T12:55:36+00:00"
   },
   {
     "id": "llama_2026072015",
@@ -1822,6 +1824,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T15:17:15.388905+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-20T15:17:15.388905+00:00"
   }
 ]
