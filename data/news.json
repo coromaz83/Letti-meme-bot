@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_f62f6b075404",
-    "source": "The Defiant",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "published_at": "Mon, 13 Jul 2026 20:00:34 GMT",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T20:00:34+00:00"
-  },
-  {
-    "id": "rss_12c722667e6b",
-    "source": "The Defiant",
-    "title": "Bonzo Lend Loses $9M on Hedera in Supra Oracle Exploit",
-    "url": "https://thedefiant.io/news/hacks/bonzo-lend-loses-9m-on-hedera-in-supra-oracle-exploit",
-    "published_at": "Mon, 13 Jul 2026 19:48:08 GMT",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T19:48:08+00:00"
-  },
-  {
-    "id": "rss_e93bf6bbc351",
-    "source": "The Defiant",
-    "title": "Sablier Labs Enters Maintenance Mode, Halts Development",
-    "url": "https://thedefiant.io/news/defi/sablier-labs-enters-maintenance-mode-halts-development",
-    "published_at": "Mon, 13 Jul 2026 19:25:13 GMT",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T19:25:13+00:00"
-  },
-  {
-    "id": "rss_430e7b8132ba",
-    "source": "The Defiant",
-    "title": "Uniswap Auctions Go Live on Robinhood Chain",
-    "url": "https://thedefiant.io/news/defi/uniswap-auctions-go-live-on-robinhood-chain",
-    "published_at": "Mon, 13 Jul 2026 19:00:00 GMT",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T19:00:00+00:00"
-  },
-  {
-    "id": "rss_0461b497f6cb",
-    "source": "The Defiant",
-    "title": "Strategy Sells $467M in MSTR Shares, Bitcoin Stack Steady",
-    "url": "https://thedefiant.io/news/cefi/strategy-sells-467m-in-mstr-shares-bitcoin-stack-steady",
-    "published_at": "Mon, 13 Jul 2026 17:25:00 GMT",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T17:25:00+00:00"
-  },
-  {
-    "id": "rss_780778d65a66",
-    "source": "Decrypt",
-    "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
-    "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
-    "published_at": "Mon, 13 Jul 2026 18:57:19 +0000",
-    "fetched_at": "2026-07-13T20:00:33.218033+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T18:57:19+00:00"
-  },
-  {
-    "id": "llama_2026071320",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,356,414,468 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T20:00:36.145805+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T20:00:36.145805+00:00"
-  },
-  {
     "id": "rss_45ff8598b9a5",
     "source": "The Defiant",
     "title": "Cap Cuts Its 'Stabledrop' Airdrop to $4.2M from $12M as Backlash Mounts",
@@ -1853,6 +1783,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T19:14:59.613889+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c4ed29038a4b",
+    "source": "The Defiant",
+    "title": "Consensys Halted MetaMask Releases Over North Korea-Linked Contractor",
+    "url": "https://thedefiant.io/news/security/consensys-halted-metamask-releases-over-north-korea-linked-contractor",
+    "published_at": "Mon, 20 Jul 2026 19:18:03 GMT",
+    "fetched_at": "2026-07-20T20:49:55.969242+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,606,218,713 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T20:49:59.607541+00:00",
     "used": false
   }
 ]
