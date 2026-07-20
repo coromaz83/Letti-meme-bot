@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,412,512,129 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T10:41:19.708337+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T10:41:19.708337+00:00"
-  },
-  {
     "id": "rss_1ed7b80a2508",
     "source": "CryptoSlate",
     "title": "Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending",
@@ -1836,5 +1826,14 @@
     "fetched_at": "2026-07-20T10:19:04.121292+00:00",
     "used": true,
     "_sort_date": "2026-07-20T10:19:04.121292+00:00"
+  },
+  {
+    "id": "llama_2026072012",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,557,087,059 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T12:35:05.378763+00:00",
+    "used": false
   }
 ]
