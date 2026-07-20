@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_1ed7b80a2508",
-    "source": "CryptoSlate",
-    "title": "Tether’s $20 billion mountain of gold – equal to a national reserve – to be used for lending",
-    "url": "https://cryptoslate.com/tethers-23-billion-mountain-of-gold-equivalent-to-a-top-20-nation-state-reserve-to-be-used-for-lending/",
-    "published_at": "Mon, 13 Jul 2026 13:15:28 +0000",
-    "fetched_at": "2026-07-13T13:27:59.014953+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T13:15:28+00:00"
-  },
-  {
-    "id": "rss_adfceb787fe0",
-    "source": "Decrypt",
-    "title": "Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch",
-    "url": "https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
-    "published_at": "Mon, 13 Jul 2026 11:53:11 +0000",
-    "fetched_at": "2026-07-13T13:27:59.014953+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T11:53:11+00:00"
-  },
-  {
-    "id": "llama_2026071313",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,398,389,421 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T13:28:01.445330+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T13:28:01.445330+00:00"
-  },
-  {
     "id": "rss_f714fbca6bc7",
     "source": "CoinDesk",
     "title": "Bolivia weighs adding Tether's USDT to its national payments system",
@@ -1834,6 +1804,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T12:35:05.378763+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd5706623a84",
+    "source": "CoinDesk",
+    "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
+    "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
+    "published_at": "Mon, 20 Jul 2026 12:55:36 +0000",
+    "fetched_at": "2026-07-20T15:17:11.270711+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072015",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,551,457,055 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T15:17:15.388905+00:00",
     "used": false
   }
 ]
