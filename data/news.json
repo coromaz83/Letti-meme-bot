@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_45ff8598b9a5",
-    "source": "The Defiant",
-    "title": "Cap Cuts Its 'Stabledrop' Airdrop to $4.2M from $12M as Backlash Mounts",
-    "url": "https://thedefiant.io/news/defi/cap-cuts-its-stabledrop-airdrop-to-usd4-2m-from-usd12m-as-backlash-mounts",
-    "published_at": "Mon, 13 Jul 2026 20:31:30 GMT",
-    "fetched_at": "2026-07-13T21:30:18.903687+00:00",
-    "used": true,
-    "_sort_date": "2026-07-13T20:31:30+00:00"
-  },
-  {
-    "id": "llama_2026071321",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,350,912,837 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-13T21:30:22.585559+00:00",
-    "used": false,
-    "_sort_date": "2026-07-13T21:30:22.585559+00:00"
-  },
-  {
     "id": "llama_2026071323",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,358,735,208 🟢 +0.00% (24h)",
@@ -1816,5 +1796,32 @@
     "fetched_at": "2026-07-20T20:49:59.607541+00:00",
     "used": false,
     "_sort_date": "2026-07-20T20:49:59.607541+00:00"
+  },
+  {
+    "id": "rss_a766a72dcf62",
+    "source": "The Defiant",
+    "title": "Armstrong Says His X Posts and Avatars Are Not Token Endorsements",
+    "url": "https://thedefiant.io/news/people/armstrong-says-his-x-posts-and-avatars-are-not-token-endorsements",
+    "published_at": "Mon, 20 Jul 2026 22:07:26 GMT",
+    "fetched_at": "2026-07-20T22:07:24.830112+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f62f6b075404",
+    "source": "The Defiant",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "published_at": "Mon, 20 Jul 2026 22:07:26 GMT",
+    "fetched_at": "2026-07-20T22:07:24.830112+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072022",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,607,886,469 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-20T22:07:27.355796+00:00",
+    "used": false
   }
 ]
