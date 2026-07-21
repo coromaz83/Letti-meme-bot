@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_64f1bdee2f12",
-    "source": "The Defiant",
-    "title": "Prism Relaunches on New Contract After Exploit Diverted Nearly 40% of Fees",
-    "url": "https://thedefiant.io/news/hacks/prism-relaunches-on-new-contract-after-exploit-diverted-nearly-40-of-fees",
-    "published_at": "Tue, 14 Jul 2026 18:25:53 GMT",
-    "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": true,
-    "_sort_date": "2026-07-14T18:25:53+00:00"
-  },
-  {
-    "id": "rss_25a0dcd5126a",
-    "source": "The Defiant",
-    "title": "Builder-Deployed Markets Overtake Crypto on Hyperliquid",
-    "url": "https://thedefiant.io/news/defi/builder-deployed-markets-overtake-crypto-on-hyperliquid",
-    "published_at": "Tue, 14 Jul 2026 17:49:13 GMT",
-    "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T17:49:13+00:00"
-  },
-  {
-    "id": "rss_3cb512204bfc",
-    "source": "Bankless",
-    "title": "Galaxy Debuts GOFR to Pipe Institutions Into DeFi Credit",
-    "url": "https://www.bankless.com/read/news/galaxy-debuts-gofr-to-pipe-institutions-into-defi-credit",
-    "published_at": "Tue, 14 Jul 2026 13:26:16 -0400",
-    "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T13:26:16-04:00"
-  },
-  {
-    "id": "rss_ebc655ba7422",
-    "source": "Bankless",
-    "title": "Ethereum Foundation Privacy Team Spins Out as EthSystems",
-    "url": "https://www.bankless.com/read/news/ethereum-foundation-privacy-team-spins-out-as-ethsystems",
-    "published_at": "Tue, 14 Jul 2026 12:59:48 -0400",
-    "fetched_at": "2026-07-14T19:37:48.353580+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T12:59:48-04:00"
-  },
-  {
-    "id": "llama_2026071419",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,529,942,551 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-14T19:37:51.642836+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T19:37:51.642836+00:00"
-  },
-  {
     "id": "rss_10cedc0592d6",
     "source": "The Defiant",
     "title": "Argentine Judge Orders ID, Freeze of 25 LIBRA-Linked Crypto Wallets",
@@ -1816,6 +1766,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T17:54:40.355832+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b9fad81acbde",
+    "source": "CoinDesk",
+    "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
+    "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+    "published_at": "Tue, 21 Jul 2026 18:14:39 +0000",
+    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_320433978fde",
+    "source": "The Defiant",
+    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+    "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
+    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_88bc616eacb4",
+    "source": "The Defiant",
+    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
+    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
+    "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
+    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0bce9827f60d",
+    "source": "The Defiant",
+    "title": "Crypto's Quiet Revolution: How Stablecoins Deliver Aid Where Banks Can't",
+    "url": "https://thedefiant.io/podcasts-and-videos/videos/crypto-s-quiet-revolution-how-stablecoins-deliver-aid-where-banks-can-t",
+    "published_at": "Tue, 21 Jul 2026 18:45:22 GMT",
+    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072119",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,677,774,460 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-21T19:43:15.246930+00:00",
     "used": false
   }
 ]
