@@ -1771,7 +1771,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-20T23:33:24.279077+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-20T23:33:24.279077+00:00"
   },
   {
     "id": "llama_2026072103",
@@ -1780,7 +1781,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T03:31:03.262669+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T03:31:03.262669+00:00"
   },
   {
     "id": "llama_2026072106",
@@ -1789,7 +1791,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T06:36:10.574646+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T06:36:10.574646+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -1798,7 +1801,8 @@
     "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
     "fetched_at": "2026-07-21T09:32:14.969419+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-21T07:06:12+00:00"
   },
   {
     "id": "llama_2026072109",
@@ -1807,6 +1811,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T09:32:18.276196+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-21T09:32:18.276196+00:00"
   }
 ]
