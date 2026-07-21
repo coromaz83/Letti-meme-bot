@@ -1871,5 +1871,23 @@
     "fetched_at": "2026-07-21T21:19:27.769938+00:00",
     "used": true,
     "_sort_date": "2026-07-21T21:19:27.769938+00:00"
+  },
+  {
+    "id": "rss_ca2ad0ed4b6e",
+    "source": "The Defiant",
+    "title": "Crypto Rallies as Reported Ethics Deal Revives Odds of CLARITY Act Senate Vote",
+    "url": "https://thedefiant.io/converge/regulation/crypto-rallies-as-reported-ethics-deal-revives-odds-of-clarity-act-senate-vote",
+    "published_at": "Tue, 21 Jul 2026 21:10:57 GMT",
+    "fetched_at": "2026-07-21T22:28:56.770207+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,678,405,282 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-21T22:29:00.035220+00:00",
+    "used": false
   }
 ]
