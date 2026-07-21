@@ -1701,7 +1701,8 @@
     "url": "https://thedefiant.io/news/blockchains/durov-says-telegram-will-ship-native-gram-wallet-to-a-billion-users",
     "published_at": "Tue, 21 Jul 2026 16:55:18 GMT",
     "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T16:55:18+00:00"
   },
   {
     "id": "rss_742c42e91389",
@@ -1710,7 +1711,8 @@
     "url": "https://thedefiant.io/converge/defi/ondo-enables-tokenized-stock-collateral-on-ondoperps",
     "published_at": "Tue, 21 Jul 2026 16:30:52 GMT",
     "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T16:30:52+00:00"
   },
   {
     "id": "rss_91757923542d",
@@ -1719,7 +1721,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
     "published_at": "Tue, 21 Jul 2026 16:04:38 GMT",
     "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T16:04:38+00:00"
   },
   {
     "id": "rss_31a4e77b75c8",
@@ -1728,7 +1731,8 @@
     "url": "https://cryptoslate.com/trump-backs-crypto-ethics-limits-putting-clarity-act-decision-in-democrats-hands/",
     "published_at": "Tue, 21 Jul 2026 17:30:50 +0000",
     "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T17:30:50+00:00"
   },
   {
     "id": "rss_647053a66874",
@@ -1737,7 +1741,8 @@
     "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
     "published_at": "Tue, 21 Jul 2026 16:06:20 +0000",
     "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T16:06:20+00:00"
   },
   {
     "id": "llama_2026072117",
@@ -1746,7 +1751,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T17:54:40.355832+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T17:54:40.355832+00:00"
   },
   {
     "id": "rss_b9fad81acbde",
@@ -1755,7 +1761,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
     "published_at": "Tue, 21 Jul 2026 18:14:39 +0000",
     "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T18:14:39+00:00"
   },
   {
     "id": "rss_320433978fde",
@@ -1764,7 +1771,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
     "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-21T19:43:13+00:00"
   },
   {
     "id": "rss_88bc616eacb4",
@@ -1773,7 +1781,8 @@
     "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
     "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
     "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T19:43:13+00:00"
   },
   {
     "id": "rss_0bce9827f60d",
@@ -1782,7 +1791,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/videos/crypto-s-quiet-revolution-how-stablecoins-deliver-aid-where-banks-can-t",
     "published_at": "Tue, 21 Jul 2026 18:45:22 GMT",
     "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T18:45:22+00:00"
   },
   {
     "id": "llama_2026072119",
@@ -1791,7 +1801,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T19:43:15.246930+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T19:43:15.246930+00:00"
   },
   {
     "id": "rss_8cf45f3e45d8",
@@ -1800,7 +1811,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
     "published_at": "Tue, 21 Jul 2026 21:14:03 +0000",
     "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T21:14:03+00:00"
   },
   {
     "id": "rss_6be86e66b27f",
@@ -1809,7 +1821,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-and-pantera-launch-revenue-screened-digital-asset-index",
     "published_at": "Tue, 21 Jul 2026 20:53:27 GMT",
     "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T20:53:27+00:00"
   },
   {
     "id": "rss_4837333c220f",
@@ -1818,7 +1831,8 @@
     "url": "https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy",
     "published_at": "Tue, 21 Jul 2026 20:51:46 GMT",
     "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-21T20:51:46+00:00"
   },
   {
     "id": "rss_cd070cb81389",
@@ -1827,7 +1841,8 @@
     "url": "https://www.bankless.com/read/the-buy-eth-sell-gold-trade",
     "published_at": "Tue, 21 Jul 2026 16:09:32 -0400",
     "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-21T16:09:32-04:00"
   },
   {
     "id": "rss_3cb512204bfc",
@@ -1854,6 +1869,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T21:19:27.769938+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-21T21:19:27.769938+00:00"
   }
 ]
