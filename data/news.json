@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071412",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,398,047,960 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-14T12:49:54.940500+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T12:49:54.940500+00:00"
-  },
-  {
     "id": "rss_2f3b0932d508",
     "source": "CoinDesk",
     "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
@@ -1809,6 +1799,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-21T11:52:31.473991+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ea39b4659c7",
+    "source": "CoinDesk",
+    "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
+    "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+    "published_at": "Tue, 21 Jul 2026 12:42:29 +0000",
+    "fetched_at": "2026-07-21T14:10:52.982607+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_665ad930eba0",
+    "source": "The Defiant",
+    "title": "Grayscale Files S-1 for Spot Worldcoin ETF",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-files-s-1-for-spot-worldcoin-etf",
+    "published_at": "Tue, 21 Jul 2026 13:55:00 GMT",
+    "fetched_at": "2026-07-21T14:10:52.982607+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072114",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,657,669,034 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-21T14:10:55.509794+00:00",
     "used": false
   }
 ]
