@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_de1c136f4cb0",
-    "source": "The Defiant",
-    "title": "Coinbase Matches Robinhood's 7% Yield With a Different Design",
-    "url": "https://thedefiant.io/news/cefi/coinbase-matches-robinhood-s-7-yield-with-a-different-design",
-    "published_at": "Tue, 14 Jul 2026 15:40:01 GMT",
-    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": true,
-    "_sort_date": "2026-07-14T15:40:01+00:00"
-  },
-  {
-    "id": "rss_b9462ed8f08a",
-    "source": "The Defiant",
-    "title": "Tether Leads $7M Series A in Pact Labs for USA₮ Payroll",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-leads-7m-series-a-in-pact-labs-for-usa-payroll",
-    "published_at": "Tue, 14 Jul 2026 15:37:20 GMT",
-    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T15:37:20+00:00"
-  },
-  {
-    "id": "rss_ae9acd693dff",
-    "source": "The Defiant",
-    "title": "Lummis Says CLARITY Act Text Coming 'in Next Few Days'",
-    "url": "https://thedefiant.io/converge/regulation/lummis-says-clarity-act-text-coming-in-next-few-days",
-    "published_at": "Tue, 14 Jul 2026 15:37:02 GMT",
-    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T15:37:02+00:00"
-  },
-  {
-    "id": "rss_01238ff1c90f",
-    "source": "The Defiant",
-    "title": "EthSystems Launches Privacy Tools for Institutional Ethereum",
-    "url": "https://thedefiant.io/news/blockchains/ethsystems-launches-privacy-tools-for-institutional-ethereum",
-    "published_at": "Tue, 14 Jul 2026 15:24:14 GMT",
-    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T15:24:14+00:00"
-  },
-  {
-    "id": "rss_13abf9454ecb",
-    "source": "Decrypt",
-    "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
-    "url": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
-    "published_at": "Tue, 14 Jul 2026 15:00:26 +0000",
-    "fetched_at": "2026-07-14T16:24:16.558173+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T15:00:26+00:00"
-  },
-  {
-    "id": "llama_2026071416",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,513,634,717 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-14T16:24:19.349582+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T16:24:19.349582+00:00"
-  },
-  {
-    "id": "rss_320433978fde",
-    "source": "The Defiant",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "published_at": "Tue, 14 Jul 2026 17:42:29 GMT",
-    "fetched_at": "2026-07-14T17:42:27.947760+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T17:42:29+00:00"
-  },
-  {
-    "id": "rss_88bc616eacb4",
-    "source": "The Defiant",
-    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
-    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-    "published_at": "Tue, 14 Jul 2026 17:42:29 GMT",
-    "fetched_at": "2026-07-14T17:42:27.947760+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T17:42:29+00:00"
-  },
-  {
-    "id": "llama_2026071417",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,513,637,953 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-14T17:42:30.309731+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T17:42:30.309731+00:00"
-  },
-  {
     "id": "rss_64f1bdee2f12",
     "source": "The Defiant",
     "title": "Prism Relaunches on New Contract After Exploit Diverted Nearly 40% of Fees",
@@ -1853,5 +1763,59 @@
     "fetched_at": "2026-07-21T16:04:22.653103+00:00",
     "used": false,
     "_sort_date": "2026-07-21T16:04:22.653103+00:00"
+  },
+  {
+    "id": "rss_ebc636629674",
+    "source": "The Defiant",
+    "title": "Durov Says Telegram Will Ship Native Gram Wallet to a Billion Users",
+    "url": "https://thedefiant.io/news/blockchains/durov-says-telegram-will-ship-native-gram-wallet-to-a-billion-users",
+    "published_at": "Tue, 21 Jul 2026 16:55:18 GMT",
+    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_742c42e91389",
+    "source": "The Defiant",
+    "title": "Ondo Enables Tokenized Stock Collateral on OndoPerps",
+    "url": "https://thedefiant.io/converge/defi/ondo-enables-tokenized-stock-collateral-on-ondoperps",
+    "published_at": "Tue, 21 Jul 2026 16:30:52 GMT",
+    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_91757923542d",
+    "source": "The Defiant",
+    "title": "Pump.fun Adds 'BOOST' Liquidity Mode for Every New Coin",
+    "url": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
+    "published_at": "Tue, 21 Jul 2026 16:04:38 GMT",
+    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_31a4e77b75c8",
+    "source": "CryptoSlate",
+    "title": "Trump backs crypto ethics limits, putting CLARITY Act decision in Democrats’ hands",
+    "url": "https://cryptoslate.com/trump-backs-crypto-ethics-limits-putting-clarity-act-decision-in-democrats-hands/",
+    "published_at": "Tue, 21 Jul 2026 17:30:50 +0000",
+    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_647053a66874",
+    "source": "Decrypt",
+    "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+    "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+    "published_at": "Tue, 21 Jul 2026 16:06:20 +0000",
+    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072117",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,688,927,082 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-21T17:54:40.355832+00:00",
+    "used": false
   }
 ]
