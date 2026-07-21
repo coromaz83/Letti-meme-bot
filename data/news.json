@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_df9100da0532",
-    "source": "CoinDesk",
-    "title": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
-    "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
-    "published_at": "Tue, 14 Jul 2026 10:27:21 +0000",
-    "fetched_at": "2026-07-14T11:09:33.779833+00:00",
-    "used": true,
-    "_sort_date": "2026-07-14T10:27:21+00:00"
-  },
-  {
-    "id": "rss_0abcac7e9262",
-    "source": "Decrypt",
-    "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
-    "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
-    "published_at": "Tue, 14 Jul 2026 11:08:43 +0000",
-    "fetched_at": "2026-07-14T11:09:33.779833+00:00",
-    "used": true,
-    "_sort_date": "2026-07-14T11:08:43+00:00"
-  },
-  {
-    "id": "llama_2026071411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,402,437,388 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-14T11:09:37.134230+00:00",
-    "used": false,
-    "_sort_date": "2026-07-14T11:09:37.134230+00:00"
-  },
-  {
     "id": "llama_2026071412",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,398,047,960 🟢 +0.00% (24h)",
@@ -1813,5 +1783,32 @@
     "fetched_at": "2026-07-21T09:32:18.276196+00:00",
     "used": true,
     "_sort_date": "2026-07-21T09:32:18.276196+00:00"
+  },
+  {
+    "id": "rss_40c5af511b55",
+    "source": "CoinDesk",
+    "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
+    "url": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
+    "published_at": "Tue, 21 Jul 2026 11:37:22 +0000",
+    "fetched_at": "2026-07-21T11:52:28.544006+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9adbb8b0455a",
+    "source": "CoinDesk",
+    "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
+    "url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
+    "published_at": "Tue, 21 Jul 2026 11:19:18 +0000",
+    "fetched_at": "2026-07-21T11:52:28.544006+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072111",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,670,343,316 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-21T11:52:31.473991+00:00",
+    "used": false
   }
 ]
