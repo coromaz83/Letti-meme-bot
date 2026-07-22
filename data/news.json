@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_30dc62cc24e5",
-    "source": "CoinDesk",
-    "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
-    "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
-    "published_at": "Wed, 15 Jul 2026 13:19:48 +0000",
-    "fetched_at": "2026-07-15T14:22:29.456950+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T13:19:48+00:00"
-  },
-  {
-    "id": "rss_23cba8e1c807",
-    "source": "The Defiant",
-    "title": "Stripe's $53B PayPal Bid Would Combine Bridge and PYUSD Under One Owner",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-s-usd53b-paypal-bid-would-combine-bridge-and-pyusd-under-one-owner",
-    "published_at": "Wed, 15 Jul 2026 14:00:51 GMT",
-    "fetched_at": "2026-07-15T14:22:29.456950+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T14:00:51+00:00"
-  },
-  {
-    "id": "llama_2026071514",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,560,611,489 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T14:22:32.376352+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T14:22:32.376352+00:00"
-  },
-  {
     "id": "rss_242fdc58587d",
     "source": "CoinDesk",
     "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
@@ -1856,6 +1826,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T13:05:04.914262+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2a117730c167",
+    "source": "Decrypt",
+    "title": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
+    "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
+    "published_at": "Wed, 22 Jul 2026 14:41:56 +0000",
+    "fetched_at": "2026-07-22T15:21:02.356310+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072215",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,639,935,693 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T15:21:06.209965+00:00",
     "used": false
   }
 ]
