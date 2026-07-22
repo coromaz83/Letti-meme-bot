@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_e05c815b0859",
-    "source": "The Defiant",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "published_at": "Wed, 15 Jul 2026 19:23:40 GMT",
-    "fetched_at": "2026-07-15T19:23:38.880852+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3e46aaa96a91",
-    "source": "Decrypt",
-    "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
-    "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
-    "published_at": "Wed, 15 Jul 2026 18:50:55 +0000",
-    "fetched_at": "2026-07-15T19:23:38.880852+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026071519",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,597,305,468 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T19:23:43.029554+00:00",
-    "used": false
-  },
-  {
     "id": "rss_980abc78948f",
     "source": "CoinDesk",
     "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
@@ -1807,6 +1780,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T18:17:13.752136+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_14e3026da474",
+    "source": "The Defiant",
+    "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
+    "published_at": "Wed, 22 Jul 2026 19:53:41 GMT",
+    "fetched_at": "2026-07-22T19:53:39.092551+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1c831db54374",
+    "source": "The Defiant",
+    "title": "Tokenized Stocks Hit Records Across Every Major Venue as Sector Reaches $2.3B",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stocks-hit-records-across-every-major-venue-as-sector-reaches-usd2-3b",
+    "published_at": "Wed, 22 Jul 2026 19:24:35 GMT",
+    "fetched_at": "2026-07-22T19:53:39.092551+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fcd5075bb199",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Overtakes Base on Daily Active Users Three Weeks After Launch",
+    "url": "https://thedefiant.io/news/defi/robinhood-chain-overtakes-base-on-daily-active-users-three-weeks-after-launch",
+    "published_at": "Wed, 22 Jul 2026 19:07:23 GMT",
+    "fetched_at": "2026-07-22T19:53:39.092551+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_293166a6b44c",
+    "source": "The Defiant",
+    "title": "Ostium to Reopen Trading July 23 After $23.8M Vault Exploit",
+    "url": "https://thedefiant.io/news/defi/ostium-to-reopen-trading-july-23-after-23-8m-vault-exploit",
+    "published_at": "Wed, 22 Jul 2026 18:43:10 GMT",
+    "fetched_at": "2026-07-22T19:53:39.092551+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ea5e63361d25",
+    "source": "Bankless",
+    "title": "DeFi's Due Diligence Super Tool",
+    "url": "https://www.bankless.com/read/herd-defis-due-diligence-super-tool",
+    "published_at": "Wed, 22 Jul 2026 15:46:29 -0400",
+    "fetched_at": "2026-07-22T19:53:39.092551+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072219",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,679,877,355 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T19:53:42.434718+00:00",
     "used": false
   }
 ]
