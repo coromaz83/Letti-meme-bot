@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_e562d04cbd19",
-    "source": "CoinDesk",
-    "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
-    "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
-    "published_at": "Wed, 15 Jul 2026 16:52:28 +0000",
-    "fetched_at": "2026-07-15T17:49:55.216560+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_14e3026da474",
-    "source": "The Defiant",
-    "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
-    "published_at": "Wed, 15 Jul 2026 17:49:56 GMT",
-    "fetched_at": "2026-07-15T17:49:55.216560+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b3f945f4712e",
-    "source": "The Defiant",
-    "title": "Ostium Halts Trading After Oracle Exploit Drains up to $18M from Vault",
-    "url": "https://thedefiant.io/news/hacks/ostium-halts-trading-after-oracle-exploit-drains-up-to-usd18m-from-vault",
-    "published_at": "Wed, 15 Jul 2026 16:12:18 GMT",
-    "fetched_at": "2026-07-15T17:49:55.216560+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ba95795bde71",
-    "source": "Decrypt",
-    "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
-    "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
-    "published_at": "Wed, 15 Jul 2026 17:01:25 +0000",
-    "fetched_at": "2026-07-15T17:49:55.216560+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026071517",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,583,796,460 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T17:49:58.816552+00:00",
-    "used": false
-  },
-  {
     "id": "rss_e05c815b0859",
     "source": "The Defiant",
     "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
@@ -1825,6 +1780,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T16:57:40.616638+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_55d8e3eebc5e",
+    "source": "The Defiant",
+    "title": "Franklin Templeton Says Altcoins Are Key to the Agentic AI Trade",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-says-altcoins-are-key-to-the-agentic-ai-trade",
+    "published_at": "Wed, 22 Jul 2026 17:48:54 GMT",
+    "fetched_at": "2026-07-22T18:17:09.824761+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a14beef082b",
+    "source": "The Defiant",
+    "title": "Ramp Adds Stablecoin Accounts and Bill Pay on Stripe Stack",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack",
+    "published_at": "Wed, 22 Jul 2026 17:44:07 GMT",
+    "fetched_at": "2026-07-22T18:17:09.824761+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072218",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,674,406,407 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T18:17:13.752136+00:00",
     "used": false
   }
 ]
