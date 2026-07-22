@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_980abc78948f",
-    "source": "CoinDesk",
-    "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
-    "url": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
-    "published_at": "Wed, 15 Jul 2026 20:18:02 +0000",
-    "fetched_at": "2026-07-15T20:35:58.844964+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0bd895ecd88e",
-    "source": "CryptoSlate",
-    "title": "US government sends $288M to Coinbase putting Bitcoin reserve rules into question",
-    "url": "https://cryptoslate.com/us-governments-288m-coinbase-transfer-puts-bitcoin-reserve-rules-through-their-first-major-custody-test/",
-    "published_at": "Wed, 15 Jul 2026 19:50:01 +0000",
-    "fetched_at": "2026-07-15T20:35:58.844964+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026071520",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,598,919,126 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T20:36:03.263656+00:00",
-    "used": false
-  },
-  {
     "id": "rss_604283e17c22",
     "source": "Decrypt",
     "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
@@ -1834,6 +1807,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T19:53:42.434718+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e05c815b0859",
+    "source": "The Defiant",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "published_at": "Wed, 22 Jul 2026 21:21:45 GMT",
+    "fetched_at": "2026-07-22T21:21:42.408594+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_598e41b281ec",
+    "source": "Decrypt",
+    "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
+    "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
+    "published_at": "Wed, 22 Jul 2026 21:13:04 +0000",
+    "fetched_at": "2026-07-22T21:21:42.408594+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072221",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,659,311,425 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T21:21:46.996666+00:00",
     "used": false
   }
 ]
