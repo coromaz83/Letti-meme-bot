@@ -1808,7 +1808,8 @@
     "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
     "published_at": "Wed, 22 Jul 2026 11:03:43 +0000",
     "fetched_at": "2026-07-22T11:26:24.051835+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T11:03:43+00:00"
   },
   {
     "id": "llama_2026072211",
@@ -1817,7 +1818,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T11:26:30.293574+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T11:26:30.293574+00:00"
   },
   {
     "id": "llama_2026072213",
@@ -1826,7 +1828,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T13:05:04.914262+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T13:05:04.914262+00:00"
   },
   {
     "id": "rss_2a117730c167",
@@ -1835,7 +1838,8 @@
     "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
     "published_at": "Wed, 22 Jul 2026 14:41:56 +0000",
     "fetched_at": "2026-07-22T15:21:02.356310+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T14:41:56+00:00"
   },
   {
     "id": "llama_2026072215",
@@ -1844,6 +1848,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T15:21:06.209965+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T15:21:06.209965+00:00"
   }
 ]
