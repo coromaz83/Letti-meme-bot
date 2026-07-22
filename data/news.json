@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_7fc822760ae3",
-    "source": "CoinDesk",
-    "title": "Live markets: Bitcoin, ether ETFs draw inflows as majors rise as much as 5%",
-    "url": "https://www.coindesk.com/tech/2026/07/15/live-markets-bitcoin-ether-etfs-draw-inflows-as-majors-rise-as-much-as-5",
-    "published_at": "Wed, 15 Jul 2026 08:29:18 +0000",
-    "fetched_at": "2026-07-15T10:24:32.835311+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T08:29:18+00:00"
-  },
-  {
-    "id": "rss_e2ff9a1153ee",
-    "source": "CryptoSlate",
-    "title": "US turns stablecoin issuer Tether into a financial weapon against Iran, freezing nearly $500 million",
-    "url": "https://cryptoslate.com/us-turns-stablecoin-issuer-tether-into-a-financial-weapon-against-iran-freezing-nearly-500-million/",
-    "published_at": "Wed, 15 Jul 2026 09:18:54 +0000",
-    "fetched_at": "2026-07-15T10:24:32.835311+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T09:18:54+00:00"
-  },
-  {
-    "id": "llama_2026071510",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,558,629,729 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T10:24:36.593440+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T10:24:36.593440+00:00"
-  },
-  {
     "id": "rss_cb49a2ffe150",
     "source": "Decrypt",
     "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
@@ -1880,5 +1850,23 @@
     "fetched_at": "2026-07-22T09:11:36.625500+00:00",
     "used": true,
     "_sort_date": "2026-07-22T09:11:36.625500+00:00"
+  },
+  {
+    "id": "rss_a202dcb3e4a7",
+    "source": "Decrypt",
+    "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+    "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+    "published_at": "Wed, 22 Jul 2026 11:03:43 +0000",
+    "fetched_at": "2026-07-22T11:26:24.051835+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072211",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,652,275,811 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T11:26:30.293574+00:00",
+    "used": false
   }
 ]
