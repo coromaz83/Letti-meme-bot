@@ -1699,7 +1699,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
     "published_at": "Wed, 22 Jul 2026 16:15:55 +0000",
     "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T16:15:55+00:00"
   },
   {
     "id": "rss_6db6ec211e98",
@@ -1708,7 +1709,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
     "published_at": "Wed, 22 Jul 2026 15:37:36 +0000",
     "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T15:37:36+00:00"
   },
   {
     "id": "rss_0371f395e3cb",
@@ -1717,7 +1719,8 @@
     "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
     "published_at": "Wed, 22 Jul 2026 15:36:49 +0000",
     "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T15:36:49+00:00"
   },
   {
     "id": "llama_2026072216",
@@ -1726,7 +1729,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T16:57:40.616638+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T16:57:40.616638+00:00"
   },
   {
     "id": "rss_55d8e3eebc5e",
@@ -1735,7 +1739,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-says-altcoins-are-key-to-the-agentic-ai-trade",
     "published_at": "Wed, 22 Jul 2026 17:48:54 GMT",
     "fetched_at": "2026-07-22T18:17:09.824761+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T17:48:54+00:00"
   },
   {
     "id": "rss_4a14beef082b",
@@ -1744,7 +1749,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack",
     "published_at": "Wed, 22 Jul 2026 17:44:07 GMT",
     "fetched_at": "2026-07-22T18:17:09.824761+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T17:44:07+00:00"
   },
   {
     "id": "llama_2026072218",
@@ -1753,7 +1759,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T18:17:13.752136+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T18:17:13.752136+00:00"
   },
   {
     "id": "rss_14e3026da474",
@@ -1762,7 +1769,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
     "published_at": "Wed, 22 Jul 2026 19:53:41 GMT",
     "fetched_at": "2026-07-22T19:53:39.092551+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T19:53:41+00:00"
   },
   {
     "id": "rss_1c831db54374",
@@ -1771,7 +1779,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stocks-hit-records-across-every-major-venue-as-sector-reaches-usd2-3b",
     "published_at": "Wed, 22 Jul 2026 19:24:35 GMT",
     "fetched_at": "2026-07-22T19:53:39.092551+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T19:24:35+00:00"
   },
   {
     "id": "rss_fcd5075bb199",
@@ -1780,7 +1789,8 @@
     "url": "https://thedefiant.io/news/defi/robinhood-chain-overtakes-base-on-daily-active-users-three-weeks-after-launch",
     "published_at": "Wed, 22 Jul 2026 19:07:23 GMT",
     "fetched_at": "2026-07-22T19:53:39.092551+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T19:07:23+00:00"
   },
   {
     "id": "rss_293166a6b44c",
@@ -1789,7 +1799,8 @@
     "url": "https://thedefiant.io/news/defi/ostium-to-reopen-trading-july-23-after-23-8m-vault-exploit",
     "published_at": "Wed, 22 Jul 2026 18:43:10 GMT",
     "fetched_at": "2026-07-22T19:53:39.092551+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T18:43:10+00:00"
   },
   {
     "id": "rss_ea5e63361d25",
@@ -1798,7 +1809,8 @@
     "url": "https://www.bankless.com/read/herd-defis-due-diligence-super-tool",
     "published_at": "Wed, 22 Jul 2026 15:46:29 -0400",
     "fetched_at": "2026-07-22T19:53:39.092551+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T15:46:29-04:00"
   },
   {
     "id": "llama_2026072219",
@@ -1807,7 +1819,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T19:53:42.434718+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T19:53:42.434718+00:00"
   },
   {
     "id": "rss_e05c815b0859",
@@ -1816,7 +1829,8 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "published_at": "Wed, 22 Jul 2026 21:21:45 GMT",
     "fetched_at": "2026-07-22T21:21:42.408594+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-22T21:21:45+00:00"
   },
   {
     "id": "rss_598e41b281ec",
@@ -1825,7 +1839,8 @@
     "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
     "published_at": "Wed, 22 Jul 2026 21:13:04 +0000",
     "fetched_at": "2026-07-22T21:21:42.408594+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T21:13:04+00:00"
   },
   {
     "id": "llama_2026072221",
@@ -1834,6 +1849,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T21:21:46.996666+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T21:21:46.996666+00:00"
   }
 ]
