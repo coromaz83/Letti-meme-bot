@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_242fdc58587d",
-    "source": "CoinDesk",
-    "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-    "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-    "published_at": "Wed, 15 Jul 2026 15:27:43 +0000",
-    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T15:27:43+00:00"
-  },
-  {
-    "id": "rss_4ebc468d00bb",
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
-    "published_at": "Wed, 15 Jul 2026 14:58:09 +0000",
-    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T14:58:09+00:00"
-  },
-  {
-    "id": "rss_7112a7481d6b",
-    "source": "CoinDesk",
-    "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
-    "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-    "published_at": "Wed, 15 Jul 2026 14:37:36 +0000",
-    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T14:37:36+00:00"
-  },
-  {
-    "id": "rss_2bf3704e629c",
-    "source": "The Defiant",
-    "title": "DTCC Starts Live Tokenized-Securities Trades With More Than Two Dozen Firms",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-starts-live-tokenized-securities-trades-with-more-than-two-dozen-firms",
-    "published_at": "Wed, 15 Jul 2026 14:22:10 GMT",
-    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T14:22:10+00:00"
-  },
-  {
-    "id": "rss_da6b1e228e8e",
-    "source": "CryptoSlate",
-    "title": "BitMine made $46 million staking Ethereum then lost twice that betting on it",
-    "url": "https://cryptoslate.com/bitmine-made-46-million-staking-ethereum-then-lost-twice-that-betting-on-it/",
-    "published_at": "Wed, 15 Jul 2026 15:50:25 +0000",
-    "fetched_at": "2026-07-15T16:05:18.416956+00:00",
-    "used": true,
-    "_sort_date": "2026-07-15T15:50:25+00:00"
-  },
-  {
-    "id": "llama_2026071516",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,590,937,474 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T16:05:22.169874+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T16:05:22.169874+00:00"
-  },
-  {
     "id": "rss_e562d04cbd19",
     "source": "CoinDesk",
     "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
@@ -1850,5 +1790,41 @@
     "fetched_at": "2026-07-22T15:21:06.209965+00:00",
     "used": true,
     "_sort_date": "2026-07-22T15:21:06.209965+00:00"
+  },
+  {
+    "id": "rss_6d029e63bdb4",
+    "source": "CoinDesk",
+    "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
+    "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+    "published_at": "Wed, 22 Jul 2026 16:15:55 +0000",
+    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6db6ec211e98",
+    "source": "CoinDesk",
+    "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+    "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+    "published_at": "Wed, 22 Jul 2026 15:37:36 +0000",
+    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0371f395e3cb",
+    "source": "CoinDesk",
+    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+    "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+    "published_at": "Wed, 22 Jul 2026 15:36:49 +0000",
+    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072216",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,652,338,296 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T16:57:40.616638+00:00",
+    "used": false
   }
 ]
