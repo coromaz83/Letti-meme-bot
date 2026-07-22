@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_604283e17c22",
-    "source": "Decrypt",
-    "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
-    "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
-    "published_at": "Wed, 15 Jul 2026 21:38:43 +0000",
-    "fetched_at": "2026-07-15T22:08:29.997582+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026071522",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,595,453,179 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T22:08:33.654927+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026071523",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,592,887,995 🟢 +0.00% (24h)",
@@ -1851,5 +1833,32 @@
     "fetched_at": "2026-07-22T21:21:46.996666+00:00",
     "used": false,
     "_sort_date": "2026-07-22T21:21:46.996666+00:00"
+  },
+  {
+    "id": "rss_dc3c18dcaed0",
+    "source": "CoinDesk",
+    "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+    "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+    "published_at": "Wed, 22 Jul 2026 22:22:25 +0000",
+    "fetched_at": "2026-07-22T22:35:59.245372+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6a75079cdd8b",
+    "source": "The Defiant",
+    "title": "Crypto Industry Pushes for Senate Vote on New CLARITY Act Text as Democrats Blast Ethics Plan",
+    "url": "https://thedefiant.io/converge/regulation/crypto-industry-pushes-for-senate-vote-on-new-clarity-act-text-as-democrats-blast-ethics-plan",
+    "published_at": "Wed, 22 Jul 2026 21:21:28 GMT",
+    "fetched_at": "2026-07-22T22:35:59.245372+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072222",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,666,528,971 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-22T22:36:01.900365+00:00",
+    "used": false
   }
 ]
