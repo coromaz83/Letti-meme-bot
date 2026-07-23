@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,592,887,995 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-15T23:32:16.361207+00:00",
-    "used": false,
-    "_sort_date": "2026-07-15T23:32:16.361207+00:00"
-  },
-  {
     "id": "rss_3cbb9fdb2d7f",
     "source": "Cointelegraph Base",
     "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
@@ -1859,6 +1849,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-22T22:36:01.900365+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_21d2364d8b26",
+    "source": "CoinDesk",
+    "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+    "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+    "published_at": "Wed, 22 Jul 2026 23:19:41 +0000",
+    "fetched_at": "2026-07-23T00:08:19.751090+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072300",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,656,925,989 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T00:08:23.528368+00:00",
     "used": false
   }
 ]
