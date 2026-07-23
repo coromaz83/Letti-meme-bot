@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_465042e669c4",
-    "source": "CoinDesk",
-    "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-    "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-    "published_at": "Thu, 16 Jul 2026 12:00:00 +0000",
-    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T12:00:00+00:00"
-  },
-  {
-    "id": "rss_d00341e85dee",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s old coins have gone quiet and $69,000 could reveal whether the new holders crack",
-    "url": "https://cryptoslate.com/bitcoins-old-coins-have-gone-quiet-and-69000-could-reveal-whether-the-new-holders-crack/",
-    "published_at": "Thu, 16 Jul 2026 12:05:57 +0000",
-    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T12:05:57+00:00"
-  },
-  {
-    "id": "rss_8b2649fafc49",
-    "source": "Decrypt",
-    "title": "Morning Minute: Base Hands Its App Over to Cobie",
-    "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
-    "published_at": "Thu, 16 Jul 2026 12:03:28 +0000",
-    "fetched_at": "2026-07-16T13:03:53.767901+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T12:03:28+00:00"
-  },
-  {
-    "id": "llama_2026071613",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,542,196,452 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T13:04:21.369270+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T13:04:21.369270+00:00"
-  },
-  {
     "id": "rss_510e9e7daff2",
     "source": "The Defiant",
     "title": "Visa's Sheffield Pegs Adjusted x402 Volume at $19M",
@@ -1866,6 +1826,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T11:28:16.600392+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94f0fd4bdf4d",
+    "source": "CoinDesk",
+    "title": "BlackRock, Coinbase, Strategy in group pledging $15 million to prepare Bitcoin for quantum threats",
+    "url": "https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats",
+    "published_at": "Thu, 23 Jul 2026 12:54:27 +0000",
+    "fetched_at": "2026-07-23T13:08:17.790197+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7c5b73a77b42",
+    "source": "CoinDesk",
+    "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
+    "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
+    "published_at": "Thu, 23 Jul 2026 12:00:00 +0000",
+    "fetched_at": "2026-07-23T13:08:17.790197+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0c3388bb02c",
+    "source": "Decrypt",
+    "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
+    "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
+    "published_at": "Thu, 23 Jul 2026 12:02:52 +0000",
+    "fetched_at": "2026-07-23T13:08:17.790197+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072313",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,621,622,698 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T13:08:21.653291+00:00",
     "used": false
   }
 ]
