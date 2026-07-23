@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_4903cdfc91b3",
-    "source": "CryptoSlate",
-    "title": "Ethereum is flashing a $478 million buy signal but top traders still expect it to fail",
-    "url": "https://cryptoslate.com/ethereum-is-gaining-on-bitcoin-as-traders-see-a-bigger-breakout-taking-shape/",
-    "published_at": "Thu, 16 Jul 2026 08:32:37 +0000",
-    "fetched_at": "2026-07-16T08:55:39.046771+00:00",
-    "used": true,
-    "_sort_date": "2026-07-16T08:32:37+00:00"
-  },
-  {
-    "id": "llama_2026071608",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,586,596,655 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T08:55:41.951022+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T08:55:41.951022+00:00"
-  },
-  {
     "id": "rss_202e878c8579",
     "source": "CoinDesk",
     "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
@@ -1872,6 +1852,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T06:37:03.170745+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9335ad855f79",
+    "source": "CoinDesk",
+    "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
+    "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+    "published_at": "Thu, 23 Jul 2026 06:38:18 +0000",
+    "fetched_at": "2026-07-23T09:29:33.998569+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072309",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,621,369,277 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T09:29:38.131032+00:00",
     "used": false
   }
 ]
