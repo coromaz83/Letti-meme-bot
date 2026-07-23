@@ -1757,7 +1757,8 @@
     "url": "https://cryptoslate.com/bitcoin-rose-2-on-clarity-progress-while-coinbase-circle-jumped-over-8-but-why/",
     "published_at": "Thu, 23 Jul 2026 11:10:19 +0000",
     "fetched_at": "2026-07-23T11:28:09.117530+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T11:10:19+00:00"
   },
   {
     "id": "llama_2026072311",
@@ -1766,7 +1767,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T11:28:16.600392+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T11:28:16.600392+00:00"
   },
   {
     "id": "rss_94f0fd4bdf4d",
@@ -1775,7 +1777,8 @@
     "url": "https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats",
     "published_at": "Thu, 23 Jul 2026 12:54:27 +0000",
     "fetched_at": "2026-07-23T13:08:17.790197+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T12:54:27+00:00"
   },
   {
     "id": "rss_7c5b73a77b42",
@@ -1784,7 +1787,8 @@
     "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
     "published_at": "Thu, 23 Jul 2026 12:00:00 +0000",
     "fetched_at": "2026-07-23T13:08:17.790197+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T12:00:00+00:00"
   },
   {
     "id": "rss_f0c3388bb02c",
@@ -1793,7 +1797,8 @@
     "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
     "published_at": "Thu, 23 Jul 2026 12:02:52 +0000",
     "fetched_at": "2026-07-23T13:08:17.790197+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T12:02:52+00:00"
   },
   {
     "id": "llama_2026072313",
@@ -1802,7 +1807,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T13:08:21.653291+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T13:08:21.653291+00:00"
   },
   {
     "id": "rss_358c4fd6015b",
@@ -1811,7 +1817,8 @@
     "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
     "published_at": "Thu, 23 Jul 2026 14:00:00 +0000",
     "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T14:00:00+00:00"
   },
   {
     "id": "rss_2e473dc068dd",
@@ -1820,7 +1827,8 @@
     "url": "https://cryptoslate.com/white-house-pushes-back-as-key-democrats-rejects-clarity-acts-crypto-ethics/",
     "published_at": "Thu, 23 Jul 2026 14:05:28 +0000",
     "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T14:05:28+00:00"
   },
   {
     "id": "rss_cb21a198fc8d",
@@ -1829,7 +1837,8 @@
     "url": "https://cryptoslate.com/a-3-8-billion-rwa-recovery-shows-how-quickly-defi-absorbed-the-kelpdao-shock/",
     "published_at": "Thu, 23 Jul 2026 13:10:17 +0000",
     "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T13:10:17+00:00"
   },
   {
     "id": "rss_c98d0b9ec6ad",
@@ -1838,7 +1847,8 @@
     "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
     "published_at": "Thu, 23 Jul 2026 15:17:38 +0000",
     "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T15:17:38+00:00"
   },
   {
     "id": "llama_2026072315",
@@ -1847,6 +1857,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T15:33:48.440932+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T15:33:48.440932+00:00"
   }
 ]
