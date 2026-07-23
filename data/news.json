@@ -1798,7 +1798,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
     "published_at": "Wed, 22 Jul 2026 23:19:41 +0000",
     "fetched_at": "2026-07-23T00:08:19.751090+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-22T23:19:41+00:00"
   },
   {
     "id": "llama_2026072300",
@@ -1807,7 +1808,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T00:08:23.528368+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T00:08:23.528368+00:00"
   },
   {
     "id": "rss_4a6869ec1d39",
@@ -1816,7 +1818,8 @@
     "url": "https://thedefiant.io/news/hacks/attacker-drains-usd24m-in-usdc-from-afx-bridge-on-arbitrum",
     "published_at": "Thu, 23 Jul 2026 01:35:03 GMT",
     "fetched_at": "2026-07-23T03:56:20.568491+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T01:35:03+00:00"
   },
   {
     "id": "llama_2026072303",
@@ -1825,7 +1828,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T03:56:23.580525+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T03:56:23.580525+00:00"
   },
   {
     "id": "rss_3cbb9fdb2d7f",
@@ -1843,7 +1847,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
     "published_at": "Thu, 23 Jul 2026 05:01:06 +0000",
     "fetched_at": "2026-07-23T06:36:59.938106+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T05:01:06+00:00"
   },
   {
     "id": "llama_2026072306",
@@ -1852,7 +1857,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T06:37:03.170745+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T06:37:03.170745+00:00"
   },
   {
     "id": "rss_9335ad855f79",
@@ -1861,7 +1867,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
     "published_at": "Thu, 23 Jul 2026 06:38:18 +0000",
     "fetched_at": "2026-07-23T09:29:33.998569+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T06:38:18+00:00"
   },
   {
     "id": "llama_2026072309",
@@ -1870,6 +1877,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T09:29:38.131032+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T09:29:38.131032+00:00"
   }
 ]
