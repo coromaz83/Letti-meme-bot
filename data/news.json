@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_4bef84c910a6",
-    "source": "The Defiant",
-    "title": "Ostium Vault Exploiter Routes 10,540 ETH to Tornado Cash",
-    "url": "https://thedefiant.io/news/hacks/ostium-vault-exploiter-routes-10-540-eth-to-tornado-cash",
-    "published_at": "Thu, 16 Jul 2026 17:20:06 GMT",
-    "fetched_at": "2026-07-16T18:12:40.096002+00:00",
-    "used": true,
-    "_sort_date": "2026-07-16T17:20:06+00:00"
-  },
-  {
-    "id": "rss_9b62b1d55d91",
-    "source": "The Defiant",
-    "title": "Visa Launches Stablecoin Platform Built on Open USD",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-launches-stablecoin-platform-built-on-open-usd",
-    "published_at": "Thu, 16 Jul 2026 17:17:18 GMT",
-    "fetched_at": "2026-07-16T18:12:40.096002+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T17:17:18+00:00"
-  },
-  {
-    "id": "llama_2026071618",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,557,927,079 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T18:12:43.118748+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T18:12:43.118748+00:00"
-  },
-  {
     "id": "rss_c930ff31d118",
     "source": "Bankless",
     "title": "Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs",
@@ -1899,6 +1869,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T17:39:43.710969+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9c2b18ab89c0",
+    "source": "CryptoSlate",
+    "title": "SEC pays $150,000 as Coinbase-backed Freedom Of Information Act settlement releases two withheld documents",
+    "url": "https://cryptoslate.com/sec-pays-150000-as-coinbase-backed-freedom-of-information-act-settlement-releases-two-withheld-documents/",
+    "published_at": "Thu, 23 Jul 2026 19:05:38 +0000",
+    "fetched_at": "2026-07-23T19:37:27.966910+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a3845e79a80",
+    "source": "Bankless",
+    "title": "The SEC Puts DeFi Vaults on Notice",
+    "url": "https://www.bankless.com/read/the-sec-puts-defi-vaults-on-notice",
+    "published_at": "Thu, 23 Jul 2026 13:58:04 -0400",
+    "fetched_at": "2026-07-23T19:37:27.966910+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072319",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,592,213,633 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T19:37:30.479432+00:00",
     "used": false
   }
 ]
