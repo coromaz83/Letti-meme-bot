@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_8c3e8791e7ac",
-    "source": "The Defiant",
-    "title": "Polygon Labs Cuts Staff Again as It Closes Coinme Deal",
-    "url": "https://thedefiant.io/news/people/polygon-labs-cuts-staff-again-as-it-closes-coinme-deal",
-    "published_at": "Thu, 16 Jul 2026 15:34:18 GMT",
-    "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T15:34:18+00:00"
-  },
-  {
-    "id": "rss_63bf049ad9e5",
-    "source": "The Defiant",
-    "title": "Dune Study for 1inch Finds 85% of Concentrated Liquidity Idle",
-    "url": "https://thedefiant.io/news/defi/dune-study-for-1inch-finds-85-of-concentrated-liquidity-idle",
-    "published_at": "Thu, 16 Jul 2026 15:33:07 GMT",
-    "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": true,
-    "_sort_date": "2026-07-16T15:33:07+00:00"
-  },
-  {
-    "id": "rss_7ce7401aa104",
-    "source": "The Defiant",
-    "title": "Ondo Finance Partners With SBI to Tokenize Japanese Assets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-finance-partners-with-sbi-to-tokenize-japanese-assets",
-    "published_at": "Thu, 16 Jul 2026 15:21:50 GMT",
-    "fetched_at": "2026-07-16T16:50:23.335397+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T15:21:50+00:00"
-  },
-  {
-    "id": "llama_2026071616",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,556,843,309 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T16:50:26.886442+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T16:50:26.886442+00:00"
-  },
-  {
     "id": "rss_4bef84c910a6",
     "source": "The Defiant",
     "title": "Ostium Vault Exploiter Routes 10,540 ETH to Tornado Cash",
@@ -1859,5 +1819,86 @@
     "fetched_at": "2026-07-23T15:33:48.440932+00:00",
     "used": true,
     "_sort_date": "2026-07-23T15:33:48.440932+00:00"
+  },
+  {
+    "id": "rss_60eb7ba1822b",
+    "source": "CoinDesk",
+    "title": "Coinbase's corporate customers can now accept payments from AI agents",
+    "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+    "published_at": "Thu, 23 Jul 2026 16:54:12 +0000",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bfe4064ae89",
+    "source": "CoinDesk",
+    "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+    "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+    "published_at": "Thu, 23 Jul 2026 15:36:39 +0000",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3d68db85dfe7",
+    "source": "The Defiant",
+    "title": "Ondo's Oasis Pro Markets Cleared to Offer Tokenized Stocks in US",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-cleared-to-offer-tokenized-stocks-in-us",
+    "published_at": "Thu, 23 Jul 2026 17:17:09 GMT",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8a14ff8ad227",
+    "source": "The Defiant",
+    "title": "Uniswap Adds Permissioned Pools to Bring Regulated Assets to v4",
+    "url": "https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4",
+    "published_at": "Thu, 23 Jul 2026 16:56:43 GMT",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d33b291a54e6",
+    "source": "The Defiant",
+    "title": "KAIO Tokenizes Mubadala Capital Fund Across Base, Solana and Sui",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kaio-tokenizes-mubadala-capital-fund-across-base-solana-and-sui",
+    "published_at": "Thu, 23 Jul 2026 16:41:02 GMT",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2859e47c25f8",
+    "source": "The Defiant",
+    "title": "SEC's Peirce Says Onchain Vaults, Lending Can Trigger Securities Laws",
+    "url": "https://thedefiant.io/news/regulation/sec-s-peirce-says-onchain-vaults-lending-can-trigger-securities-laws",
+    "published_at": "Thu, 23 Jul 2026 16:13:49 GMT",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a459440daf55",
+    "source": "The Defiant",
+    "title": "BitMEX to Shut Down Exchange on Sept. 23, Urges Withdrawals",
+    "url": "https://thedefiant.io/converge/cefi/bitmex-to-shut-down-exchange-on-sept-23-urges-withdrawals",
+    "published_at": "Thu, 23 Jul 2026 15:58:36 GMT",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_127e5ddac42f",
+    "source": "CryptoSlate",
+    "title": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
+    "url": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
+    "published_at": "Thu, 23 Jul 2026 16:05:22 +0000",
+    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072317",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,587,875,907 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T17:39:43.710969+00:00",
+    "used": false
   }
 ]
