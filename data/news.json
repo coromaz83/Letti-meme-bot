@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_abc10adff12d",
-    "source": "CoinDesk",
-    "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
-    "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-    "published_at": "Thu, 16 Jul 2026 04:56:15 +0000",
-    "fetched_at": "2026-07-16T06:00:37.589466+00:00",
-    "used": true,
-    "_sort_date": "2026-07-16T04:56:15+00:00"
-  },
-  {
-    "id": "llama_2026071606",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,584,945,417 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T06:00:41.635834+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T06:00:41.635834+00:00"
-  },
-  {
     "id": "rss_4903cdfc91b3",
     "source": "CryptoSlate",
     "title": "Ethereum is flashing a $478 million buy signal but top traders still expect it to fail",
@@ -1865,6 +1845,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T03:56:23.580525+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-07-23T06:36:59.938106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab3a02f48e67",
+    "source": "CoinDesk",
+    "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+    "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+    "published_at": "Thu, 23 Jul 2026 05:01:06 +0000",
+    "fetched_at": "2026-07-23T06:36:59.938106+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072306",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,629,893,556 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T06:37:03.170745+00:00",
     "used": false
   }
 ]
