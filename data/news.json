@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_c930ff31d118",
-    "source": "Bankless",
-    "title": "Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs",
-    "url": "https://www.bankless.com/read/news/ethereum-researcher-francesco-damato-departs-ef-for-ethlabs",
-    "published_at": "Thu, 16 Jul 2026 14:50:51 -0400",
-    "fetched_at": "2026-07-16T19:43:05.745610+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T14:50:51-04:00"
-  },
-  {
-    "id": "llama_2026071619",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,556,726,712 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T19:43:08.711189+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T19:43:08.711189+00:00"
-  },
-  {
-    "id": "rss_2adf11ca4059",
-    "source": "Decrypt",
-    "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-    "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-    "published_at": "Thu, 16 Jul 2026 20:01:03 +0000",
-    "fetched_at": "2026-07-16T21:10:44.397652+00:00",
-    "used": true,
-    "_sort_date": "2026-07-16T20:01:03+00:00"
-  },
-  {
-    "id": "llama_2026071621",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,542,578,735 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-16T21:10:47.153121+00:00",
-    "used": false,
-    "_sort_date": "2026-07-16T21:10:47.153121+00:00"
-  },
-  {
     "id": "llama_2026071622",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,538,169,974 🟢 +0.00% (24h)",
@@ -1896,6 +1856,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T19:37:30.479432+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1593f6d708a4",
+    "source": "The Defiant",
+    "title": "Hacker Behind Fake 'Vladhood' Token Still Collecting Fees After Robinhood CEO's X Account Hack",
+    "url": "https://thedefiant.io/news/defi/hacker-behind-fake-vladhood-token-still-collecting-fees-after-robinhood-ceo-s-x-account-hack",
+    "published_at": "Thu, 23 Jul 2026 20:25:12 GMT",
+    "fetched_at": "2026-07-23T21:14:16.281210+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072321",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,588,201,470 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-23T21:14:21.906987+00:00",
     "used": false
   }
 ]
