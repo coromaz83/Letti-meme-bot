@@ -1757,7 +1757,8 @@
     "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
     "published_at": "Thu, 23 Jul 2026 16:54:12 +0000",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T16:54:12+00:00"
   },
   {
     "id": "rss_3bfe4064ae89",
@@ -1766,7 +1767,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
     "published_at": "Thu, 23 Jul 2026 15:36:39 +0000",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T15:36:39+00:00"
   },
   {
     "id": "rss_3d68db85dfe7",
@@ -1775,7 +1777,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-cleared-to-offer-tokenized-stocks-in-us",
     "published_at": "Thu, 23 Jul 2026 17:17:09 GMT",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T17:17:09+00:00"
   },
   {
     "id": "rss_8a14ff8ad227",
@@ -1784,7 +1787,8 @@
     "url": "https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4",
     "published_at": "Thu, 23 Jul 2026 16:56:43 GMT",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T16:56:43+00:00"
   },
   {
     "id": "rss_d33b291a54e6",
@@ -1793,7 +1797,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kaio-tokenizes-mubadala-capital-fund-across-base-solana-and-sui",
     "published_at": "Thu, 23 Jul 2026 16:41:02 GMT",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T16:41:02+00:00"
   },
   {
     "id": "rss_2859e47c25f8",
@@ -1802,7 +1807,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-s-peirce-says-onchain-vaults-lending-can-trigger-securities-laws",
     "published_at": "Thu, 23 Jul 2026 16:13:49 GMT",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T16:13:49+00:00"
   },
   {
     "id": "rss_a459440daf55",
@@ -1811,7 +1817,8 @@
     "url": "https://thedefiant.io/converge/cefi/bitmex-to-shut-down-exchange-on-sept-23-urges-withdrawals",
     "published_at": "Thu, 23 Jul 2026 15:58:36 GMT",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T15:58:36+00:00"
   },
   {
     "id": "rss_127e5ddac42f",
@@ -1820,7 +1827,8 @@
     "url": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
     "published_at": "Thu, 23 Jul 2026 16:05:22 +0000",
     "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T16:05:22+00:00"
   },
   {
     "id": "llama_2026072317",
@@ -1829,7 +1837,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T17:39:43.710969+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T17:39:43.710969+00:00"
   },
   {
     "id": "rss_9c2b18ab89c0",
@@ -1838,7 +1847,8 @@
     "url": "https://cryptoslate.com/sec-pays-150000-as-coinbase-backed-freedom-of-information-act-settlement-releases-two-withheld-documents/",
     "published_at": "Thu, 23 Jul 2026 19:05:38 +0000",
     "fetched_at": "2026-07-23T19:37:27.966910+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T19:05:38+00:00"
   },
   {
     "id": "rss_9a3845e79a80",
@@ -1847,7 +1857,8 @@
     "url": "https://www.bankless.com/read/the-sec-puts-defi-vaults-on-notice",
     "published_at": "Thu, 23 Jul 2026 13:58:04 -0400",
     "fetched_at": "2026-07-23T19:37:27.966910+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T13:58:04-04:00"
   },
   {
     "id": "llama_2026072319",
@@ -1856,7 +1867,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T19:37:30.479432+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T19:37:30.479432+00:00"
   },
   {
     "id": "rss_1593f6d708a4",
@@ -1865,7 +1877,8 @@
     "url": "https://thedefiant.io/news/defi/hacker-behind-fake-vladhood-token-still-collecting-fees-after-robinhood-ceo-s-x-account-hack",
     "published_at": "Thu, 23 Jul 2026 20:25:12 GMT",
     "fetched_at": "2026-07-23T21:14:16.281210+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-23T20:25:12+00:00"
   },
   {
     "id": "llama_2026072321",
@@ -1874,6 +1887,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-23T21:14:21.906987+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-23T21:14:21.906987+00:00"
   }
 ]
