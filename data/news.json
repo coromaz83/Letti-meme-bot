@@ -1826,7 +1826,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/samsung-says-wallet-will-add-stablecoin-support",
     "published_at": "Fri, 24 Jul 2026 16:18:08 GMT",
     "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T16:18:08+00:00"
   },
   {
     "id": "rss_154d54328018",
@@ -1835,7 +1836,8 @@
     "url": "https://thedefiant.io/news/defi/odos-to-shut-down-dex-aggregator-on-july-30",
     "published_at": "Fri, 24 Jul 2026 16:00:57 GMT",
     "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T16:00:57+00:00"
   },
   {
     "id": "rss_c506ce437abb",
@@ -1844,7 +1846,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/occ-denies-wise-s-us-national-trust-bank-charter",
     "published_at": "Fri, 24 Jul 2026 15:53:56 GMT",
     "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T15:53:56+00:00"
   },
   {
     "id": "llama_2026072417",
@@ -1853,7 +1856,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T17:07:56.030644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T17:07:56.030644+00:00"
   },
   {
     "id": "rss_db5ff7d590fa",
@@ -1862,7 +1866,8 @@
     "url": "https://thedefiant.io/news/cefi/bitmex-hayes-sued-over-623-btc-liquidation-claims-as-exchange-winds-down",
     "published_at": "Fri, 24 Jul 2026 16:06:02 GMT",
     "fetched_at": "2026-07-24T19:01:01.093679+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T16:06:02+00:00"
   },
   {
     "id": "rss_6fd38625a600",
@@ -1871,7 +1876,8 @@
     "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
     "published_at": "Fri, 24 Jul 2026 17:50:26 +0000",
     "fetched_at": "2026-07-24T19:01:01.093679+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T17:50:26+00:00"
   },
   {
     "id": "llama_2026072419",
@@ -1880,7 +1886,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T19:01:04.565951+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T19:01:04.565951+00:00"
   },
   {
     "id": "rss_57631d9de70b",
@@ -1889,7 +1896,8 @@
     "url": "https://thedefiant.io/news/defi/perp-dex-dango-to-wind-down-will-halt-trading-july-29",
     "published_at": "Fri, 24 Jul 2026 20:02:11 GMT",
     "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-24T20:02:11+00:00"
   },
   {
     "id": "rss_209c29dccd0f",
@@ -1898,7 +1906,8 @@
     "url": "https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code",
     "published_at": "Fri, 24 Jul 2026 19:59:12 GMT",
     "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-24T19:59:12+00:00"
   },
   {
     "id": "rss_e2ad7543dd01",
@@ -1907,7 +1916,8 @@
     "url": "https://thedefiant.io/news/defi/ex-sushi-cto-joseph-delong-to-launch-order-book-dex-on-robinhood-chain",
     "published_at": "Fri, 24 Jul 2026 19:54:52 GMT",
     "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T19:54:52+00:00"
   },
   {
     "id": "rss_3117bf0c2dd3",
@@ -1916,7 +1926,8 @@
     "url": "https://thedefiant.io/news/blockchains/stacks-bitcoin-staking-upgrade-vote-passes-with-99-muneeb-says",
     "published_at": "Fri, 24 Jul 2026 19:21:40 GMT",
     "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-24T19:21:40+00:00"
   },
   {
     "id": "rss_cc9cba31b136",
@@ -1934,6 +1945,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T20:47:49.681486+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-24T20:47:49.681486+00:00"
   }
 ]
