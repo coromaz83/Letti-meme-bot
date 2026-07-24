@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_9bf20ad153ef",
-    "source": "CryptoSlate",
-    "title": "Bitmine nears its Ethereum buying limit – Now it needs demand to make the bet pay off",
-    "url": "https://cryptoslate.com/bitmine-nears-its-ethereum-buying-limit-now-it-needs-demand-to-make-the-bet-pay-off/",
-    "published_at": "Fri, 17 Jul 2026 14:45:28 +0000",
-    "fetched_at": "2026-07-17T15:58:54.711266+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T14:45:28+00:00"
-  },
-  {
-    "id": "llama_2026071715",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,480,747,218 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T15:58:57.525308+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T15:58:57.525308+00:00"
-  },
-  {
     "id": "llama_2026071717",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,489,986,040 🟢 +0.00% (24h)",
@@ -1908,5 +1888,41 @@
     "fetched_at": "2026-07-24T15:14:48.982761+00:00",
     "used": true,
     "_sort_date": "2026-07-24T15:14:48.982761+00:00"
+  },
+  {
+    "id": "rss_d24122d932bd",
+    "source": "The Defiant",
+    "title": "Samsung Says Wallet Will Add Stablecoin Support",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/samsung-says-wallet-will-add-stablecoin-support",
+    "published_at": "Fri, 24 Jul 2026 16:18:08 GMT",
+    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_154d54328018",
+    "source": "The Defiant",
+    "title": "Odos to Shut Down DEX Aggregator on July 30",
+    "url": "https://thedefiant.io/news/defi/odos-to-shut-down-dex-aggregator-on-july-30",
+    "published_at": "Fri, 24 Jul 2026 16:00:57 GMT",
+    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c506ce437abb",
+    "source": "The Defiant",
+    "title": "OCC Denies Wise's US National Trust Bank Charter",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/occ-denies-wise-s-us-national-trust-bank-charter",
+    "published_at": "Fri, 24 Jul 2026 15:53:56 GMT",
+    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072417",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,543,031,037 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T17:07:56.030644+00:00",
+    "used": false
   }
 ]
