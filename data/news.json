@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071712",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,485,639,540 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T12:16:18.443922+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T12:16:18.443922+00:00"
-  },
-  {
     "id": "llama_2026071714",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,488,149,815 🟢 +0.00% (24h)",
@@ -1896,6 +1886,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T11:19:38.019677+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5b72f6da9e5",
+    "source": "CryptoSlate",
+    "title": "DeFi’s next institutional hurdle is deciding who can be trusted to price real-world assets",
+    "url": "https://cryptoslate.com/defis-next-institutional-hurdle-is-deciding-who-can-be-trusted-to-price-the-collateral/",
+    "published_at": "Fri, 24 Jul 2026 11:30:49 +0000",
+    "fetched_at": "2026-07-24T13:03:30.131100+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072413",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,600,250,659 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T13:03:34.796630+00:00",
     "used": false
   }
 ]
