@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071714",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,488,149,815 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T14:13:38.332300+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T14:13:38.332300+00:00"
-  },
-  {
     "id": "rss_9bf20ad153ef",
     "source": "CryptoSlate",
     "title": "Bitmine nears its Ethereum buying limit – Now it needs demand to make the bet pay off",
@@ -1904,6 +1894,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T13:03:34.796630+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072415",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,568,228,571 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T15:14:48.982761+00:00",
     "used": false
   }
 ]
