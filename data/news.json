@@ -1,35 +1,5 @@
 [
   {
-    "id": "llama_2026071717",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,489,986,040 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T17:20:18.665956+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T17:20:18.665956+00:00"
-  },
-  {
-    "id": "rss_cc9cba31b136",
-    "source": "Bankless",
-    "title": "Ethereum Is Building Reunification Machinery",
-    "url": "https://www.bankless.com/read/ethereum-is-building-reunification-machinery",
-    "published_at": "Fri, 17 Jul 2026 14:35:11 -0400",
-    "fetched_at": "2026-07-17T18:36:23.871551+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T14:35:11-04:00"
-  },
-  {
-    "id": "llama_2026071718",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,507,688,267 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T18:36:28.506935+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T18:36:28.506935+00:00"
-  },
-  {
     "id": "rss_579ddfa6978c",
     "source": "The Defiant",
     "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
@@ -1923,6 +1893,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T17:07:56.030644+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db5ff7d590fa",
+    "source": "The Defiant",
+    "title": "BitMEX, Hayes Sued Over 623 BTC Liquidation Claims as Exchange Winds Down",
+    "url": "https://thedefiant.io/news/cefi/bitmex-hayes-sued-over-623-btc-liquidation-claims-as-exchange-winds-down",
+    "published_at": "Fri, 24 Jul 2026 16:06:02 GMT",
+    "fetched_at": "2026-07-24T19:01:01.093679+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6fd38625a600",
+    "source": "Decrypt",
+    "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+    "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+    "published_at": "Fri, 24 Jul 2026 17:50:26 +0000",
+    "fetched_at": "2026-07-24T19:01:01.093679+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072419",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,562,182,173 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T19:01:04.565951+00:00",
     "used": false
   }
 ]
