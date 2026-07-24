@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071706",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,505,998,858 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T06:23:37.977604+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T06:23:37.977604+00:00"
-  },
-  {
     "id": "rss_9932ea901df9",
     "source": "CoinDesk",
     "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
@@ -1885,6 +1875,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T03:55:31.663111+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fcc111fc916e",
+    "source": "CoinDesk",
+    "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+    "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+    "published_at": "Fri, 24 Jul 2026 06:10:49 +0000",
+    "fetched_at": "2026-07-24T06:34:43.443097+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6c703321b45",
+    "source": "The Defiant",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "published_at": "Fri, 24 Jul 2026 06:34:45 GMT",
+    "fetched_at": "2026-07-24T06:34:43.443097+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072406",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,614,157,676 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T06:34:47.573213+00:00",
     "used": false
   }
 ]
