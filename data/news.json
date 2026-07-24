@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_579ddfa6978c",
-    "source": "The Defiant",
-    "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
-    "url": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
-    "published_at": "Fri, 17 Jul 2026 19:53:05 GMT",
-    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T19:53:05+00:00"
-  },
-  {
-    "id": "rss_e0e90516f833",
-    "source": "The Defiant",
-    "title": "Tokenized Stock Lending TVL Reaches $23M as DEX Volume Climbs",
-    "url": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
-    "published_at": "Fri, 17 Jul 2026 19:06:48 GMT",
-    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T19:06:48+00:00"
-  },
-  {
-    "id": "rss_fac6d6537862",
-    "source": "The Defiant",
-    "title": "CASHCAT Falls 75% from Peak After Hyperliquid Perp Listing",
-    "url": "https://thedefiant.io/news/tokens/cashcat-falls-75-from-peak-after-hyperliquid-perp-listing",
-    "published_at": "Fri, 17 Jul 2026 18:34:57 GMT",
-    "fetched_at": "2026-07-17T20:11:50.633917+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T18:34:57+00:00"
-  },
-  {
-    "id": "llama_2026071720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,524,139,804 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T20:11:54.784346+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T20:11:54.784346+00:00"
-  },
-  {
     "id": "llama_2026071721",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,531,722,575 🟢 +0.00% (24h)",
@@ -1920,6 +1880,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T19:01:04.565951+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57631d9de70b",
+    "source": "The Defiant",
+    "title": "Perp DEX Dango to Wind Down, Will Halt Trading July 29",
+    "url": "https://thedefiant.io/news/defi/perp-dex-dango-to-wind-down-will-halt-trading-july-29",
+    "published_at": "Fri, 24 Jul 2026 20:02:11 GMT",
+    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_209c29dccd0f",
+    "source": "The Defiant",
+    "title": "India Orders GitHub to Remove Jack Dorsey's Bitchat Code",
+    "url": "https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code",
+    "published_at": "Fri, 24 Jul 2026 19:59:12 GMT",
+    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e2ad7543dd01",
+    "source": "The Defiant",
+    "title": "Ex-Sushi CTO Joseph DeLong to Launch Order Book DEX on Robinhood Chain",
+    "url": "https://thedefiant.io/news/defi/ex-sushi-cto-joseph-delong-to-launch-order-book-dex-on-robinhood-chain",
+    "published_at": "Fri, 24 Jul 2026 19:54:52 GMT",
+    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3117bf0c2dd3",
+    "source": "The Defiant",
+    "title": "Stacks Bitcoin Staking Upgrade Vote Passes With 99%, Muneeb Says",
+    "url": "https://thedefiant.io/news/blockchains/stacks-bitcoin-staking-upgrade-vote-passes-with-99-muneeb-says",
+    "published_at": "Fri, 24 Jul 2026 19:21:40 GMT",
+    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc9cba31b136",
+    "source": "Bankless",
+    "title": "Ethereum Is Building Reunification Machinery",
+    "url": "https://www.bankless.com/read/ethereum-is-building-reunification-machinery",
+    "published_at": "Fri, 17 Jul 2026 14:35:11 -0400",
+    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072420",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,562,401,880 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T20:47:49.681486+00:00",
     "used": false
   }
 ]
