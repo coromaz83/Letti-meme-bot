@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_9932ea901df9",
-    "source": "CoinDesk",
-    "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-    "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
-    "published_at": "Fri, 17 Jul 2026 07:29:41 +0000",
-    "fetched_at": "2026-07-17T08:36:56.487026+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T07:29:41+00:00"
-  },
-  {
-    "id": "rss_9eb489e65542",
-    "source": "CoinDesk",
-    "title": "This $28 million ether market bet aims to profit from pure market chaos",
-    "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
-    "published_at": "Fri, 17 Jul 2026 07:28:52 +0000",
-    "fetched_at": "2026-07-17T08:36:56.487026+00:00",
-    "used": true,
-    "_sort_date": "2026-07-17T07:28:52+00:00"
-  },
-  {
-    "id": "llama_2026071708",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,466,858,309 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-17T08:36:59.711157+00:00",
-    "used": false,
-    "_sort_date": "2026-07-17T08:36:59.711157+00:00"
-  },
-  {
     "id": "llama_2026071710",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,474,257,276 🟢 +0.00% (24h)",
@@ -1902,6 +1872,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-24T06:34:47.573213+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78126e065469",
+    "source": "CoinDesk",
+    "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+    "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
+    "published_at": "Fri, 24 Jul 2026 07:22:26 +0000",
+    "fetched_at": "2026-07-24T09:26:54.266895+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072409",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,630,169,865 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-24T09:26:59.394931+00:00",
     "used": false
   }
 ]
