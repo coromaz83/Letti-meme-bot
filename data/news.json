@@ -1,25 +1,5 @@
 [
   {
-    "id": "llama_2026071808",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,530,483,840 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-18T08:53:53.318946+00:00",
-    "used": true,
-    "_sort_date": "2026-07-18T08:53:53.318946+00:00"
-  },
-  {
-    "id": "llama_2026071810",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,530,199,922 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-18T10:24:36.429359+00:00",
-    "used": false,
-    "_sort_date": "2026-07-18T10:24:36.429359+00:00"
-  },
-  {
     "id": "llama_2026071811",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,528,562,182 🟢 +0.00% (24h)",
@@ -1927,5 +1907,23 @@
     "fetched_at": "2026-07-25T08:32:13.977003+00:00",
     "used": true,
     "_sort_date": "2026-07-25T08:32:13.977003+00:00"
+  },
+  {
+    "id": "rss_59c0e7b1f247",
+    "source": "CryptoSlate",
+    "title": "Two Ethereum bridges lose $31.7M within hours as third protocol halts staking",
+    "url": "https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
+    "published_at": "Sat, 25 Jul 2026 09:13:07 +0000",
+    "fetched_at": "2026-07-25T10:39:44.296076+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072510",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,540,287,317 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-25T10:39:48.559860+00:00",
+    "used": false
   }
 ]
