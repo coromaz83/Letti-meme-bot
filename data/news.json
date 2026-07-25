@@ -1885,7 +1885,8 @@
     "url": "https://cryptoslate.com/two-ethereum-bridges-lose-31-7m-within-hours-as-third-protocol-halts-staking/",
     "published_at": "Sat, 25 Jul 2026 09:13:07 +0000",
     "fetched_at": "2026-07-25T10:39:44.296076+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-25T09:13:07+00:00"
   },
   {
     "id": "llama_2026072510",
@@ -1894,7 +1895,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-25T10:39:48.559860+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-25T10:39:48.559860+00:00"
   },
   {
     "id": "llama_2026072512",
@@ -1903,7 +1905,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-25T12:06:15.363902+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-25T12:06:15.363902+00:00"
   },
   {
     "id": "llama_2026072514",
@@ -1912,7 +1915,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-25T14:12:07.394595+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-25T14:12:07.394595+00:00"
   },
   {
     "id": "llama_2026072515",
@@ -1921,6 +1925,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-25T15:43:29.592560+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-25T15:43:29.592560+00:00"
   }
 ]
