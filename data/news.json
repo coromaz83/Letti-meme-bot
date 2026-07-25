@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071815",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,536,030,930 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-18T15:02:39.386386+00:00",
-    "used": true,
-    "_sort_date": "2026-07-18T15:02:39.386386+00:00"
-  },
-  {
     "id": "rss_32e39275dea8",
     "source": "The Defiant",
     "title": "'Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk",
@@ -1922,6 +1912,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-25T14:12:07.394595+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,551,797,015 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-25T15:43:29.592560+00:00",
     "used": false
   }
 ]
