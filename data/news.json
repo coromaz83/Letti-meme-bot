@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026071915",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,566,938,067 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-19T15:32:34.658470+00:00",
-    "used": true,
-    "_sort_date": "2026-07-19T15:32:34.658470+00:00"
-  },
-  {
     "id": "rss_93446e323342",
     "source": "CryptoSlate",
     "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
@@ -1896,5 +1886,23 @@
     "fetched_at": "2026-07-26T14:42:15.502375+00:00",
     "used": true,
     "_sort_date": "2026-07-26T14:42:15.502375+00:00"
+  },
+  {
+    "id": "rss_87562a975f3c",
+    "source": "The Defiant",
+    "title": "BitMart to Wind Down Exchange, End Trading by Aug. 26",
+    "url": "https://thedefiant.io/converge/cefi/bitmart-to-wind-down-exchange-end-trading-by-aug-26",
+    "published_at": "Sun, 26 Jul 2026 15:19:38 GMT",
+    "fetched_at": "2026-07-26T16:08:35.257575+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072616",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,579,859,763 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-26T16:08:41.421976+00:00",
+    "used": false
   }
 ]
