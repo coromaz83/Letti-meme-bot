@@ -1727,7 +1727,8 @@
     "url": "https://thedefiant.io/converge/cefi/bitmart-to-wind-down-exchange-end-trading-by-aug-26",
     "published_at": "Sun, 26 Jul 2026 15:19:38 GMT",
     "fetched_at": "2026-07-26T16:08:35.257575+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-26T15:19:38+00:00"
   },
   {
     "id": "llama_2026072616",
@@ -1736,7 +1737,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-26T16:08:41.421976+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-26T16:08:41.421976+00:00"
   },
   {
     "id": "llama_2026072617",
@@ -1745,7 +1747,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-26T17:35:37.884035+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-26T17:35:37.884035+00:00"
   },
   {
     "id": "llama_2026072619",
@@ -1754,7 +1757,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-26T19:22:35.057351+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-26T19:22:35.057351+00:00"
   },
   {
     "id": "llama_2026072620",
@@ -1763,6 +1767,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-26T20:31:37.347206+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-26T20:31:37.347206+00:00"
   }
 ]
