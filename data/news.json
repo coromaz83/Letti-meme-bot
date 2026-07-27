@@ -1,52 +1,5 @@
 [
   {
-    "id": "rss_c4ed29038a4b",
-    "source": "The Defiant",
-    "title": "Consensys Halted MetaMask Releases Over North Korea-Linked Contractor",
-    "url": "https://thedefiant.io/news/security/consensys-halted-metamask-releases-over-north-korea-linked-contractor",
-    "published_at": "Mon, 20 Jul 2026 19:18:03 GMT",
-    "fetched_at": "2026-07-20T20:49:55.969242+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T19:18:03+00:00"
-  },
-  {
-    "id": "llama_2026072020",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,606,218,713 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T20:49:59.607541+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T20:49:59.607541+00:00"
-  },
-  {
-    "id": "rss_a766a72dcf62",
-    "source": "The Defiant",
-    "title": "Armstrong Says His X Posts and Avatars Are Not Token Endorsements",
-    "url": "https://thedefiant.io/news/people/armstrong-says-his-x-posts-and-avatars-are-not-token-endorsements",
-    "published_at": "Mon, 20 Jul 2026 22:07:26 GMT",
-    "fetched_at": "2026-07-20T22:07:24.830112+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f62f6b075404",
-    "source": "The Defiant",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "published_at": "Mon, 20 Jul 2026 22:07:26 GMT",
-    "fetched_at": "2026-07-20T22:07:24.830112+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072022",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,607,886,469 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T22:07:27.355796+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026072023",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,610,622,142 🟢 +0.00% (24h)",
@@ -1975,5 +1928,23 @@
     "fetched_at": "2026-07-27T20:39:48.401788+00:00",
     "used": false,
     "_sort_date": "2026-07-27T20:39:48.401788+00:00"
+  },
+  {
+    "id": "rss_f24c5130654e",
+    "source": "Decrypt",
+    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+    "published_at": "Mon, 27 Jul 2026 21:05:05 +0000",
+    "fetched_at": "2026-07-27T22:13:07.048885+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072722",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,631,031,059 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T22:13:09.771293+00:00",
+    "used": false
   }
 ]
