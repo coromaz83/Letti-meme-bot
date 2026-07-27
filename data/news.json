@@ -1997,5 +1997,59 @@
     "published_at": "",
     "fetched_at": "2026-07-27T17:03:52.432941+00:00",
     "used": false
+  },
+  {
+    "id": "rss_21a56d7d1cec",
+    "source": "The Defiant",
+    "title": "Ondo Recasts Its Blockchain as the Ondo Network",
+    "url": "https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network",
+    "published_at": "Mon, 27 Jul 2026 18:20:32 GMT",
+    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e2c063ec16ad",
+    "source": "The Defiant",
+    "title": "Ether ETFs Pull $104M, Tripling Bitcoin's Weekly Inflows",
+    "url": "https://thedefiant.io/converge/markets/ether-etfs-pull-104m-tripling-bitcoin-s-weekly-inflows",
+    "published_at": "Mon, 27 Jul 2026 18:14:31 GMT",
+    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b05c21fb1508",
+    "source": "The Defiant",
+    "title": "World Enters 'Phase 3,' Extends Proof of Human to AI Agents",
+    "url": "https://thedefiant.io/news/infrastructure/world-enters-phase-3-extends-proof-of-human-to-ai-agents",
+    "published_at": "Mon, 27 Jul 2026 18:09:36 GMT",
+    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18a90a597ec5",
+    "source": "The Defiant",
+    "title": "Phantom to End Monad Support on Aug. 26",
+    "url": "https://thedefiant.io/news/infrastructure/phantom-to-end-monad-support-on-aug-26",
+    "published_at": "Mon, 27 Jul 2026 18:08:55 GMT",
+    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ccf38cb3e878",
+    "source": "Bankless",
+    "title": "Bitmine Added ETH While Strategy's BTC Lull Continues",
+    "url": "https://www.bankless.com/read/news/bitmine-added-eth-while-strategys-btc-lull-continues",
+    "published_at": "Mon, 27 Jul 2026 14:31:35 -0400",
+    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072718",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,618,283,864 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T18:58:08.290267+00:00",
+    "used": false
   }
 ]
