@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,610,622,142 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T23:33:24.279077+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T23:33:24.279077+00:00"
-  },
-  {
     "id": "llama_2026072103",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,620,806,390 🟢 +0.00% (24h)",
@@ -1945,6 +1935,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T22:13:09.771293+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f62f6b075404",
+    "source": "The Defiant",
+    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+    "published_at": "Mon, 27 Jul 2026 23:37:05 GMT",
+    "fetched_at": "2026-07-27T23:37:03.128052+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aa25a3c5eb90",
+    "source": "Bankless",
+    "title": "Morpho Midnight and the Rate DeFi's Been Missing",
+    "url": "https://www.bankless.com/read/morpho-midnight-and-the-rate-defis-been-missing",
+    "published_at": "Mon, 20 Jul 2026 14:59:40 -0400",
+    "fetched_at": "2026-07-27T23:37:03.128052+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072723",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,621,885,268 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T23:37:06.320821+00:00",
     "used": false
   }
 ]
