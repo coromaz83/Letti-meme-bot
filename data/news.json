@@ -1853,7 +1853,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T03:51:41.082742+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T03:51:41.082742+00:00"
   },
   {
     "id": "rss_c219c943904e",
@@ -1862,7 +1863,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
     "published_at": "Mon, 27 Jul 2026 06:43:34 +0000",
     "fetched_at": "2026-07-27T07:40:56.007781+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T06:43:34+00:00"
   },
   {
     "id": "llama_2026072707",
@@ -1871,7 +1873,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T07:41:03.475563+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T07:41:03.475563+00:00"
   },
   {
     "id": "rss_935f3b855f6e",
@@ -1880,7 +1883,8 @@
     "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
     "fetched_at": "2026-07-27T11:33:45.863419+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T09:01:05+00:00"
   },
   {
     "id": "rss_e801a3853a81",
@@ -1889,7 +1893,8 @@
     "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
     "published_at": "Mon, 27 Jul 2026 10:39:22 +0000",
     "fetched_at": "2026-07-27T11:33:45.863419+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T10:39:22+00:00"
   },
   {
     "id": "rss_f46f159cf67b",
@@ -1898,7 +1903,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
     "published_at": "Mon, 27 Jul 2026 09:43:58 +0000",
     "fetched_at": "2026-07-27T11:33:45.863419+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T09:43:58+00:00"
   },
   {
     "id": "llama_2026072711",
@@ -1907,6 +1913,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T11:33:48.768231+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T11:33:48.768231+00:00"
   }
 ]
