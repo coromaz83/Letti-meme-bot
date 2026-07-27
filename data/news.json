@@ -1,105 +1,5 @@
 [
   {
-    "id": "rss_18e9dfd2dba6",
-    "source": "The Defiant",
-    "title": "Lighter Makes Stock Tokens Eligible Collateral on Robinhood Chain",
-    "url": "https://thedefiant.io/news/defi/lighter-makes-stock-tokens-eligible-collateral-on-robinhood-chain",
-    "published_at": "Mon, 20 Jul 2026 19:05:16 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T19:05:16+00:00"
-  },
-  {
-    "id": "rss_570fa1870e47",
-    "source": "The Defiant",
-    "title": "Saylor Opposes Bitcoin's BIP-110 in 110-Point Essay",
-    "url": "https://thedefiant.io/news/blockchains/saylor-opposes-bitcoin-s-bip-110-in-110-point-essay",
-    "published_at": "Mon, 20 Jul 2026 18:58:13 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:58:13+00:00"
-  },
-  {
-    "id": "rss_ae7b32565701",
-    "source": "The Defiant",
-    "title": "Hyperliquid to Open HIP-4 Prediction Markets Behind 500,000 HYPE Stake",
-    "url": "https://thedefiant.io/news/defi/hyperliquid-to-open-hip-4-prediction-markets-behind-500-000-hype-stake",
-    "published_at": "Mon, 20 Jul 2026 18:43:16 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:43:16+00:00"
-  },
-  {
-    "id": "rss_c3b3ad2432c0",
-    "source": "The Defiant",
-    "title": "Allbridge Halts Core Bridge After $1.65M Flash Loan Exploit",
-    "url": "https://thedefiant.io/news/hacks/allbridge-halts-core-bridge-after-1-65m-flash-loan-exploit",
-    "published_at": "Mon, 20 Jul 2026 18:26:57 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T18:26:57+00:00"
-  },
-  {
-    "id": "rss_607d9fd502bd",
-    "source": "The Defiant",
-    "title": "Strategy Sells $263.5M in MSTR Shares, Skips Bitcoin Again",
-    "url": "https://thedefiant.io/converge/cefi/strategy-sells-263-5m-in-mstr-shares-skips-bitcoin-again",
-    "published_at": "Mon, 20 Jul 2026 18:25:24 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:25:24+00:00"
-  },
-  {
-    "id": "rss_ee275132b659",
-    "source": "The Defiant",
-    "title": "Bernstein Lifts Robinhood Target to $160 on Prediction Markets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bernstein-lifts-robinhood-target-to-160-on-prediction-markets",
-    "published_at": "Mon, 20 Jul 2026 18:22:25 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:22:25+00:00"
-  },
-  {
-    "id": "rss_c8678ce4287b",
-    "source": "The Defiant",
-    "title": "Bitmine Slowed ETH Buys to Smallest Weekly Pace Since June 2025",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-slowed-eth-buys-to-smallest-weekly-pace-since-june-2025",
-    "published_at": "Mon, 20 Jul 2026 18:19:02 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:19:02+00:00"
-  },
-  {
-    "id": "rss_53c889499e1e",
-    "source": "The Defiant",
-    "title": "HYPE Spot ETFs Log First Weekly Outflow Since May",
-    "url": "https://thedefiant.io/converge/markets/hype-spot-etfs-log-first-weekly-outflow-since-may",
-    "published_at": "Mon, 20 Jul 2026 18:11:02 GMT",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T18:11:02+00:00"
-  },
-  {
-    "id": "rss_aa25a3c5eb90",
-    "source": "Bankless",
-    "title": "Morpho Midnight and the Rate DeFi's Been Missing",
-    "url": "https://www.bankless.com/read/morpho-midnight-and-the-rate-defis-been-missing",
-    "published_at": "Mon, 20 Jul 2026 14:59:40 -0400",
-    "fetched_at": "2026-07-20T19:14:55.848945+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T14:59:40-04:00"
-  },
-  {
-    "id": "llama_2026072019",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,614,916,376 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T19:14:59.613889+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T19:14:59.613889+00:00"
-  },
-  {
     "id": "rss_c4ed29038a4b",
     "source": "The Defiant",
     "title": "Consensys Halted MetaMask Releases Over North Korea-Linked Contractor",
@@ -2050,6 +1950,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T18:58:08.290267+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072720",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,617,919,555 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T20:39:48.401788+00:00",
     "used": false
   }
 ]
