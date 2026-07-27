@@ -1913,7 +1913,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
     "published_at": "Mon, 27 Jul 2026 14:00:00 +0000",
     "fetched_at": "2026-07-27T14:53:31.926709+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T14:00:00+00:00"
   },
   {
     "id": "rss_406e2df4aa14",
@@ -1922,7 +1923,8 @@
     "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
     "published_at": "Mon, 27 Jul 2026 12:55:57 +0000",
     "fetched_at": "2026-07-27T14:53:31.926709+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T12:55:57+00:00"
   },
   {
     "id": "rss_ac8a16f576f2",
@@ -1931,7 +1933,8 @@
     "url": "https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens",
     "published_at": "Mon, 27 Jul 2026 14:45:01 GMT",
     "fetched_at": "2026-07-27T14:53:31.926709+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T14:45:01+00:00"
   },
   {
     "id": "rss_b321fdf6b511",
@@ -1940,7 +1943,8 @@
     "url": "https://cryptoslate.com/how-morphos-new-vault-structure-could-trigger-the-secs-crackdown-on-hidden-crypto-managers/",
     "published_at": "Mon, 27 Jul 2026 13:50:05 +0000",
     "fetched_at": "2026-07-27T14:53:31.926709+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T13:50:05+00:00"
   },
   {
     "id": "rss_41b611b92cfb",
@@ -1949,7 +1953,8 @@
     "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
     "published_at": "Mon, 27 Jul 2026 12:27:47 +0000",
     "fetched_at": "2026-07-27T14:53:31.926709+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T12:27:47+00:00"
   },
   {
     "id": "llama_2026072714",
@@ -1958,6 +1963,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T14:53:36.255492+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T14:53:36.255492+00:00"
   }
 ]
