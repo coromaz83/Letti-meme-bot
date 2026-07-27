@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_74c5a2495db0",
-    "source": "CryptoSlate",
-    "title": "Ethereum bridge users have 24 hours to exit before chain shuts down after just 5 week warning",
-    "url": "https://cryptoslate.com/ethereum-bridge-users-have-24-hours-to-exit-before-chain-shutdown-announced-just-five-weeks-ago/",
-    "published_at": "Mon, 20 Jul 2026 09:44:44 +0000",
-    "fetched_at": "2026-07-20T10:18:58.880207+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T09:44:44+00:00"
-  },
-  {
-    "id": "llama_2026072010",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,552,732,136 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T10:19:04.121292+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T10:19:04.121292+00:00"
-  },
-  {
     "id": "llama_2026072012",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,557,087,059 🟢 +0.00% (24h)",
@@ -1891,6 +1871,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T07:41:03.475563+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-07-27T11:33:45.863419+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e801a3853a81",
+    "source": "CoinDesk",
+    "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
+    "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+    "published_at": "Mon, 27 Jul 2026 10:39:22 +0000",
+    "fetched_at": "2026-07-27T11:33:45.863419+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f46f159cf67b",
+    "source": "CoinDesk",
+    "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+    "published_at": "Mon, 27 Jul 2026 09:43:58 +0000",
+    "fetched_at": "2026-07-27T11:33:45.863419+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072711",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,603,613,894 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T11:33:48.768231+00:00",
     "used": false
   }
 ]
