@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_dd5706623a84",
-    "source": "CoinDesk",
-    "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
-    "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-    "published_at": "Mon, 20 Jul 2026 12:55:36 +0000",
-    "fetched_at": "2026-07-20T15:17:11.270711+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T12:55:36+00:00"
-  },
-  {
-    "id": "llama_2026072015",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,551,457,055 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T15:17:15.388905+00:00",
-    "used": true,
-    "_sort_date": "2026-07-20T15:17:15.388905+00:00"
-  },
-  {
-    "id": "rss_290e5dec73a2",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-    "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
-    "published_at": "Mon, 20 Jul 2026 16:12:36 +0000",
-    "fetched_at": "2026-07-20T17:00:38.446115+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T16:12:36+00:00"
-  },
-  {
-    "id": "llama_2026072017",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,572,010,907 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-20T17:00:41.849100+00:00",
-    "used": false,
-    "_sort_date": "2026-07-20T17:00:41.849100+00:00"
-  },
-  {
     "id": "rss_18e9dfd2dba6",
     "source": "The Defiant",
     "title": "Lighter Makes Stock Tokens Eligible Collateral on Robinhood Chain",
@@ -1965,5 +1925,77 @@
     "fetched_at": "2026-07-27T14:53:36.255492+00:00",
     "used": false,
     "_sort_date": "2026-07-27T14:53:36.255492+00:00"
+  },
+  {
+    "id": "rss_8cbf69106965",
+    "source": "The Defiant",
+    "title": "Storj Files Chapter 11, Floats Equity Path for Token Holders",
+    "url": "https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders",
+    "published_at": "Mon, 27 Jul 2026 16:33:40 GMT",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_12f6be1198c6",
+    "source": "The Defiant",
+    "title": "Lido Unveils Curated Module v2 in Ethereum Staking Overhaul",
+    "url": "https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul",
+    "published_at": "Mon, 27 Jul 2026 15:46:31 GMT",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6df132c736bc",
+    "source": "The Defiant",
+    "title": "Circle Buys IBM Blockchain Patent Portfolio",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio",
+    "published_at": "Mon, 27 Jul 2026 15:01:13 GMT",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7e5f5d4ce4f2",
+    "source": "The Defiant",
+    "title": "Magic Labs Sells Wallet Business to Kraken Parent Payward",
+    "url": "https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward",
+    "published_at": "Mon, 27 Jul 2026 14:57:35 GMT",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8945b7029b34",
+    "source": "The Defiant",
+    "title": "Securitize Registers Capital Affiliate as SEC Investment Adviser",
+    "url": "https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser",
+    "published_at": "Mon, 27 Jul 2026 14:52:18 GMT",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ad3d212d1ae1",
+    "source": "CryptoSlate",
+    "title": "On-chain data shows 5,280 ETH draining into single address following quiet Triple-A wallet breach",
+    "url": "https://cryptoslate.com/onchain-data-shows-5280-eth-draining-into-single-address-following-quiet-triple-a-wallet-breach/",
+    "published_at": "Mon, 27 Jul 2026 15:05:06 +0000",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0c41f3f09692",
+    "source": "Decrypt",
+    "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
+    "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
+    "published_at": "Mon, 27 Jul 2026 15:42:54 +0000",
+    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072717",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,600,594,753 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-27T17:03:52.432941+00:00",
+    "used": false
   }
 ]
