@@ -1842,7 +1842,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-solana-in-tokenized-stock-volume-via-memecoin-pairs",
     "published_at": "Tue, 28 Jul 2026 17:28:45 GMT",
     "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T17:28:45+00:00"
   },
   {
     "id": "rss_a1c10fedb136",
@@ -1851,7 +1852,8 @@
     "url": "https://thedefiant.io/news/infrastructure/zama-ceo-claims-1-000-confidential-transfers-per-second-on-gpus",
     "published_at": "Tue, 28 Jul 2026 16:33:49 GMT",
     "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T16:33:49+00:00"
   },
   {
     "id": "rss_d7d6f2e52be4",
@@ -1860,7 +1862,8 @@
     "url": "https://thedefiant.io/news/defi/1inch-commits-10m-1inch-500k-usdc-to-aqua-lp-rewards",
     "published_at": "Tue, 28 Jul 2026 16:33:10 GMT",
     "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T16:33:10+00:00"
   },
   {
     "id": "llama_2026072817",
@@ -1869,7 +1872,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T17:58:49.940483+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T17:58:49.940483+00:00"
   },
   {
     "id": "rss_9b60d906f6b6",
@@ -1878,7 +1882,8 @@
     "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
     "published_at": "Tue, 28 Jul 2026 19:14:14 +0000",
     "fetched_at": "2026-07-28T19:46:28.416361+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T19:14:14+00:00"
   },
   {
     "id": "llama_2026072819",
@@ -1887,7 +1892,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T19:46:34.936294+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T19:46:34.936294+00:00"
   },
   {
     "id": "rss_320433978fde",
@@ -1896,7 +1902,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 28 Jul 2026 21:15:36 GMT",
     "fetched_at": "2026-07-28T21:15:32.346115+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T21:15:36+00:00"
   },
   {
     "id": "rss_88bc616eacb4",
@@ -1905,7 +1912,8 @@
     "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
     "published_at": "Tue, 28 Jul 2026 21:15:36 GMT",
     "fetched_at": "2026-07-28T21:15:32.346115+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T21:15:36+00:00"
   },
   {
     "id": "llama_2026072821",
@@ -1914,6 +1922,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T21:15:38.100473+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T21:15:38.100473+00:00"
   }
 ]
