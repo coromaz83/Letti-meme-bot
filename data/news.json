@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_40c5af511b55",
-    "source": "CoinDesk",
-    "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
-    "url": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
-    "published_at": "Tue, 21 Jul 2026 11:37:22 +0000",
-    "fetched_at": "2026-07-21T11:52:28.544006+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T11:37:22+00:00"
-  },
-  {
-    "id": "rss_9adbb8b0455a",
-    "source": "CoinDesk",
-    "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
-    "url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
-    "published_at": "Tue, 21 Jul 2026 11:19:18 +0000",
-    "fetched_at": "2026-07-21T11:52:28.544006+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T11:19:18+00:00"
-  },
-  {
-    "id": "llama_2026072111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,670,343,316 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T11:52:31.473991+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T11:52:31.473991+00:00"
-  },
-  {
-    "id": "rss_7ea39b4659c7",
-    "source": "CoinDesk",
-    "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
-    "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
-    "published_at": "Tue, 21 Jul 2026 12:42:29 +0000",
-    "fetched_at": "2026-07-21T14:10:52.982607+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T12:42:29+00:00"
-  },
-  {
-    "id": "rss_665ad930eba0",
-    "source": "The Defiant",
-    "title": "Grayscale Files S-1 for Spot Worldcoin ETF",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-files-s-1-for-spot-worldcoin-etf",
-    "published_at": "Tue, 21 Jul 2026 13:55:00 GMT",
-    "fetched_at": "2026-07-21T14:10:52.982607+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T13:55:00+00:00"
-  },
-  {
-    "id": "llama_2026072114",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,657,669,034 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T14:10:55.509794+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T14:10:55.509794+00:00"
-  },
-  {
     "id": "rss_7dec21351e01",
     "source": "The Defiant",
     "title": "Morpho Launches Fixed-Rate Lending Protocol Midnight on Base",
@@ -1973,6 +1913,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T11:36:47.977065+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-07-28T14:27:22.567121+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072814",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,536,727,185 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-28T14:27:28.752416+00:00",
     "used": false
   }
 ]
