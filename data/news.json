@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_ebc636629674",
-    "source": "The Defiant",
-    "title": "Durov Says Telegram Will Ship Native Gram Wallet to a Billion Users",
-    "url": "https://thedefiant.io/news/blockchains/durov-says-telegram-will-ship-native-gram-wallet-to-a-billion-users",
-    "published_at": "Tue, 21 Jul 2026 16:55:18 GMT",
-    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:55:18+00:00"
-  },
-  {
-    "id": "rss_742c42e91389",
-    "source": "The Defiant",
-    "title": "Ondo Enables Tokenized Stock Collateral on OndoPerps",
-    "url": "https://thedefiant.io/converge/defi/ondo-enables-tokenized-stock-collateral-on-ondoperps",
-    "published_at": "Tue, 21 Jul 2026 16:30:52 GMT",
-    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:30:52+00:00"
-  },
-  {
-    "id": "rss_91757923542d",
-    "source": "The Defiant",
-    "title": "Pump.fun Adds 'BOOST' Liquidity Mode for Every New Coin",
-    "url": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
-    "published_at": "Tue, 21 Jul 2026 16:04:38 GMT",
-    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:04:38+00:00"
-  },
-  {
-    "id": "rss_31a4e77b75c8",
-    "source": "CryptoSlate",
-    "title": "Trump backs crypto ethics limits, putting CLARITY Act decision in Democrats’ hands",
-    "url": "https://cryptoslate.com/trump-backs-crypto-ethics-limits-putting-clarity-act-decision-in-democrats-hands/",
-    "published_at": "Tue, 21 Jul 2026 17:30:50 +0000",
-    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T17:30:50+00:00"
-  },
-  {
-    "id": "rss_647053a66874",
-    "source": "Decrypt",
-    "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
-    "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
-    "published_at": "Tue, 21 Jul 2026 16:06:20 +0000",
-    "fetched_at": "2026-07-21T17:54:36.894081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:06:20+00:00"
-  },
-  {
-    "id": "llama_2026072117",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,688,927,082 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T17:54:40.355832+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T17:54:40.355832+00:00"
-  },
-  {
     "id": "rss_b9fad81acbde",
     "source": "CoinDesk",
     "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
@@ -1944,5 +1884,41 @@
     "fetched_at": "2026-07-28T16:19:40.036512+00:00",
     "used": false,
     "_sort_date": "2026-07-28T16:19:40.036512+00:00"
+  },
+  {
+    "id": "rss_a55936070392",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Tops Solana in Tokenized Stock Volume Via Memecoin Pairs",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-solana-in-tokenized-stock-volume-via-memecoin-pairs",
+    "published_at": "Tue, 28 Jul 2026 17:28:45 GMT",
+    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1c10fedb136",
+    "source": "The Defiant",
+    "title": "Zama CEO Claims 1,000 Confidential Transfers Per Second on GPUs",
+    "url": "https://thedefiant.io/news/infrastructure/zama-ceo-claims-1-000-confidential-transfers-per-second-on-gpus",
+    "published_at": "Tue, 28 Jul 2026 16:33:49 GMT",
+    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d7d6f2e52be4",
+    "source": "The Defiant",
+    "title": "1inch Commits 10M 1INCH, 500k USDC to Aqua LP Rewards",
+    "url": "https://thedefiant.io/news/defi/1inch-commits-10m-1inch-500k-usdc-to-aqua-lp-rewards",
+    "published_at": "Tue, 28 Jul 2026 16:33:10 GMT",
+    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072817",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,574,860,465 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-28T17:58:49.940483+00:00",
+    "used": false
   }
 ]
