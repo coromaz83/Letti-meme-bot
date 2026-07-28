@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_b9fad81acbde",
-    "source": "CoinDesk",
-    "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
-    "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
-    "published_at": "Tue, 21 Jul 2026 18:14:39 +0000",
-    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T18:14:39+00:00"
-  },
-  {
-    "id": "rss_320433978fde",
-    "source": "The Defiant",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
-    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T19:43:13+00:00"
-  },
-  {
-    "id": "rss_88bc616eacb4",
-    "source": "The Defiant",
-    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
-    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-    "published_at": "Tue, 21 Jul 2026 19:43:13 GMT",
-    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T19:43:13+00:00"
-  },
-  {
-    "id": "rss_0bce9827f60d",
-    "source": "The Defiant",
-    "title": "Crypto's Quiet Revolution: How Stablecoins Deliver Aid Where Banks Can't",
-    "url": "https://thedefiant.io/podcasts-and-videos/videos/crypto-s-quiet-revolution-how-stablecoins-deliver-aid-where-banks-can-t",
-    "published_at": "Tue, 21 Jul 2026 18:45:22 GMT",
-    "fetched_at": "2026-07-21T19:43:12.001589+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T18:45:22+00:00"
-  },
-  {
-    "id": "llama_2026072119",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,677,774,460 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T19:43:15.246930+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T19:43:15.246930+00:00"
-  },
-  {
     "id": "rss_8cf45f3e45d8",
     "source": "CoinDesk",
     "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
@@ -1919,6 +1869,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T17:58:49.940483+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b60d906f6b6",
+    "source": "Decrypt",
+    "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+    "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+    "published_at": "Tue, 28 Jul 2026 19:14:14 +0000",
+    "fetched_at": "2026-07-28T19:46:28.416361+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072819",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,563,326,688 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-28T19:46:34.936294+00:00",
     "used": false
   }
 ]
