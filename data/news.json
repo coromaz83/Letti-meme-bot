@@ -1863,7 +1863,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T11:36:47.977065+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T11:36:47.977065+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -1881,7 +1882,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T14:27:28.752416+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T14:27:28.752416+00:00"
   },
   {
     "id": "rss_23f40d90c14a",
@@ -1890,7 +1892,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
     "published_at": "Tue, 28 Jul 2026 15:46:33 +0000",
     "fetched_at": "2026-07-28T16:19:36.637196+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T15:46:33+00:00"
   },
   {
     "id": "rss_9bf5bafb8631",
@@ -1899,7 +1902,8 @@
     "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
     "published_at": "Tue, 28 Jul 2026 14:49:01 +0000",
     "fetched_at": "2026-07-28T16:19:36.637196+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T14:49:01+00:00"
   },
   {
     "id": "rss_d9ec180d5bd3",
@@ -1908,7 +1912,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
     "published_at": "Tue, 28 Jul 2026 14:30:57 +0000",
     "fetched_at": "2026-07-28T16:19:36.637196+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T14:30:57+00:00"
   },
   {
     "id": "rss_b2b3d4ee227d",
@@ -1917,7 +1922,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/ethereum-gacha-protocol-fake-world-assets-flips-collector-crypt-in-daily-revenue",
     "published_at": "Tue, 28 Jul 2026 16:09:40 GMT",
     "fetched_at": "2026-07-28T16:19:36.637196+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T16:09:40+00:00"
   },
   {
     "id": "rss_f6f91dd7eee2",
@@ -1926,7 +1932,8 @@
     "url": "https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows",
     "published_at": "Tue, 28 Jul 2026 15:49:51 GMT",
     "fetched_at": "2026-07-28T16:19:36.637196+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T15:49:51+00:00"
   },
   {
     "id": "llama_2026072816",
@@ -1935,6 +1942,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T16:19:40.036512+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T16:19:40.036512+00:00"
   }
 ]
