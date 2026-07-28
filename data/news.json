@@ -1,91 +1,5 @@
 [
   {
-    "id": "rss_8cf45f3e45d8",
-    "source": "CoinDesk",
-    "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
-    "published_at": "Tue, 21 Jul 2026 21:14:03 +0000",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T21:14:03+00:00"
-  },
-  {
-    "id": "rss_6be86e66b27f",
-    "source": "The Defiant",
-    "title": "S&P and Pantera Launch Revenue-Screened Digital Asset Index",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-and-pantera-launch-revenue-screened-digital-asset-index",
-    "published_at": "Tue, 21 Jul 2026 20:53:27 GMT",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T20:53:27+00:00"
-  },
-  {
-    "id": "rss_4837333c220f",
-    "source": "The Defiant",
-    "title": "Movement Labs Files for Chapter 11 Bankruptcy",
-    "url": "https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy",
-    "published_at": "Tue, 21 Jul 2026 20:51:46 GMT",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T20:51:46+00:00"
-  },
-  {
-    "id": "rss_cd070cb81389",
-    "source": "Bankless",
-    "title": "The Buy ETH, Sell Gold Trade?",
-    "url": "https://www.bankless.com/read/the-buy-eth-sell-gold-trade",
-    "published_at": "Tue, 21 Jul 2026 16:09:32 -0400",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:09:32-04:00"
-  },
-  {
-    "id": "rss_3cb512204bfc",
-    "source": "Bankless",
-    "title": "Galaxy Debuts GOFR to Pipe Institutions Into DeFi Credit",
-    "url": "https://www.bankless.com/read/news/galaxy-debuts-gofr-to-pipe-institutions-into-defi-credit",
-    "published_at": "Tue, 14 Jul 2026 13:26:16 -0400",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ebc655ba7422",
-    "source": "Bankless",
-    "title": "Ethereum Foundation Privacy Team Spins Out as EthSystems",
-    "url": "https://www.bankless.com/read/news/ethereum-foundation-privacy-team-spins-out-as-ethsystems",
-    "published_at": "Tue, 14 Jul 2026 12:59:48 -0400",
-    "fetched_at": "2026-07-21T21:19:24.749768+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072121",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,670,001,642 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T21:19:27.769938+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T21:19:27.769938+00:00"
-  },
-  {
-    "id": "rss_ca2ad0ed4b6e",
-    "source": "The Defiant",
-    "title": "Crypto Rallies as Reported Ethics Deal Revives Odds of CLARITY Act Senate Vote",
-    "url": "https://thedefiant.io/converge/regulation/crypto-rallies-as-reported-ethics-deal-revives-odds-of-clarity-act-senate-vote",
-    "published_at": "Tue, 21 Jul 2026 21:10:57 GMT",
-    "fetched_at": "2026-07-21T22:28:56.770207+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072122",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,678,405,282 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T22:29:00.035220+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026072123",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,675,533,409 🟢 +0.00% (24h)",
@@ -1924,5 +1838,14 @@
     "fetched_at": "2026-07-28T21:15:38.100473+00:00",
     "used": true,
     "_sort_date": "2026-07-28T21:15:38.100473+00:00"
+  },
+  {
+    "id": "llama_2026072822",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,584,182,862 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-28T22:35:49.383051+00:00",
+    "used": false
   }
 ]
