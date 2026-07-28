@@ -1924,7 +1924,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
     "published_at": "Mon, 27 Jul 2026 23:37:05 GMT",
     "fetched_at": "2026-07-27T23:37:03.128052+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-27T23:37:05+00:00"
   },
   {
     "id": "rss_aa25a3c5eb90",
@@ -1942,7 +1943,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-27T23:37:06.320821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-27T23:37:06.320821+00:00"
   },
   {
     "id": "llama_2026072803",
@@ -1951,7 +1953,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T03:22:14.933511+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T03:22:14.933511+00:00"
   },
   {
     "id": "llama_2026072806",
@@ -1960,7 +1963,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T06:10:34.291278+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-28T06:10:34.291278+00:00"
   },
   {
     "id": "rss_e578d5f775b0",
@@ -1969,7 +1973,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
     "published_at": "Tue, 28 Jul 2026 08:00:00 +0000",
     "fetched_at": "2026-07-28T09:19:23.865648+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T08:00:00+00:00"
   },
   {
     "id": "llama_2026072809",
@@ -1978,6 +1983,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T09:19:27.740013+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T09:19:27.740013+00:00"
   }
 ]
