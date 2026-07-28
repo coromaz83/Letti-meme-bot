@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_7dec21351e01",
-    "source": "The Defiant",
-    "title": "Morpho Launches Fixed-Rate Lending Protocol Midnight on Base",
-    "url": "https://thedefiant.io/news/defi/morpho-launches-fixed-rate-lending-protocol-midnight-on-base",
-    "published_at": "Tue, 21 Jul 2026 15:47:12 GMT",
-    "fetched_at": "2026-07-21T16:04:19.336978+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T15:47:12+00:00"
-  },
-  {
-    "id": "rss_2d5d164dc3b8",
-    "source": "The Defiant",
-    "title": "Jack Mallers Steps Down as CEO of Twenty One Capital",
-    "url": "https://thedefiant.io/news/people/jack-mallers-steps-down-as-ceo-of-twenty-one-capital",
-    "published_at": "Tue, 21 Jul 2026 15:35:19 GMT",
-    "fetched_at": "2026-07-21T16:04:19.336978+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T15:35:19+00:00"
-  },
-  {
-    "id": "rss_cbeae27737eb",
-    "source": "The Defiant",
-    "title": "Aztec Launches Alpha V5 on Mainnet With Faster Private Proving",
-    "url": "https://thedefiant.io/news/blockchains/aztec-launches-alpha-v5-on-mainnet-with-faster-private-proving",
-    "published_at": "Tue, 21 Jul 2026 14:16:39 GMT",
-    "fetched_at": "2026-07-21T16:04:19.336978+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T14:16:39+00:00"
-  },
-  {
-    "id": "rss_01c8af02e98c",
-    "source": "CryptoSlate",
-    "title": "BitMine is now $484 million away from completing its 5% Ethereum target",
-    "url": "https://cryptoslate.com/bitmine-is-now-484-million-away-from-completing-its-5-ethereum-target/",
-    "published_at": "Tue, 21 Jul 2026 15:30:35 +0000",
-    "fetched_at": "2026-07-21T16:04:19.336978+00:00",
-    "used": true,
-    "_sort_date": "2026-07-21T15:30:35+00:00"
-  },
-  {
-    "id": "llama_2026072116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,682,767,797 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-21T16:04:22.653103+00:00",
-    "used": false,
-    "_sort_date": "2026-07-21T16:04:22.653103+00:00"
-  },
-  {
     "id": "rss_ebc636629674",
     "source": "The Defiant",
     "title": "Durov Says Telegram Will Ship Native Gram Wallet to a Billion Users",
@@ -1931,6 +1881,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-28T14:27:28.752416+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23f40d90c14a",
+    "source": "CoinDesk",
+    "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
+    "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
+    "published_at": "Tue, 28 Jul 2026 15:46:33 +0000",
+    "fetched_at": "2026-07-28T16:19:36.637196+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9bf5bafb8631",
+    "source": "CoinDesk",
+    "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+    "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+    "published_at": "Tue, 28 Jul 2026 14:49:01 +0000",
+    "fetched_at": "2026-07-28T16:19:36.637196+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d9ec180d5bd3",
+    "source": "CoinDesk",
+    "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+    "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
+    "published_at": "Tue, 28 Jul 2026 14:30:57 +0000",
+    "fetched_at": "2026-07-28T16:19:36.637196+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b2b3d4ee227d",
+    "source": "The Defiant",
+    "title": "NFT Gacha Protocol Fake World Assets Trails Only Sky in Ethereum Daily Revenue",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ethereum-gacha-protocol-fake-world-assets-flips-collector-crypt-in-daily-revenue",
+    "published_at": "Tue, 28 Jul 2026 16:09:40 GMT",
+    "fetched_at": "2026-07-28T16:19:36.637196+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6f91dd7eee2",
+    "source": "The Defiant",
+    "title": "Franklin Templeton Backs CLARITY Act as Wall Street Coalition Grows",
+    "url": "https://thedefiant.io/converge/regulation/franklin-templeton-backs-clarity-act-as-wall-street-coalition-grows",
+    "published_at": "Tue, 28 Jul 2026 15:49:51 GMT",
+    "fetched_at": "2026-07-28T16:19:36.637196+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072816",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,514,475,057 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-28T16:19:40.036512+00:00",
     "used": false
   }
 ]
