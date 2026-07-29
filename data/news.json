@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_e05c815b0859",
-    "source": "The Defiant",
-    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-    "published_at": "Wed, 22 Jul 2026 21:21:45 GMT",
-    "fetched_at": "2026-07-22T21:21:42.408594+00:00",
-    "used": true,
-    "_sort_date": "2026-07-22T21:21:45+00:00"
-  },
-  {
-    "id": "rss_598e41b281ec",
-    "source": "Decrypt",
-    "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-    "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
-    "published_at": "Wed, 22 Jul 2026 21:13:04 +0000",
-    "fetched_at": "2026-07-22T21:21:42.408594+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T21:13:04+00:00"
-  },
-  {
-    "id": "llama_2026072221",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,659,311,425 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T21:21:46.996666+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T21:21:46.996666+00:00"
-  },
-  {
     "id": "rss_dc3c18dcaed0",
     "source": "CoinDesk",
     "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
@@ -1896,5 +1866,32 @@
     "fetched_at": "2026-07-29T21:04:44.311650+00:00",
     "used": false,
     "_sort_date": "2026-07-29T21:04:44.311650+00:00"
+  },
+  {
+    "id": "rss_14e3026da474",
+    "source": "The Defiant",
+    "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
+    "published_at": "Wed, 29 Jul 2026 22:30:54 GMT",
+    "fetched_at": "2026-07-29T22:30:50.567524+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ea5e63361d25",
+    "source": "Bankless",
+    "title": "DeFi's Due Diligence Super Tool",
+    "url": "https://www.bankless.com/read/herd-defis-due-diligence-super-tool",
+    "published_at": "Wed, 22 Jul 2026 15:46:29 -0400",
+    "fetched_at": "2026-07-29T22:30:50.567524+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072922",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,550,035,347 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-29T22:30:55.280758+00:00",
+    "used": false
   }
 ]
