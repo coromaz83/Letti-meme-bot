@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_6d029e63bdb4",
-    "source": "CoinDesk",
-    "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
-    "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-    "published_at": "Wed, 22 Jul 2026 16:15:55 +0000",
-    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T16:15:55+00:00"
-  },
-  {
-    "id": "rss_6db6ec211e98",
-    "source": "CoinDesk",
-    "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-    "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-    "published_at": "Wed, 22 Jul 2026 15:37:36 +0000",
-    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T15:37:36+00:00"
-  },
-  {
-    "id": "rss_0371f395e3cb",
-    "source": "CoinDesk",
-    "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-    "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-    "published_at": "Wed, 22 Jul 2026 15:36:49 +0000",
-    "fetched_at": "2026-07-22T16:57:36.591776+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T15:36:49+00:00"
-  },
-  {
-    "id": "llama_2026072216",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,652,338,296 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T16:57:40.616638+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T16:57:40.616638+00:00"
-  },
-  {
     "id": "rss_55d8e3eebc5e",
     "source": "The Defiant",
     "title": "Franklin Templeton Says Altcoins Are Key to the Agentic AI Trade",
@@ -1914,6 +1874,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T16:26:45.158791+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c24ababa5cab",
+    "source": "The Defiant",
+    "title": "Active Crypto VC Firms Fall to 150, Lowest Since 2020",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/active-crypto-vc-firms-fall-to-150-lowest-since-2020",
+    "published_at": "Wed, 29 Jul 2026 16:32:14 GMT",
+    "fetched_at": "2026-07-29T17:50:49.472615+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_36f889642133",
+    "source": "Decrypt",
+    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+    "published_at": "Wed, 29 Jul 2026 17:18:49 +0000",
+    "fetched_at": "2026-07-29T17:50:49.472615+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072917",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,580,132,725 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-29T17:50:57.282638+00:00",
     "used": false
   }
 ]
