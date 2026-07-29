@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_a202dcb3e4a7",
-    "source": "Decrypt",
-    "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
-    "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
-    "published_at": "Wed, 22 Jul 2026 11:03:43 +0000",
-    "fetched_at": "2026-07-22T11:26:24.051835+00:00",
-    "used": true,
-    "_sort_date": "2026-07-22T11:03:43+00:00"
-  },
-  {
-    "id": "llama_2026072211",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,652,275,811 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T11:26:30.293574+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T11:26:30.293574+00:00"
-  },
-  {
     "id": "llama_2026072213",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,659,419,673 🟢 +0.00% (24h)",
@@ -1866,5 +1846,14 @@
     "fetched_at": "2026-07-29T09:43:56.757146+00:00",
     "used": true,
     "_sort_date": "2026-07-29T09:43:56.757146+00:00"
+  },
+  {
+    "id": "llama_2026072912",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,596,907,152 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-29T12:08:09.962252+00:00",
+    "used": false
   }
 ]
