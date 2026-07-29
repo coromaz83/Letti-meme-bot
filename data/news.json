@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_55d8e3eebc5e",
-    "source": "The Defiant",
-    "title": "Franklin Templeton Says Altcoins Are Key to the Agentic AI Trade",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-says-altcoins-are-key-to-the-agentic-ai-trade",
-    "published_at": "Wed, 22 Jul 2026 17:48:54 GMT",
-    "fetched_at": "2026-07-22T18:17:09.824761+00:00",
-    "used": true,
-    "_sort_date": "2026-07-22T17:48:54+00:00"
-  },
-  {
-    "id": "rss_4a14beef082b",
-    "source": "The Defiant",
-    "title": "Ramp Adds Stablecoin Accounts and Bill Pay on Stripe Stack",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-adds-stablecoin-accounts-and-bill-pay-on-stripe-stack",
-    "published_at": "Wed, 22 Jul 2026 17:44:07 GMT",
-    "fetched_at": "2026-07-22T18:17:09.824761+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T17:44:07+00:00"
-  },
-  {
-    "id": "llama_2026072218",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,674,406,407 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T18:17:13.752136+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T18:17:13.752136+00:00"
-  },
-  {
     "id": "rss_14e3026da474",
     "source": "The Defiant",
     "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
@@ -1901,6 +1871,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T17:50:57.282638+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4693453c0c2e",
+    "source": "CoinDesk",
+    "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+    "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
+    "published_at": "Wed, 29 Jul 2026 18:00:00 +0000",
+    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92b254db5fa9",
+    "source": "The Defiant",
+    "title": "Bitcoin Slips Below $64K After Warsh Says \"No Soft Inflation Target\"",
+    "url": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target",
+    "published_at": "Wed, 29 Jul 2026 18:48:43 GMT",
+    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_be9adda8bbfe",
+    "source": "Decrypt",
+    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+    "published_at": "Wed, 29 Jul 2026 18:43:45 +0000",
+    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0c0fce816de7",
+    "source": "Bankless",
+    "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
+    "url": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
+    "published_at": "Wed, 29 Jul 2026 15:32:15 -0400",
+    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ad91f9b0ae62",
+    "source": "Bankless",
+    "title": "The Ethereum Foundation Welcomes Its Newest Board Member",
+    "url": "https://www.bankless.com/read/news/the-ethereum-foundation-welcomes-its-newest-board-member",
+    "published_at": "Wed, 29 Jul 2026 15:16:39 -0400",
+    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072919",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,585,033,655 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-29T19:34:57.302717+00:00",
     "used": false
   }
 ]
