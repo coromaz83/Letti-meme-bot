@@ -1815,7 +1815,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
     "published_at": "Tue, 28 Jul 2026 23:50:38 +0000",
     "fetched_at": "2026-07-29T00:03:52.405064+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-28T23:50:38+00:00"
   },
   {
     "id": "rss_cd070cb81389",
@@ -1833,7 +1834,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T00:04:00.934133+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-29T00:04:00.934133+00:00"
   },
   {
     "id": "llama_2026072903",
@@ -1842,7 +1844,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T03:52:11.176596+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-29T03:52:11.176596+00:00"
   },
   {
     "id": "llama_2026072906",
@@ -1851,7 +1854,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T06:39:18.041223+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-29T06:39:18.041223+00:00"
   },
   {
     "id": "llama_2026072909",
@@ -1860,6 +1864,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T09:43:56.757146+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-29T09:43:56.757146+00:00"
   }
 ]
