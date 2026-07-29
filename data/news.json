@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_2a117730c167",
-    "source": "Decrypt",
-    "title": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
-    "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
-    "published_at": "Wed, 22 Jul 2026 14:41:56 +0000",
-    "fetched_at": "2026-07-22T15:21:02.356310+00:00",
-    "used": true,
-    "_sort_date": "2026-07-22T14:41:56+00:00"
-  },
-  {
-    "id": "llama_2026072215",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,639,935,693 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T15:21:06.209965+00:00",
-    "used": true,
-    "_sort_date": "2026-07-22T15:21:06.209965+00:00"
-  },
-  {
     "id": "rss_6d029e63bdb4",
     "source": "CoinDesk",
     "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
@@ -1862,6 +1842,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T14:53:34.040584+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c054c9cf8424",
+    "source": "CoinDesk",
+    "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+    "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+    "published_at": "Wed, 29 Jul 2026 15:15:08 +0000",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_04da0ff1dfce",
+    "source": "The Defiant",
+    "title": "Morgan Stanley Launches Spot Ether, Solana ETPs on NYSE Arca",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-launches-spot-ether-solana-etps-on-nyse-arca",
+    "published_at": "Wed, 29 Jul 2026 16:19:02 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0cc0cf847835",
+    "source": "The Defiant",
+    "title": "SoFi Says SoFiUSD Settlement Now Live on Q2 Earnings Call",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-says-sofiusd-settlement-now-live-on-q2-earnings-call",
+    "published_at": "Wed, 29 Jul 2026 16:11:39 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e256e3ed482",
+    "source": "The Defiant",
+    "title": "Morpho Signs First Hong Kong Partnership With HashKey's HSK Chain",
+    "url": "https://thedefiant.io/news/defi/morpho-signs-first-hong-kong-partnership-with-hashkey-s-hsk-chain",
+    "published_at": "Wed, 29 Jul 2026 16:07:42 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe95a6946459",
+    "source": "The Defiant",
+    "title": "Safe Logs 130M Transactions in Q2, a Quarterly Record",
+    "url": "https://thedefiant.io/news/infrastructure/safe-logs-130m-transactions-in-q2-a-quarterly-record",
+    "published_at": "Wed, 29 Jul 2026 15:10:47 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e87305b064bb",
+    "source": "The Defiant",
+    "title": "10 European Banks Launch RL1 Blockchain Cooperative",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/10-european-banks-launch-rl1-blockchain-cooperative",
+    "published_at": "Wed, 29 Jul 2026 15:06:02 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_803544636d89",
+    "source": "The Defiant",
+    "title": "Crypto Hacks Hit Record 212 Incidents in H1 2026: Blockaid",
+    "url": "https://thedefiant.io/news/hacks/crypto-hacks-hit-record-212-incidents-in-h1-2026-blockaid",
+    "published_at": "Wed, 29 Jul 2026 15:03:20 GMT",
+    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026072916",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,601,788,160 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-29T16:26:45.158791+00:00",
     "used": false
   }
 ]
