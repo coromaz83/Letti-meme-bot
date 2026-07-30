@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026072322",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,599,124,998 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T22:32:34.672171+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026072400",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,597,261,709 🟢 +0.00% (24h)",
@@ -1796,5 +1787,41 @@
     "fetched_at": "2026-07-30T21:18:16.310231+00:00",
     "used": false,
     "_sort_date": "2026-07-30T21:18:16.310231+00:00"
+  },
+  {
+    "id": "rss_a0c6101d233e",
+    "source": "The Defiant",
+    "title": "Polygon Turns Kansai Electric Loyalty Points Into JPYC Spending",
+    "url": "https://thedefiant.io/news/tokens/polygon-turns-kansai-electric-loyalty-points-into-jpyc-spending",
+    "published_at": "Thu, 30 Jul 2026 21:31:21 GMT",
+    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd7b1006eef7",
+    "source": "Decrypt",
+    "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
+    "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
+    "published_at": "Thu, 30 Jul 2026 21:19:12 +0000",
+    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a3845e79a80",
+    "source": "Bankless",
+    "title": "The SEC Puts DeFi Vaults on Notice",
+    "url": "https://www.bankless.com/read/the-sec-puts-defi-vaults-on-notice",
+    "published_at": "Thu, 23 Jul 2026 13:58:04 -0400",
+    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073022",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,661,354,062 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T22:38:46.059321+00:00",
+    "used": false
   }
 ]
