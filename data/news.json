@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_dc3c18dcaed0",
-    "source": "CoinDesk",
-    "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
-    "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
-    "published_at": "Wed, 22 Jul 2026 22:22:25 +0000",
-    "fetched_at": "2026-07-22T22:35:59.245372+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6a75079cdd8b",
-    "source": "The Defiant",
-    "title": "Crypto Industry Pushes for Senate Vote on New CLARITY Act Text as Democrats Blast Ethics Plan",
-    "url": "https://thedefiant.io/converge/regulation/crypto-industry-pushes-for-senate-vote-on-new-clarity-act-text-as-democrats-blast-ethics-plan",
-    "published_at": "Wed, 22 Jul 2026 21:21:28 GMT",
-    "fetched_at": "2026-07-22T22:35:59.245372+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072222",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,666,528,971 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-22T22:36:01.900365+00:00",
-    "used": false
-  },
-  {
     "id": "rss_21d2364d8b26",
     "source": "CoinDesk",
     "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
@@ -1892,6 +1865,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-29T22:30:55.280758+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e05c815b0859",
+    "source": "The Defiant",
+    "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+    "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+    "published_at": "Thu, 30 Jul 2026 00:04:38 GMT",
+    "fetched_at": "2026-07-30T00:04:32.898741+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073000",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,568,628,475 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T00:04:39.921952+00:00",
     "used": false
   }
 ]
