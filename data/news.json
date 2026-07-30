@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_683d8c2b2394",
-    "source": "CryptoSlate",
-    "title": "Bitcoin rose 2% on CLARITY progress while Coinbase, Circle jumped over 8% – but why?",
-    "url": "https://cryptoslate.com/bitcoin-rose-2-on-clarity-progress-while-coinbase-circle-jumped-over-8-but-why/",
-    "published_at": "Thu, 23 Jul 2026 11:10:19 +0000",
-    "fetched_at": "2026-07-23T11:28:09.117530+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T11:10:19+00:00"
-  },
-  {
-    "id": "llama_2026072311",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,626,937,414 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T11:28:16.600392+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T11:28:16.600392+00:00"
-  },
-  {
     "id": "rss_94f0fd4bdf4d",
     "source": "CoinDesk",
     "title": "BlackRock, Coinbase, Strategy in group pledging $15 million to prepare Bitcoin for quantum threats",
@@ -1867,5 +1847,23 @@
     "fetched_at": "2026-07-30T09:35:07.022105+00:00",
     "used": false,
     "_sort_date": "2026-07-30T09:35:07.022105+00:00"
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-07-30T11:56:50.226359+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073011",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,656,217,896 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T11:56:55.461070+00:00",
+    "used": false
   }
 ]
