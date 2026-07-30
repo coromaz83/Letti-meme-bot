@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_358c4fd6015b",
-    "source": "CoinDesk",
-    "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-    "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-    "published_at": "Thu, 23 Jul 2026 14:00:00 +0000",
-    "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T14:00:00+00:00"
-  },
-  {
-    "id": "rss_2e473dc068dd",
-    "source": "CryptoSlate",
-    "title": "White House pushes back as key Democrats rejects CLARITY Act’s crypto ethics",
-    "url": "https://cryptoslate.com/white-house-pushes-back-as-key-democrats-rejects-clarity-acts-crypto-ethics/",
-    "published_at": "Thu, 23 Jul 2026 14:05:28 +0000",
-    "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T14:05:28+00:00"
-  },
-  {
-    "id": "rss_cb21a198fc8d",
-    "source": "CryptoSlate",
-    "title": "Latest $3.8 billion RWA recovery shows how quickly DeFi absorbed the KelpDAO shock",
-    "url": "https://cryptoslate.com/a-3-8-billion-rwa-recovery-shows-how-quickly-defi-absorbed-the-kelpdao-shock/",
-    "published_at": "Thu, 23 Jul 2026 13:10:17 +0000",
-    "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T13:10:17+00:00"
-  },
-  {
-    "id": "rss_c98d0b9ec6ad",
-    "source": "Decrypt",
-    "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
-    "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
-    "published_at": "Thu, 23 Jul 2026 15:17:38 +0000",
-    "fetched_at": "2026-07-23T15:33:45.055522+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T15:17:38+00:00"
-  },
-  {
-    "id": "llama_2026072315",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,589,040,676 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T15:33:48.440932+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T15:33:48.440932+00:00"
-  },
-  {
     "id": "rss_60eb7ba1822b",
     "source": "CoinDesk",
     "title": "Coinbase's corporate customers can now accept payments from AI agents",
@@ -1851,6 +1801,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T14:25:24.761323+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073016",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,656,984,516 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T16:08:21.649756+00:00",
     "used": false
   }
 ]
