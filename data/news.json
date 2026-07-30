@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_21d2364d8b26",
-    "source": "CoinDesk",
-    "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-    "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
-    "published_at": "Wed, 22 Jul 2026 23:19:41 +0000",
-    "fetched_at": "2026-07-23T00:08:19.751090+00:00",
-    "used": false,
-    "_sort_date": "2026-07-22T23:19:41+00:00"
-  },
-  {
-    "id": "llama_2026072300",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,656,925,989 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T00:08:23.528368+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T00:08:23.528368+00:00"
-  },
-  {
     "id": "rss_4a6869ec1d39",
     "source": "The Defiant",
     "title": "Attacker Drains $24M in USDC From AFX Bridge on Arbitrum",
@@ -1883,6 +1863,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T00:04:39.921952+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_15732aa7facd",
+    "source": "CoinDesk",
+    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
+    "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+    "published_at": "Wed, 29 Jul 2026 23:12:04 +0000",
+    "fetched_at": "2026-07-30T03:42:53.837769+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073003",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,599,648,255 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T03:42:57.441242+00:00",
     "used": false
   }
 ]
