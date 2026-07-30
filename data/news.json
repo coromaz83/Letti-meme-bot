@@ -1,54 +1,5 @@
 [
   {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-07-23T06:36:59.938106+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ab3a02f48e67",
-    "source": "CoinDesk",
-    "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-    "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
-    "published_at": "Thu, 23 Jul 2026 05:01:06 +0000",
-    "fetched_at": "2026-07-23T06:36:59.938106+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T05:01:06+00:00"
-  },
-  {
-    "id": "llama_2026072306",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,629,893,556 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T06:37:03.170745+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T06:37:03.170745+00:00"
-  },
-  {
-    "id": "rss_9335ad855f79",
-    "source": "CoinDesk",
-    "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
-    "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
-    "published_at": "Thu, 23 Jul 2026 06:38:18 +0000",
-    "fetched_at": "2026-07-23T09:29:33.998569+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T06:38:18+00:00"
-  },
-  {
-    "id": "llama_2026072309",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,621,369,277 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T09:29:38.131032+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T09:29:38.131032+00:00"
-  },
-  {
     "id": "rss_683d8c2b2394",
     "source": "CryptoSlate",
     "title": "Bitcoin rose 2% on CLARITY progress while Coinbase, Circle jumped over 8% – but why?",
@@ -1879,6 +1830,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T06:34:41.223196+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7378ac54b587",
+    "source": "CoinDesk",
+    "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+    "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+    "published_at": "Thu, 30 Jul 2026 09:00:00 +0000",
+    "fetched_at": "2026-07-30T09:35:02.263899+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_609f5cbbc2ce",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+    "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+    "published_at": "Thu, 30 Jul 2026 06:59:10 +0000",
+    "fetched_at": "2026-07-30T09:35:02.263899+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073009",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,642,960,837 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T09:35:07.022105+00:00",
     "used": false
   }
 ]
