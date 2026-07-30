@@ -1735,7 +1735,7 @@
     "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
     "published_at": "Thu, 30 Jul 2026 09:00:00 +0000",
     "fetched_at": "2026-07-30T09:35:02.263899+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-07-30T09:00:00+00:00"
   },
   {
@@ -1774,7 +1774,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T11:56:55.461070+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T11:56:55.461070+00:00"
   },
   {
     "id": "rss_e8e502a22a49",
@@ -1783,7 +1784,8 @@
     "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
     "published_at": "Thu, 30 Jul 2026 13:52:37 +0000",
     "fetched_at": "2026-07-30T14:25:20.122538+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T13:52:37+00:00"
   },
   {
     "id": "rss_06884f2b1200",
@@ -1792,7 +1794,8 @@
     "url": "https://thedefiant.io/news/infrastructure/lightning-labs-launches-site-for-l402-bitcoin-agent-payments",
     "published_at": "Thu, 30 Jul 2026 14:13:45 GMT",
     "fetched_at": "2026-07-30T14:25:20.122538+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-30T14:13:45+00:00"
   },
   {
     "id": "llama_2026073014",
@@ -1801,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T14:25:24.761323+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T14:25:24.761323+00:00"
   },
   {
     "id": "llama_2026073016",
@@ -1810,6 +1814,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T16:08:21.649756+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-30T16:08:21.649756+00:00"
   }
 ]
