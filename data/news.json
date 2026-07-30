@@ -1785,7 +1785,8 @@
     "url": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
     "published_at": "Thu, 30 Jul 2026 00:04:38 GMT",
     "fetched_at": "2026-07-30T00:04:32.898741+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-30T00:04:38+00:00"
   },
   {
     "id": "llama_2026073000",
@@ -1794,7 +1795,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T00:04:39.921952+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T00:04:39.921952+00:00"
   },
   {
     "id": "rss_15732aa7facd",
@@ -1803,7 +1805,8 @@
     "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
     "published_at": "Wed, 29 Jul 2026 23:12:04 +0000",
     "fetched_at": "2026-07-30T03:42:53.837769+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-29T23:12:04+00:00"
   },
   {
     "id": "llama_2026073003",
@@ -1812,7 +1815,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T03:42:57.441242+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T03:42:57.441242+00:00"
   },
   {
     "id": "rss_cada2af7a5e9",
@@ -1821,7 +1825,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
     "published_at": "Thu, 30 Jul 2026 05:19:47 +0000",
     "fetched_at": "2026-07-30T06:34:36.937850+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T05:19:47+00:00"
   },
   {
     "id": "llama_2026073006",
@@ -1830,7 +1835,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T06:34:41.223196+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T06:34:41.223196+00:00"
   },
   {
     "id": "rss_7378ac54b587",
@@ -1839,7 +1845,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
     "published_at": "Thu, 30 Jul 2026 09:00:00 +0000",
     "fetched_at": "2026-07-30T09:35:02.263899+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T09:00:00+00:00"
   },
   {
     "id": "rss_609f5cbbc2ce",
@@ -1848,7 +1855,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
     "published_at": "Thu, 30 Jul 2026 06:59:10 +0000",
     "fetched_at": "2026-07-30T09:35:02.263899+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-30T06:59:10+00:00"
   },
   {
     "id": "llama_2026073009",
@@ -1857,6 +1865,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T09:35:07.022105+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-30T09:35:07.022105+00:00"
   }
 ]
