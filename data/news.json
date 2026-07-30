@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_9c2b18ab89c0",
-    "source": "CryptoSlate",
-    "title": "SEC pays $150,000 as Coinbase-backed Freedom Of Information Act settlement releases two withheld documents",
-    "url": "https://cryptoslate.com/sec-pays-150000-as-coinbase-backed-freedom-of-information-act-settlement-releases-two-withheld-documents/",
-    "published_at": "Thu, 23 Jul 2026 19:05:38 +0000",
-    "fetched_at": "2026-07-23T19:37:27.966910+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T19:05:38+00:00"
-  },
-  {
-    "id": "rss_9a3845e79a80",
-    "source": "Bankless",
-    "title": "The SEC Puts DeFi Vaults on Notice",
-    "url": "https://www.bankless.com/read/the-sec-puts-defi-vaults-on-notice",
-    "published_at": "Thu, 23 Jul 2026 13:58:04 -0400",
-    "fetched_at": "2026-07-23T19:37:27.966910+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T13:58:04-04:00"
-  },
-  {
-    "id": "llama_2026072319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,592,213,633 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T19:37:30.479432+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T19:37:30.479432+00:00"
-  },
-  {
     "id": "rss_1593f6d708a4",
     "source": "The Defiant",
     "title": "Hacker Behind Fake 'Vladhood' Token Still Collecting Fees After Robinhood CEO's X Account Hack",
@@ -1770,6 +1740,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T17:57:52.197187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4cbe395ef92e",
+    "source": "The Defiant",
+    "title": "Ready Shuts Card Program After Issuer Kulipa's Sudden Wind-Down",
+    "url": "https://thedefiant.io/converge/cefi/ready-shuts-card-program-after-issuer-winds-down",
+    "published_at": "Thu, 30 Jul 2026 19:03:01 GMT",
+    "fetched_at": "2026-07-30T19:44:54.955094+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb9a735af7cd",
+    "source": "CryptoSlate",
+    "title": "Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million",
+    "url": "https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/",
+    "published_at": "Thu, 30 Jul 2026 19:30:53 +0000",
+    "fetched_at": "2026-07-30T19:44:54.955094+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073019",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,668,315,487 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T19:45:01.106082+00:00",
     "used": false
   }
 ]
