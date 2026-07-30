@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_60eb7ba1822b",
-    "source": "CoinDesk",
-    "title": "Coinbase's corporate customers can now accept payments from AI agents",
-    "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-    "published_at": "Thu, 23 Jul 2026 16:54:12 +0000",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": true,
-    "_sort_date": "2026-07-23T16:54:12+00:00"
-  },
-  {
-    "id": "rss_3bfe4064ae89",
-    "source": "CoinDesk",
-    "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-    "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-    "published_at": "Thu, 23 Jul 2026 15:36:39 +0000",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T15:36:39+00:00"
-  },
-  {
-    "id": "rss_3d68db85dfe7",
-    "source": "The Defiant",
-    "title": "Ondo's Oasis Pro Markets Cleared to Offer Tokenized Stocks in US",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-cleared-to-offer-tokenized-stocks-in-us",
-    "published_at": "Thu, 23 Jul 2026 17:17:09 GMT",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T17:17:09+00:00"
-  },
-  {
-    "id": "rss_8a14ff8ad227",
-    "source": "The Defiant",
-    "title": "Uniswap Adds Permissioned Pools to Bring Regulated Assets to v4",
-    "url": "https://thedefiant.io/news/defi/uniswap-adds-permissioned-pools-to-bring-regulated-assets-to-v4",
-    "published_at": "Thu, 23 Jul 2026 16:56:43 GMT",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T16:56:43+00:00"
-  },
-  {
-    "id": "rss_d33b291a54e6",
-    "source": "The Defiant",
-    "title": "KAIO Tokenizes Mubadala Capital Fund Across Base, Solana and Sui",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kaio-tokenizes-mubadala-capital-fund-across-base-solana-and-sui",
-    "published_at": "Thu, 23 Jul 2026 16:41:02 GMT",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T16:41:02+00:00"
-  },
-  {
-    "id": "rss_2859e47c25f8",
-    "source": "The Defiant",
-    "title": "SEC's Peirce Says Onchain Vaults, Lending Can Trigger Securities Laws",
-    "url": "https://thedefiant.io/news/regulation/sec-s-peirce-says-onchain-vaults-lending-can-trigger-securities-laws",
-    "published_at": "Thu, 23 Jul 2026 16:13:49 GMT",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T16:13:49+00:00"
-  },
-  {
-    "id": "rss_a459440daf55",
-    "source": "The Defiant",
-    "title": "BitMEX to Shut Down Exchange on Sept. 23, Urges Withdrawals",
-    "url": "https://thedefiant.io/converge/cefi/bitmex-to-shut-down-exchange-on-sept-23-urges-withdrawals",
-    "published_at": "Thu, 23 Jul 2026 15:58:36 GMT",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T15:58:36+00:00"
-  },
-  {
-    "id": "rss_127e5ddac42f",
-    "source": "CryptoSlate",
-    "title": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
-    "url": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
-    "published_at": "Thu, 23 Jul 2026 16:05:22 +0000",
-    "fetched_at": "2026-07-23T17:39:33.217431+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T16:05:22+00:00"
-  },
-  {
-    "id": "llama_2026072317",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,587,875,907 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T17:39:43.710969+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T17:39:43.710969+00:00"
-  },
-  {
     "id": "rss_9c2b18ab89c0",
     "source": "CryptoSlate",
     "title": "SEC pays $150,000 as Coinbase-backed Freedom Of Information Act settlement releases two withheld documents",
@@ -1816,5 +1726,50 @@
     "fetched_at": "2026-07-30T16:08:21.649756+00:00",
     "used": true,
     "_sort_date": "2026-07-30T16:08:21.649756+00:00"
+  },
+  {
+    "id": "rss_08bcacb933ee",
+    "source": "The Defiant",
+    "title": "Banco Santander Discloses Spot Bitcoin ETF Stake in 13F Filing",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/banco-santander-discloses-spot-bitcoin-etf-stake-in-13f-filing",
+    "published_at": "Thu, 30 Jul 2026 16:51:31 GMT",
+    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_990857612588",
+    "source": "The Defiant",
+    "title": "US Sanctions Iranian Marine Insurers Taking Bitcoin for Strait of Hormuz Passage",
+    "url": "https://thedefiant.io/converge/regulation/us-sanctions-iranian-marine-insurers-taking-bitcoin-for-strait-of-hormuz-passage",
+    "published_at": "Thu, 30 Jul 2026 16:49:27 GMT",
+    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6d00d1519dad",
+    "source": "The Defiant",
+    "title": "Aave Moves to Retire 50 Low-Adoption Assets, Wind Down Six Chains",
+    "url": "https://thedefiant.io/news/defi/aave-moves-to-retire-50-low-adoption-assets-wind-down-six-chains",
+    "published_at": "Thu, 30 Jul 2026 16:15:44 GMT",
+    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c591eb28a085",
+    "source": "Decrypt",
+    "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
+    "url": "https://decrypt.co/374738/cathie-wood-ark-invest-sells-bitmine-adds-coinbase-circle",
+    "published_at": "Thu, 30 Jul 2026 16:35:26 +0000",
+    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073017",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,663,644,729 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T17:57:52.197187+00:00",
+    "used": false
   }
 ]
