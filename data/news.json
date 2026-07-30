@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_4a6869ec1d39",
-    "source": "The Defiant",
-    "title": "Attacker Drains $24M in USDC From AFX Bridge on Arbitrum",
-    "url": "https://thedefiant.io/news/hacks/attacker-drains-usd24m-in-usdc-from-afx-bridge-on-arbitrum",
-    "published_at": "Thu, 23 Jul 2026 01:35:03 GMT",
-    "fetched_at": "2026-07-23T03:56:20.568491+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T01:35:03+00:00"
-  },
-  {
-    "id": "llama_2026072303",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,644,446,667 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-23T03:56:23.580525+00:00",
-    "used": false,
-    "_sort_date": "2026-07-23T03:56:23.580525+00:00"
-  },
-  {
     "id": "rss_3cbb9fdb2d7f",
     "source": "Cointelegraph Base",
     "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
@@ -1881,6 +1861,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T03:42:57.441242+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cada2af7a5e9",
+    "source": "CoinDesk",
+    "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+    "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+    "published_at": "Thu, 30 Jul 2026 05:19:47 +0000",
+    "fetched_at": "2026-07-30T06:34:36.937850+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073006",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,583,923,409 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-30T06:34:41.223196+00:00",
     "used": false
   }
 ]
