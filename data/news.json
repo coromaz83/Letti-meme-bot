@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026072422",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,562,059,943 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T22:12:00.809340+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026072423",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,560,362,476 🟢 +0.00% (24h)",
@@ -1815,5 +1806,23 @@
     "fetched_at": "2026-07-31T21:41:03.472332+00:00",
     "used": false,
     "_sort_date": "2026-07-31T21:41:03.472332+00:00"
+  },
+  {
+    "id": "rss_258f83e012b0",
+    "source": "CryptoSlate",
+    "title": "From crypto treasury to AI data centers: Inside the aggressive 4,375 ETH selloff that just hit a massive collateral wall",
+    "url": "https://cryptoslate.com/from-crypto-treasury-to-ai-data-centers-inside-the-aggressive-4375-eth-selloff-that-just-hit-a-massive-collateral-wall/",
+    "published_at": "Fri, 31 Jul 2026 22:25:26 +0000",
+    "fetched_at": "2026-07-31T23:09:54.313362+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,511,845,806 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T23:09:58.737245+00:00",
+    "used": false
   }
 ]
