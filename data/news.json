@@ -1,64 +1,5 @@
 [
   {
-    "id": "rss_57631d9de70b",
-    "source": "The Defiant",
-    "title": "Perp DEX Dango to Wind Down, Will Halt Trading July 29",
-    "url": "https://thedefiant.io/news/defi/perp-dex-dango-to-wind-down-will-halt-trading-july-29",
-    "published_at": "Fri, 24 Jul 2026 20:02:11 GMT",
-    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": true,
-    "_sort_date": "2026-07-24T20:02:11+00:00"
-  },
-  {
-    "id": "rss_209c29dccd0f",
-    "source": "The Defiant",
-    "title": "India Orders GitHub to Remove Jack Dorsey's Bitchat Code",
-    "url": "https://thedefiant.io/news/regulation/india-orders-github-to-remove-jack-dorsey-s-bitchat-code",
-    "published_at": "Fri, 24 Jul 2026 19:59:12 GMT",
-    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": true,
-    "_sort_date": "2026-07-24T19:59:12+00:00"
-  },
-  {
-    "id": "rss_e2ad7543dd01",
-    "source": "The Defiant",
-    "title": "Ex-Sushi CTO Joseph DeLong to Launch Order Book DEX on Robinhood Chain",
-    "url": "https://thedefiant.io/news/defi/ex-sushi-cto-joseph-delong-to-launch-order-book-dex-on-robinhood-chain",
-    "published_at": "Fri, 24 Jul 2026 19:54:52 GMT",
-    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T19:54:52+00:00"
-  },
-  {
-    "id": "rss_3117bf0c2dd3",
-    "source": "The Defiant",
-    "title": "Stacks Bitcoin Staking Upgrade Vote Passes With 99%, Muneeb Says",
-    "url": "https://thedefiant.io/news/blockchains/stacks-bitcoin-staking-upgrade-vote-passes-with-99-muneeb-says",
-    "published_at": "Fri, 24 Jul 2026 19:21:40 GMT",
-    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T19:21:40+00:00"
-  },
-  {
-    "id": "rss_cc9cba31b136",
-    "source": "Bankless",
-    "title": "Ethereum Is Building Reunification Machinery",
-    "url": "https://www.bankless.com/read/ethereum-is-building-reunification-machinery",
-    "published_at": "Fri, 17 Jul 2026 14:35:11 -0400",
-    "fetched_at": "2026-07-24T20:47:46.741615+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072420",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,562,401,880 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T20:47:49.681486+00:00",
-    "used": true,
-    "_sort_date": "2026-07-24T20:47:49.681486+00:00"
-  },
-  {
     "id": "llama_2026072422",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,562,059,943 🟢 +0.00% (24h)",
@@ -1825,6 +1766,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T20:24:29.775926+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ce468210a51",
+    "source": "The Defiant",
+    "title": "YGG Play Shuts Down Services as Yield Guild Pivots to AI Data",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ygg-play-shuts-down-services-as-yield-guild-pivots-to-ai-data",
+    "published_at": "Fri, 31 Jul 2026 21:02:31 GMT",
+    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ac3f5362893",
+    "source": "The Defiant",
+    "title": "Metronome Discloses $15.7 Million Synth Shortfall, Blames Oracle Lag in Swap Module",
+    "url": "https://thedefiant.io/news/defi/metronome-discloses-usd15-7-million-synth-shortfall-blames-oracle-lag-in-swap-module",
+    "published_at": "Fri, 31 Jul 2026 20:30:56 GMT",
+    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_43ae8a7a5aa0",
+    "source": "CryptoSlate",
+    "title": "Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter",
+    "url": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
+    "published_at": "Fri, 31 Jul 2026 21:30:17 +0000",
+    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073121",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,512,030,262 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T21:41:03.472332+00:00",
     "used": false
   }
 ]
