@@ -1752,7 +1752,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T00:10:30.205300+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T00:10:30.205300+00:00"
   },
   {
     "id": "llama_2026073104",
@@ -1761,7 +1762,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T04:03:09.417728+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T04:03:09.417728+00:00"
   },
   {
     "id": "llama_2026073107",
@@ -1770,7 +1772,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T07:24:40.810851+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T07:24:40.810851+00:00"
   },
   {
     "id": "rss_f6c703321b45",
@@ -1779,7 +1782,8 @@
     "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
     "published_at": "Fri, 31 Jul 2026 10:08:15 GMT",
     "fetched_at": "2026-07-31T10:08:13.598165+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T10:08:15+00:00"
   },
   {
     "id": "llama_2026073110",
@@ -1788,6 +1792,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T10:08:17.139064+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T10:08:17.139064+00:00"
   }
 ]
