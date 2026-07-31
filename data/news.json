@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072415",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,568,228,571 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T15:14:48.982761+00:00",
-    "used": true,
-    "_sort_date": "2026-07-24T15:14:48.982761+00:00"
-  },
-  {
     "id": "rss_d24122d932bd",
     "source": "The Defiant",
     "title": "Samsung Says Wallet Will Add Stablecoin Support",
@@ -1834,5 +1824,32 @@
     "fetched_at": "2026-07-31T15:05:31.387538+00:00",
     "used": false,
     "_sort_date": "2026-07-31T15:05:31.387538+00:00"
+  },
+  {
+    "id": "rss_4ba60d294167",
+    "source": "The Defiant",
+    "title": "Coinbase Says Revenue From Its Base Layer 2 Fell Despite Record Volume",
+    "url": "https://thedefiant.io/news/cefi/coinbase-says-revenue-from-its-base-layer-2-fell-despite-record-volume",
+    "published_at": "Fri, 31 Jul 2026 16:06:01 GMT",
+    "fetched_at": "2026-07-31T17:07:01.320024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8f0c961931b7",
+    "source": "The Defiant",
+    "title": "Bitcoin Lags Stock Rally After Hawkish Fed Hold",
+    "url": "https://thedefiant.io/news/markets/bitcoin-lags-stock-rally-after-hawkish-fed-hold",
+    "published_at": "Fri, 31 Jul 2026 15:26:42 GMT",
+    "fetched_at": "2026-07-31T17:07:01.320024+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073117",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,529,098,984 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T17:07:06.727651+00:00",
+    "used": false
   }
 ]
