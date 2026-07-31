@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_db5ff7d590fa",
-    "source": "The Defiant",
-    "title": "BitMEX, Hayes Sued Over 623 BTC Liquidation Claims as Exchange Winds Down",
-    "url": "https://thedefiant.io/news/cefi/bitmex-hayes-sued-over-623-btc-liquidation-claims-as-exchange-winds-down",
-    "published_at": "Fri, 24 Jul 2026 16:06:02 GMT",
-    "fetched_at": "2026-07-24T19:01:01.093679+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T16:06:02+00:00"
-  },
-  {
-    "id": "rss_6fd38625a600",
-    "source": "Decrypt",
-    "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
-    "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-    "published_at": "Fri, 24 Jul 2026 17:50:26 +0000",
-    "fetched_at": "2026-07-24T19:01:01.093679+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T17:50:26+00:00"
-  },
-  {
-    "id": "llama_2026072419",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,562,182,173 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T19:01:04.565951+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T19:01:04.565951+00:00"
-  },
-  {
     "id": "rss_57631d9de70b",
     "source": "The Defiant",
     "title": "Perp DEX Dango to Wind Down, Will Halt Trading July 29",
@@ -1837,6 +1807,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T18:55:18.081990+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6529d638e4ba",
+    "source": "Bankless",
+    "title": "Inside Uniswap's Land Grab on Robinhood Chain",
+    "url": "https://www.bankless.com/inside-uniswaps-land-grab-on-robinhood-chain",
+    "published_at": "Fri, 31 Jul 2026 15:32:13 -0400",
+    "fetched_at": "2026-07-31T20:24:22.783288+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073120",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,517,232,377 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T20:24:29.775926+00:00",
     "used": false
   }
 ]
