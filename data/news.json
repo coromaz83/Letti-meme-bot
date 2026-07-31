@@ -1772,7 +1772,8 @@
     "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
     "published_at": "Fri, 31 Jul 2026 12:28:02 +0000",
     "fetched_at": "2026-07-31T12:30:01.660486+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T12:28:02+00:00"
   },
   {
     "id": "rss_6d57c47a881d",
@@ -1781,7 +1782,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
     "published_at": "Fri, 31 Jul 2026 11:07:52 +0000",
     "fetched_at": "2026-07-31T12:30:01.660486+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T11:07:52+00:00"
   },
   {
     "id": "rss_f77dc03592ea",
@@ -1790,7 +1792,8 @@
     "url": "https://cryptoslate.com/as-ethereum-turns-11-years-old-it-hosts-148b-in-stablecoins-but-daily-mainnet-revenue-just-fell-to-330k/",
     "published_at": "Fri, 31 Jul 2026 10:30:44 +0000",
     "fetched_at": "2026-07-31T12:30:01.660486+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T10:30:44+00:00"
   },
   {
     "id": "rss_2925aa0962a8",
@@ -1799,7 +1802,8 @@
     "url": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
     "published_at": "Fri, 31 Jul 2026 12:11:17 +0000",
     "fetched_at": "2026-07-31T12:30:01.660486+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T12:11:17+00:00"
   },
   {
     "id": "llama_2026073112",
@@ -1808,7 +1812,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T12:30:04.600608+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T12:30:04.600608+00:00"
   },
   {
     "id": "rss_be5142d3b51e",
@@ -1817,7 +1822,8 @@
     "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
     "published_at": "Fri, 31 Jul 2026 13:20:45 +0000",
     "fetched_at": "2026-07-31T15:05:27.351194+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T13:20:45+00:00"
   },
   {
     "id": "llama_2026073115",
@@ -1826,6 +1832,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T15:05:31.387538+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T15:05:31.387538+00:00"
   }
 ]
