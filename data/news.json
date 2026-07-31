@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_78126e065469",
-    "source": "CoinDesk",
-    "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-    "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-    "published_at": "Fri, 24 Jul 2026 07:22:26 +0000",
-    "fetched_at": "2026-07-24T09:26:54.266895+00:00",
-    "used": true,
-    "_sort_date": "2026-07-24T07:22:26+00:00"
-  },
-  {
-    "id": "llama_2026072409",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,630,169,865 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T09:26:59.394931+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T09:26:59.394931+00:00"
-  },
-  {
     "id": "llama_2026072411",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,615,122,014 🟢 +0.00% (24h)",
@@ -1790,6 +1770,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T07:24:40.810851+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6c703321b45",
+    "source": "The Defiant",
+    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+    "published_at": "Fri, 31 Jul 2026 10:08:15 GMT",
+    "fetched_at": "2026-07-31T10:08:13.598165+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073110",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,605,840,353 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T10:08:17.139064+00:00",
     "used": false
   }
 ]
