@@ -1703,7 +1703,8 @@
     "url": "https://thedefiant.io/news/cefi/coinbase-says-revenue-from-its-base-layer-2-fell-despite-record-volume",
     "published_at": "Fri, 31 Jul 2026 16:06:01 GMT",
     "fetched_at": "2026-07-31T17:07:01.320024+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T16:06:01+00:00"
   },
   {
     "id": "rss_8f0c961931b7",
@@ -1712,7 +1713,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-lags-stock-rally-after-hawkish-fed-hold",
     "published_at": "Fri, 31 Jul 2026 15:26:42 GMT",
     "fetched_at": "2026-07-31T17:07:01.320024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T15:26:42+00:00"
   },
   {
     "id": "llama_2026073117",
@@ -1721,7 +1723,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T17:07:06.727651+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T17:07:06.727651+00:00"
   },
   {
     "id": "rss_3c4144b7cd32",
@@ -1730,7 +1733,8 @@
     "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
     "published_at": "Fri, 31 Jul 2026 18:24:55 +0000",
     "fetched_at": "2026-07-31T18:55:14.433320+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T18:24:55+00:00"
   },
   {
     "id": "rss_4b233da937d7",
@@ -1739,7 +1743,8 @@
     "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
     "published_at": "Fri, 31 Jul 2026 17:10:49 +0000",
     "fetched_at": "2026-07-31T18:55:14.433320+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T17:10:49+00:00"
   },
   {
     "id": "llama_2026073118",
@@ -1748,7 +1753,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T18:55:18.081990+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T18:55:18.081990+00:00"
   },
   {
     "id": "rss_6529d638e4ba",
@@ -1757,7 +1763,8 @@
     "url": "https://www.bankless.com/inside-uniswaps-land-grab-on-robinhood-chain",
     "published_at": "Fri, 31 Jul 2026 15:32:13 -0400",
     "fetched_at": "2026-07-31T20:24:22.783288+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T15:32:13-04:00"
   },
   {
     "id": "llama_2026073120",
@@ -1766,7 +1773,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T20:24:29.775926+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T20:24:29.775926+00:00"
   },
   {
     "id": "rss_7ce468210a51",
@@ -1775,7 +1783,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/ygg-play-shuts-down-services-as-yield-guild-pivots-to-ai-data",
     "published_at": "Fri, 31 Jul 2026 21:02:31 GMT",
     "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T21:02:31+00:00"
   },
   {
     "id": "rss_3ac3f5362893",
@@ -1784,7 +1793,8 @@
     "url": "https://thedefiant.io/news/defi/metronome-discloses-usd15-7-million-synth-shortfall-blames-oracle-lag-in-swap-module",
     "published_at": "Fri, 31 Jul 2026 20:30:56 GMT",
     "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T20:30:56+00:00"
   },
   {
     "id": "rss_43ae8a7a5aa0",
@@ -1793,7 +1803,8 @@
     "url": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
     "published_at": "Fri, 31 Jul 2026 21:30:17 +0000",
     "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-07-31T21:30:17+00:00"
   },
   {
     "id": "llama_2026073121",
@@ -1802,6 +1813,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T21:41:03.472332+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-07-31T21:41:03.472332+00:00"
   }
 ]
