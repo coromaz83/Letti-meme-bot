@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,615,122,014 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T11:19:38.019677+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T11:19:38.019677+00:00"
-  },
-  {
     "id": "rss_e5b72f6da9e5",
     "source": "CryptoSlate",
     "title": "DeFi’s next institutional hurdle is deciding who can be trusted to price real-world assets",
@@ -1794,5 +1784,50 @@
     "fetched_at": "2026-07-31T10:08:17.139064+00:00",
     "used": true,
     "_sort_date": "2026-07-31T10:08:17.139064+00:00"
+  },
+  {
+    "id": "rss_5e0f8a897b0f",
+    "source": "CoinDesk",
+    "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
+    "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
+    "published_at": "Fri, 31 Jul 2026 12:28:02 +0000",
+    "fetched_at": "2026-07-31T12:30:01.660486+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6d57c47a881d",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
+    "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
+    "published_at": "Fri, 31 Jul 2026 11:07:52 +0000",
+    "fetched_at": "2026-07-31T12:30:01.660486+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f77dc03592ea",
+    "source": "CryptoSlate",
+    "title": "As Ethereum turns 11 years old it hosts $148B in stablecoins, but daily mainnet revenue just fell to $330k",
+    "url": "https://cryptoslate.com/as-ethereum-turns-11-years-old-it-hosts-148b-in-stablecoins-but-daily-mainnet-revenue-just-fell-to-330k/",
+    "published_at": "Fri, 31 Jul 2026 10:30:44 +0000",
+    "fetched_at": "2026-07-31T12:30:01.660486+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2925aa0962a8",
+    "source": "Decrypt",
+    "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
+    "url": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
+    "published_at": "Fri, 31 Jul 2026 12:11:17 +0000",
+    "fetched_at": "2026-07-31T12:30:01.660486+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073112",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,601,255,233 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T12:30:04.600608+00:00",
+    "used": false
   }
 ]
