@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_d24122d932bd",
-    "source": "The Defiant",
-    "title": "Samsung Says Wallet Will Add Stablecoin Support",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/samsung-says-wallet-will-add-stablecoin-support",
-    "published_at": "Fri, 24 Jul 2026 16:18:08 GMT",
-    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T16:18:08+00:00"
-  },
-  {
-    "id": "rss_154d54328018",
-    "source": "The Defiant",
-    "title": "Odos to Shut Down DEX Aggregator on July 30",
-    "url": "https://thedefiant.io/news/defi/odos-to-shut-down-dex-aggregator-on-july-30",
-    "published_at": "Fri, 24 Jul 2026 16:00:57 GMT",
-    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T16:00:57+00:00"
-  },
-  {
-    "id": "rss_c506ce437abb",
-    "source": "The Defiant",
-    "title": "OCC Denies Wise's US National Trust Bank Charter",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/occ-denies-wise-s-us-national-trust-bank-charter",
-    "published_at": "Fri, 24 Jul 2026 15:53:56 GMT",
-    "fetched_at": "2026-07-24T17:07:52.463081+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T15:53:56+00:00"
-  },
-  {
-    "id": "llama_2026072417",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,543,031,037 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T17:07:56.030644+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T17:07:56.030644+00:00"
-  },
-  {
     "id": "rss_db5ff7d590fa",
     "source": "The Defiant",
     "title": "BitMEX, Hayes Sued Over 623 BTC Liquidation Claims as Exchange Winds Down",
@@ -1850,6 +1810,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-31T17:07:06.727651+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3c4144b7cd32",
+    "source": "CoinDesk",
+    "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+    "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+    "published_at": "Fri, 31 Jul 2026 18:24:55 +0000",
+    "fetched_at": "2026-07-31T18:55:14.433320+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b233da937d7",
+    "source": "Decrypt",
+    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
+    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
+    "published_at": "Fri, 31 Jul 2026 17:10:49 +0000",
+    "fetched_at": "2026-07-31T18:55:14.433320+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073118",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,513,602,818 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T18:55:18.081990+00:00",
     "used": false
   }
 ]
