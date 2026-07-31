@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072400",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,597,261,709 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-24T00:06:21.620992+00:00",
-    "used": false,
-    "_sort_date": "2026-07-24T00:06:21.620992+00:00"
-  },
-  {
     "id": "rss_c930ff31d118",
     "source": "Bankless",
     "title": "Ethereum Researcher Francesco D'Amato Departs EF for Ethlabs",
@@ -1822,6 +1812,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-07-30T22:38:46.059321+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026073100",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,653,048,751 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-07-31T00:10:30.205300+00:00",
     "used": false
   }
 ]
