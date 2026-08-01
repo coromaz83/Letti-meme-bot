@@ -1793,7 +1793,8 @@
     "url": "https://cryptoslate.com/tether-claims-1-5b-profit-but-hidden-math-reveals-a-4-2b-hit-that-halved-its-safety-cushion-in-90-days/",
     "published_at": "Sat, 01 Aug 2026 16:10:28 +0000",
     "fetched_at": "2026-08-01T16:31:35.847427+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-01T16:10:28+00:00"
   },
   {
     "id": "llama_2026080116",
@@ -1802,7 +1803,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T16:31:39.054066+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-01T16:31:39.054066+00:00"
   },
   {
     "id": "llama_2026080118",
@@ -1811,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T18:04:25.598836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-01T18:04:25.598836+00:00"
   },
   {
     "id": "llama_2026080119",
@@ -1820,7 +1823,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T19:45:19.260055+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-01T19:45:19.260055+00:00"
   },
   {
     "id": "llama_2026080121",
@@ -1829,6 +1833,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T21:02:14.759343+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-01T21:02:14.759343+00:00"
   }
 ]
