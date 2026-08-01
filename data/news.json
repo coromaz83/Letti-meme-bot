@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072508",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,545,642,883 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-25T08:32:13.977003+00:00",
-    "used": true,
-    "_sort_date": "2026-07-25T08:32:13.977003+00:00"
-  },
-  {
     "id": "rss_59c0e7b1f247",
     "source": "CryptoSlate",
     "title": "Two Ethereum bridges lose $31.7M within hours as third protocol halts staking",
@@ -1820,6 +1810,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T07:34:06.681889+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_576fc7f885e4",
+    "source": "CryptoSlate",
+    "title": "Why 110 corporate blockchains are headed for a massive shakeout – and Coinbase’s secret plan to absorb them",
+    "url": "https://cryptoslate.com/why-110-corporate-blockchains-are-headed-for-a-massive-shakeout-and-coinbases-secret-token-plan-to-absorb-them/",
+    "published_at": "Sat, 01 Aug 2026 09:55:01 +0000",
+    "fetched_at": "2026-08-01T10:06:27.868112+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ac06613a7604",
+    "source": "CryptoSlate",
+    "title": "Coinbase spent 5 years building a life raft away from Bitcoin and still managed to lose $359M",
+    "url": "https://cryptoslate.com/coinbase-spent-5-years-building-a-life-raft-away-from-bitcoin-trading-and-still-managed-to-lose-359-million/",
+    "published_at": "Sat, 01 Aug 2026 07:54:39 +0000",
+    "fetched_at": "2026-08-01T10:06:27.868112+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080110",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,523,060,519 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-01T10:06:31.038184+00:00",
     "used": false
   }
 ]
