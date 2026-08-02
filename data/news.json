@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072611",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,572,093,375 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-26T11:04:52.900830+00:00",
-    "used": true,
-    "_sort_date": "2026-07-26T11:04:52.900830+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -1853,6 +1843,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T11:02:41.399346+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fd8187896a65",
+    "source": "CryptoSlate",
+    "title": "Ethereum just outpaced Bitcoin with $365 million in ETF inflows, but on-chain data shows the real bottom isn’t in yet",
+    "url": "https://cryptoslate.com/ethereum-just-outpaced-bitcoin-with-365-million-in-etf-inflows-but-on-chain-data-shows-the-real-bottom-isnt-in-yet/",
+    "published_at": "Sun, 02 Aug 2026 12:35:54 +0000",
+    "fetched_at": "2026-08-02T12:36:39.676807+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080212",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,529,568,160 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-02T12:36:47.844352+00:00",
     "used": false
   }
 ]
