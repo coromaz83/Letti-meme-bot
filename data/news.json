@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_87562a975f3c",
-    "source": "The Defiant",
-    "title": "BitMart to Wind Down Exchange, End Trading by Aug. 26",
-    "url": "https://thedefiant.io/converge/cefi/bitmart-to-wind-down-exchange-end-trading-by-aug-26",
-    "published_at": "Sun, 26 Jul 2026 15:19:38 GMT",
-    "fetched_at": "2026-07-26T16:08:35.257575+00:00",
-    "used": true,
-    "_sort_date": "2026-07-26T15:19:38+00:00"
-  },
-  {
-    "id": "llama_2026072616",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,579,859,763 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-26T16:08:41.421976+00:00",
-    "used": false,
-    "_sort_date": "2026-07-26T16:08:41.421976+00:00"
-  },
-  {
     "id": "llama_2026072617",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,590,093,473 🟢 +0.00% (24h)",
@@ -1863,6 +1843,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T16:07:31.579224+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b9df46c15142",
+    "source": "CoinDesk",
+    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+    "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "published_at": "Sun, 02 Aug 2026 17:00:00 +0000",
+    "fetched_at": "2026-08-02T17:34:59.220783+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,526,953,567 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-02T17:35:02.462638+00:00",
     "used": false
   }
 ]
