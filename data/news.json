@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,578,491,375 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-25T23:36:22.739602+00:00",
-    "used": false,
-    "_sort_date": "2026-07-25T23:36:22.739602+00:00"
-  },
-  {
     "id": "llama_2026072603",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,599,286,680 🟢 +0.00% (24h)",
@@ -1843,6 +1833,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T23:33:14.403628+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a13e9b1f57e",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETFs just bled $265M in a brutal 24 hours, and Ethereum’s supposed rescue is another BlackRock illusion",
+    "url": "https://cryptoslate.com/bitcoin-etfs-shed-265m-as-blackrocks-staked-ether-fund-takes-15-4m/",
+    "published_at": "Sun, 02 Aug 2026 01:10:43 +0000",
+    "fetched_at": "2026-08-02T03:39:01.460203+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080203",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,538,457,410 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-02T03:39:05.129174+00:00",
     "used": false
   }
 ]
