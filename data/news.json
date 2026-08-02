@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-07-26T12:40:34.002538+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072612",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,575,437,084 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-26T12:40:37.233815+00:00",
-    "used": true,
-    "_sort_date": "2026-07-26T12:40:37.233815+00:00"
-  },
-  {
     "id": "llama_2026072614",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,573,968,388 🟢 +0.00% (24h)",
@@ -1861,6 +1842,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T12:36:47.844352+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080214",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,527,653,593 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-02T14:41:03.854002+00:00",
     "used": false
   }
 ]
