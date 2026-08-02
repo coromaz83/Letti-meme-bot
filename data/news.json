@@ -1764,7 +1764,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T11:02:41.399346+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-08-02T11:02:41.399346+00:00"
   },
   {
@@ -1813,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T16:07:31.579224+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-02T16:07:31.579224+00:00"
   },
   {
     "id": "rss_b9df46c15142",
@@ -1822,7 +1823,8 @@
     "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
     "published_at": "Sun, 02 Aug 2026 17:00:00 +0000",
     "fetched_at": "2026-08-02T17:34:59.220783+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-02T17:00:00+00:00"
   },
   {
     "id": "llama_2026080217",
@@ -1831,7 +1833,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T17:35:02.462638+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-02T17:35:02.462638+00:00"
   },
   {
     "id": "llama_2026080219",
@@ -1840,7 +1843,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T19:21:36.164102+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-02T19:21:36.164102+00:00"
   },
   {
     "id": "llama_2026080220",
@@ -1849,7 +1853,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T20:29:55.299152+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-02T20:29:55.299152+00:00"
   },
   {
     "id": "llama_2026080221",
@@ -1858,6 +1863,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T21:30:08.886734+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-02T21:30:08.886734+00:00"
   }
 ]
