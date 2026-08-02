@@ -1813,7 +1813,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-01T23:33:14.403628+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-01T23:33:14.403628+00:00"
   },
   {
     "id": "rss_9a13e9b1f57e",
@@ -1822,7 +1823,8 @@
     "url": "https://cryptoslate.com/bitcoin-etfs-shed-265m-as-blackrocks-staked-ether-fund-takes-15-4m/",
     "published_at": "Sun, 02 Aug 2026 01:10:43 +0000",
     "fetched_at": "2026-08-02T03:39:01.460203+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-02T01:10:43+00:00"
   },
   {
     "id": "llama_2026080203",
@@ -1831,7 +1833,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T03:39:05.129174+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-02T03:39:05.129174+00:00"
   },
   {
     "id": "llama_2026080206",
@@ -1840,7 +1843,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T06:40:02.760740+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-02T06:40:02.760740+00:00"
   },
   {
     "id": "llama_2026080209",
@@ -1849,6 +1853,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-02T09:14:42.694529+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-02T09:14:42.694529+00:00"
   }
 ]
