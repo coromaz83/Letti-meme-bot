@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_f4ec8773cc3e",
-    "source": "CoinDesk",
-    "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
-    "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
-    "published_at": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "fetched_at": "2026-07-27T03:51:37.319956+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072703",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,601,973,914 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T03:51:41.082742+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T03:51:41.082742+00:00"
-  },
-  {
     "id": "rss_c219c943904e",
     "source": "CoinDesk",
     "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
@@ -1855,6 +1836,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T00:04:31.671431+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080304",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,534,583,154 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T04:09:01.324122+00:00",
     "used": false
   }
 ]
