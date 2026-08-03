@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_c219c943904e",
-    "source": "CoinDesk",
-    "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
-    "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-    "published_at": "Mon, 27 Jul 2026 06:43:34 +0000",
-    "fetched_at": "2026-07-27T07:40:56.007781+00:00",
-    "used": true,
-    "_sort_date": "2026-07-27T06:43:34+00:00"
-  },
-  {
-    "id": "llama_2026072707",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,629,386,194 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T07:41:03.475563+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T07:41:03.475563+00:00"
-  },
-  {
     "id": "rss_935f3b855f6e",
     "source": "Cointelegraph Base",
     "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
@@ -1845,6 +1825,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T04:09:01.324122+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080307",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,520,167,164 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T07:59:02.169439+00:00",
     "used": false
   }
 ]
