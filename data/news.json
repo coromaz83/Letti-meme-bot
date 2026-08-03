@@ -1664,7 +1664,8 @@
     "url": "https://thedefiant.io/news/cefi/strategy-sells-1-638-bitcoin-for-105m-splits-proceeds-between-dividends-and-strc-buyback",
     "published_at": "Mon, 03 Aug 2026 16:41:40 GMT",
     "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T16:41:40+00:00"
   },
   {
     "id": "rss_c1c02f07ac13",
@@ -1673,7 +1674,8 @@
     "url": "https://thedefiant.io/news/hacks/i-did-everything-right-coldcard-victims-recount-losing-life-savings",
     "published_at": "Mon, 03 Aug 2026 15:55:47 GMT",
     "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T15:55:47+00:00"
   },
   {
     "id": "rss_dfd93e96f1aa",
@@ -1682,7 +1684,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market",
     "published_at": "Mon, 03 Aug 2026 15:08:10 GMT",
     "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T15:08:10+00:00"
   },
   {
     "id": "rss_228f6e1af1ca",
@@ -1691,7 +1694,8 @@
     "url": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
     "published_at": "Mon, 03 Aug 2026 15:02:19 GMT",
     "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T15:02:19+00:00"
   },
   {
     "id": "rss_c24a57ba34a9",
@@ -1700,7 +1704,8 @@
     "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
     "published_at": "Mon, 03 Aug 2026 15:31:43 +0000",
     "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T15:31:43+00:00"
   },
   {
     "id": "llama_2026080317",
@@ -1709,7 +1714,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T17:16:33.367611+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T17:16:33.367611+00:00"
   },
   {
     "id": "rss_ac0ce786656c",
@@ -1718,7 +1724,8 @@
     "url": "https://thedefiant.io/news/defi/tornado-cash-logs-968-deposits-in-busiest-day-of-2026-l2beat-says",
     "published_at": "Mon, 03 Aug 2026 18:52:38 GMT",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T18:52:38+00:00"
   },
   {
     "id": "rss_9f17b0f79d82",
@@ -1727,7 +1734,8 @@
     "url": "https://thedefiant.io/news/defi/flap-overtakes-pump-fun-in-daily-revenue-with-1-18-million",
     "published_at": "Mon, 03 Aug 2026 18:38:54 GMT",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-03T18:38:54+00:00"
   },
   {
     "id": "rss_5f1216ffc28f",
@@ -1736,7 +1744,8 @@
     "url": "https://thedefiant.io/news/defi/dex-spot-volume-hit-a-record-24-of-cex-volume-in-july",
     "published_at": "Mon, 03 Aug 2026 18:33:21 GMT",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T18:33:21+00:00"
   },
   {
     "id": "rss_8ff6a780fc64",
@@ -1745,7 +1754,8 @@
     "url": "https://thedefiant.io/news/markets/rwas-topped-half-of-hyperliquid-s-volume-for-two-straight-weeks-in-july",
     "published_at": "Mon, 03 Aug 2026 18:32:39 GMT",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T18:32:39+00:00"
   },
   {
     "id": "rss_8eea71475796",
@@ -1754,7 +1764,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/crypto-card-volume-hits-748-7m-in-july-a-fifth-straight-monthly-gain-paymentscan",
     "published_at": "Mon, 03 Aug 2026 18:28:04 GMT",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T18:28:04+00:00"
   },
   {
     "id": "rss_e10e3680bd70",
@@ -1763,7 +1774,8 @@
     "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
     "published_at": "Mon, 03 Aug 2026 17:51:03 +0000",
     "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T17:51:03+00:00"
   },
   {
     "id": "llama_2026080319",
@@ -1772,7 +1784,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T19:08:04.577652+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T19:08:04.577652+00:00"
   },
   {
     "id": "rss_c70f48b97a56",
@@ -1781,7 +1794,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-s-second-venture-fund-targets-y-combinator-startups-in-usd200-million-ipo",
     "published_at": "Mon, 03 Aug 2026 20:30:30 GMT",
     "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T20:30:30+00:00"
   },
   {
     "id": "rss_d9fe98b4db31",
@@ -1790,7 +1804,8 @@
     "url": "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks",
     "published_at": "Mon, 03 Aug 2026 19:09:03 GMT",
     "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-03T19:09:03+00:00"
   },
   {
     "id": "rss_8404795e04de",
@@ -1799,7 +1814,8 @@
     "url": "https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/",
     "published_at": "Mon, 03 Aug 2026 19:35:17 +0000",
     "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-03T19:35:17+00:00"
   },
   {
     "id": "rss_10d00f8dcb0a",
@@ -1808,7 +1824,8 @@
     "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
     "published_at": "Mon, 03 Aug 2026 19:17:37 +0000",
     "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T19:17:37+00:00"
   },
   {
     "id": "rss_72c47bfd195c",
@@ -1817,7 +1834,8 @@
     "url": "https://www.bankless.com/read/news/blackrock-unveils-two-new-tokenized-treasury-funds-on-ethereum",
     "published_at": "Mon, 03 Aug 2026 13:56:07 -0400",
     "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T13:56:07-04:00"
   },
   {
     "id": "llama_2026080320",
@@ -1826,6 +1844,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T20:45:06.358390+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T20:45:06.358390+00:00"
   }
 ]
