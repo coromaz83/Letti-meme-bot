@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_8cbf69106965",
-    "source": "The Defiant",
-    "title": "Storj Files Chapter 11, Floats Equity Path for Token Holders",
-    "url": "https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders",
-    "published_at": "Mon, 27 Jul 2026 16:33:40 GMT",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": true,
-    "_sort_date": "2026-07-27T16:33:40+00:00"
-  },
-  {
-    "id": "rss_12f6be1198c6",
-    "source": "The Defiant",
-    "title": "Lido Unveils Curated Module v2 in Ethereum Staking Overhaul",
-    "url": "https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul",
-    "published_at": "Mon, 27 Jul 2026 15:46:31 GMT",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T15:46:31+00:00"
-  },
-  {
-    "id": "rss_6df132c736bc",
-    "source": "The Defiant",
-    "title": "Circle Buys IBM Blockchain Patent Portfolio",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio",
-    "published_at": "Mon, 27 Jul 2026 15:01:13 GMT",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T15:01:13+00:00"
-  },
-  {
-    "id": "rss_7e5f5d4ce4f2",
-    "source": "The Defiant",
-    "title": "Magic Labs Sells Wallet Business to Kraken Parent Payward",
-    "url": "https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward",
-    "published_at": "Mon, 27 Jul 2026 14:57:35 GMT",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T14:57:35+00:00"
-  },
-  {
-    "id": "rss_8945b7029b34",
-    "source": "The Defiant",
-    "title": "Securitize Registers Capital Affiliate as SEC Investment Adviser",
-    "url": "https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser",
-    "published_at": "Mon, 27 Jul 2026 14:52:18 GMT",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T14:52:18+00:00"
-  },
-  {
-    "id": "rss_ad3d212d1ae1",
-    "source": "CryptoSlate",
-    "title": "On-chain data shows 5,280 ETH draining into single address following quiet Triple-A wallet breach",
-    "url": "https://cryptoslate.com/onchain-data-shows-5280-eth-draining-into-single-address-following-quiet-triple-a-wallet-breach/",
-    "published_at": "Mon, 27 Jul 2026 15:05:06 +0000",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T15:05:06+00:00"
-  },
-  {
-    "id": "rss_0c41f3f09692",
-    "source": "Decrypt",
-    "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-    "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-    "published_at": "Mon, 27 Jul 2026 15:42:54 +0000",
-    "fetched_at": "2026-07-27T17:03:48.696800+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T15:42:54+00:00"
-  },
-  {
-    "id": "llama_2026072717",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,600,594,753 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T17:03:52.432941+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T17:03:52.432941+00:00"
-  },
-  {
     "id": "rss_21a56d7d1cec",
     "source": "The Defiant",
     "title": "Ondo Recasts Its Blockchain as the Ondo Network",
@@ -1806,5 +1726,59 @@
     "fetched_at": "2026-08-03T14:57:28.841882+00:00",
     "used": false,
     "_sort_date": "2026-08-03T14:57:28.841882+00:00"
+  },
+  {
+    "id": "rss_6bf59d788e18",
+    "source": "The Defiant",
+    "title": "Strategy Sells 1,638 Bitcoin for $105M, Splits Proceeds Between Dividends and STRC Buyback",
+    "url": "https://thedefiant.io/news/cefi/strategy-sells-1-638-bitcoin-for-105m-splits-proceeds-between-dividends-and-strc-buyback",
+    "published_at": "Mon, 03 Aug 2026 16:41:40 GMT",
+    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c1c02f07ac13",
+    "source": "The Defiant",
+    "title": "'I Did Everything Right': Coldcard Victims Recount Losing Life Savings",
+    "url": "https://thedefiant.io/news/hacks/i-did-everything-right-coldcard-victims-recount-losing-life-savings",
+    "published_at": "Mon, 03 Aug 2026 15:55:47 GMT",
+    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dfd93e96f1aa",
+    "source": "The Defiant",
+    "title": "The $114 Trillion Question: How DTCC Is Tokenizing the Entire U.S. Market",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market",
+    "published_at": "Mon, 03 Aug 2026 15:08:10 GMT",
+    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_228f6e1af1ca",
+    "source": "The Defiant",
+    "title": "Coldcard Thefts Near $114 Million as Fourth Attack Wave Hits",
+    "url": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
+    "published_at": "Mon, 03 Aug 2026 15:02:19 GMT",
+    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c24a57ba34a9",
+    "source": "Decrypt",
+    "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
+    "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
+    "published_at": "Mon, 03 Aug 2026 15:31:43 +0000",
+    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080317",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,566,017,845 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T17:16:33.367611+00:00",
+    "used": false
   }
 ]
