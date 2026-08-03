@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_21a56d7d1cec",
-    "source": "The Defiant",
-    "title": "Ondo Recasts Its Blockchain as the Ondo Network",
-    "url": "https://thedefiant.io/news/infrastructure/ondo-recasts-its-blockchain-as-the-ondo-network",
-    "published_at": "Mon, 27 Jul 2026 18:20:32 GMT",
-    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
-    "used": true,
-    "_sort_date": "2026-07-27T18:20:32+00:00"
-  },
-  {
-    "id": "rss_e2c063ec16ad",
-    "source": "The Defiant",
-    "title": "Ether ETFs Pull $104M, Tripling Bitcoin's Weekly Inflows",
-    "url": "https://thedefiant.io/converge/markets/ether-etfs-pull-104m-tripling-bitcoin-s-weekly-inflows",
-    "published_at": "Mon, 27 Jul 2026 18:14:31 GMT",
-    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T18:14:31+00:00"
-  },
-  {
-    "id": "rss_b05c21fb1508",
-    "source": "The Defiant",
-    "title": "World Enters 'Phase 3,' Extends Proof of Human to AI Agents",
-    "url": "https://thedefiant.io/news/infrastructure/world-enters-phase-3-extends-proof-of-human-to-ai-agents",
-    "published_at": "Mon, 27 Jul 2026 18:09:36 GMT",
-    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
-    "used": true,
-    "_sort_date": "2026-07-27T18:09:36+00:00"
-  },
-  {
-    "id": "rss_18a90a597ec5",
-    "source": "The Defiant",
-    "title": "Phantom to End Monad Support on Aug. 26",
-    "url": "https://thedefiant.io/news/infrastructure/phantom-to-end-monad-support-on-aug-26",
-    "published_at": "Mon, 27 Jul 2026 18:08:55 GMT",
-    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T18:08:55+00:00"
-  },
-  {
-    "id": "rss_ccf38cb3e878",
-    "source": "Bankless",
-    "title": "Bitmine Added ETH While Strategy's BTC Lull Continues",
-    "url": "https://www.bankless.com/read/news/bitmine-added-eth-while-strategys-btc-lull-continues",
-    "published_at": "Mon, 27 Jul 2026 14:31:35 -0400",
-    "fetched_at": "2026-07-27T18:58:04.094865+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T14:31:35-04:00"
-  },
-  {
-    "id": "llama_2026072718",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,618,283,864 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T18:58:08.290267+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T18:58:08.290267+00:00"
-  },
-  {
     "id": "llama_2026072720",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,617,919,555 🟢 +0.00% (24h)",
@@ -1779,6 +1719,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T17:16:33.367611+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ac0ce786656c",
+    "source": "The Defiant",
+    "title": "Tornado Cash Logs 968 Deposits in Busiest Day of 2026, L2Beat Says",
+    "url": "https://thedefiant.io/news/defi/tornado-cash-logs-968-deposits-in-busiest-day-of-2026-l2beat-says",
+    "published_at": "Mon, 03 Aug 2026 18:52:38 GMT",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f17b0f79d82",
+    "source": "The Defiant",
+    "title": "Flap Overtakes Pump.fun in Daily Revenue With $1.18 Million",
+    "url": "https://thedefiant.io/news/defi/flap-overtakes-pump-fun-in-daily-revenue-with-1-18-million",
+    "published_at": "Mon, 03 Aug 2026 18:38:54 GMT",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5f1216ffc28f",
+    "source": "The Defiant",
+    "title": "DEX Spot Volume Hit a Record 24% of CEX Volume in July",
+    "url": "https://thedefiant.io/news/defi/dex-spot-volume-hit-a-record-24-of-cex-volume-in-july",
+    "published_at": "Mon, 03 Aug 2026 18:33:21 GMT",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ff6a780fc64",
+    "source": "The Defiant",
+    "title": "RWAs Topped Half of Hyperliquid's Volume for Two Straight Weeks in July",
+    "url": "https://thedefiant.io/news/markets/rwas-topped-half-of-hyperliquid-s-volume-for-two-straight-weeks-in-july",
+    "published_at": "Mon, 03 Aug 2026 18:32:39 GMT",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8eea71475796",
+    "source": "The Defiant",
+    "title": "Crypto Card Volume Hits $748.7M in July, a Fifth Straight Monthly Gain: Paymentscan",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/crypto-card-volume-hits-748-7m-in-july-a-fifth-straight-monthly-gain-paymentscan",
+    "published_at": "Mon, 03 Aug 2026 18:28:04 GMT",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e10e3680bd70",
+    "source": "Decrypt",
+    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+    "published_at": "Mon, 03 Aug 2026 17:51:03 +0000",
+    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080319",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,565,573,074 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T19:08:04.577652+00:00",
     "used": false
   }
 ]
