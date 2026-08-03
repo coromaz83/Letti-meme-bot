@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,617,919,555 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T20:39:48.401788+00:00",
-    "used": false,
-    "_sort_date": "2026-07-27T20:39:48.401788+00:00"
-  },
-  {
     "id": "rss_f24c5130654e",
     "source": "Decrypt",
     "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
@@ -1782,6 +1772,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T19:08:04.577652+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c70f48b97a56",
+    "source": "The Defiant",
+    "title": "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-s-second-venture-fund-targets-y-combinator-startups-in-usd200-million-ipo",
+    "published_at": "Mon, 03 Aug 2026 20:30:30 GMT",
+    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d9fe98b4db31",
+    "source": "The Defiant",
+    "title": "Bitcoin Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks",
+    "url": "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks",
+    "published_at": "Mon, 03 Aug 2026 19:09:03 GMT",
+    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8404795e04de",
+    "source": "CryptoSlate",
+    "title": "Italy’s biggest bank just slashed its Bitcoin ETF call position by 99% to triple down on staked Ethereum",
+    "url": "https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/",
+    "published_at": "Mon, 03 Aug 2026 19:35:17 +0000",
+    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_10d00f8dcb0a",
+    "source": "Decrypt",
+    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+    "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+    "published_at": "Mon, 03 Aug 2026 19:17:37 +0000",
+    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_72c47bfd195c",
+    "source": "Bankless",
+    "title": "BlackRock Unveils Two New Tokenized Treasury Funds on Ethereum",
+    "url": "https://www.bankless.com/read/news/blackrock-unveils-two-new-tokenized-treasury-funds-on-ethereum",
+    "published_at": "Mon, 03 Aug 2026 13:56:07 -0400",
+    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080320",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,573,454,194 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T20:45:06.358390+00:00",
     "used": false
   }
 ]
