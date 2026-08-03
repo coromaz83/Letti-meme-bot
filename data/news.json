@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_f24c5130654e",
-    "source": "Decrypt",
-    "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-    "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-    "published_at": "Mon, 27 Jul 2026 21:05:05 +0000",
-    "fetched_at": "2026-07-27T22:13:07.048885+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072722",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,631,031,059 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-27T22:13:09.771293+00:00",
-    "used": false
-  },
-  {
     "id": "rss_f62f6b075404",
     "source": "The Defiant",
     "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
@@ -1846,5 +1828,14 @@
     "fetched_at": "2026-08-03T20:45:06.358390+00:00",
     "used": false,
     "_sort_date": "2026-08-03T20:45:06.358390+00:00"
+  },
+  {
+    "id": "llama_2026080322",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,572,532,397 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-03T22:13:17.030466+00:00",
+    "used": false
   }
 ]
