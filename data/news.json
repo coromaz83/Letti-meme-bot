@@ -1787,7 +1787,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T06:12:45.366998+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-08-04T06:12:45.366998+00:00"
   },
   {
@@ -1807,7 +1807,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T11:41:14.387299+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T11:41:14.387299+00:00"
   },
   {
     "id": "rss_f6b4d683c213",
@@ -1816,7 +1817,8 @@
     "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
     "published_at": "Tue, 04 Aug 2026 14:25:50 +0000",
     "fetched_at": "2026-08-04T14:33:35.977723+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T14:25:50+00:00"
   },
   {
     "id": "llama_2026080414",
@@ -1825,6 +1827,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T14:33:39.878453+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T14:33:39.878453+00:00"
   }
 ]
