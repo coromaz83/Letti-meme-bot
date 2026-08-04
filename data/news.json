@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_9b60d906f6b6",
-    "source": "Decrypt",
-    "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-    "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-    "published_at": "Tue, 28 Jul 2026 19:14:14 +0000",
-    "fetched_at": "2026-07-28T19:46:28.416361+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T19:14:14+00:00"
-  },
-  {
-    "id": "llama_2026072819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,563,326,688 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-28T19:46:34.936294+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T19:46:34.936294+00:00"
-  },
-  {
     "id": "rss_320433978fde",
     "source": "The Defiant",
     "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
@@ -1818,6 +1798,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T18:45:12.630597+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e2e281fa9cd",
+    "source": "The Defiant",
+    "title": "Cloudflare Launches Stablecoin Wallets for AI Agents, Opens cloudflare.pay Handles",
+    "url": "https://thedefiant.io/news/defi/cloudflare-wallets-ai-agents-stablecoin-x402",
+    "published_at": "Tue, 04 Aug 2026 19:39:32 GMT",
+    "fetched_at": "2026-08-04T20:37:56.991189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_127b60bc91a5",
+    "source": "Bankless",
+    "title": "New Ethereum Proposal Would Massively Increase Burn",
+    "url": "https://www.bankless.com/read/news/new-ethereum-proposal-would-massively-increase-burn",
+    "published_at": "Tue, 04 Aug 2026 12:51:39 -0400",
+    "fetched_at": "2026-08-04T20:37:56.991189+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080420",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,578,422,245 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-04T20:37:59.772694+00:00",
     "used": false
   }
 ]
