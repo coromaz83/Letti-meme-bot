@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_a55936070392",
-    "source": "The Defiant",
-    "title": "Robinhood Chain Tops Solana in Tokenized Stock Volume Via Memecoin Pairs",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-solana-in-tokenized-stock-volume-via-memecoin-pairs",
-    "published_at": "Tue, 28 Jul 2026 17:28:45 GMT",
-    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T17:28:45+00:00"
-  },
-  {
-    "id": "rss_a1c10fedb136",
-    "source": "The Defiant",
-    "title": "Zama CEO Claims 1,000 Confidential Transfers Per Second on GPUs",
-    "url": "https://thedefiant.io/news/infrastructure/zama-ceo-claims-1-000-confidential-transfers-per-second-on-gpus",
-    "published_at": "Tue, 28 Jul 2026 16:33:49 GMT",
-    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": true,
-    "_sort_date": "2026-07-28T16:33:49+00:00"
-  },
-  {
-    "id": "rss_d7d6f2e52be4",
-    "source": "The Defiant",
-    "title": "1inch Commits 10M 1INCH, 500k USDC to Aqua LP Rewards",
-    "url": "https://thedefiant.io/news/defi/1inch-commits-10m-1inch-500k-usdc-to-aqua-lp-rewards",
-    "published_at": "Tue, 28 Jul 2026 16:33:10 GMT",
-    "fetched_at": "2026-07-28T17:58:32.660286+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T16:33:10+00:00"
-  },
-  {
-    "id": "llama_2026072817",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,574,860,465 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-28T17:58:49.940483+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T17:58:49.940483+00:00"
-  },
-  {
     "id": "rss_9b60d906f6b6",
     "source": "Decrypt",
     "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
@@ -1840,6 +1800,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T16:58:28.830002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3b7723719a11",
+    "source": "The Defiant",
+    "title": "Western Union and Rain Launch Stablecoin Card in 37 Markets",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-and-rain-launch-stablecoin-card-in-37-markets",
+    "published_at": "Tue, 04 Aug 2026 17:58:02 GMT",
+    "fetched_at": "2026-08-04T18:45:10.021618+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080418",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,578,152,821 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-04T18:45:12.630597+00:00",
     "used": false
   }
 ]
