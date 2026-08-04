@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072811",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,535,458,683 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-28T11:36:47.977065+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T11:36:47.977065+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -1828,5 +1818,14 @@
     "fetched_at": "2026-08-04T09:22:57.338004+00:00",
     "used": true,
     "_sort_date": "2026-08-04T09:22:57.338004+00:00"
+  },
+  {
+    "id": "llama_2026080411",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,545,730,099 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-04T11:41:14.387299+00:00",
+    "used": false
   }
 ]
