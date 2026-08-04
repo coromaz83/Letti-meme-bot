@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072806",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,527,787,596 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-28T06:10:34.291278+00:00",
-    "used": false,
-    "_sort_date": "2026-07-28T06:10:34.291278+00:00"
-  },
-  {
     "id": "rss_e578d5f775b0",
     "source": "CoinDesk",
     "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
@@ -1824,6 +1814,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T03:26:06.854898+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdad0e308d60",
+    "source": "CoinDesk",
+    "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+    "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+    "published_at": "Tue, 04 Aug 2026 06:12:20 +0000",
+    "fetched_at": "2026-08-04T06:12:42.302059+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080406",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,563,320,654 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-04T06:12:45.366998+00:00",
     "used": false
   }
 ]
