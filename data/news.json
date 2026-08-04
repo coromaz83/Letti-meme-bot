@@ -1726,7 +1726,8 @@
     "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
     "published_at": "Tue, 04 Aug 2026 16:21:59 +0000",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T16:21:59+00:00"
   },
   {
     "id": "rss_aaaeb245dc22",
@@ -1735,7 +1736,8 @@
     "url": "https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield",
     "published_at": "Tue, 04 Aug 2026 16:27:15 GMT",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T16:27:15+00:00"
   },
   {
     "id": "rss_24874848b79f",
@@ -1744,7 +1746,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026",
     "published_at": "Tue, 04 Aug 2026 16:10:28 GMT",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T16:10:28+00:00"
   },
   {
     "id": "rss_ceae8897c591",
@@ -1753,7 +1756,8 @@
     "url": "https://thedefiant.io/news/infrastructure/bitgo-chainlink-ccip-exclusive-cross-chain-provider-wbtc",
     "published_at": "Tue, 04 Aug 2026 16:01:54 GMT",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T16:01:54+00:00"
   },
   {
     "id": "rss_da320783148a",
@@ -1762,7 +1766,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-buys-10-399-more-eth-but-reported-holdings-fall-to-11-3b",
     "published_at": "Tue, 04 Aug 2026 15:29:59 GMT",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T15:29:59+00:00"
   },
   {
     "id": "rss_03d430d8ffa4",
@@ -1771,7 +1776,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/fake-world-assets-boosts-buybacks-to-80-of-fees-after-token-crashes-to-record-low",
     "published_at": "Tue, 04 Aug 2026 15:23:32 GMT",
     "fetched_at": "2026-08-04T16:58:23.908144+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T15:23:32+00:00"
   },
   {
     "id": "llama_2026080416",
@@ -1780,7 +1786,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T16:58:28.830002+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T16:58:28.830002+00:00"
   },
   {
     "id": "rss_3b7723719a11",
@@ -1789,7 +1796,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-and-rain-launch-stablecoin-card-in-37-markets",
     "published_at": "Tue, 04 Aug 2026 17:58:02 GMT",
     "fetched_at": "2026-08-04T18:45:10.021618+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T17:58:02+00:00"
   },
   {
     "id": "llama_2026080418",
@@ -1798,7 +1806,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T18:45:12.630597+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T18:45:12.630597+00:00"
   },
   {
     "id": "rss_9e2e281fa9cd",
@@ -1807,7 +1816,8 @@
     "url": "https://thedefiant.io/news/defi/cloudflare-wallets-ai-agents-stablecoin-x402",
     "published_at": "Tue, 04 Aug 2026 19:39:32 GMT",
     "fetched_at": "2026-08-04T20:37:56.991189+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T19:39:32+00:00"
   },
   {
     "id": "rss_127b60bc91a5",
@@ -1816,7 +1826,8 @@
     "url": "https://www.bankless.com/read/news/new-ethereum-proposal-would-massively-increase-burn",
     "published_at": "Tue, 04 Aug 2026 12:51:39 -0400",
     "fetched_at": "2026-08-04T20:37:56.991189+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T12:51:39-04:00"
   },
   {
     "id": "llama_2026080420",
@@ -1825,6 +1836,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T20:37:59.772694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T20:37:59.772694+00:00"
   }
 ]
