@@ -1776,7 +1776,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-03T23:39:59.199040+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-03T23:39:59.199040+00:00"
   },
   {
     "id": "rss_f62f6b075404",
@@ -1785,7 +1786,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
     "published_at": "Tue, 04 Aug 2026 03:26:04 GMT",
     "fetched_at": "2026-08-04T03:26:03.893861+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T03:26:04+00:00"
   },
   {
     "id": "llama_2026080403",
@@ -1794,7 +1796,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T03:26:06.854898+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T03:26:06.854898+00:00"
   },
   {
     "id": "rss_cdad0e308d60",
@@ -1803,7 +1806,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
     "published_at": "Tue, 04 Aug 2026 06:12:20 +0000",
     "fetched_at": "2026-08-04T06:12:42.302059+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T06:12:20+00:00"
   },
   {
     "id": "llama_2026080406",
@@ -1812,7 +1816,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T06:12:45.366998+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T06:12:45.366998+00:00"
   },
   {
     "id": "llama_2026080409",
@@ -1821,6 +1826,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T09:22:57.338004+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T09:22:57.338004+00:00"
   }
 ]
