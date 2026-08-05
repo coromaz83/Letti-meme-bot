@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072912",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,596,907,152 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T12:08:09.962252+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T12:08:09.962252+00:00"
-  },
-  {
     "id": "rss_904bb92db450",
     "source": "CoinDesk",
     "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
@@ -1845,6 +1835,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T11:38:07.674369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa1668bf36e0",
+    "source": "CoinDesk",
+    "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
+    "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+    "published_at": "Wed, 05 Aug 2026 13:25:04 +0000",
+    "fetched_at": "2026-08-05T14:26:16.931815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ffbcb3adc980",
+    "source": "CryptoSlate",
+    "title": "BlackRock’s rare ETHA reverse split is about to make trading Ethereum 70 times cheaper than Coinbase",
+    "url": "https://cryptoslate.com/blackrocks-rare-etha-reverse-split-is-about-to-make-trading-ethereum-70-times-cheaper-than-coinbase/",
+    "published_at": "Wed, 05 Aug 2026 13:55:37 +0000",
+    "fetched_at": "2026-08-05T14:26:16.931815+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080514",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,586,911,868 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T14:26:20.664171+00:00",
     "used": false
   }
 ]
