@@ -1767,7 +1767,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
     "published_at": "Tue, 04 Aug 2026 23:34:40 GMT",
     "fetched_at": "2026-08-04T23:34:38.195648+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-04T23:34:40+00:00"
   },
   {
     "id": "rss_88bc616eacb4",
@@ -1776,7 +1777,8 @@
     "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
     "published_at": "Tue, 04 Aug 2026 23:34:40 GMT",
     "fetched_at": "2026-08-04T23:34:38.195648+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T23:34:40+00:00"
   },
   {
     "id": "llama_2026080423",
@@ -1785,7 +1787,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T23:34:42.029994+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-04T23:34:42.029994+00:00"
   },
   {
     "id": "llama_2026080503",
@@ -1794,7 +1797,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T03:20:46.998350+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T03:20:46.998350+00:00"
   },
   {
     "id": "rss_8dd081ad6ad1",
@@ -1803,7 +1807,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
     "published_at": "Wed, 05 Aug 2026 05:49:57 +0000",
     "fetched_at": "2026-08-05T06:08:05.942139+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T05:49:57+00:00"
   },
   {
     "id": "llama_2026080506",
@@ -1812,7 +1817,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T06:08:09.320240+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T06:08:09.320240+00:00"
   },
   {
     "id": "llama_2026080509",
@@ -1821,6 +1827,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T09:25:08.812463+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T09:25:08.812463+00:00"
   }
 ]
