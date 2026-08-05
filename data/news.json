@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_4693453c0c2e",
-    "source": "CoinDesk",
-    "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
-    "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
-    "published_at": "Wed, 29 Jul 2026 18:00:00 +0000",
-    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T18:00:00+00:00"
-  },
-  {
-    "id": "rss_92b254db5fa9",
-    "source": "The Defiant",
-    "title": "Bitcoin Slips Below $64K After Warsh Says \"No Soft Inflation Target\"",
-    "url": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target",
-    "published_at": "Wed, 29 Jul 2026 18:48:43 GMT",
-    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
-    "used": true,
-    "_sort_date": "2026-07-29T18:48:43+00:00"
-  },
-  {
-    "id": "rss_be9adda8bbfe",
-    "source": "Decrypt",
-    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
-    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-    "published_at": "Wed, 29 Jul 2026 18:43:45 +0000",
-    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T18:43:45+00:00"
-  },
-  {
-    "id": "rss_0c0fce816de7",
-    "source": "Bankless",
-    "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
-    "url": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
-    "published_at": "Wed, 29 Jul 2026 15:32:15 -0400",
-    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:32:15-04:00"
-  },
-  {
-    "id": "rss_ad91f9b0ae62",
-    "source": "Bankless",
-    "title": "The Ethereum Foundation Welcomes Its Newest Board Member",
-    "url": "https://www.bankless.com/read/news/the-ethereum-foundation-welcomes-its-newest-board-member",
-    "published_at": "Wed, 29 Jul 2026 15:16:39 -0400",
-    "fetched_at": "2026-07-29T19:34:48.367364+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:16:39-04:00"
-  },
-  {
-    "id": "llama_2026072919",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,585,033,655 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T19:34:57.302717+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T19:34:57.302717+00:00"
-  },
-  {
     "id": "llama_2026072921",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,554,756,041 🟢 +0.00% (24h)",
@@ -1813,6 +1753,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T18:07:11.656824+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ba8023cf8eb5",
+    "source": "The Defiant",
+    "title": "Aave And ether.fi Founders Lead Opposition To Ethereum's Staking Yield Burn",
+    "url": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
+    "published_at": "Wed, 05 Aug 2026 19:54:41 GMT",
+    "fetched_at": "2026-08-05T20:10:47.408198+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_68809a08ee9d",
+    "source": "The Defiant",
+    "title": "Traders Push CLARITY Act Odds Into 2027 After Thune Skips Cloture Filing",
+    "url": "https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing",
+    "published_at": "Wed, 05 Aug 2026 19:11:51 GMT",
+    "fetched_at": "2026-08-05T20:10:47.408198+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080520",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,639,235,572 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T20:10:52.735892+00:00",
     "used": false
   }
 ]
