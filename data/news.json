@@ -1797,7 +1797,8 @@
     "url": "https://cryptoslate.com/if-ethereums-proposed-54-reward-cut-passes-defis-favorite-loop-threatens-to-become-a-daily-loss-machine/",
     "published_at": "Wed, 05 Aug 2026 10:55:06 +0000",
     "fetched_at": "2026-08-05T11:38:04.149611+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T10:55:06+00:00"
   },
   {
     "id": "rss_fb37e3af8490",
@@ -1806,7 +1807,8 @@
     "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
     "published_at": "Wed, 05 Aug 2026 11:29:23 +0000",
     "fetched_at": "2026-08-05T11:38:04.149611+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T11:29:23+00:00"
   },
   {
     "id": "llama_2026080511",
@@ -1815,7 +1817,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T11:38:07.674369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T11:38:07.674369+00:00"
   },
   {
     "id": "rss_fa1668bf36e0",
@@ -1824,7 +1827,8 @@
     "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
     "published_at": "Wed, 05 Aug 2026 13:25:04 +0000",
     "fetched_at": "2026-08-05T14:26:16.931815+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T13:25:04+00:00"
   },
   {
     "id": "rss_ffbcb3adc980",
@@ -1833,7 +1837,8 @@
     "url": "https://cryptoslate.com/blackrocks-rare-etha-reverse-split-is-about-to-make-trading-ethereum-70-times-cheaper-than-coinbase/",
     "published_at": "Wed, 05 Aug 2026 13:55:37 +0000",
     "fetched_at": "2026-08-05T14:26:16.931815+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T13:55:37+00:00"
   },
   {
     "id": "llama_2026080514",
@@ -1842,7 +1847,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T14:26:20.664171+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T14:26:20.664171+00:00"
   },
   {
     "id": "rss_dbf71508c692",
@@ -1851,7 +1857,8 @@
     "url": "https://thedefiant.io/news/tokens/eliza-labs-shaw-walters-says-ai16z-token-is-dead-after-settling-burwick-law-class-action",
     "published_at": "Wed, 05 Aug 2026 14:40:07 GMT",
     "fetched_at": "2026-08-05T16:17:09.491223+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T14:40:07+00:00"
   },
   {
     "id": "rss_5abf64cbf5a6",
@@ -1860,7 +1867,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-extends-crypto-credential-to-stablecoin-payments-in-borderless-pilot",
     "published_at": "Wed, 05 Aug 2026 13:00:00 GMT",
     "fetched_at": "2026-08-05T16:17:09.491223+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T13:00:00+00:00"
   },
   {
     "id": "llama_2026080516",
@@ -1869,6 +1877,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T16:17:13.108598+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T16:17:13.108598+00:00"
   }
 ]
