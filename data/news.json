@@ -1,115 +1,5 @@
 [
   {
-    "id": "rss_c054c9cf8424",
-    "source": "CoinDesk",
-    "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-    "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
-    "published_at": "Wed, 29 Jul 2026 15:15:08 +0000",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:15:08+00:00"
-  },
-  {
-    "id": "rss_04da0ff1dfce",
-    "source": "The Defiant",
-    "title": "Morgan Stanley Launches Spot Ether, Solana ETPs on NYSE Arca",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-launches-spot-ether-solana-etps-on-nyse-arca",
-    "published_at": "Wed, 29 Jul 2026 16:19:02 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": true,
-    "_sort_date": "2026-07-29T16:19:02+00:00"
-  },
-  {
-    "id": "rss_0cc0cf847835",
-    "source": "The Defiant",
-    "title": "SoFi Says SoFiUSD Settlement Now Live on Q2 Earnings Call",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-says-sofiusd-settlement-now-live-on-q2-earnings-call",
-    "published_at": "Wed, 29 Jul 2026 16:11:39 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T16:11:39+00:00"
-  },
-  {
-    "id": "rss_9e256e3ed482",
-    "source": "The Defiant",
-    "title": "Morpho Signs First Hong Kong Partnership With HashKey's HSK Chain",
-    "url": "https://thedefiant.io/news/defi/morpho-signs-first-hong-kong-partnership-with-hashkey-s-hsk-chain",
-    "published_at": "Wed, 29 Jul 2026 16:07:42 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T16:07:42+00:00"
-  },
-  {
-    "id": "rss_fe95a6946459",
-    "source": "The Defiant",
-    "title": "Safe Logs 130M Transactions in Q2, a Quarterly Record",
-    "url": "https://thedefiant.io/news/infrastructure/safe-logs-130m-transactions-in-q2-a-quarterly-record",
-    "published_at": "Wed, 29 Jul 2026 15:10:47 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:10:47+00:00"
-  },
-  {
-    "id": "rss_e87305b064bb",
-    "source": "The Defiant",
-    "title": "10 European Banks Launch RL1 Blockchain Cooperative",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/10-european-banks-launch-rl1-blockchain-cooperative",
-    "published_at": "Wed, 29 Jul 2026 15:06:02 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:06:02+00:00"
-  },
-  {
-    "id": "rss_803544636d89",
-    "source": "The Defiant",
-    "title": "Crypto Hacks Hit Record 212 Incidents in H1 2026: Blockaid",
-    "url": "https://thedefiant.io/news/hacks/crypto-hacks-hit-record-212-incidents-in-h1-2026-blockaid",
-    "published_at": "Wed, 29 Jul 2026 15:03:20 GMT",
-    "fetched_at": "2026-07-29T16:26:40.749134+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T15:03:20+00:00"
-  },
-  {
-    "id": "llama_2026072916",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,601,788,160 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T16:26:45.158791+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T16:26:45.158791+00:00"
-  },
-  {
-    "id": "rss_c24ababa5cab",
-    "source": "The Defiant",
-    "title": "Active Crypto VC Firms Fall to 150, Lowest Since 2020",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/active-crypto-vc-firms-fall-to-150-lowest-since-2020",
-    "published_at": "Wed, 29 Jul 2026 16:32:14 GMT",
-    "fetched_at": "2026-07-29T17:50:49.472615+00:00",
-    "used": true,
-    "_sort_date": "2026-07-29T16:32:14+00:00"
-  },
-  {
-    "id": "rss_36f889642133",
-    "source": "Decrypt",
-    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-    "published_at": "Wed, 29 Jul 2026 17:18:49 +0000",
-    "fetched_at": "2026-07-29T17:50:49.472615+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T17:18:49+00:00"
-  },
-  {
-    "id": "llama_2026072917",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,580,132,725 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T17:50:57.282638+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T17:50:57.282638+00:00"
-  },
-  {
     "id": "rss_4693453c0c2e",
     "source": "CoinDesk",
     "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
@@ -1879,5 +1769,50 @@
     "fetched_at": "2026-08-05T16:17:13.108598+00:00",
     "used": false,
     "_sort_date": "2026-08-05T16:17:13.108598+00:00"
+  },
+  {
+    "id": "rss_e95f1d2d99fb",
+    "source": "The Defiant",
+    "title": "Dinari Opens 724 Tokenized US Stocks to Eligible US Investors",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/dinari-opens-724-tokenized-us-stocks-to-eligible-us-investors",
+    "published_at": "Wed, 05 Aug 2026 17:56:52 GMT",
+    "fetched_at": "2026-08-05T18:07:07.788282+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e2f65986d6eb",
+    "source": "The Defiant",
+    "title": "Circle Names BlackRock, Visa, ICE and DTCC Among 11 Founding Arc Validators",
+    "url": "https://thedefiant.io/converge/blockchains/circle-names-blackrock-visa-ice-and-dtcc-among-11-founding-arc-validators",
+    "published_at": "Wed, 05 Aug 2026 17:45:14 GMT",
+    "fetched_at": "2026-08-05T18:07:07.788282+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2539bfd6b21c",
+    "source": "The Defiant",
+    "title": "Nomura’s Laser Digital Backs ZIGChain’s Emerging-Market Private Credit Push",
+    "url": "https://thedefiant.io/converge/defi/nomura-laser-digital-zigchain-private-credit",
+    "published_at": "Wed, 05 Aug 2026 16:30:00 GMT",
+    "fetched_at": "2026-08-05T18:07:07.788282+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b593965525a",
+    "source": "The Defiant",
+    "title": "Pirate Nation Studio Proof of Play Shuts Down, Open-Sources Code and Art",
+    "url": "https://thedefiant.io/news/nfts-and-web3/pirate-nation-studio-proof-of-play-shuts-down-open-sources-code-and-art",
+    "published_at": "Wed, 05 Aug 2026 16:22:58 GMT",
+    "fetched_at": "2026-08-05T18:07:07.788282+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080518",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,631,281,920 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T18:07:11.656824+00:00",
+    "used": false
   }
 ]
