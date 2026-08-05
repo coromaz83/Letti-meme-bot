@@ -1707,7 +1707,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/dinari-opens-724-tokenized-us-stocks-to-eligible-us-investors",
     "published_at": "Wed, 05 Aug 2026 17:56:52 GMT",
     "fetched_at": "2026-08-05T18:07:07.788282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T17:56:52+00:00"
   },
   {
     "id": "rss_e2f65986d6eb",
@@ -1716,7 +1717,8 @@
     "url": "https://thedefiant.io/converge/blockchains/circle-names-blackrock-visa-ice-and-dtcc-among-11-founding-arc-validators",
     "published_at": "Wed, 05 Aug 2026 17:45:14 GMT",
     "fetched_at": "2026-08-05T18:07:07.788282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T17:45:14+00:00"
   },
   {
     "id": "rss_2539bfd6b21c",
@@ -1725,7 +1727,8 @@
     "url": "https://thedefiant.io/converge/defi/nomura-laser-digital-zigchain-private-credit",
     "published_at": "Wed, 05 Aug 2026 16:30:00 GMT",
     "fetched_at": "2026-08-05T18:07:07.788282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T16:30:00+00:00"
   },
   {
     "id": "rss_6b593965525a",
@@ -1734,7 +1737,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/pirate-nation-studio-proof-of-play-shuts-down-open-sources-code-and-art",
     "published_at": "Wed, 05 Aug 2026 16:22:58 GMT",
     "fetched_at": "2026-08-05T18:07:07.788282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T16:22:58+00:00"
   },
   {
     "id": "llama_2026080518",
@@ -1743,7 +1747,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T18:07:11.656824+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T18:07:11.656824+00:00"
   },
   {
     "id": "rss_ba8023cf8eb5",
@@ -1752,7 +1757,8 @@
     "url": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
     "published_at": "Wed, 05 Aug 2026 19:54:41 GMT",
     "fetched_at": "2026-08-05T20:10:47.408198+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T19:54:41+00:00"
   },
   {
     "id": "rss_68809a08ee9d",
@@ -1761,7 +1767,8 @@
     "url": "https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing",
     "published_at": "Wed, 05 Aug 2026 19:11:51 GMT",
     "fetched_at": "2026-08-05T20:10:47.408198+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T19:11:51+00:00"
   },
   {
     "id": "llama_2026080520",
@@ -1770,7 +1777,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T20:10:52.735892+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-05T20:10:52.735892+00:00"
   },
   {
     "id": "rss_0c0fce816de7",
@@ -1797,6 +1805,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T21:50:12.132362+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-05T21:50:12.132362+00:00"
   }
 ]
