@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072909",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,590,924,443 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T09:43:56.757146+00:00",
-    "used": true,
-    "_sort_date": "2026-07-29T09:43:56.757146+00:00"
-  },
-  {
     "id": "llama_2026072912",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,596,907,152 🟢 +0.00% (24h)",
@@ -1829,5 +1819,32 @@
     "fetched_at": "2026-08-05T09:25:08.812463+00:00",
     "used": true,
     "_sort_date": "2026-08-05T09:25:08.812463+00:00"
+  },
+  {
+    "id": "rss_2f953b94d438",
+    "source": "CryptoSlate",
+    "title": "If Ethereum’s proposed 54% reward cut passes, DeFi’s favorite loop threatens to become a daily loss machine",
+    "url": "https://cryptoslate.com/if-ethereums-proposed-54-reward-cut-passes-defis-favorite-loop-threatens-to-become-a-daily-loss-machine/",
+    "published_at": "Wed, 05 Aug 2026 10:55:06 +0000",
+    "fetched_at": "2026-08-05T11:38:04.149611+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb37e3af8490",
+    "source": "Decrypt",
+    "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+    "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+    "published_at": "Wed, 05 Aug 2026 11:29:23 +0000",
+    "fetched_at": "2026-08-05T11:38:04.149611+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080511",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,584,756,002 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T11:38:07.674369+00:00",
+    "used": false
   }
 ]
