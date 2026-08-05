@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_39a700a45cfd",
-    "source": "CoinDesk",
-    "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-    "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-    "published_at": "Tue, 28 Jul 2026 23:50:38 +0000",
-    "fetched_at": "2026-07-29T00:03:52.405064+00:00",
-    "used": true,
-    "_sort_date": "2026-07-28T23:50:38+00:00"
-  },
-  {
-    "id": "rss_cd070cb81389",
-    "source": "Bankless",
-    "title": "The Buy ETH, Sell Gold Trade?",
-    "url": "https://www.bankless.com/read/the-buy-eth-sell-gold-trade",
-    "published_at": "Tue, 21 Jul 2026 16:09:32 -0400",
-    "fetched_at": "2026-07-29T00:03:52.405064+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026072900",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,555,947,896 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T00:04:00.934133+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T00:04:00.934133+00:00"
-  },
-  {
     "id": "llama_2026072903",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,549,590,020 🟢 +0.00% (24h)",
@@ -1834,6 +1805,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-04T23:34:42.029994+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080503",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,586,511,982 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T03:20:46.998350+00:00",
     "used": false
   }
 ]
