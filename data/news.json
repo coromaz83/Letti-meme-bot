@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026072903",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,549,590,020 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-29T03:52:11.176596+00:00",
-    "used": false,
-    "_sort_date": "2026-07-29T03:52:11.176596+00:00"
-  },
-  {
     "id": "llama_2026072906",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,555,805,991 🟢 +0.00% (24h)",
@@ -1814,6 +1804,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-05T03:20:46.998350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8dd081ad6ad1",
+    "source": "CoinDesk",
+    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+    "published_at": "Wed, 05 Aug 2026 05:49:57 +0000",
+    "fetched_at": "2026-08-05T06:08:05.942139+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080506",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,589,591,227 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-05T06:08:09.320240+00:00",
     "used": false
   }
 ]
