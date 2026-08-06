@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_15732aa7facd",
-    "source": "CoinDesk",
-    "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
-    "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-    "published_at": "Wed, 29 Jul 2026 23:12:04 +0000",
-    "fetched_at": "2026-07-30T03:42:53.837769+00:00",
-    "used": true,
-    "_sort_date": "2026-07-29T23:12:04+00:00"
-  },
-  {
-    "id": "llama_2026073003",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,599,648,255 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T03:42:57.441242+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T03:42:57.441242+00:00"
-  },
-  {
     "id": "rss_cada2af7a5e9",
     "source": "CoinDesk",
     "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
@@ -1786,6 +1766,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-06T00:53:52.126719+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080604",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,623,835,747 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-06T04:19:49.013165+00:00",
     "used": false
   }
 ]
