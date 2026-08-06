@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-07-30T11:56:50.226359+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026073011",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,656,217,896 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T11:56:55.461070+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T11:56:55.461070+00:00"
-  },
-  {
     "id": "rss_e8e502a22a49",
     "source": "CoinDesk",
     "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
@@ -1761,6 +1742,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-06T10:11:52.922400+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1734fb70b12",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+    "published_at": "Thu, 06 Aug 2026 10:43:07 +0000",
+    "fetched_at": "2026-08-06T12:27:58.210903+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080612",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,632,703,740 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-06T12:28:01.899454+00:00",
     "used": false
   }
 ]
