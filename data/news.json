@@ -1652,7 +1652,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
     "published_at": "Fri, 07 Aug 2026 09:24:00 +0000",
     "fetched_at": "2026-08-07T10:27:46.639186+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-07T09:24:00+00:00"
   },
   {
     "id": "llama_2026080710",
@@ -1661,7 +1662,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T10:27:49.283513+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T10:27:49.283513+00:00"
   },
   {
     "id": "llama_2026080711",
@@ -1670,7 +1672,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T11:25:46.610829+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T11:25:46.610829+00:00"
   },
   {
     "id": "llama_2026080712",
@@ -1679,7 +1682,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T12:11:42.775701+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T12:11:42.775701+00:00"
   },
   {
     "id": "rss_4ed6387ba65a",
@@ -1688,7 +1692,8 @@
     "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
     "published_at": "Fri, 07 Aug 2026 13:26:19 +0000",
     "fetched_at": "2026-08-07T13:51:39.423706+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T13:26:19+00:00"
   },
   {
     "id": "llama_2026080713",
@@ -1697,7 +1702,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T13:51:43.674158+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T13:51:43.674158+00:00"
   },
   {
     "id": "llama_2026080715",
@@ -1706,6 +1712,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T15:01:36.135924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T15:01:36.135924+00:00"
   }
 ]
