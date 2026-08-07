@@ -1,181 +1,5 @@
 [
   {
-    "id": "llama_2026073016",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,656,984,516 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T16:08:21.649756+00:00",
-    "used": true,
-    "_sort_date": "2026-07-30T16:08:21.649756+00:00"
-  },
-  {
-    "id": "rss_08bcacb933ee",
-    "source": "The Defiant",
-    "title": "Banco Santander Discloses Spot Bitcoin ETF Stake in 13F Filing",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/banco-santander-discloses-spot-bitcoin-etf-stake-in-13f-filing",
-    "published_at": "Thu, 30 Jul 2026 16:51:31 GMT",
-    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T16:51:31+00:00"
-  },
-  {
-    "id": "rss_990857612588",
-    "source": "The Defiant",
-    "title": "US Sanctions Iranian Marine Insurers Taking Bitcoin for Strait of Hormuz Passage",
-    "url": "https://thedefiant.io/converge/regulation/us-sanctions-iranian-marine-insurers-taking-bitcoin-for-strait-of-hormuz-passage",
-    "published_at": "Thu, 30 Jul 2026 16:49:27 GMT",
-    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
-    "used": true,
-    "_sort_date": "2026-07-30T16:49:27+00:00"
-  },
-  {
-    "id": "rss_6d00d1519dad",
-    "source": "The Defiant",
-    "title": "Aave Moves to Retire 50 Low-Adoption Assets, Wind Down Six Chains",
-    "url": "https://thedefiant.io/news/defi/aave-moves-to-retire-50-low-adoption-assets-wind-down-six-chains",
-    "published_at": "Thu, 30 Jul 2026 16:15:44 GMT",
-    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T16:15:44+00:00"
-  },
-  {
-    "id": "rss_c591eb28a085",
-    "source": "Decrypt",
-    "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-    "url": "https://decrypt.co/374738/cathie-wood-ark-invest-sells-bitmine-adds-coinbase-circle",
-    "published_at": "Thu, 30 Jul 2026 16:35:26 +0000",
-    "fetched_at": "2026-07-30T17:57:47.898953+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T16:35:26+00:00"
-  },
-  {
-    "id": "llama_2026073017",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,663,644,729 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T17:57:52.197187+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T17:57:52.197187+00:00"
-  },
-  {
-    "id": "rss_4cbe395ef92e",
-    "source": "The Defiant",
-    "title": "Ready Shuts Card Program After Issuer Kulipa's Sudden Wind-Down",
-    "url": "https://thedefiant.io/converge/cefi/ready-shuts-card-program-after-issuer-winds-down",
-    "published_at": "Thu, 30 Jul 2026 19:03:01 GMT",
-    "fetched_at": "2026-07-30T19:44:54.955094+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T19:03:01+00:00"
-  },
-  {
-    "id": "rss_cb9a735af7cd",
-    "source": "CryptoSlate",
-    "title": "Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million",
-    "url": "https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/",
-    "published_at": "Thu, 30 Jul 2026 19:30:53 +0000",
-    "fetched_at": "2026-07-30T19:44:54.955094+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T19:30:53+00:00"
-  },
-  {
-    "id": "llama_2026073019",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,668,315,487 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T19:45:01.106082+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T19:45:01.106082+00:00"
-  },
-  {
-    "id": "rss_9fe5102a11d5",
-    "source": "CoinDesk",
-    "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
-    "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
-    "published_at": "Thu, 30 Jul 2026 20:18:33 +0000",
-    "fetched_at": "2026-07-30T21:18:09.628790+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T20:18:33+00:00"
-  },
-  {
-    "id": "rss_827378dc4e79",
-    "source": "The Defiant",
-    "title": "ENS Scales Back Plan to Move DAO Treasury Control to New Foundation",
-    "url": "https://thedefiant.io/news/nfts-and-web3/ens-scales-back-plan-to-move-dao-treasury-control-to-new-foundation",
-    "published_at": "Thu, 30 Jul 2026 20:48:30 GMT",
-    "fetched_at": "2026-07-30T21:18:09.628790+00:00",
-    "used": true,
-    "_sort_date": "2026-07-30T20:48:30+00:00"
-  },
-  {
-    "id": "rss_1ddae1234c66",
-    "source": "The Defiant",
-    "title": "Uniswap Protocol Revenue Nearly Triples After v4 Fee Switch as UNI Tops $4",
-    "url": "https://thedefiant.io/news/defi/uniswap-protocol-revenue-nearly-triples-after-v4-fee-switch-as-uni-tops-usd4",
-    "published_at": "Thu, 30 Jul 2026 19:51:59 GMT",
-    "fetched_at": "2026-07-30T21:18:09.628790+00:00",
-    "used": true,
-    "_sort_date": "2026-07-30T19:51:59+00:00"
-  },
-  {
-    "id": "llama_2026073021",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,659,598,848 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T21:18:16.310231+00:00",
-    "used": false,
-    "_sort_date": "2026-07-30T21:18:16.310231+00:00"
-  },
-  {
-    "id": "rss_a0c6101d233e",
-    "source": "The Defiant",
-    "title": "Polygon Turns Kansai Electric Loyalty Points Into JPYC Spending",
-    "url": "https://thedefiant.io/news/tokens/polygon-turns-kansai-electric-loyalty-points-into-jpyc-spending",
-    "published_at": "Thu, 30 Jul 2026 21:31:21 GMT",
-    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dd7b1006eef7",
-    "source": "Decrypt",
-    "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-    "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-    "published_at": "Thu, 30 Jul 2026 21:19:12 +0000",
-    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9a3845e79a80",
-    "source": "Bankless",
-    "title": "The SEC Puts DeFi Vaults on Notice",
-    "url": "https://www.bankless.com/read/the-sec-puts-defi-vaults-on-notice",
-    "published_at": "Thu, 23 Jul 2026 13:58:04 -0400",
-    "fetched_at": "2026-07-30T22:38:42.504719+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026073022",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,661,354,062 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-30T22:38:46.059321+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026073100",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,653,048,751 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-31T00:10:30.205300+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T00:10:30.205300+00:00"
-  },
-  {
     "id": "llama_2026073104",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,627,143,581 🟢 +0.00% (24h)",
@@ -1757,6 +1581,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-06T14:57:24.850040+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94d0b4845bea",
+    "source": "CoinDesk",
+    "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
+    "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
+    "published_at": "Thu, 06 Aug 2026 16:10:04 +0000",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b29579b41386",
+    "source": "The Defiant",
+    "title": "Black Lake Launches Harbor Verify to Bring Verifiable Credit to Onchain Markets",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/black-lake-harbor-verify-onchain-credit-verification",
+    "published_at": "Thu, 06 Aug 2026 22:50:31 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_50ff4cf298e5",
+    "source": "The Defiant",
+    "title": "ether.fi Removes Restaking From weETH, Nearing A Full EigenLayer Exit",
+    "url": "https://thedefiant.io/news/defi/etherfi-removes-restaking-from-weeth-nearing-full-eigenlayer-exit",
+    "published_at": "Thu, 06 Aug 2026 21:16:01 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5ba853f69d1f",
+    "source": "The Defiant",
+    "title": "Uniswap's New Launchpad Out-Launched Pons On Its First Day On Robinhood Chain",
+    "url": "https://thedefiant.io/news/defi/uniswaps-new-launchpad-out-launched-pons-on-its-first-day-on-robinhood-chain",
+    "published_at": "Thu, 06 Aug 2026 20:22:19 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d9063c38d5a9",
+    "source": "The Defiant",
+    "title": "Robinhood Chain's DEX Volume Fell 72% While Transactions And Deposits Set Records",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chains-dex-volume-fell-72-while-transactions-and-deposits-set-records",
+    "published_at": "Thu, 06 Aug 2026 19:57:34 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d42359620b99",
+    "source": "The Defiant",
+    "title": "a16z's Miles Jennings Says Banks Fighting the CLARITY Act Are 'Accelerating Their Own Obsolescence'",
+    "url": "https://thedefiant.io/news/regulation/a16z-s-miles-jennings-says-banks-fighting-the-clarity-act-are-accelerating-their-own-obsolescenc",
+    "published_at": "Thu, 06 Aug 2026 19:12:31 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1136ef387e38",
+    "source": "The Defiant",
+    "title": "Sentora Opens A Lending Vault Against Wellington's First Native Onchain Credit Strategy",
+    "url": "https://thedefiant.io/converge/defi/sentora-opens-a-lending-vault-against-wellingtons-first-native-onchain-credit-strategy",
+    "published_at": "Thu, 06 Aug 2026 18:40:17 GMT",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_786907e8b692",
+    "source": "Bankless",
+    "title": "Breaking Down Ethereum's New Issuance Debate",
+    "url": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
+    "published_at": "Thu, 06 Aug 2026 16:40:09 -0400",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_09a9d09980b9",
+    "source": "Bankless",
+    "title": "Uniswap's Pools.Trade Launchpad Goes Live on Robinhood Chain",
+    "url": "https://www.bankless.com/read/news/uniswaps-pools-trade-launchpad-goes-live-on-robinhood-chain",
+    "published_at": "Thu, 06 Aug 2026 12:30:44 -0400",
+    "fetched_at": "2026-08-07T00:43:26.411319+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080700",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,631,317,220 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T00:43:29.701405+00:00",
     "used": false
   }
 ]
