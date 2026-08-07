@@ -1622,7 +1622,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T16:26:08.426355+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T16:26:08.426355+00:00"
   },
   {
     "id": "rss_2a810a1ad2ee",
@@ -1631,7 +1632,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokyo-lawson-register-scans-a-barcode-for-a-322-yen-jpyc-stablecoin-payment",
     "published_at": "Fri, 07 Aug 2026 17:03:35 GMT",
     "fetched_at": "2026-08-07T17:26:26.537644+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-07T17:03:35+00:00"
   },
   {
     "id": "rss_12ea05587e9b",
@@ -1640,7 +1642,8 @@
     "url": "https://cryptoslate.com/coinbase-is-pulling-loopring-trading-today-and-finding-a-safe-place-to-sell-lrc-tokens-is-getting-complicated/",
     "published_at": "Fri, 07 Aug 2026 16:20:21 +0000",
     "fetched_at": "2026-08-07T17:26:26.537644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T16:20:21+00:00"
   },
   {
     "id": "llama_2026080717",
@@ -1649,7 +1652,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T17:26:30.774426+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T17:26:30.774426+00:00"
   },
   {
     "id": "rss_0d15eb2b03f6",
@@ -1658,7 +1662,8 @@
     "url": "https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards",
     "published_at": "Fri, 07 Aug 2026 17:38:24 GMT",
     "fetched_at": "2026-08-07T18:25:16.290548+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T17:38:24+00:00"
   },
   {
     "id": "rss_27a076757169",
@@ -1667,7 +1672,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/rarible-launches-solana-nft-marketplace-with-claynosaurz-as-first-collection",
     "published_at": "Fri, 07 Aug 2026 17:30:05 GMT",
     "fetched_at": "2026-08-07T18:25:16.290548+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T17:30:05+00:00"
   },
   {
     "id": "llama_2026080718",
@@ -1676,7 +1682,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T18:25:21.809709+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T18:25:21.809709+00:00"
   },
   {
     "id": "llama_2026080719",
@@ -1685,7 +1692,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T19:32:48.837324+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T19:32:48.837324+00:00"
   },
   {
     "id": "rss_a02ac53c9527",
@@ -1694,7 +1702,8 @@
     "url": "https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw",
     "published_at": "Fri, 07 Aug 2026 20:20:36 GMT",
     "fetched_at": "2026-08-07T20:50:28.502527+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-07T20:20:36+00:00"
   },
   {
     "id": "rss_ecb508091d83",
@@ -1703,7 +1712,8 @@
     "url": "https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer",
     "published_at": "Fri, 07 Aug 2026 20:01:50 GMT",
     "fetched_at": "2026-08-07T20:50:28.502527+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-07T20:01:50+00:00"
   },
   {
     "id": "rss_5a4e69ef3a83",
@@ -1712,7 +1722,8 @@
     "url": "https://www.bankless.com/read/evolving-lighters-technical-architecture-together",
     "published_at": "Fri, 07 Aug 2026 15:55:02 -0400",
     "fetched_at": "2026-08-07T20:50:28.502527+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T15:55:02-04:00"
   },
   {
     "id": "llama_2026080720",
@@ -1721,6 +1732,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T20:50:32.679918+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-07T20:50:32.679918+00:00"
   }
 ]
