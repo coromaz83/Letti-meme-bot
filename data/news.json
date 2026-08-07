@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_f6c703321b45",
-    "source": "The Defiant",
-    "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-    "url": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-    "published_at": "Fri, 31 Jul 2026 10:08:15 GMT",
-    "fetched_at": "2026-07-31T10:08:13.598165+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T10:08:15+00:00"
-  },
-  {
-    "id": "llama_2026073110",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,605,840,353 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-31T10:08:17.139064+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T10:08:17.139064+00:00"
-  },
-  {
     "id": "rss_5e0f8a897b0f",
     "source": "CoinDesk",
     "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
@@ -1714,5 +1694,23 @@
     "fetched_at": "2026-08-07T09:08:29.112472+00:00",
     "used": false,
     "_sort_date": "2026-08-07T09:08:29.112472+00:00"
+  },
+  {
+    "id": "rss_0afe0a47a563",
+    "source": "CoinDesk",
+    "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+    "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+    "published_at": "Fri, 07 Aug 2026 09:24:00 +0000",
+    "fetched_at": "2026-08-07T10:27:46.639186+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080710",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,633,991,848 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T10:27:49.283513+00:00",
+    "used": false
   }
 ]
