@@ -1679,5 +1679,32 @@
     "published_at": "",
     "fetched_at": "2026-08-07T07:35:26.689703+00:00",
     "used": false
+  },
+  {
+    "id": "rss_d555ca188f05",
+    "source": "CoinDesk",
+    "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+    "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+    "published_at": "Fri, 07 Aug 2026 08:01:28 +0000",
+    "fetched_at": "2026-08-07T09:08:25.537367+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d8111a6459f9",
+    "source": "CryptoSlate",
+    "title": "Ethereum volume plunged 73% on Bullish, but a 72% spread jump saved its monthly bottom line",
+    "url": "https://cryptoslate.com/coindesk-owner-bullish-volume-fell-43-but-a-72-spread-jump-nearly-offset-the-annual-decline/",
+    "published_at": "Fri, 07 Aug 2026 06:00:39 +0000",
+    "fetched_at": "2026-08-07T09:08:25.537367+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080709",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,630,678,962 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T09:08:29.112472+00:00",
+    "used": false
   }
 ]
