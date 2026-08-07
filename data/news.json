@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_3c4144b7cd32",
-    "source": "CoinDesk",
-    "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-    "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-    "published_at": "Fri, 31 Jul 2026 18:24:55 +0000",
-    "fetched_at": "2026-07-31T18:55:14.433320+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T18:24:55+00:00"
-  },
-  {
-    "id": "rss_4b233da937d7",
-    "source": "Decrypt",
-    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-    "published_at": "Fri, 31 Jul 2026 17:10:49 +0000",
-    "fetched_at": "2026-07-31T18:55:14.433320+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T17:10:49+00:00"
-  },
-  {
-    "id": "llama_2026073118",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,513,602,818 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-31T18:55:18.081990+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T18:55:18.081990+00:00"
-  },
-  {
     "id": "rss_6529d638e4ba",
     "source": "Bankless",
     "title": "Inside Uniswap's Land Grab on Robinhood Chain",
@@ -1726,6 +1696,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-07T18:25:21.809709+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080719",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,656,182,513 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T19:32:48.837324+00:00",
     "used": false
   }
 ]
