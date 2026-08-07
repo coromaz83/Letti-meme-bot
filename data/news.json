@@ -1700,5 +1700,32 @@
     "published_at": "",
     "fetched_at": "2026-08-07T17:26:30.774426+00:00",
     "used": false
+  },
+  {
+    "id": "rss_0d15eb2b03f6",
+    "source": "The Defiant",
+    "title": "SharpLink Opposes Ethereum Proposal to Burn a Growing Share of Validator Rewards",
+    "url": "https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards",
+    "published_at": "Fri, 07 Aug 2026 17:38:24 GMT",
+    "fetched_at": "2026-08-07T18:25:16.290548+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_27a076757169",
+    "source": "The Defiant",
+    "title": "Rarible Launches Solana NFT Marketplace With Claynosaurz as First Collection",
+    "url": "https://thedefiant.io/news/nfts-and-web3/rarible-launches-solana-nft-marketplace-with-claynosaurz-as-first-collection",
+    "published_at": "Fri, 07 Aug 2026 17:30:05 GMT",
+    "fetched_at": "2026-08-07T18:25:16.290548+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080718",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,658,735,555 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T18:25:21.809709+00:00",
+    "used": false
   }
 ]
