@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_be5142d3b51e",
-    "source": "CoinDesk",
-    "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-    "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-    "published_at": "Fri, 31 Jul 2026 13:20:45 +0000",
-    "fetched_at": "2026-07-31T15:05:27.351194+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T13:20:45+00:00"
-  },
-  {
-    "id": "llama_2026073115",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,588,189,519 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-31T15:05:31.387538+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T15:05:31.387538+00:00"
-  },
-  {
     "id": "rss_4ba60d294167",
     "source": "The Defiant",
     "title": "Coinbase Says Revenue From Its Base Layer 2 Fell Despite Record Volume",
@@ -1714,5 +1694,14 @@
     "fetched_at": "2026-08-07T15:01:36.135924+00:00",
     "used": false,
     "_sort_date": "2026-08-07T15:01:36.135924+00:00"
+  },
+  {
+    "id": "llama_2026080716",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,672,697,455 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T16:26:08.426355+00:00",
+    "used": false
   }
 ]
