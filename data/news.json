@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_7ce468210a51",
-    "source": "The Defiant",
-    "title": "YGG Play Shuts Down Services as Yield Guild Pivots to AI Data",
-    "url": "https://thedefiant.io/news/nfts-and-web3/ygg-play-shuts-down-services-as-yield-guild-pivots-to-ai-data",
-    "published_at": "Fri, 31 Jul 2026 21:02:31 GMT",
-    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T21:02:31+00:00"
-  },
-  {
-    "id": "rss_3ac3f5362893",
-    "source": "The Defiant",
-    "title": "Metronome Discloses $15.7 Million Synth Shortfall, Blames Oracle Lag in Swap Module",
-    "url": "https://thedefiant.io/news/defi/metronome-discloses-usd15-7-million-synth-shortfall-blames-oracle-lag-in-swap-module",
-    "published_at": "Fri, 31 Jul 2026 20:30:56 GMT",
-    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T20:30:56+00:00"
-  },
-  {
-    "id": "rss_43ae8a7a5aa0",
-    "source": "CryptoSlate",
-    "title": "Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter",
-    "url": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
-    "published_at": "Fri, 31 Jul 2026 21:30:17 +0000",
-    "fetched_at": "2026-07-31T21:41:00.062882+00:00",
-    "used": true,
-    "_sort_date": "2026-07-31T21:30:17+00:00"
-  },
-  {
-    "id": "llama_2026073121",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,512,030,262 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-07-31T21:41:03.472332+00:00",
-    "used": false,
-    "_sort_date": "2026-07-31T21:41:03.472332+00:00"
-  },
-  {
     "id": "rss_258f83e012b0",
     "source": "CryptoSlate",
     "title": "From crypto treasury to AI data centers: Inside the aggressive 4,375 ETH selloff that just hit a massive collateral wall",
@@ -1734,5 +1694,14 @@
     "fetched_at": "2026-08-07T20:50:32.679918+00:00",
     "used": false,
     "_sort_date": "2026-08-07T20:50:32.679918+00:00"
+  },
+  {
+    "id": "llama_2026080721",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,665,409,085 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-07T21:48:22.454262+00:00",
+    "used": false
   }
 ]
