@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,516,504,778 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-01T11:44:16.648535+00:00",
-    "used": true,
-    "_sort_date": "2026-08-01T11:44:16.648535+00:00"
-  },
-  {
     "id": "llama_2026080113",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,520,249,946 🟢 +0.00% (24h)",
@@ -1731,6 +1721,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T11:35:45.216606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_16ca79ab204d",
+    "source": "CryptoSlate",
+    "title": "Trump Media’s $6.4 billion crypto venture canceled amid escalating Trump ethics concerns",
+    "url": "https://cryptoslate.com/trump-medias-6-4-billion-crypto-venture-canceled-amid-escalating-trump-ethics-concerns/",
+    "published_at": "Sat, 08 Aug 2026 12:05:04 +0000",
+    "fetched_at": "2026-08-08T13:03:36.888777+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080813",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,676,121,221 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-08T13:03:41.551428+00:00",
     "used": false
   }
 ]
