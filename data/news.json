@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080107",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,518,394,034 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-01T07:34:06.681889+00:00",
-    "used": true,
-    "_sort_date": "2026-08-01T07:34:06.681889+00:00"
-  },
-  {
     "id": "rss_576fc7f885e4",
     "source": "CryptoSlate",
     "title": "Why 110 corporate blockchains are headed for a massive shakeout – and Coinbase’s secret plan to absorb them",
@@ -1726,6 +1716,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T07:31:34.138185+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080808",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,675,929,728 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-08T08:51:58.692972+00:00",
     "used": false
   }
 ]
