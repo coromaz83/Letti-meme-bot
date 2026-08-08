@@ -1703,7 +1703,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T15:39:40.303587+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T15:39:40.303587+00:00"
   },
   {
     "id": "rss_dd5ffc8b3e5e",
@@ -1712,7 +1713,8 @@
     "url": "https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/",
     "published_at": "Sat, 08 Aug 2026 16:10:55 +0000",
     "fetched_at": "2026-08-08T16:42:41.075076+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T16:10:55+00:00"
   },
   {
     "id": "llama_2026080816",
@@ -1721,7 +1723,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T16:42:45.983843+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T16:42:45.983843+00:00"
   },
   {
     "id": "llama_2026080817",
@@ -1730,7 +1733,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T17:37:20.877574+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T17:37:20.877574+00:00"
   },
   {
     "id": "rss_030c2a50a258",
@@ -1739,7 +1743,8 @@
     "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/",
     "published_at": "Sat, 08 Aug 2026 18:40:18 +0000",
     "fetched_at": "2026-08-08T18:49:19.000756+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-08T18:40:18+00:00"
   },
   {
     "id": "llama_2026080818",
@@ -1748,7 +1753,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T18:49:23.547588+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T18:49:23.547588+00:00"
   },
   {
     "id": "llama_2026080819",
@@ -1757,7 +1763,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T19:36:17.843531+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T19:36:17.843531+00:00"
   },
   {
     "id": "llama_2026080820",
@@ -1766,6 +1773,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T20:38:42.860934+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-08T20:38:42.860934+00:00"
   }
 ]
