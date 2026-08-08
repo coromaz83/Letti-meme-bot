@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080115",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,520,047,478 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-01T15:07:44.988231+00:00",
-    "used": true,
-    "_sort_date": "2026-08-01T15:07:44.988231+00:00"
-  },
-  {
     "id": "rss_d89054658f4d",
     "source": "CryptoSlate",
     "title": "Tether claims $1.5B profit, but hidden math reveals a $4.2B hit that halved its safety cushion in 90 days",
@@ -1745,5 +1735,14 @@
     "fetched_at": "2026-08-08T14:07:48.376822+00:00",
     "used": true,
     "_sort_date": "2026-08-08T14:07:48.376822+00:00"
+  },
+  {
+    "id": "llama_2026080815",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,679,649,107 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-08T15:39:40.303587+00:00",
+    "used": false
   }
 ]
