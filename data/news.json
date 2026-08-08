@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_d89054658f4d",
-    "source": "CryptoSlate",
-    "title": "Tether claims $1.5B profit, but hidden math reveals a $4.2B hit that halved its safety cushion in 90 days",
-    "url": "https://cryptoslate.com/tether-claims-1-5b-profit-but-hidden-math-reveals-a-4-2b-hit-that-halved-its-safety-cushion-in-90-days/",
-    "published_at": "Sat, 01 Aug 2026 16:10:28 +0000",
-    "fetched_at": "2026-08-01T16:31:35.847427+00:00",
-    "used": true,
-    "_sort_date": "2026-08-01T16:10:28+00:00"
-  },
-  {
-    "id": "llama_2026080116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,517,678,683 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-01T16:31:39.054066+00:00",
-    "used": false,
-    "_sort_date": "2026-08-01T16:31:39.054066+00:00"
-  },
-  {
     "id": "llama_2026080118",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,507,572,126 🟢 +0.00% (24h)",
@@ -1743,6 +1723,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-08T15:39:40.303587+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd5ffc8b3e5e",
+    "source": "CryptoSlate",
+    "title": "Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying",
+    "url": "https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/",
+    "published_at": "Sat, 08 Aug 2026 16:10:55 +0000",
+    "fetched_at": "2026-08-08T16:42:41.075076+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080816",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,679,250,268 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-08T16:42:45.983843+00:00",
     "used": false
   }
 ]
