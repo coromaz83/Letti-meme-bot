@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_fd8187896a65",
-    "source": "CryptoSlate",
-    "title": "Ethereum just outpaced Bitcoin with $365 million in ETF inflows, but on-chain data shows the real bottom isn’t in yet",
-    "url": "https://cryptoslate.com/ethereum-just-outpaced-bitcoin-with-365-million-in-etf-inflows-but-on-chain-data-shows-the-real-bottom-isnt-in-yet/",
-    "published_at": "Sun, 02 Aug 2026 12:35:54 +0000",
-    "fetched_at": "2026-08-02T12:36:39.676807+00:00",
-    "used": true,
-    "_sort_date": "2026-08-02T12:35:54+00:00"
-  },
-  {
-    "id": "llama_2026080212",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,529,568,160 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-02T12:36:47.844352+00:00",
-    "used": false,
-    "_sort_date": "2026-08-02T12:36:47.844352+00:00"
-  },
-  {
     "id": "llama_2026080214",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,527,653,593 🟢 +0.00% (24h)",
@@ -1812,6 +1792,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T11:36:34.139164+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080913",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,678,656,052 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-09T13:06:11.649193+00:00",
     "used": false
   }
 ]
