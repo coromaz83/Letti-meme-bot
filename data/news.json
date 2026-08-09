@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080220",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,542,813,440 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-02T20:29:55.299152+00:00",
-    "used": false,
-    "_sort_date": "2026-08-02T20:29:55.299152+00:00"
-  },
-  {
     "id": "llama_2026080221",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,545,648,464 🟢 +0.00% (24h)",
@@ -1821,6 +1811,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T19:39:37.435252+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8fc01bc2c68a",
+    "source": "CryptoSlate",
+    "title": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
+    "url": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
+    "published_at": "Sun, 09 Aug 2026 20:00:07 +0000",
+    "fetched_at": "2026-08-09T20:41:58.046342+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080920",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,690,170,401 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-09T20:42:09.419573+00:00",
     "used": false
   }
 ]
