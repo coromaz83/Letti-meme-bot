@@ -1714,7 +1714,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T04:00:57.175719+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-08-09T04:00:57.175719+00:00"
   },
   {
@@ -1764,7 +1764,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T09:48:34.383980+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T09:48:34.383980+00:00"
   },
   {
     "id": "llama_2026080910",
@@ -1773,7 +1774,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T10:42:07.037264+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T10:42:07.037264+00:00"
   },
   {
     "id": "llama_2026080911",
@@ -1782,7 +1784,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T11:36:34.139164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T11:36:34.139164+00:00"
   },
   {
     "id": "llama_2026080913",
@@ -1791,7 +1794,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T13:06:11.649193+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T13:06:11.649193+00:00"
   },
   {
     "id": "llama_2026080914",
@@ -1800,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T14:09:06.365768+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T14:09:06.365768+00:00"
   },
   {
     "id": "rss_46fc6ce2028c",
@@ -1809,7 +1814,8 @@
     "url": "https://cryptoslate.com/wall-street-put-7b-into-tokenized-funds-but-under-1-is-actually-being-used-in-defi/",
     "published_at": "Sun, 09 Aug 2026 15:00:16 +0000",
     "fetched_at": "2026-08-09T15:02:34.779348+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T15:00:16+00:00"
   },
   {
     "id": "llama_2026080915",
@@ -1818,6 +1824,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T15:02:37.688415+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T15:02:37.688415+00:00"
   }
 ]
