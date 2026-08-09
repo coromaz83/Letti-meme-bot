@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_b9df46c15142",
-    "source": "CoinDesk",
-    "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-    "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-    "published_at": "Sun, 02 Aug 2026 17:00:00 +0000",
-    "fetched_at": "2026-08-02T17:34:59.220783+00:00",
-    "used": true,
-    "_sort_date": "2026-08-02T17:00:00+00:00"
-  },
-  {
-    "id": "llama_2026080217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,526,953,567 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-02T17:35:02.462638+00:00",
-    "used": false,
-    "_sort_date": "2026-08-02T17:35:02.462638+00:00"
-  },
-  {
     "id": "llama_2026080219",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,535,977,252 🟢 +0.00% (24h)",
@@ -1815,6 +1795,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T16:49:20.177748+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-08-09T17:37:32.812656+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026080917",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,691,025,007 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-09T17:37:36.520260+00:00",
     "used": false
   }
 ]
