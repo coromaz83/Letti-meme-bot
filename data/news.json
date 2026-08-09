@@ -1775,7 +1775,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T16:49:20.177748+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T16:49:20.177748+00:00"
   },
   {
     "id": "rss_287140871b21",
@@ -1793,7 +1794,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T17:37:36.520260+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T17:37:36.520260+00:00"
   },
   {
     "id": "llama_2026080918",
@@ -1802,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T18:52:27.585624+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T18:52:27.585624+00:00"
   },
   {
     "id": "llama_2026080919",
@@ -1811,7 +1814,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T19:39:37.435252+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T19:39:37.435252+00:00"
   },
   {
     "id": "rss_8fc01bc2c68a",
@@ -1820,7 +1824,8 @@
     "url": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
     "published_at": "Sun, 09 Aug 2026 20:00:07 +0000",
     "fetched_at": "2026-08-09T20:41:58.046342+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T20:00:07+00:00"
   },
   {
     "id": "llama_2026080920",
@@ -1829,6 +1834,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T20:42:09.419573+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T20:42:09.419573+00:00"
   }
 ]
