@@ -1686,7 +1686,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T16:25:02.293749+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T16:25:02.293749+00:00"
   },
   {
     "id": "rss_9a77609fd0b9",
@@ -1695,7 +1696,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july",
     "published_at": "Mon, 10 Aug 2026 17:08:29 GMT",
     "fetched_at": "2026-08-10T17:28:41.433597+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T17:08:29+00:00"
   },
   {
     "id": "rss_6cdeb672fd9c",
@@ -1704,7 +1706,8 @@
     "url": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits",
     "published_at": "Mon, 10 Aug 2026 16:15:22 GMT",
     "fetched_at": "2026-08-10T17:28:41.433597+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T16:15:22+00:00"
   },
   {
     "id": "llama_2026081017",
@@ -1713,7 +1716,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T17:28:46.343229+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T17:28:46.343229+00:00"
   },
   {
     "id": "rss_77ebb22dbb70",
@@ -1722,7 +1726,8 @@
     "url": "https://cryptoslate.com/decentralization-was-the-beginning-call-it-onchain-finance/",
     "published_at": "Mon, 10 Aug 2026 18:00:10 +0000",
     "fetched_at": "2026-08-10T18:27:58.596746+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T18:00:10+00:00"
   },
   {
     "id": "llama_2026081018",
@@ -1731,7 +1736,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T18:28:03.457289+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T18:28:03.457289+00:00"
   },
   {
     "id": "rss_00eafc24b325",
@@ -1740,7 +1746,8 @@
     "url": "https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy",
     "published_at": "Mon, 10 Aug 2026 17:06:00 GMT",
     "fetched_at": "2026-08-10T19:35:50.866952+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T17:06:00+00:00"
   },
   {
     "id": "llama_2026081019",
@@ -1749,7 +1756,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T19:35:54.084419+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T19:35:54.084419+00:00"
   },
   {
     "id": "rss_148eb6a08c9d",
@@ -1758,7 +1766,8 @@
     "url": "https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days",
     "published_at": "Mon, 10 Aug 2026 19:42:20 GMT",
     "fetched_at": "2026-08-10T20:52:29.129164+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T19:42:20+00:00"
   },
   {
     "id": "llama_2026081020",
@@ -1767,6 +1776,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T20:52:34.765065+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T20:52:34.765065+00:00"
   }
 ]
