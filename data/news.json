@@ -1778,5 +1778,32 @@
     "fetched_at": "2026-08-10T20:52:34.765065+00:00",
     "used": false,
     "_sort_date": "2026-08-10T20:52:34.765065+00:00"
+  },
+  {
+    "id": "rss_212dd126b1df",
+    "source": "The Defiant",
+    "title": "Two Prediction Markets Shut Down Hours Apart as Kalshi and Polymarket Take 93% of Volume",
+    "url": "https://thedefiant.io/news/defi/two-prediction-markets-shut-down-hours-apart-as-kalshi-and-polymarket-take-93-of-volume",
+    "published_at": "Mon, 10 Aug 2026 21:22:51 GMT",
+    "fetched_at": "2026-08-10T21:50:41.754772+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e3acdd88bb36",
+    "source": "Decrypt",
+    "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+    "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+    "published_at": "Mon, 10 Aug 2026 21:48:22 +0000",
+    "fetched_at": "2026-08-10T21:50:41.754772+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081021",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,619,432,561 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T21:50:50.065317+00:00",
+    "used": false
   }
 ]
