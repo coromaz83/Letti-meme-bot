@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_c70f48b97a56",
-    "source": "The Defiant",
-    "title": "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-s-second-venture-fund-targets-y-combinator-startups-in-usd200-million-ipo",
-    "published_at": "Mon, 03 Aug 2026 20:30:30 GMT",
-    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T20:30:30+00:00"
-  },
-  {
-    "id": "rss_d9fe98b4db31",
-    "source": "The Defiant",
-    "title": "Bitcoin Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks",
-    "url": "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks",
-    "published_at": "Mon, 03 Aug 2026 19:09:03 GMT",
-    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T19:09:03+00:00"
-  },
-  {
-    "id": "rss_8404795e04de",
-    "source": "CryptoSlate",
-    "title": "Italy’s biggest bank just slashed its Bitcoin ETF call position by 99% to triple down on staked Ethereum",
-    "url": "https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/",
-    "published_at": "Mon, 03 Aug 2026 19:35:17 +0000",
-    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T19:35:17+00:00"
-  },
-  {
-    "id": "rss_10d00f8dcb0a",
-    "source": "Decrypt",
-    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-    "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-    "published_at": "Mon, 03 Aug 2026 19:17:37 +0000",
-    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T19:17:37+00:00"
-  },
-  {
-    "id": "rss_72c47bfd195c",
-    "source": "Bankless",
-    "title": "BlackRock Unveils Two New Tokenized Treasury Funds on Ethereum",
-    "url": "https://www.bankless.com/read/news/blackrock-unveils-two-new-tokenized-treasury-funds-on-ethereum",
-    "published_at": "Mon, 03 Aug 2026 13:56:07 -0400",
-    "fetched_at": "2026-08-03T20:45:02.519707+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T13:56:07-04:00"
-  },
-  {
-    "id": "llama_2026080320",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,573,454,194 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-03T20:45:06.358390+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T20:45:06.358390+00:00"
-  },
-  {
     "id": "llama_2026080322",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,572,532,397 🟢 +0.00% (24h)",
@@ -1809,6 +1749,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T19:35:54.084419+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_148eb6a08c9d",
+    "source": "The Defiant",
+    "title": "Robinhood's Head of Product Reveals How Robinhood Chain Hit 200M Transactions in 30 Days",
+    "url": "https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days",
+    "published_at": "Mon, 10 Aug 2026 19:42:20 GMT",
+    "fetched_at": "2026-08-10T20:52:29.129164+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,610,195,611 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T20:52:34.765065+00:00",
     "used": false
   }
 ]
