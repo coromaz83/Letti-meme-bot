@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_525791c69bbe",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-    "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-    "published_at": "Mon, 03 Aug 2026 10:51:37 +0000",
-    "fetched_at": "2026-08-03T11:38:30.471934+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T10:51:37+00:00"
-  },
-  {
-    "id": "llama_2026080311",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,505,739,763 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-03T11:38:34.141741+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T11:38:34.141741+00:00"
-  },
-  {
     "id": "rss_935f3b855f6e",
     "source": "Cointelegraph Base",
     "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
@@ -1876,6 +1856,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T11:14:12.773223+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081012",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,681,688,089 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T12:10:23.226080+00:00",
     "used": false
   }
 ]
