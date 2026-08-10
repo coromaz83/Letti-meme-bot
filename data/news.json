@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_ac0ce786656c",
-    "source": "The Defiant",
-    "title": "Tornado Cash Logs 968 Deposits in Busiest Day of 2026, L2Beat Says",
-    "url": "https://thedefiant.io/news/defi/tornado-cash-logs-968-deposits-in-busiest-day-of-2026-l2beat-says",
-    "published_at": "Mon, 03 Aug 2026 18:52:38 GMT",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T18:52:38+00:00"
-  },
-  {
-    "id": "rss_9f17b0f79d82",
-    "source": "The Defiant",
-    "title": "Flap Overtakes Pump.fun in Daily Revenue With $1.18 Million",
-    "url": "https://thedefiant.io/news/defi/flap-overtakes-pump-fun-in-daily-revenue-with-1-18-million",
-    "published_at": "Mon, 03 Aug 2026 18:38:54 GMT",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T18:38:54+00:00"
-  },
-  {
-    "id": "rss_5f1216ffc28f",
-    "source": "The Defiant",
-    "title": "DEX Spot Volume Hit a Record 24% of CEX Volume in July",
-    "url": "https://thedefiant.io/news/defi/dex-spot-volume-hit-a-record-24-of-cex-volume-in-july",
-    "published_at": "Mon, 03 Aug 2026 18:33:21 GMT",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T18:33:21+00:00"
-  },
-  {
-    "id": "rss_8ff6a780fc64",
-    "source": "The Defiant",
-    "title": "RWAs Topped Half of Hyperliquid's Volume for Two Straight Weeks in July",
-    "url": "https://thedefiant.io/news/markets/rwas-topped-half-of-hyperliquid-s-volume-for-two-straight-weeks-in-july",
-    "published_at": "Mon, 03 Aug 2026 18:32:39 GMT",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T18:32:39+00:00"
-  },
-  {
-    "id": "rss_8eea71475796",
-    "source": "The Defiant",
-    "title": "Crypto Card Volume Hits $748.7M in July, a Fifth Straight Monthly Gain: Paymentscan",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/crypto-card-volume-hits-748-7m-in-july-a-fifth-straight-monthly-gain-paymentscan",
-    "published_at": "Mon, 03 Aug 2026 18:28:04 GMT",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T18:28:04+00:00"
-  },
-  {
-    "id": "rss_e10e3680bd70",
-    "source": "Decrypt",
-    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-    "published_at": "Mon, 03 Aug 2026 17:51:03 +0000",
-    "fetched_at": "2026-08-03T19:08:00.886024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T17:51:03+00:00"
-  },
-  {
-    "id": "llama_2026080319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,565,573,074 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-03T19:08:04.577652+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T19:08:04.577652+00:00"
-  },
-  {
     "id": "rss_c70f48b97a56",
     "source": "The Defiant",
     "title": "Robinhood's Second Venture Fund Targets Y Combinator Startups in $200 Million IPO",
@@ -1861,6 +1791,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T18:28:03.457289+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_00eafc24b325",
+    "source": "The Defiant",
+    "title": "Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy",
+    "url": "https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy",
+    "published_at": "Mon, 10 Aug 2026 17:06:00 GMT",
+    "fetched_at": "2026-08-10T19:35:50.866952+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081019",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,610,752,605 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T19:35:54.084419+00:00",
     "used": false
   }
 ]
