@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_6bf59d788e18",
-    "source": "The Defiant",
-    "title": "Strategy Sells 1,638 Bitcoin for $105M, Splits Proceeds Between Dividends and STRC Buyback",
-    "url": "https://thedefiant.io/news/cefi/strategy-sells-1-638-bitcoin-for-105m-splits-proceeds-between-dividends-and-strc-buyback",
-    "published_at": "Mon, 03 Aug 2026 16:41:40 GMT",
-    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T16:41:40+00:00"
-  },
-  {
-    "id": "rss_c1c02f07ac13",
-    "source": "The Defiant",
-    "title": "'I Did Everything Right': Coldcard Victims Recount Losing Life Savings",
-    "url": "https://thedefiant.io/news/hacks/i-did-everything-right-coldcard-victims-recount-losing-life-savings",
-    "published_at": "Mon, 03 Aug 2026 15:55:47 GMT",
-    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T15:55:47+00:00"
-  },
-  {
-    "id": "rss_dfd93e96f1aa",
-    "source": "The Defiant",
-    "title": "The $114 Trillion Question: How DTCC Is Tokenizing the Entire U.S. Market",
-    "url": "https://thedefiant.io/podcasts-and-videos/podcast/the-usd114-trillion-question-how-dtcc-is-tokenizing-the-entire-u-s-market",
-    "published_at": "Mon, 03 Aug 2026 15:08:10 GMT",
-    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T15:08:10+00:00"
-  },
-  {
-    "id": "rss_228f6e1af1ca",
-    "source": "The Defiant",
-    "title": "Coldcard Thefts Near $114 Million as Fourth Attack Wave Hits",
-    "url": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
-    "published_at": "Mon, 03 Aug 2026 15:02:19 GMT",
-    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T15:02:19+00:00"
-  },
-  {
-    "id": "rss_c24a57ba34a9",
-    "source": "Decrypt",
-    "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
-    "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
-    "published_at": "Mon, 03 Aug 2026 15:31:43 +0000",
-    "fetched_at": "2026-08-03T17:16:29.780601+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T15:31:43+00:00"
-  },
-  {
-    "id": "llama_2026080317",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,566,017,845 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-03T17:16:33.367611+00:00",
-    "used": false,
-    "_sort_date": "2026-08-03T17:16:33.367611+00:00"
-  },
-  {
     "id": "rss_ac0ce786656c",
     "source": "The Defiant",
     "title": "Tornado Cash Logs 968 Deposits in Busiest Day of 2026, L2Beat Says",
@@ -1876,6 +1816,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T16:25:02.293749+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a77609fd0b9",
+    "source": "The Defiant",
+    "title": "Ether Products Lead $600M Crypto ETP Flow Rebound in July",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july",
+    "published_at": "Mon, 10 Aug 2026 17:08:29 GMT",
+    "fetched_at": "2026-08-10T17:28:41.433597+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6cdeb672fd9c",
+    "source": "The Defiant",
+    "title": "BIP-110 Bitcoin Fork Stalls at Two Blocks as Its Only Miner Quits",
+    "url": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits",
+    "published_at": "Mon, 10 Aug 2026 16:15:22 GMT",
+    "fetched_at": "2026-08-10T17:28:41.433597+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081017",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,624,355,161 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T17:28:46.343229+00:00",
     "used": false
   }
 ]
