@@ -1844,5 +1844,23 @@
     "published_at": "",
     "fetched_at": "2026-08-10T17:28:46.343229+00:00",
     "used": false
+  },
+  {
+    "id": "rss_77ebb22dbb70",
+    "source": "CryptoSlate",
+    "title": "Decentralization was the beginning. Call it onchain finance",
+    "url": "https://cryptoslate.com/decentralization-was-the-beginning-call-it-onchain-finance/",
+    "published_at": "Mon, 10 Aug 2026 18:00:10 +0000",
+    "fetched_at": "2026-08-10T18:27:58.596746+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081018",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,611,438,622 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T18:28:03.457289+00:00",
+    "used": false
   }
 ]
