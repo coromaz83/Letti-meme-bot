@@ -1866,5 +1866,23 @@
     "published_at": "",
     "fetched_at": "2026-08-10T12:10:23.226080+00:00",
     "used": false
+  },
+  {
+    "id": "rss_ad3cf317d023",
+    "source": "CoinDesk",
+    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+    "published_at": "Mon, 10 Aug 2026 13:50:51 +0000",
+    "fetched_at": "2026-08-10T13:58:00.017562+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081013",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,681,682,712 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T13:58:03.376754+00:00",
+    "used": false
   }
 ]
