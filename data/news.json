@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080307",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,520,167,164 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-03T07:59:02.169439+00:00",
-    "used": true,
-    "_sort_date": "2026-08-03T07:59:02.169439+00:00"
-  },
-  {
     "id": "rss_525791c69bbe",
     "source": "CoinDesk",
     "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
@@ -1860,6 +1850,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T07:58:02.819330+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081009",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,687,374,876 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-10T09:42:57.372044+00:00",
     "used": false
   }
 ]
