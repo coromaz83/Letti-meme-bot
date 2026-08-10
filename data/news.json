@@ -1807,7 +1807,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T11:14:12.773223+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T11:14:12.773223+00:00"
   },
   {
     "id": "llama_2026081012",
@@ -1816,7 +1817,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T12:10:23.226080+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T12:10:23.226080+00:00"
   },
   {
     "id": "rss_ad3cf317d023",
@@ -1825,7 +1827,8 @@
     "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
     "published_at": "Mon, 10 Aug 2026 13:50:51 +0000",
     "fetched_at": "2026-08-10T13:58:00.017562+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T13:50:51+00:00"
   },
   {
     "id": "llama_2026081013",
@@ -1834,7 +1837,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T13:58:03.376754+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T13:58:03.376754+00:00"
   },
   {
     "id": "rss_f030ac6b1d66",
@@ -1843,7 +1847,8 @@
     "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
     "published_at": "Mon, 10 Aug 2026 14:12:12 +0000",
     "fetched_at": "2026-08-10T15:09:48.538774+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T14:12:12+00:00"
   },
   {
     "id": "llama_2026081015",
@@ -1852,6 +1857,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T15:09:52.790933+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T15:09:52.790933+00:00"
   }
 ]
