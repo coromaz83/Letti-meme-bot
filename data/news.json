@@ -1697,7 +1697,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T22:39:01.109721+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-09T22:39:01.109721+00:00"
   },
   {
     "id": "llama_2026080923",
@@ -1706,7 +1707,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-09T23:38:18.941611+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-09T23:38:18.941611+00:00"
   },
   {
     "id": "llama_2026081002",
@@ -1715,7 +1717,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T02:24:02.282542+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T02:24:02.282542+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -1724,7 +1727,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-08-10T04:14:46.963156+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T04:14:46.963156+00:00"
   },
   {
     "id": "llama_2026081004",
@@ -1733,7 +1737,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T04:14:48.747126+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T04:14:48.747126+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -1841,7 +1846,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T05:57:21.270529+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T05:57:21.270529+00:00"
   },
   {
     "id": "llama_2026081007",
@@ -1850,7 +1856,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T07:58:02.819330+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T07:58:02.819330+00:00"
   },
   {
     "id": "llama_2026081009",
@@ -1859,6 +1866,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T09:42:57.372044+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T09:42:57.372044+00:00"
   }
 ]
