@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_3b7723719a11",
-    "source": "The Defiant",
-    "title": "Western Union and Rain Launch Stablecoin Card in 37 Markets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-and-rain-launch-stablecoin-card-in-37-markets",
-    "published_at": "Tue, 04 Aug 2026 17:58:02 GMT",
-    "fetched_at": "2026-08-04T18:45:10.021618+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T17:58:02+00:00"
-  },
-  {
-    "id": "llama_2026080418",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,578,152,821 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T18:45:12.630597+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T18:45:12.630597+00:00"
-  },
-  {
     "id": "rss_9e2e281fa9cd",
     "source": "The Defiant",
     "title": "Cloudflare Launches Stablecoin Wallets for AI Agents, Opens cloudflare.pay Handles",
@@ -1891,6 +1871,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T17:31:47.045312+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-08-11T19:12:33.775159+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_84ae55c8ccdd",
+    "source": "CryptoSlate",
+    "title": "Coinbase, Strategy, and Blockstream back AI access push after vetted Bitcoin researcher gets blocked",
+    "url": "https://cryptoslate.com/coinbase-strategy-and-blockstream-back-ai-access-push-after-vetted-bitcoin-researcher-gets-blocked/",
+    "published_at": "Tue, 11 Aug 2026 17:55:04 +0000",
+    "fetched_at": "2026-08-11T19:12:33.775159+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081119",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,597,813,425 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-11T19:12:41.965049+00:00",
     "used": false
   }
 ]
