@@ -1805,7 +1805,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T16:26:16.171400+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T16:26:16.171400+00:00"
   },
   {
     "id": "rss_3c54d99fe4ca",
@@ -1814,7 +1815,8 @@
     "url": "https://thedefiant.io/news/defi/ens-tokenholders-hand-endowment-control-to-a-staffed-foundation",
     "published_at": "Tue, 11 Aug 2026 16:34:39 GMT",
     "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T16:34:39+00:00"
   },
   {
     "id": "rss_797396dba1ae",
@@ -1823,7 +1825,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub",
     "published_at": "Tue, 11 Aug 2026 16:21:34 GMT",
     "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T16:21:34+00:00"
   },
   {
     "id": "rss_31a265242de2",
@@ -1832,7 +1835,8 @@
     "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
     "published_at": "Tue, 11 Aug 2026 17:26:54 +0000",
     "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T17:26:54+00:00"
   },
   {
     "id": "llama_2026081117",
@@ -1841,7 +1845,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T17:31:47.045312+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T17:31:47.045312+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -1859,7 +1864,8 @@
     "url": "https://cryptoslate.com/coinbase-strategy-and-blockstream-back-ai-access-push-after-vetted-bitcoin-researcher-gets-blocked/",
     "published_at": "Tue, 11 Aug 2026 17:55:04 +0000",
     "fetched_at": "2026-08-11T19:12:33.775159+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T17:55:04+00:00"
   },
   {
     "id": "llama_2026081119",
@@ -1868,7 +1874,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T19:12:41.965049+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T19:12:41.965049+00:00"
   },
   {
     "id": "rss_edea1421b3f9",
@@ -1877,7 +1884,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-acquires-ansa-stored-value-merchant-wallets",
     "published_at": "Tue, 11 Aug 2026 19:10:48 GMT",
     "fetched_at": "2026-08-11T20:11:02.381280+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T19:10:48+00:00"
   },
   {
     "id": "llama_2026081120",
@@ -1886,7 +1894,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T20:11:08.541241+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T20:11:08.541241+00:00"
   },
   {
     "id": "rss_57796a87182e",
@@ -1895,7 +1904,8 @@
     "url": "https://thedefiant.io/news/regulation/cftc-sues-goliath-ventures-over-alleged-397m-defi-liquidity-pool-ponzi",
     "published_at": "Tue, 11 Aug 2026 20:45:26 GMT",
     "fetched_at": "2026-08-11T21:24:22.800498+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T20:45:26+00:00"
   },
   {
     "id": "rss_b94b57a61208",
@@ -1904,7 +1914,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/riot-signs-9-1b-20-year-ai-data-center-lease-at-its-texas-bitcoin-mine",
     "published_at": "Tue, 11 Aug 2026 20:44:01 GMT",
     "fetched_at": "2026-08-11T21:24:22.800498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T20:44:01+00:00"
   },
   {
     "id": "llama_2026081121",
@@ -1913,6 +1924,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T21:24:27.160761+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T21:24:27.160761+00:00"
   }
 ]
