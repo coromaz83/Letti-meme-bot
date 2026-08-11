@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026080422",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,582,150,360 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T22:18:32.565670+00:00",
-    "used": false
-  },
-  {
     "id": "rss_320433978fde",
     "source": "The Defiant",
     "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
@@ -1926,5 +1917,14 @@
     "fetched_at": "2026-08-11T21:24:27.160761+00:00",
     "used": true,
     "_sort_date": "2026-08-11T21:24:27.160761+00:00"
+  },
+  {
+    "id": "llama_2026081122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,599,845,590 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-11T22:20:23.459226+00:00",
+    "used": false
   }
 ]
