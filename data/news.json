@@ -1754,7 +1754,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T22:47:04.291539+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T22:47:04.291539+00:00"
   },
   {
     "id": "rss_bf5fa0c0ea34",
@@ -1763,7 +1764,8 @@
     "url": "https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled",
     "published_at": "Mon, 10 Aug 2026 22:40:11 GMT",
     "fetched_at": "2026-08-10T23:41:49.738359+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T22:40:11+00:00"
   },
   {
     "id": "rss_d03db5765938",
@@ -1772,7 +1774,8 @@
     "url": "https://cryptoslate.com/sharplink-posts-1b-loss-as-its-1-7b-ethereum-treasury-could-take-90-days-to-fully-convert-to-cash/",
     "published_at": "Mon, 10 Aug 2026 23:10:21 +0000",
     "fetched_at": "2026-08-10T23:41:49.738359+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-10T23:10:21+00:00"
   },
   {
     "id": "llama_2026081023",
@@ -1781,7 +1784,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-10T23:41:53.429092+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-10T23:41:53.429092+00:00"
   },
   {
     "id": "llama_2026081102",
@@ -1790,7 +1794,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T02:16:15.380295+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T02:16:15.380295+00:00"
   },
   {
     "id": "llama_2026081104",
@@ -1799,7 +1804,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T04:03:07.492168+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T04:03:07.492168+00:00"
   },
   {
     "id": "rss_209b703fa80f",
@@ -1808,7 +1814,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
     "published_at": "Tue, 11 Aug 2026 04:50:23 +0000",
     "fetched_at": "2026-08-11T05:37:47.140810+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T04:50:23+00:00"
   },
   {
     "id": "llama_2026081105",
@@ -1817,7 +1824,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T05:37:51.911660+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T05:37:51.911660+00:00"
   },
   {
     "id": "llama_2026081107",
@@ -1826,7 +1834,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T07:19:14.306726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T07:19:14.306726+00:00"
   },
   {
     "id": "llama_2026081108",
@@ -1835,6 +1844,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T08:31:36.905246+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T08:31:36.905246+00:00"
   }
 ]
