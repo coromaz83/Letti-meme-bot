@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_9e2e281fa9cd",
-    "source": "The Defiant",
-    "title": "Cloudflare Launches Stablecoin Wallets for AI Agents, Opens cloudflare.pay Handles",
-    "url": "https://thedefiant.io/news/defi/cloudflare-wallets-ai-agents-stablecoin-x402",
-    "published_at": "Tue, 04 Aug 2026 19:39:32 GMT",
-    "fetched_at": "2026-08-04T20:37:56.991189+00:00",
-    "used": true,
-    "_sort_date": "2026-08-04T19:39:32+00:00"
-  },
-  {
-    "id": "rss_127b60bc91a5",
-    "source": "Bankless",
-    "title": "New Ethereum Proposal Would Massively Increase Burn",
-    "url": "https://www.bankless.com/read/news/new-ethereum-proposal-would-massively-increase-burn",
-    "published_at": "Tue, 04 Aug 2026 12:51:39 -0400",
-    "fetched_at": "2026-08-04T20:37:56.991189+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T12:51:39-04:00"
-  },
-  {
-    "id": "llama_2026080420",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,578,422,245 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T20:37:59.772694+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T20:37:59.772694+00:00"
-  },
-  {
     "id": "llama_2026080422",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,582,150,360 🟢 +0.00% (24h)",
@@ -1916,6 +1886,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T20:11:08.541241+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57796a87182e",
+    "source": "The Defiant",
+    "title": "CFTC Sues Goliath Ventures Over Alleged $397M DeFi Liquidity Pool Ponzi",
+    "url": "https://thedefiant.io/news/regulation/cftc-sues-goliath-ventures-over-alleged-397m-defi-liquidity-pool-ponzi",
+    "published_at": "Tue, 11 Aug 2026 20:45:26 GMT",
+    "fetched_at": "2026-08-11T21:24:22.800498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b94b57a61208",
+    "source": "The Defiant",
+    "title": "Riot Signs $9.1B, 20-Year AI Data Center Lease at Its Texas Bitcoin Mine",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/riot-signs-9-1b-20-year-ai-data-center-lease-at-its-texas-bitcoin-mine",
+    "published_at": "Tue, 11 Aug 2026 20:44:01 GMT",
+    "fetched_at": "2026-08-11T21:24:22.800498+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081121",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,592,482,589 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-11T21:24:27.160761+00:00",
     "used": false
   }
 ]
