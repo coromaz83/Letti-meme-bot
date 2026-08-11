@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,545,730,099 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T11:41:14.387299+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T11:41:14.387299+00:00"
-  },
-  {
     "id": "rss_f6b4d683c213",
     "source": "CoinDesk",
     "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
@@ -1871,6 +1861,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T11:22:48.741407+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_278cbbbe0e68",
+    "source": "CoinDesk",
+    "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+    "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+    "published_at": "Tue, 11 Aug 2026 11:23:25 +0000",
+    "fetched_at": "2026-08-11T12:24:09.086787+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081112",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,637,204,969 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-11T12:24:12.258989+00:00",
     "used": false
   }
 ]
