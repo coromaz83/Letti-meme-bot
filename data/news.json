@@ -1814,7 +1814,8 @@
     "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
     "published_at": "Tue, 11 Aug 2026 09:58:44 +0000",
     "fetched_at": "2026-08-11T10:05:37.230270+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T09:58:44+00:00"
   },
   {
     "id": "llama_2026081110",
@@ -1823,7 +1824,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T10:05:43.216828+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T10:05:43.216828+00:00"
   },
   {
     "id": "rss_eabb6b2e8847",
@@ -1832,7 +1834,8 @@
     "url": "https://cryptoslate.com/on-chain-data-shows-50-million-at-risk-as-tethers-alloy-shutdown-deadline-boils-down-to-5-forgotten-gold-vaults/",
     "published_at": "Tue, 11 Aug 2026 11:20:11 +0000",
     "fetched_at": "2026-08-11T11:22:46.079054+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T11:20:11+00:00"
   },
   {
     "id": "llama_2026081111",
@@ -1841,7 +1844,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T11:22:48.741407+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T11:22:48.741407+00:00"
   },
   {
     "id": "rss_278cbbbe0e68",
@@ -1850,7 +1854,8 @@
     "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
     "published_at": "Tue, 11 Aug 2026 11:23:25 +0000",
     "fetched_at": "2026-08-11T12:24:09.086787+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T11:23:25+00:00"
   },
   {
     "id": "llama_2026081112",
@@ -1859,7 +1864,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T12:24:12.258989+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T12:24:12.258989+00:00"
   },
   {
     "id": "llama_2026081113",
@@ -1868,7 +1874,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T13:58:08.406232+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T13:58:08.406232+00:00"
   },
   {
     "id": "rss_b801e64deaf9",
@@ -1877,7 +1884,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/ousted-pudgy-penguins-co-founder-sells-out-44-444-piece-nft-mint-on-robinhood-chain",
     "published_at": "Tue, 11 Aug 2026 14:57:03 GMT",
     "fetched_at": "2026-08-11T15:10:17.365734+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T14:57:03+00:00"
   },
   {
     "id": "rss_6f2e645831cc",
@@ -1886,7 +1894,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-ramps-goes-live-on-solana-with-cash-in-in-only-25-countries",
     "published_at": "Tue, 11 Aug 2026 14:35:39 GMT",
     "fetched_at": "2026-08-11T15:10:17.365734+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-11T14:35:39+00:00"
   },
   {
     "id": "rss_d7aa9b5f9e3d",
@@ -1895,7 +1904,8 @@
     "url": "https://thedefiant.io/converge/cefi/etoro-to-buy-us-brokerage-tradezero-for-up-to-231m-as-crypto-revenue-shrinks",
     "published_at": "Tue, 11 Aug 2026 14:08:00 GMT",
     "fetched_at": "2026-08-11T15:10:17.365734+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T14:08:00+00:00"
   },
   {
     "id": "rss_a0c11940b308",
@@ -1904,7 +1914,8 @@
     "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
     "published_at": "Tue, 11 Aug 2026 15:05:35 +0000",
     "fetched_at": "2026-08-11T15:10:17.365734+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T15:05:35+00:00"
   },
   {
     "id": "llama_2026081115",
@@ -1913,6 +1924,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T15:10:23.488158+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-11T15:10:23.488158+00:00"
   }
 ]
