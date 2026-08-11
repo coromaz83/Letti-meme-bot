@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_f62f6b075404",
-    "source": "The Defiant",
-    "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-    "published_at": "Tue, 04 Aug 2026 03:26:04 GMT",
-    "fetched_at": "2026-08-04T03:26:03.893861+00:00",
-    "used": true,
-    "_sort_date": "2026-08-04T03:26:04+00:00"
-  },
-  {
-    "id": "llama_2026080403",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,540,026,571 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T03:26:06.854898+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T03:26:06.854898+00:00"
-  },
-  {
     "id": "rss_cdad0e308d60",
     "source": "CoinDesk",
     "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
@@ -1830,6 +1810,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T02:16:15.380295+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081104",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,620,747,288 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-11T04:03:07.492168+00:00",
     "used": false
   }
 ]
