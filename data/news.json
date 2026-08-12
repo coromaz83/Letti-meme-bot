@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_ba8023cf8eb5",
-    "source": "The Defiant",
-    "title": "Aave And ether.fi Founders Lead Opposition To Ethereum's Staking Yield Burn",
-    "url": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
-    "published_at": "Wed, 05 Aug 2026 19:54:41 GMT",
-    "fetched_at": "2026-08-05T20:10:47.408198+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T19:54:41+00:00"
-  },
-  {
-    "id": "rss_68809a08ee9d",
-    "source": "The Defiant",
-    "title": "Traders Push CLARITY Act Odds Into 2027 After Thune Skips Cloture Filing",
-    "url": "https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing",
-    "published_at": "Wed, 05 Aug 2026 19:11:51 GMT",
-    "fetched_at": "2026-08-05T20:10:47.408198+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T19:11:51+00:00"
-  },
-  {
-    "id": "llama_2026080520",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,639,235,572 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T20:10:52.735892+00:00",
-    "used": true,
-    "_sort_date": "2026-08-05T20:10:52.735892+00:00"
-  },
-  {
     "id": "rss_0c0fce816de7",
     "source": "Bankless",
     "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
@@ -1976,6 +1946,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T20:10:37.077978+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_590951903f10",
+    "source": "The Defiant",
+    "title": "Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding",
+    "url": "https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding",
+    "published_at": "Wed, 12 Aug 2026 21:18:10 GMT",
+    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a3a9bbb7caca",
+    "source": "The Defiant",
+    "title": "BitGo CFO to Exit as Q2 Net Loss Hits $19 Million",
+    "url": "https://thedefiant.io/converge/cefi/bitgo-cfo-to-exit-as-q2-net-loss-hits-19-million",
+    "published_at": "Wed, 12 Aug 2026 21:03:01 GMT",
+    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_91a8ae95de86",
+    "source": "The Defiant",
+    "title": "SEC Staff Clears Franklin Funds to Use Onchain Money Fund for Cash and Collateral",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral",
+    "published_at": "Wed, 12 Aug 2026 20:16:45 GMT",
+    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a3342cb4982",
+    "source": "The Defiant",
+    "title": "Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half",
+    "url": "https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa",
+    "published_at": "Wed, 12 Aug 2026 19:31:54 GMT",
+    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_438b6d8840fc",
+    "source": "CryptoSlate",
+    "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
+    "url": "https://cryptoslate.com/russia-picks-bitcoin-ethereum-and-usdt-for-public-trading-as-retail-faces-58000-cap/",
+    "published_at": "Wed, 12 Aug 2026 20:40:31 +0000",
+    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081221",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,673,420,723 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T21:23:20.100538+00:00",
     "used": false
   }
 ]
