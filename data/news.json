@@ -1941,5 +1941,41 @@
     "published_at": "",
     "fetched_at": "2026-08-12T19:11:58.212542+00:00",
     "used": false
+  },
+  {
+    "id": "rss_fd0dd83dcfdd",
+    "source": "The Defiant",
+    "title": "Marinade Says 28.83% of Solana Stake Went Delinquent, Nearing Finality Halt",
+    "url": "https://thedefiant.io/news/blockchains/marinade-says-28-83-of-solana-stake-went-delinquent-nearing-finality-halt",
+    "published_at": "Wed, 12 Aug 2026 19:31:22 GMT",
+    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_61298d17b7fb",
+    "source": "The Defiant",
+    "title": "SEC Advances Tokenized-Securities Exemption That Could Enable 24/7 Trading",
+    "url": "https://thedefiant.io/converge/regulation/sec-advances-tokenized-securities-exemption-that-could-enable-24-7-trading",
+    "published_at": "Wed, 12 Aug 2026 19:30:12 GMT",
+    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d911dfdfd31c",
+    "source": "Bankless",
+    "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
+    "url": "https://www.bankless.com/read/gnosis-chain-just-made-the-first-move-toward-the-ethereum-economic-zone",
+    "published_at": "Wed, 12 Aug 2026 15:27:24 -0400",
+    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081220",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,673,697,445 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T20:10:37.077978+00:00",
+    "used": false
   }
 ]
