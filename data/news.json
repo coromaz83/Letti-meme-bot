@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_320433978fde",
-    "source": "The Defiant",
-    "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
-    "url": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-    "published_at": "Tue, 04 Aug 2026 23:34:40 GMT",
-    "fetched_at": "2026-08-04T23:34:38.195648+00:00",
-    "used": true,
-    "_sort_date": "2026-08-04T23:34:40+00:00"
-  },
-  {
-    "id": "rss_88bc616eacb4",
-    "source": "The Defiant",
-    "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
-    "url": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-    "published_at": "Tue, 04 Aug 2026 23:34:40 GMT",
-    "fetched_at": "2026-08-04T23:34:38.195648+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T23:34:40+00:00"
-  },
-  {
-    "id": "llama_2026080423",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,588,748,496 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-04T23:34:42.029994+00:00",
-    "used": false,
-    "_sort_date": "2026-08-04T23:34:42.029994+00:00"
-  },
-  {
     "id": "llama_2026080503",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,586,511,982 🟢 +0.00% (24h)",
@@ -1943,6 +1913,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-11T23:20:08.351396+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081200",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,616,769,400 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T00:08:41.465185+00:00",
     "used": false
   }
 ]
