@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_2f953b94d438",
-    "source": "CryptoSlate",
-    "title": "If Ethereum’s proposed 54% reward cut passes, DeFi’s favorite loop threatens to become a daily loss machine",
-    "url": "https://cryptoslate.com/if-ethereums-proposed-54-reward-cut-passes-defis-favorite-loop-threatens-to-become-a-daily-loss-machine/",
-    "published_at": "Wed, 05 Aug 2026 10:55:06 +0000",
-    "fetched_at": "2026-08-05T11:38:04.149611+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T10:55:06+00:00"
-  },
-  {
-    "id": "rss_fb37e3af8490",
-    "source": "Decrypt",
-    "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
-    "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
-    "published_at": "Wed, 05 Aug 2026 11:29:23 +0000",
-    "fetched_at": "2026-08-05T11:38:04.149611+00:00",
-    "used": true,
-    "_sort_date": "2026-08-05T11:29:23+00:00"
-  },
-  {
-    "id": "llama_2026080511",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,584,756,002 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T11:38:07.674369+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T11:38:07.674369+00:00"
-  },
-  {
     "id": "rss_fa1668bf36e0",
     "source": "CoinDesk",
     "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
@@ -1965,6 +1935,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T11:04:36.354046+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5870de0d0328",
+    "source": "CoinDesk",
+    "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+    "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+    "published_at": "Wed, 12 Aug 2026 11:19:32 +0000",
+    "fetched_at": "2026-08-12T12:25:54.519857+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3103180f17cb",
+    "source": "The Defiant",
+    "title": "Barça Mobile Plans Stellar Wallet With Wirex and Crossmint",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
+    "published_at": "Wed, 12 Aug 2026 11:26:30 GMT",
+    "fetched_at": "2026-08-12T12:25:54.519857+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081212",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,638,946,562 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T12:26:00.524265+00:00",
     "used": false
   }
 ]
