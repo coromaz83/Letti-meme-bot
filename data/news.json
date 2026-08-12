@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080503",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,586,511,982 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T03:20:46.998350+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T03:20:46.998350+00:00"
-  },
-  {
     "id": "rss_8dd081ad6ad1",
     "source": "CoinDesk",
     "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
@@ -1931,6 +1921,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T03:06:17.138307+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081205",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,621,494,218 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T05:15:38.647167+00:00",
     "used": false
   }
 ]
