@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_dbf71508c692",
-    "source": "The Defiant",
-    "title": "Eliza Labs' Shaw Walters Says ai16z Token Is 'Dead' After Settling Burwick Law Class Action",
-    "url": "https://thedefiant.io/news/tokens/eliza-labs-shaw-walters-says-ai16z-token-is-dead-after-settling-burwick-law-class-action",
-    "published_at": "Wed, 05 Aug 2026 14:40:07 GMT",
-    "fetched_at": "2026-08-05T16:17:09.491223+00:00",
-    "used": true,
-    "_sort_date": "2026-08-05T14:40:07+00:00"
-  },
-  {
-    "id": "rss_5abf64cbf5a6",
-    "source": "The Defiant",
-    "title": "Mastercard Extends Crypto Credential to Cross-Border Stablecoin Payments in Borderless.xyz Pilot",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-extends-crypto-credential-to-stablecoin-payments-in-borderless-pilot",
-    "published_at": "Wed, 05 Aug 2026 13:00:00 GMT",
-    "fetched_at": "2026-08-05T16:17:09.491223+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T13:00:00+00:00"
-  },
-  {
-    "id": "llama_2026080516",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,621,465,661 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T16:17:13.108598+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T16:17:13.108598+00:00"
-  },
-  {
     "id": "rss_e95f1d2d99fb",
     "source": "The Defiant",
     "title": "Dinari Opens 724 Tokenized US Stocks to Eligible US Investors",
@@ -1967,5 +1937,23 @@
     "fetched_at": "2026-08-12T15:09:21.725011+00:00",
     "used": false,
     "_sort_date": "2026-08-12T15:09:21.725011+00:00"
+  },
+  {
+    "id": "rss_3afb66f74bf7",
+    "source": "The Defiant",
+    "title": "Bitwise Cuts 14% of Staff as Client Assets Fall to $9 Billion",
+    "url": "https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion",
+    "published_at": "Wed, 12 Aug 2026 15:31:25 GMT",
+    "fetched_at": "2026-08-12T16:28:09.290013+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081216",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,680,124,226 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T16:28:12.172741+00:00",
+    "used": false
   }
 ]
