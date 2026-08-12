@@ -1955,5 +1955,32 @@
     "published_at": "",
     "fetched_at": "2026-08-12T16:28:12.172741+00:00",
     "used": false
+  },
+  {
+    "id": "rss_da2f0b20b87d",
+    "source": "The Defiant",
+    "title": "Solana Community Argues Over Whether Its Foundation Should Pick Winners",
+    "url": "https://thedefiant.io/news/blockchains/solana-foundation-kingmaking-debate-flash-trade-lily-liu",
+    "published_at": "Wed, 12 Aug 2026 16:32:20 GMT",
+    "fetched_at": "2026-08-12T17:34:13.242809+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cad46bd029bc",
+    "source": "Decrypt",
+    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+    "published_at": "Wed, 12 Aug 2026 17:13:43 +0000",
+    "fetched_at": "2026-08-12T17:34:13.242809+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,673,601,058 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T17:34:17.118344+00:00",
+    "used": false
   }
 ]
