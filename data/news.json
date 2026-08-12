@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026080523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,649,084,057 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T23:08:50.873095+00:00",
-    "used": false
-  },
-  {
     "id": "rss_de3343f28d33",
     "source": "The Defiant",
     "title": "Uniswap Ships A Memecoin Launchpad On Robinhood Chain, Topped By $FRONG Token Minted Six Days Early",
@@ -2006,6 +1997,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T22:20:01.103508+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081223",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,674,829,225 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T23:18:20.364082+00:00",
     "used": false
   }
 ]
