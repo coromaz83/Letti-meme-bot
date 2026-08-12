@@ -1905,7 +1905,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T11:04:36.354046+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-12T11:04:36.354046+00:00"
   },
   {
     "id": "rss_5870de0d0328",
@@ -1914,7 +1915,8 @@
     "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
     "published_at": "Wed, 12 Aug 2026 11:19:32 +0000",
     "fetched_at": "2026-08-12T12:25:54.519857+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-12T11:19:32+00:00"
   },
   {
     "id": "rss_3103180f17cb",
@@ -1923,7 +1925,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
     "published_at": "Wed, 12 Aug 2026 11:26:30 GMT",
     "fetched_at": "2026-08-12T12:25:54.519857+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-12T11:26:30+00:00"
   },
   {
     "id": "llama_2026081212",
@@ -1932,7 +1935,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T12:26:00.524265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-12T12:26:00.524265+00:00"
   },
   {
     "id": "rss_26ce5ffca9f0",
@@ -1941,7 +1945,8 @@
     "url": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
     "published_at": "Wed, 12 Aug 2026 13:59:49 GMT",
     "fetched_at": "2026-08-12T13:59:47.995250+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-12T13:59:49+00:00"
   },
   {
     "id": "llama_2026081213",
@@ -1950,7 +1955,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T13:59:50.482121+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-12T13:59:50.482121+00:00"
   },
   {
     "id": "llama_2026081215",
@@ -1959,6 +1965,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T15:09:21.725011+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-12T15:09:21.725011+00:00"
   }
 ]
