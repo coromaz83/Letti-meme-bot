@@ -1,33 +1,5 @@
 [
   {
-    "id": "rss_0c0fce816de7",
-    "source": "Bankless",
-    "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
-    "url": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
-    "published_at": "Wed, 29 Jul 2026 15:32:15 -0400",
-    "fetched_at": "2026-08-05T21:50:08.945858+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ad91f9b0ae62",
-    "source": "Bankless",
-    "title": "The Ethereum Foundation Welcomes Its Newest Board Member",
-    "url": "https://www.bankless.com/read/news/the-ethereum-foundation-welcomes-its-newest-board-member",
-    "published_at": "Wed, 29 Jul 2026 15:16:39 -0400",
-    "fetched_at": "2026-08-05T21:50:08.945858+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026080521",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,656,127,372 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T21:50:12.132362+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T21:50:12.132362+00:00"
-  },
-  {
     "id": "llama_2026080523",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,649,084,057 🟢 +0.00% (24h)",
@@ -2017,5 +1989,23 @@
     "fetched_at": "2026-08-12T21:23:20.100538+00:00",
     "used": false,
     "_sort_date": "2026-08-12T21:23:20.100538+00:00"
+  },
+  {
+    "id": "rss_20a8ed8e5ea3",
+    "source": "The Defiant",
+    "title": "Boltz Founders Exit as Unnamed Bitcoin Group Agrees to Take Over Suspended Swap Service",
+    "url": "https://thedefiant.io/news/infrastructure/boltz-founders-exit-as-unnamed-bitcoin-group-agrees-to-take-over-suspended-swap-service",
+    "published_at": "Wed, 12 Aug 2026 21:35:29 GMT",
+    "fetched_at": "2026-08-12T22:19:58.461592+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081222",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,682,216,884 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T22:20:01.103508+00:00",
+    "used": false
   }
 ]
