@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_8dd081ad6ad1",
-    "source": "CoinDesk",
-    "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-    "published_at": "Wed, 05 Aug 2026 05:49:57 +0000",
-    "fetched_at": "2026-08-05T06:08:05.942139+00:00",
-    "used": true,
-    "_sort_date": "2026-08-05T05:49:57+00:00"
-  },
-  {
-    "id": "llama_2026080506",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,589,591,227 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-05T06:08:09.320240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-05T06:08:09.320240+00:00"
-  },
-  {
     "id": "llama_2026080509",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,584,754,916 🟢 +0.00% (24h)",
@@ -1930,6 +1910,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-12T05:15:38.647167+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5436712dcecd",
+    "source": "CoinDesk",
+    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+    "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+    "published_at": "Wed, 12 Aug 2026 05:26:55 +0000",
+    "fetched_at": "2026-08-12T06:54:56.807301+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081206",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,624,290,745 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-12T06:54:58.298749+00:00",
     "used": false
   }
 ]
