@@ -2137,5 +2137,32 @@
     "published_at": "",
     "fetched_at": "2026-08-13T17:03:19.337471+00:00",
     "used": false
+  },
+  {
+    "id": "rss_c63466f25306",
+    "source": "CoinDesk",
+    "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+    "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+    "published_at": "Thu, 13 Aug 2026 18:26:21 +0000",
+    "fetched_at": "2026-08-13T18:29:06.142700+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_29c9e0026891",
+    "source": "Bankless",
+    "title": "Ether.fi Unveils Major Revamp of Its Neobank",
+    "url": "https://www.bankless.com/read/news/etherfi-major-revamp-neobank",
+    "published_at": "Thu, 13 Aug 2026 14:21:35 -0400",
+    "fetched_at": "2026-08-13T18:29:06.142700+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081318",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,638,112,864 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T18:29:10.041703+00:00",
+    "used": false
   }
 ]
