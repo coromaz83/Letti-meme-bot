@@ -2220,5 +2220,32 @@
     "fetched_at": "2026-08-13T20:52:42.024859+00:00",
     "used": false,
     "_sort_date": "2026-08-13T20:52:42.024859+00:00"
+  },
+  {
+    "id": "rss_fc7373979bab",
+    "source": "The Defiant",
+    "title": "Tether Clears First Full Audit From KPMG Without Publishing the Statements",
+    "url": "https://thedefiant.io/converge/cefi/tether-clears-first-full-audit-from-kpmg-without-publishing-the-statements",
+    "published_at": "Thu, 13 Aug 2026 21:12:29 GMT",
+    "fetched_at": "2026-08-13T21:54:21.102473+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5b93fa3b7d7e",
+    "source": "The Defiant",
+    "title": "Norway Wealth Fund Discloses $81.9 Million BitMine Stake",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/norway-wealth-fund-discloses-81-9-million-bitmine-stake",
+    "published_at": "Thu, 13 Aug 2026 21:12:06 GMT",
+    "fetched_at": "2026-08-13T21:54:21.102473+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081321",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,635,493,373 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T21:54:26.866815+00:00",
+    "used": false
   }
 ]
