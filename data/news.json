@@ -1989,7 +1989,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T10:16:16.569142+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T10:16:16.569142+00:00"
   },
   {
     "id": "llama_2026081311",
@@ -1998,7 +1999,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T11:22:50.742057+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T11:22:50.742057+00:00"
   },
   {
     "id": "llama_2026081312",
@@ -2007,7 +2009,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T12:25:48.112479+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T12:25:48.112479+00:00"
   },
   {
     "id": "rss_980e7c779496",
@@ -2016,7 +2019,8 @@
     "url": "https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing",
     "published_at": "Thu, 13 Aug 2026 13:44:32 GMT",
     "fetched_at": "2026-08-13T14:00:48.447902+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T13:44:32+00:00"
   },
   {
     "id": "llama_2026081314",
@@ -2025,7 +2029,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T14:00:51.642275+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:00:51.642275+00:00"
   },
   {
     "id": "rss_09509670a47b",
@@ -2034,7 +2039,8 @@
     "url": "https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns",
     "published_at": "Thu, 13 Aug 2026 15:14:41 GMT",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T15:14:41+00:00"
   },
   {
     "id": "rss_ae8048af29da",
@@ -2043,7 +2049,8 @@
     "url": "https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth",
     "published_at": "Thu, 13 Aug 2026 15:10:55 GMT",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T15:10:55+00:00"
   },
   {
     "id": "rss_74d143163a6f",
@@ -2052,7 +2059,8 @@
     "url": "https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact",
     "published_at": "Thu, 13 Aug 2026 14:31:52 GMT",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:31:52+00:00"
   },
   {
     "id": "rss_1614caf9a49c",
@@ -2061,7 +2069,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo",
     "published_at": "Thu, 13 Aug 2026 14:13:49 GMT",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:13:49+00:00"
   },
   {
     "id": "rss_dc8468ea872e",
@@ -2070,7 +2079,8 @@
     "url": "https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers",
     "published_at": "Thu, 13 Aug 2026 14:04:09 GMT",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T14:04:09+00:00"
   },
   {
     "id": "rss_a79e30a293dd",
@@ -2079,7 +2089,8 @@
     "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
     "published_at": "Thu, 13 Aug 2026 14:01:03 +0000",
     "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:01:03+00:00"
   },
   {
     "id": "llama_2026081315",
@@ -2088,6 +2099,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T15:31:29.404264+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T15:31:29.404264+00:00"
   }
 ]
