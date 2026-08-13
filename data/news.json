@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_a1734fb70b12",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-    "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-    "published_at": "Thu, 06 Aug 2026 10:43:07 +0000",
-    "fetched_at": "2026-08-06T12:27:58.210903+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026080612",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,632,703,740 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-06T12:28:01.899454+00:00",
-    "used": false
-  },
-  {
     "id": "rss_3cbb9fdb2d7f",
     "source": "Cointelegraph Base",
     "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
@@ -2052,6 +2034,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T12:25:48.112479+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_980e7c779496",
+    "source": "The Defiant",
+    "title": "ether.fi Adds Tokenized Stocks, New Fiat Rails And Aave-Backed Borrowing",
+    "url": "https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing",
+    "published_at": "Thu, 13 Aug 2026 13:44:32 GMT",
+    "fetched_at": "2026-08-13T14:00:48.447902+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081314",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,640,582,104 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T14:00:51.642275+00:00",
     "used": false
   }
 ]
