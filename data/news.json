@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_612a56904b65",
-    "source": "CoinDesk",
-    "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-    "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-    "published_at": "Thu, 06 Aug 2026 04:46:17 +0000",
-    "fetched_at": "2026-08-06T07:19:04.690344+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026080607",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,634,987,224 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-06T07:19:07.753513+00:00",
-    "used": false
-  },
-  {
     "id": "rss_d7ecc897dbdb",
     "source": "CoinDesk",
     "title": "Live updates: Coinbase lets UK users trade U.S. equities. BTC trades near $65,000",
@@ -2033,6 +2015,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T06:59:05.876577+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c46d71c9b432",
+    "source": "CryptoSlate",
+    "title": "Strategy sold $100M to defend STRC’s $100 stock price as DeFi packages the risk into a 7% ‘safer’ trade",
+    "url": "https://cryptoslate.com/strategy-sold-100m-to-defend-strcs-100-stock-price-as-defi-packages-the-risk-into-a-7-safer-trade/",
+    "published_at": "Thu, 13 Aug 2026 07:45:37 +0000",
+    "fetched_at": "2026-08-13T08:39:38.239488+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081308",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,658,659,933 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T08:39:40.548839+00:00",
     "used": false
   }
 ]
