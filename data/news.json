@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026080604",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,623,835,747 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-06T04:19:49.013165+00:00",
-    "used": false
-  },
-  {
     "id": "rss_612a56904b65",
     "source": "CoinDesk",
     "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
@@ -2024,6 +2015,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T03:10:01.267924+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081305",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,628,573,736 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T05:19:29.518174+00:00",
     "used": false
   }
 ]
