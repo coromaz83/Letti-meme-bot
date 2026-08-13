@@ -2118,7 +2118,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/tempo-earn-embedded-stablecoin-yield-deel",
     "published_at": "Thu, 13 Aug 2026 16:09:26 GMT",
     "fetched_at": "2026-08-13T17:03:16.665328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T16:09:26+00:00"
   },
   {
     "id": "rss_c786e2bf91b3",
@@ -2127,7 +2128,8 @@
     "url": "https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/",
     "published_at": "Thu, 13 Aug 2026 16:15:39 +0000",
     "fetched_at": "2026-08-13T17:03:16.665328+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T16:15:39+00:00"
   },
   {
     "id": "llama_2026081317",
@@ -2136,7 +2138,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T17:03:19.337471+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T17:03:19.337471+00:00"
   },
   {
     "id": "rss_c63466f25306",
@@ -2145,7 +2148,8 @@
     "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
     "published_at": "Thu, 13 Aug 2026 18:26:21 +0000",
     "fetched_at": "2026-08-13T18:29:06.142700+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T18:26:21+00:00"
   },
   {
     "id": "rss_29c9e0026891",
@@ -2154,7 +2158,8 @@
     "url": "https://www.bankless.com/read/news/etherfi-major-revamp-neobank",
     "published_at": "Thu, 13 Aug 2026 14:21:35 -0400",
     "fetched_at": "2026-08-13T18:29:06.142700+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:21:35-04:00"
   },
   {
     "id": "llama_2026081318",
@@ -2163,7 +2168,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T18:29:10.041703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T18:29:10.041703+00:00"
   },
   {
     "id": "rss_e29c87ebdcbe",
@@ -2172,7 +2178,8 @@
     "url": "https://cryptoslate.com/gaming-firm-gamesquare-boasts-a-26m-ethereum-fortune-but-quiet-debt-fine-print-leaves-just-2-1m-in-real-cash/",
     "published_at": "Thu, 13 Aug 2026 19:35:07 +0000",
     "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T19:35:07+00:00"
   },
   {
     "id": "rss_71acbccd0ad1",
@@ -2181,7 +2188,8 @@
     "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
     "published_at": "Thu, 13 Aug 2026 18:39:11 +0000",
     "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T18:39:11+00:00"
   },
   {
     "id": "rss_2c099dd76f46",
@@ -2190,7 +2198,8 @@
     "url": "https://www.bankless.com/read/news/justin-drake-the-ef-is-moving-away-from-poseidon-for-ethereum-l1",
     "published_at": "Thu, 13 Aug 2026 14:44:42 -0400",
     "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T14:44:42-04:00"
   },
   {
     "id": "llama_2026081319",
@@ -2199,7 +2208,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T19:39:02.746071+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T19:39:02.746071+00:00"
   },
   {
     "id": "llama_2026081320",
@@ -2208,6 +2218,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T20:52:42.024859+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T20:52:42.024859+00:00"
   }
 ]
