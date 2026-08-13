@@ -2247,5 +2247,23 @@
     "published_at": "",
     "fetched_at": "2026-08-13T21:54:26.866815+00:00",
     "used": false
+  },
+  {
+    "id": "rss_d7cec077062d",
+    "source": "CryptoSlate",
+    "title": "Coinbase and 14 other x402 facilitators failed security tests built for the coming AI-agent economy",
+    "url": "https://cryptoslate.com/coinbase-and-14-other-x402-facilitators-failed-security-tests-built-for-the-coming-ai-agent-economy/",
+    "published_at": "Thu, 13 Aug 2026 22:00:54 +0000",
+    "fetched_at": "2026-08-13T22:52:23.399441+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081322",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,637,356,834 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-13T22:52:26.994458+00:00",
+    "used": false
   }
 ]
