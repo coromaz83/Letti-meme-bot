@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080719",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,656,182,513 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T19:32:48.837324+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T19:32:48.837324+00:00"
-  },
-  {
     "id": "rss_a02ac53c9527",
     "source": "The Defiant",
     "title": "Lightning Nodes Drained As BTCPay Server Users Race To Patch",
@@ -2177,6 +2167,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T19:31:32.227139+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081420",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,601,794,358 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T20:37:08.970732+00:00",
     "used": false
   }
 ]
