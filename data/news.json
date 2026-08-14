@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_0afe0a47a563",
-    "source": "CoinDesk",
-    "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-    "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-    "published_at": "Fri, 07 Aug 2026 09:24:00 +0000",
-    "fetched_at": "2026-08-07T10:27:46.639186+00:00",
-    "used": true,
-    "_sort_date": "2026-08-07T09:24:00+00:00"
-  },
-  {
-    "id": "llama_2026080710",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,633,991,848 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T10:27:49.283513+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T10:27:49.283513+00:00"
-  },
-  {
     "id": "llama_2026080711",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,652,399,872 🟢 +0.00% (24h)",
@@ -2194,5 +2174,23 @@
     "fetched_at": "2026-08-14T09:15:11.147155+00:00",
     "used": true,
     "_sort_date": "2026-08-14T09:15:11.147155+00:00"
+  },
+  {
+    "id": "rss_584ee63ebfac",
+    "source": "CryptoSlate",
+    "title": "Tether finally got the audit critics demanded, just as Washington changed the test",
+    "url": "https://cryptoslate.com/tether-finally-got-the-audit-critics-demanded-just-as-washington-changed-the-test/",
+    "published_at": "Fri, 14 Aug 2026 10:25:08 +0000",
+    "fetched_at": "2026-08-14T10:34:21.144135+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081410",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,604,480,369 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T10:34:23.983748+00:00",
+    "used": false
   }
 ]
