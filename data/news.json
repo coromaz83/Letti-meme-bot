@@ -2103,7 +2103,8 @@
     "url": "https://cryptoslate.com/coinbase-and-14-other-x402-facilitators-failed-security-tests-built-for-the-coming-ai-agent-economy/",
     "published_at": "Thu, 13 Aug 2026 22:00:54 +0000",
     "fetched_at": "2026-08-13T22:52:23.399441+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-13T22:00:54+00:00"
   },
   {
     "id": "llama_2026081322",
@@ -2112,7 +2113,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T22:52:26.994458+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T22:52:26.994458+00:00"
   },
   {
     "id": "llama_2026081323",
@@ -2121,7 +2123,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-13T23:50:42.811979+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-13T23:50:42.811979+00:00"
   },
   {
     "id": "rss_f93ae236ab82",
@@ -2130,7 +2133,8 @@
     "url": "https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/",
     "published_at": "Fri, 14 Aug 2026 00:30:29 +0000",
     "fetched_at": "2026-08-14T02:32:31.076484+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T00:30:29+00:00"
   },
   {
     "id": "llama_2026081402",
@@ -2139,7 +2143,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T02:32:34.913434+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T02:32:34.913434+00:00"
   },
   {
     "id": "rss_786907e8b692",
@@ -2157,7 +2162,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T04:54:56.225070+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T04:54:56.225070+00:00"
   },
   {
     "id": "llama_2026081406",
@@ -2166,7 +2172,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T06:20:06.487383+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T06:20:06.487383+00:00"
   },
   {
     "id": "llama_2026081407",
@@ -2175,7 +2182,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T07:57:36.757369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T07:57:36.757369+00:00"
   },
   {
     "id": "llama_2026081409",
@@ -2184,6 +2192,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T09:15:11.147155+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T09:15:11.147155+00:00"
   }
 ]
