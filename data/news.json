@@ -2122,7 +2122,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T15:57:46.494780+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T15:57:46.494780+00:00"
   },
   {
     "id": "llama_2026081417",
@@ -2131,7 +2132,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T17:02:36.532088+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T17:02:36.532088+00:00"
   },
   {
     "id": "llama_2026081418",
@@ -2140,7 +2142,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T18:26:28.389612+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T18:26:28.389612+00:00"
   },
   {
     "id": "rss_04543067a1d8",
@@ -2149,7 +2152,8 @@
     "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
     "published_at": "Fri, 14 Aug 2026 19:01:05 +0000",
     "fetched_at": "2026-08-14T19:31:27.652314+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T19:01:05+00:00"
   },
   {
     "id": "rss_35b611c5c47b",
@@ -2158,7 +2162,8 @@
     "url": "https://www.bankless.com/read/etherfis-bet-against-cryptos-casino-economy",
     "published_at": "Fri, 14 Aug 2026 14:56:29 -0400",
     "fetched_at": "2026-08-14T19:31:27.652314+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T14:56:29-04:00"
   },
   {
     "id": "llama_2026081419",
@@ -2167,7 +2172,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T19:31:32.227139+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T19:31:32.227139+00:00"
   },
   {
     "id": "llama_2026081420",
@@ -2176,6 +2182,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T20:37:08.970732+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T20:37:08.970732+00:00"
   }
 ]
