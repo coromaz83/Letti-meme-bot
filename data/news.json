@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080707",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,621,032,707 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T07:35:26.689703+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T07:35:26.689703+00:00"
-  },
-  {
     "id": "rss_d555ca188f05",
     "source": "CoinDesk",
     "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
@@ -2206,6 +2196,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T06:20:06.487383+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081407",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,627,121,325 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T07:57:36.757369+00:00",
     "used": false
   }
 ]
