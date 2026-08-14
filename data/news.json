@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_2a810a1ad2ee",
-    "source": "The Defiant",
-    "title": "Tokyo Lawson Register Scans a Barcode for a 322-Yen JPYC Stablecoin Payment",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokyo-lawson-register-scans-a-barcode-for-a-322-yen-jpyc-stablecoin-payment",
-    "published_at": "Fri, 07 Aug 2026 17:03:35 GMT",
-    "fetched_at": "2026-08-07T17:26:26.537644+00:00",
-    "used": true,
-    "_sort_date": "2026-08-07T17:03:35+00:00"
-  },
-  {
-    "id": "rss_12ea05587e9b",
-    "source": "CryptoSlate",
-    "title": "Coinbase is pulling Loopring trading today – finding a safe place to sell LRC tokens is getting complicated",
-    "url": "https://cryptoslate.com/coinbase-is-pulling-loopring-trading-today-and-finding-a-safe-place-to-sell-lrc-tokens-is-getting-complicated/",
-    "published_at": "Fri, 07 Aug 2026 16:20:21 +0000",
-    "fetched_at": "2026-08-07T17:26:26.537644+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T16:20:21+00:00"
-  },
-  {
-    "id": "llama_2026080717",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,665,238,479 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T17:26:30.774426+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T17:26:30.774426+00:00"
-  },
-  {
-    "id": "rss_0d15eb2b03f6",
-    "source": "The Defiant",
-    "title": "SharpLink Opposes Ethereum Proposal to Burn a Growing Share of Validator Rewards",
-    "url": "https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards",
-    "published_at": "Fri, 07 Aug 2026 17:38:24 GMT",
-    "fetched_at": "2026-08-07T18:25:16.290548+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T17:38:24+00:00"
-  },
-  {
-    "id": "rss_27a076757169",
-    "source": "The Defiant",
-    "title": "Rarible Launches Solana NFT Marketplace With Claynosaurz as First Collection",
-    "url": "https://thedefiant.io/news/nfts-and-web3/rarible-launches-solana-nft-marketplace-with-claynosaurz-as-first-collection",
-    "published_at": "Fri, 07 Aug 2026 17:30:05 GMT",
-    "fetched_at": "2026-08-07T18:25:16.290548+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T17:30:05+00:00"
-  },
-  {
-    "id": "llama_2026080718",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,658,735,555 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T18:25:21.809709+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T18:25:21.809709+00:00"
-  },
-  {
     "id": "llama_2026080719",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,656,182,513 🟢 +0.00% (24h)",
@@ -2201,6 +2141,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T17:02:36.532088+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081418",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,614,143,361 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T18:26:28.389612+00:00",
     "used": false
   }
 ]
