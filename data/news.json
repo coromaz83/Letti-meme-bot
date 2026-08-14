@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080716",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,672,697,455 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-07T16:26:08.426355+00:00",
-    "used": false,
-    "_sort_date": "2026-08-07T16:26:08.426355+00:00"
-  },
-  {
     "id": "rss_2a810a1ad2ee",
     "source": "The Defiant",
     "title": "Tokyo Lawson Register Scans a Barcode for a 322-Yen JPYC Stablecoin Payment",
@@ -2202,6 +2192,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T15:57:46.494780+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081417",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,584,995,449 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T17:02:36.532088+00:00",
     "used": false
   }
 ]
