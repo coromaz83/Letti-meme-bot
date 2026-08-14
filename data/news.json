@@ -2151,5 +2151,32 @@
     "published_at": "",
     "fetched_at": "2026-08-14T18:26:28.389612+00:00",
     "used": false
+  },
+  {
+    "id": "rss_04543067a1d8",
+    "source": "Decrypt",
+    "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+    "published_at": "Fri, 14 Aug 2026 19:01:05 +0000",
+    "fetched_at": "2026-08-14T19:31:27.652314+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_35b611c5c47b",
+    "source": "Bankless",
+    "title": "EtherFi's Bet Against Crypto's Casino Economy",
+    "url": "https://www.bankless.com/read/etherfis-bet-against-cryptos-casino-economy",
+    "published_at": "Fri, 14 Aug 2026 14:56:29 -0400",
+    "fetched_at": "2026-08-14T19:31:27.652314+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081419",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,608,980,712 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-14T19:31:32.227139+00:00",
+    "used": false
   }
 ]
