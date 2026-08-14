@@ -2142,7 +2142,8 @@
     "url": "https://cryptoslate.com/tether-finally-got-the-audit-critics-demanded-just-as-washington-changed-the-test/",
     "published_at": "Fri, 14 Aug 2026 10:25:08 +0000",
     "fetched_at": "2026-08-14T10:34:21.144135+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T10:25:08+00:00"
   },
   {
     "id": "llama_2026081410",
@@ -2151,7 +2152,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T10:34:23.983748+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T10:34:23.983748+00:00"
   },
   {
     "id": "rss_d4e1233f7513",
@@ -2160,7 +2162,8 @@
     "url": "https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/",
     "published_at": "Fri, 14 Aug 2026 11:40:44 +0000",
     "fetched_at": "2026-08-14T11:50:59.593348+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T11:40:44+00:00"
   },
   {
     "id": "rss_ce4c3cd6c7df",
@@ -2169,7 +2172,8 @@
     "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
     "published_at": "Fri, 14 Aug 2026 11:45:39 +0000",
     "fetched_at": "2026-08-14T11:50:59.593348+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T11:45:39+00:00"
   },
   {
     "id": "llama_2026081411",
@@ -2178,7 +2182,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T11:51:02.243895+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T11:51:02.243895+00:00"
   },
   {
     "id": "llama_2026081413",
@@ -2187,7 +2192,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T13:22:36.056860+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T13:22:36.056860+00:00"
   },
   {
     "id": "llama_2026081414",
@@ -2196,6 +2202,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T14:32:35.790712+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T14:32:35.790712+00:00"
   }
 ]
