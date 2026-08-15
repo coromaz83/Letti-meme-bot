@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080803",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,669,602,911 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-08T03:51:55.184161+00:00",
-    "used": true,
-    "_sort_date": "2026-08-08T03:51:55.184161+00:00"
-  },
-  {
     "id": "llama_2026080805",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,676,407,291 🟢 +0.00% (24h)",
@@ -2166,6 +2156,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T03:49:08.222664+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fef657989249",
+    "source": "CryptoSlate",
+    "title": "Machi Big Brother sells 3 Bored Apes to cut his Ethereum long in 52%, but liquidation moved to just $22 away",
+    "url": "https://cryptoslate.com/machi-big-brother-ethereum-long-was-cut-52-but-liquidation-moved-to-just-22-away/",
+    "published_at": "Sat, 15 Aug 2026 04:00:13 +0000",
+    "fetched_at": "2026-08-15T04:38:41.142444+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081504",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,614,312,490 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-15T04:38:44.278136+00:00",
     "used": false
   }
 ]
