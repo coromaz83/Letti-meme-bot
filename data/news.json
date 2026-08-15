@@ -2092,7 +2092,7 @@
     "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
     "published_at": "Sat, 15 Aug 2026 12:00:00 +0000",
     "fetched_at": "2026-08-15T12:51:46.703991+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-08-15T12:00:00+00:00"
   },
   {
@@ -2132,7 +2132,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T15:28:08.848618+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T15:28:08.848618+00:00"
   },
   {
     "id": "llama_2026081516",
@@ -2141,7 +2142,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T16:33:12.538814+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T16:33:12.538814+00:00"
   },
   {
     "id": "llama_2026081517",
@@ -2150,7 +2152,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T17:26:32.781608+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T17:26:32.781608+00:00"
   },
   {
     "id": "rss_aafc2dafe7b1",
@@ -2159,7 +2162,8 @@
     "url": "https://cryptoslate.com/teth-redemptions-48-million-86-percent-eth-staked/",
     "published_at": "Sat, 15 Aug 2026 17:30:14 +0000",
     "fetched_at": "2026-08-15T17:50:12.164213+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T17:30:14+00:00"
   },
   {
     "id": "llama_2026081518",
@@ -2168,7 +2172,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T18:39:53.495944+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T18:39:53.495944+00:00"
   },
   {
     "id": "llama_2026081519",
@@ -2177,7 +2182,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T19:27:03.990314+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T19:27:03.990314+00:00"
   },
   {
     "id": "llama_2026081520",
@@ -2186,6 +2192,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T20:30:18.441194+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T20:30:18.441194+00:00"
   }
 ]
