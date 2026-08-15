@@ -2181,5 +2181,23 @@
     "published_at": "",
     "fetched_at": "2026-08-15T11:26:52.107566+00:00",
     "used": false
+  },
+  {
+    "id": "rss_c647703f9f2b",
+    "source": "CoinDesk",
+    "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+    "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+    "published_at": "Sat, 15 Aug 2026 12:00:00 +0000",
+    "fetched_at": "2026-08-15T12:51:46.703991+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081512",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,607,524,840 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-15T12:51:50.135898+00:00",
+    "used": false
   }
 ]
