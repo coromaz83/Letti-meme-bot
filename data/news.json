@@ -2092,7 +2092,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T05:31:18.824612+00:00",
-    "used": false,
+    "used": true,
     "_sort_date": "2026-08-15T05:31:18.824612+00:00"
   },
   {
@@ -2132,7 +2132,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T09:32:36.095112+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T09:32:36.095112+00:00"
   },
   {
     "id": "llama_2026081510",
@@ -2141,7 +2142,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T10:29:35.772385+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T10:29:35.772385+00:00"
   },
   {
     "id": "llama_2026081511",
@@ -2150,7 +2152,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T11:26:52.107566+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T11:26:52.107566+00:00"
   },
   {
     "id": "rss_c647703f9f2b",
@@ -2159,7 +2162,8 @@
     "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
     "published_at": "Sat, 15 Aug 2026 12:00:00 +0000",
     "fetched_at": "2026-08-15T12:51:46.703991+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T12:00:00+00:00"
   },
   {
     "id": "llama_2026081512",
@@ -2168,7 +2172,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T12:51:50.135898+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T12:51:50.135898+00:00"
   },
   {
     "id": "llama_2026081513",
@@ -2177,7 +2182,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T13:36:08.946860+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T13:36:08.946860+00:00"
   },
   {
     "id": "llama_2026081514",
@@ -2186,6 +2192,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T14:30:20.226449+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T14:30:20.226449+00:00"
   }
 ]
