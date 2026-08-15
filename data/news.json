@@ -2072,7 +2072,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T21:32:03.680732+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T21:32:03.680732+00:00"
   },
   {
     "id": "llama_2026081422",
@@ -2081,7 +2082,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T22:31:08.613485+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T22:31:08.613485+00:00"
   },
   {
     "id": "llama_2026081423",
@@ -2090,7 +2092,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-14T23:28:04.594510+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-14T23:28:04.594510+00:00"
   },
   {
     "id": "rss_7c76b7a5e2fe",
@@ -2099,7 +2102,8 @@
     "url": "https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/",
     "published_at": "Fri, 14 Aug 2026 23:40:53 +0000",
     "fetched_at": "2026-08-14T23:53:30.236607+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-14T23:40:53+00:00"
   },
   {
     "id": "llama_2026081501",
@@ -2108,7 +2112,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T01:41:33.629464+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T01:41:33.629464+00:00"
   },
   {
     "id": "llama_2026081502",
@@ -2117,7 +2122,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T02:58:29.624588+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T02:58:29.624588+00:00"
   },
   {
     "id": "llama_2026081503",
@@ -2126,7 +2132,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T03:49:08.222664+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T03:49:08.222664+00:00"
   },
   {
     "id": "rss_fef657989249",
@@ -2135,7 +2142,8 @@
     "url": "https://cryptoslate.com/machi-big-brother-ethereum-long-was-cut-52-but-liquidation-moved-to-just-22-away/",
     "published_at": "Sat, 15 Aug 2026 04:00:13 +0000",
     "fetched_at": "2026-08-15T04:38:41.142444+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T04:00:13+00:00"
   },
   {
     "id": "llama_2026081504",
@@ -2144,7 +2152,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T04:38:44.278136+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T04:38:44.278136+00:00"
   },
   {
     "id": "llama_2026081505",
@@ -2153,7 +2162,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T05:31:18.824612+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T05:31:18.824612+00:00"
   },
   {
     "id": "llama_2026081506",
@@ -2162,7 +2172,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T06:50:21.507396+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T06:50:21.507396+00:00"
   },
   {
     "id": "llama_2026081507",
@@ -2171,7 +2182,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T07:36:28.537789+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-15T07:36:28.537789+00:00"
   },
   {
     "id": "llama_2026081508",
@@ -2180,6 +2192,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T08:37:52.679350+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-15T08:37:52.679350+00:00"
   }
 ]
