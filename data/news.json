@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_030c2a50a258",
-    "source": "CryptoSlate",
-    "title": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
-    "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/",
-    "published_at": "Sat, 08 Aug 2026 18:40:18 +0000",
-    "fetched_at": "2026-08-08T18:49:19.000756+00:00",
-    "used": true,
-    "_sort_date": "2026-08-08T18:40:18+00:00"
-  },
-  {
-    "id": "llama_2026080818",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,688,458,229 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-08T18:49:23.547588+00:00",
-    "used": false,
-    "_sort_date": "2026-08-08T18:49:23.547588+00:00"
-  },
-  {
     "id": "llama_2026080819",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,688,458,229 🟢 +0.00% (24h)",
@@ -2198,6 +2178,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T18:39:53.495944+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081519",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,604,373,168 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-15T19:27:03.990314+00:00",
     "used": false
   }
 ]
