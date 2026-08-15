@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080817",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,687,457,247 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-08T17:37:20.877574+00:00",
-    "used": false,
-    "_sort_date": "2026-08-08T17:37:20.877574+00:00"
-  },
-  {
     "id": "rss_030c2a50a258",
     "source": "CryptoSlate",
     "title": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
@@ -2190,6 +2180,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-15T17:26:32.781608+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aafc2dafe7b1",
+    "source": "CryptoSlate",
+    "title": "A staked Ethereum ETF processed $48M in redemptions while keeping 86% of ETH locked, 21Shares filing shows",
+    "url": "https://cryptoslate.com/teth-redemptions-48-million-86-percent-eth-staked/",
+    "published_at": "Sat, 15 Aug 2026 17:30:14 +0000",
+    "fetched_at": "2026-08-15T17:50:12.164213+00:00",
     "used": false
   }
 ]
