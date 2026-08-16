@@ -2204,5 +2204,14 @@
     "published_at": "",
     "fetched_at": "2026-08-16T15:28:24.598262+00:00",
     "used": false
+  },
+  {
+    "id": "rss_51642e6887b1",
+    "source": "CryptoSlate",
+    "title": "Over 1.3 million staked tokens remain stranded onchain after a major validator missed its deadline to exit Aztec",
+    "url": "https://cryptoslate.com/over-1-3-million-staked-tokens-remain-stranded-onchain-after-a-major-validator-missed-its-deadline-to-exit-aztec/",
+    "published_at": "Sun, 16 Aug 2026 15:30:52 +0000",
+    "fetched_at": "2026-08-16T15:51:59.588031+00:00",
+    "used": false
   }
 ]
