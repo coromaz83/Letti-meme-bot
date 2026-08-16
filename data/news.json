@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080908",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,670,526,511 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-09T08:53:39.897912+00:00",
-    "used": true,
-    "_sort_date": "2026-08-09T08:53:39.897912+00:00"
-  },
-  {
     "id": "llama_2026080909",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,674,593,262 🟢 +0.00% (24h)",
@@ -2202,6 +2192,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-16T08:38:29.595272+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_008aaf273556",
+    "source": "CryptoSlate",
+    "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
+    "url": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
+    "published_at": "Sun, 16 Aug 2026 09:20:53 +0000",
+    "fetched_at": "2026-08-16T09:34:29.285073+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081609",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,612,299,696 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-16T09:34:33.372618+00:00",
     "used": false
   }
 ]
