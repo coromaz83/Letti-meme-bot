@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080919",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,692,998,095 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-09T19:39:37.435252+00:00",
-    "used": false,
-    "_sort_date": "2026-08-09T19:39:37.435252+00:00"
-  },
-  {
     "id": "rss_8fc01bc2c68a",
     "source": "CryptoSlate",
     "title": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
