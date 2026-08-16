@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080904",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,670,777,969 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-09T04:00:57.175719+00:00",
-    "used": true,
-    "_sort_date": "2026-08-09T04:00:57.175719+00:00"
-  },
-  {
     "id": "llama_2026080905",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,668,080,405 🟢 +0.00% (24h)",
@@ -2197,6 +2187,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-16T03:07:28.170570+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081604",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,609,311,589 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-16T04:09:42.692305+00:00",
     "used": false
   }
 ]
