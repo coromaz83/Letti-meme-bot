@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026080914",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,674,582,284 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-09T14:09:06.365768+00:00",
-    "used": false,
-    "_sort_date": "2026-08-09T14:09:06.365768+00:00"
-  },
-  {
     "id": "rss_46fc6ce2028c",
     "source": "CryptoSlate",
     "title": "Wall Street put $7B into tokenized funds, but under 1% is actually being used in DeFi",
@@ -2215,6 +2205,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-16T13:37:11.502155+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081614",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,607,797,618 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-16T14:30:03.179643+00:00",
     "used": false
   }
 ]
