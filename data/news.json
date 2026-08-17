@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081002",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,672,347,495 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T02:24:02.282542+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T02:24:02.282542+00:00"
-  },
-  {
     "id": "rss_340315b7db7f",
     "source": "BlockWorks",
     "title": "ETH derivatives reset and the next retail trade",
@@ -2213,6 +2203,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T01:46:59.293979+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081703",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,598,814,379 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T03:07:10.076616+00:00",
     "used": false
   }
 ]
