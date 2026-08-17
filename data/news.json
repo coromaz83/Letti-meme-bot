@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_bf5fa0c0ea34",
-    "source": "The Defiant",
-    "title": "Bitcoin's BIP Editors Remove Luke Dashjr Two Days After BIP-110 Fork Stalled",
-    "url": "https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled",
-    "published_at": "Mon, 10 Aug 2026 22:40:11 GMT",
-    "fetched_at": "2026-08-10T23:41:49.738359+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T22:40:11+00:00"
-  },
-  {
-    "id": "rss_d03db5765938",
-    "source": "CryptoSlate",
-    "title": "SharpLink posts $1B loss as its $1.7B Ethereum treasury could take 90 days to fully convert to cash",
-    "url": "https://cryptoslate.com/sharplink-posts-1b-loss-as-its-1-7b-ethereum-treasury-could-take-90-days-to-fully-convert-to-cash/",
-    "published_at": "Mon, 10 Aug 2026 23:10:21 +0000",
-    "fetched_at": "2026-08-10T23:41:49.738359+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T23:10:21+00:00"
-  },
-  {
-    "id": "llama_2026081023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,617,090,485 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T23:41:53.429092+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T23:41:53.429092+00:00"
-  },
-  {
     "id": "llama_2026081102",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,616,405,475 🟢 +0.00% (24h)",
