@@ -2085,7 +2085,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T09:50:59.689240+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T09:50:59.689240+00:00"
   },
   {
     "id": "llama_2026081710",
@@ -2094,7 +2095,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T10:38:54.982105+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T10:38:54.982105+00:00"
   },
   {
     "id": "llama_2026081711",
@@ -2103,7 +2105,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T11:32:40.514616+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T11:32:40.514616+00:00"
   },
   {
     "id": "rss_2b0072922191",
@@ -2112,7 +2115,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
     "published_at": "Mon, 17 Aug 2026 12:02:10 +0000",
     "fetched_at": "2026-08-17T12:58:02.116924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T12:02:10+00:00"
   },
   {
     "id": "llama_2026081712",
@@ -2121,7 +2125,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T12:58:06.557452+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T12:58:06.557452+00:00"
   },
   {
     "id": "llama_2026081713",
@@ -2130,7 +2135,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T13:47:46.167190+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T13:47:46.167190+00:00"
   },
   {
     "id": "rss_aaafd79882cd",
@@ -2139,7 +2145,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
     "published_at": "Mon, 17 Aug 2026 14:04:21 +0000",
     "fetched_at": "2026-08-17T14:35:17.556280+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T14:04:21+00:00"
   },
   {
     "id": "llama_2026081714",
@@ -2148,7 +2155,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T14:35:22.915933+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T14:35:22.915933+00:00"
   },
   {
     "id": "rss_338711e9de89",
@@ -2157,7 +2165,8 @@
     "url": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
     "published_at": "Mon, 17 Aug 2026 15:00:00 GMT",
     "fetched_at": "2026-08-17T15:32:02.684580+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T15:00:00+00:00"
   },
   {
     "id": "llama_2026081715",
@@ -2166,7 +2175,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T15:32:05.829270+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T15:32:05.829270+00:00"
   },
   {
     "id": "rss_60944fef70c6",
@@ -2175,7 +2185,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
     "published_at": "Mon, 17 Aug 2026 15:52:20 GMT",
     "fetched_at": "2026-08-17T16:36:11.129206+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T15:52:20+00:00"
   },
   {
     "id": "rss_d2e9d0117f57",
@@ -2184,7 +2195,8 @@
     "url": "https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/",
     "published_at": "Mon, 17 Aug 2026 16:30:39 +0000",
     "fetched_at": "2026-08-17T16:36:11.129206+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T16:30:39+00:00"
   },
   {
     "id": "rss_72516e810a75",
@@ -2193,7 +2205,8 @@
     "url": "https://cryptoslate.com/ethereums-next-major-upgrade-just-slipped-to-late-2026-forcing-a-two-week-scramble-to-save-its-2027-roadmap/",
     "published_at": "Mon, 17 Aug 2026 15:35:20 +0000",
     "fetched_at": "2026-08-17T16:36:11.129206+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T15:35:20+00:00"
   },
   {
     "id": "rss_2c4cbb10c56c",
@@ -2202,7 +2215,8 @@
     "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
     "published_at": "Mon, 17 Aug 2026 15:47:59 +0000",
     "fetched_at": "2026-08-17T16:36:11.129206+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T15:47:59+00:00"
   },
   {
     "id": "llama_2026081716",
@@ -2211,7 +2225,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T16:36:15.533191+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T16:36:15.533191+00:00"
   },
   {
     "id": "rss_935f3b855f6e",
@@ -2229,7 +2244,8 @@
     "url": "https://www.bankless.com/read/news/ansem-debuts-launchpad-and-the-z500-onchain-index",
     "published_at": "Mon, 17 Aug 2026 13:24:21 -0400",
     "fetched_at": "2026-08-17T17:33:39.470169+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T13:24:21-04:00"
   },
   {
     "id": "llama_2026081717",
@@ -2238,7 +2254,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T17:33:43.749597+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T17:33:43.749597+00:00"
   },
   {
     "id": "rss_8b8252856cc9",
@@ -2247,7 +2264,8 @@
     "url": "https://thedefiant.io/news/defi/compound-foundation-52m-institutional-credit-leadership",
     "published_at": "Mon, 17 Aug 2026 17:49:57 GMT",
     "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T17:49:57+00:00"
   },
   {
     "id": "rss_1b473c9ad0f4",
@@ -2256,7 +2274,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/fake-world-assets-opens-its-gacha-pool-to-new-nft-collections",
     "published_at": "Mon, 17 Aug 2026 17:37:44 GMT",
     "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-17T17:37:44+00:00"
   },
   {
     "id": "rss_fe29ade19100",
@@ -2265,7 +2284,8 @@
     "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
     "published_at": "Mon, 17 Aug 2026 18:19:46 +0000",
     "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T18:19:46+00:00"
   },
   {
     "id": "llama_2026081718",
@@ -2274,7 +2294,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T18:50:06.297084+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T18:50:06.297084+00:00"
   },
   {
     "id": "llama_2026081719",
@@ -2283,7 +2304,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T19:33:45.729803+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T19:33:45.729803+00:00"
   },
   {
     "id": "rss_7088560575cd",
@@ -2292,7 +2314,8 @@
     "url": "https://thedefiant.io/news/defi/prediction-market-search-interest-falls-83-from-world-cup-peak-as-kalshi-pulls-away",
     "published_at": "Mon, 17 Aug 2026 19:45:30 GMT",
     "fetched_at": "2026-08-17T20:34:31.142063+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-17T19:45:30+00:00"
   },
   {
     "id": "rss_d8f0e9a42d77",
@@ -2301,7 +2324,8 @@
     "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
     "published_at": "Mon, 17 Aug 2026 20:31:04 +0000",
     "fetched_at": "2026-08-17T20:34:31.142063+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T20:31:04+00:00"
   },
   {
     "id": "llama_2026081720",
@@ -2310,6 +2334,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T20:34:34.964982+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-17T20:34:34.964982+00:00"
   }
 ]
