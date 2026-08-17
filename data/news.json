@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-08-10T16:24:57.857630+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081016",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,655,165,675 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T16:25:02.293749+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T16:25:02.293749+00:00"
-  },
-  {
     "id": "rss_9a77609fd0b9",
     "source": "The Defiant",
     "title": "Ether Products Lead $600M Crypto ETP Flow Rebound in July",
@@ -2255,6 +2236,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T15:32:05.829270+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_60944fef70c6",
+    "source": "The Defiant",
+    "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+    "published_at": "Mon, 17 Aug 2026 15:52:20 GMT",
+    "fetched_at": "2026-08-17T16:36:11.129206+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d2e9d0117f57",
+    "source": "CryptoSlate",
+    "title": "Bitcoin Core feature freeze nears as rebase issues hit unencrypted-connection proposal",
+    "url": "https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/",
+    "published_at": "Mon, 17 Aug 2026 16:30:39 +0000",
+    "fetched_at": "2026-08-17T16:36:11.129206+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_72516e810a75",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s next major upgrade just slipped to late 2026, forcing a two-week scramble to save its 2027 roadmap",
+    "url": "https://cryptoslate.com/ethereums-next-major-upgrade-just-slipped-to-late-2026-forcing-a-two-week-scramble-to-save-its-2027-roadmap/",
+    "published_at": "Mon, 17 Aug 2026 15:35:20 +0000",
+    "fetched_at": "2026-08-17T16:36:11.129206+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c4cbb10c56c",
+    "source": "Decrypt",
+    "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+    "published_at": "Mon, 17 Aug 2026 15:47:59 +0000",
+    "fetched_at": "2026-08-17T16:36:11.129206+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081716",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,652,791,644 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T16:36:15.533191+00:00",
     "used": false
   }
 ]
