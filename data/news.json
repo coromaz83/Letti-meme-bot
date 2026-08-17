@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_9a77609fd0b9",
-    "source": "The Defiant",
-    "title": "Ether Products Lead $600M Crypto ETP Flow Rebound in July",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july",
-    "published_at": "Mon, 10 Aug 2026 17:08:29 GMT",
-    "fetched_at": "2026-08-10T17:28:41.433597+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T17:08:29+00:00"
-  },
-  {
-    "id": "rss_6cdeb672fd9c",
-    "source": "The Defiant",
-    "title": "BIP-110 Bitcoin Fork Stalls at Two Blocks as Its Only Miner Quits",
-    "url": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits",
-    "published_at": "Mon, 10 Aug 2026 16:15:22 GMT",
-    "fetched_at": "2026-08-10T17:28:41.433597+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T16:15:22+00:00"
-  },
-  {
-    "id": "llama_2026081017",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,624,355,161 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T17:28:46.343229+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T17:28:46.343229+00:00"
-  },
-  {
     "id": "rss_77ebb22dbb70",
     "source": "CryptoSlate",
     "title": "Decentralization was the beginning. Call it onchain finance",
@@ -2281,6 +2251,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T16:36:15.533191+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-08-17T17:33:39.470169+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b83180bee57",
+    "source": "Bankless",
+    "title": "Ansem Debuts Launchpad and the z500 Onchain Index",
+    "url": "https://www.bankless.com/read/news/ansem-debuts-launchpad-and-the-z500-onchain-index",
+    "published_at": "Mon, 17 Aug 2026 13:24:21 -0400",
+    "fetched_at": "2026-08-17T17:33:39.470169+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081717",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,664,035,494 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T17:33:43.749597+00:00",
     "used": false
   }
 ]
