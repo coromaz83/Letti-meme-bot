@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081012",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,681,688,089 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T12:10:23.226080+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T12:10:23.226080+00:00"
-  },
-  {
     "id": "rss_ad3cf317d023",
     "source": "CoinDesk",
     "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
@@ -2242,6 +2232,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T11:32:40.514616+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2b0072922191",
+    "source": "CoinDesk",
+    "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
+    "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+    "published_at": "Mon, 17 Aug 2026 12:02:10 +0000",
+    "fetched_at": "2026-08-17T12:58:02.116924+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081712",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,644,810,045 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T12:58:06.557452+00:00",
     "used": false
   }
 ]
