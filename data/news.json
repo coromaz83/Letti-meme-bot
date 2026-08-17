@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_ad3cf317d023",
-    "source": "CoinDesk",
-    "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-    "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-    "published_at": "Mon, 10 Aug 2026 13:50:51 +0000",
-    "fetched_at": "2026-08-10T13:58:00.017562+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T13:50:51+00:00"
-  },
-  {
-    "id": "llama_2026081013",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,681,682,712 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T13:58:03.376754+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T13:58:03.376754+00:00"
-  },
-  {
     "id": "rss_f030ac6b1d66",
     "source": "Decrypt",
     "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
@@ -2259,6 +2239,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T13:47:46.167190+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aaafd79882cd",
+    "source": "CoinDesk",
+    "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+    "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
+    "published_at": "Mon, 17 Aug 2026 14:04:21 +0000",
+    "fetched_at": "2026-08-17T14:35:17.556280+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081714",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,640,737,348 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T14:35:22.915933+00:00",
     "used": false
   }
 ]
