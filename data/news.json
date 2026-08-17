@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_f030ac6b1d66",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
-    "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-    "published_at": "Mon, 10 Aug 2026 14:12:12 +0000",
-    "fetched_at": "2026-08-10T15:09:48.538774+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T14:12:12+00:00"
-  },
-  {
-    "id": "llama_2026081015",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,673,273,065 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T15:09:52.790933+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T15:09:52.790933+00:00"
-  },
-  {
     "id": "rss_935f3b855f6e",
     "source": "Cointelegraph Base",
     "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
@@ -2257,6 +2237,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T14:35:22.915933+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_338711e9de89",
+    "source": "The Defiant",
+    "title": "SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum",
+    "url": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
+    "published_at": "Mon, 17 Aug 2026 15:00:00 GMT",
+    "fetched_at": "2026-08-17T15:32:02.684580+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081715",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,646,414,104 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T15:32:05.829270+00:00",
     "used": false
   }
 ]
