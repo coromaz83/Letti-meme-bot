@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_148eb6a08c9d",
-    "source": "The Defiant",
-    "title": "Robinhood's Head of Product Reveals How Robinhood Chain Hit 200M Transactions in 30 Days",
-    "url": "https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days",
-    "published_at": "Mon, 10 Aug 2026 19:42:20 GMT",
-    "fetched_at": "2026-08-10T20:52:29.129164+00:00",
-    "used": true,
-    "_sort_date": "2026-08-10T19:42:20+00:00"
-  },
-  {
-    "id": "llama_2026081020",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,610,195,611 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-10T20:52:34.765065+00:00",
-    "used": false,
-    "_sort_date": "2026-08-10T20:52:34.765065+00:00"
-  },
-  {
     "id": "rss_212dd126b1df",
     "source": "The Defiant",
     "title": "Two Prediction Markets Shut Down Hours Apart as Kalshi and Polymarket Take 93% of Volume",
@@ -2336,5 +2316,32 @@
     "fetched_at": "2026-08-17T20:34:34.964982+00:00",
     "used": true,
     "_sort_date": "2026-08-17T20:34:34.964982+00:00"
+  },
+  {
+    "id": "rss_6a2ff2bcfd16",
+    "source": "The Defiant",
+    "title": "Deel Takes Its DLUSD Stablecoin Wallet to More Than 80 Countries",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-dlusd-stablecoin-wallet-80-countries",
+    "published_at": "Mon, 17 Aug 2026 21:00:23 GMT",
+    "fetched_at": "2026-08-17T21:31:57.417208+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2cd3c92ad2c4",
+    "source": "The Defiant",
+    "title": "Neynar Seeks a New Owner for Farcaster Seven Months After Buying It",
+    "url": "https://thedefiant.io/news/nfts-and-web3/neynar-seeks-new-owner-farcaster-clanker",
+    "published_at": "Mon, 17 Aug 2026 20:59:05 GMT",
+    "fetched_at": "2026-08-17T21:31:57.417208+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081721",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,726,293,769 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-17T21:32:00.787204+00:00",
+    "used": false
   }
 ]
