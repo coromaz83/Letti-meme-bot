@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_eabb6b2e8847",
-    "source": "CryptoSlate",
-    "title": "On-chain data shows $50 million at risk as Tether’s Alloy shutdown deadline boils down to 5 forgotten gold vaults",
-    "url": "https://cryptoslate.com/on-chain-data-shows-50-million-at-risk-as-tethers-alloy-shutdown-deadline-boils-down-to-5-forgotten-gold-vaults/",
-    "published_at": "Tue, 11 Aug 2026 11:20:11 +0000",
-    "fetched_at": "2026-08-11T11:22:46.079054+00:00",
-    "used": true,
-    "_sort_date": "2026-08-11T11:20:11+00:00"
-  },
-  {
-    "id": "llama_2026081111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,632,468,891 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T11:22:48.741407+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T11:22:48.741407+00:00"
-  },
-  {
     "id": "rss_278cbbbe0e68",
     "source": "CoinDesk",
     "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
@@ -2334,6 +2314,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T10:36:23.010785+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081811",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,724,779,363 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T11:32:07.038301+00:00",
     "used": false
   }
 ]
