@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081104",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,620,747,288 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T04:03:07.492168+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T04:03:07.492168+00:00"
-  },
-  {
     "id": "rss_209b703fa80f",
     "source": "CoinDesk",
     "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
@@ -2319,6 +2309,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T03:02:53.897870+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081804",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,718,572,480 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T04:09:37.287194+00:00",
     "used": false
   }
 ]
