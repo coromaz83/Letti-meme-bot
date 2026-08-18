@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,631,277,993 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T16:26:16.171400+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T16:26:16.171400+00:00"
-  },
-  {
     "id": "rss_3c54d99fe4ca",
     "source": "The Defiant",
     "title": "ENS Tokenholders Hand Endowment Control to a Staffed Foundation",
@@ -2305,6 +2295,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T15:38:29.442920+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a2ad462554c",
+    "source": "CryptoSlate",
+    "title": "Circle still tells users to buy Noble USDC on Coinbase after cutoff date passes",
+    "url": "https://cryptoslate.com/circle-still-tells-users-to-buy-noble-usdc-on-coinbase-after-cutoff-date-passes/",
+    "published_at": "Tue, 18 Aug 2026 16:30:58 +0000",
+    "fetched_at": "2026-08-18T16:39:25.759321+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081816",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,731,655,803 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T16:39:30.357352+00:00",
     "used": false
   }
 ]
