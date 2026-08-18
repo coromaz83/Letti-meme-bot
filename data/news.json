@@ -2215,7 +2215,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T21:32:00.787204+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T21:32:00.787204+00:00"
   },
   {
     "id": "rss_337dad366da2",
@@ -2224,7 +2225,8 @@
     "url": "https://thedefiant.io/news/defi/printr-launchpad-wind-down-cancels-tge-airdrop",
     "published_at": "Mon, 17 Aug 2026 22:13:41 GMT",
     "fetched_at": "2026-08-17T22:31:20.486422+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T22:13:41+00:00"
   },
   {
     "id": "rss_9d3b2d1e36f2",
@@ -2233,7 +2235,8 @@
     "url": "https://thedefiant.io/news/tokens/ansem-z500-index-teams-airdrop-supply-ansem-holders",
     "published_at": "Mon, 17 Aug 2026 21:40:00 GMT",
     "fetched_at": "2026-08-17T22:31:20.486422+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T21:40:00+00:00"
   },
   {
     "id": "llama_2026081722",
@@ -2242,7 +2245,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T22:31:23.590451+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T22:31:23.590451+00:00"
   },
   {
     "id": "llama_2026081723",
@@ -2251,7 +2255,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-17T23:29:17.976303+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-17T23:29:17.976303+00:00"
   },
   {
     "id": "llama_2026081801",
@@ -2260,7 +2265,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T01:42:10.959239+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T01:42:10.959239+00:00"
   },
   {
     "id": "llama_2026081803",
@@ -2269,7 +2275,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T03:02:53.897870+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T03:02:53.897870+00:00"
   },
   {
     "id": "llama_2026081804",
@@ -2278,7 +2285,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T04:09:37.287194+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T04:09:37.287194+00:00"
   },
   {
     "id": "llama_2026081805",
@@ -2287,7 +2295,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T05:03:38.534790+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T05:03:38.534790+00:00"
   },
   {
     "id": "rss_e74cd4eefb93",
@@ -2296,7 +2305,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
     "published_at": "Tue, 18 Aug 2026 05:18:18 +0000",
     "fetched_at": "2026-08-18T05:56:57.838667+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T05:18:18+00:00"
   },
   {
     "id": "llama_2026081806",
@@ -2305,7 +2315,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T06:57:37.672983+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T06:57:37.672983+00:00"
   },
   {
     "id": "llama_2026081807",
@@ -2314,7 +2325,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T07:47:42.440163+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T07:47:42.440163+00:00"
   },
   {
     "id": "llama_2026081808",
@@ -2323,6 +2335,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T08:46:22.914476+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T08:46:22.914476+00:00"
   }
 ]
