@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_666e423bced7",
-    "source": "CryptoSlate",
-    "title": "This spot Bitcoin ETF only logged six inflow days ever – now investors have until August 17 before forced cash liquidation",
-    "url": "https://cryptoslate.com/hashdex-gives-defi-holders-until-aug-17-after-fund-sheds-25-of-shares/",
-    "published_at": "Tue, 11 Aug 2026 22:30:08 +0000",
-    "fetched_at": "2026-08-11T23:20:03.988874+00:00",
-    "used": true,
-    "_sort_date": "2026-08-11T22:30:08+00:00"
-  },
-  {
-    "id": "llama_2026081123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,614,409,293 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T23:20:08.351396+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T23:20:08.351396+00:00"
-  },
-  {
     "id": "llama_2026081200",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,616,769,400 🟢 +0.00% (24h)",
@@ -2300,6 +2280,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T22:31:20.879633+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081823",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,757,495,655 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T23:28:42.076181+00:00",
     "used": false
   }
 ]
