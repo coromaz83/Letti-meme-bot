@@ -2206,7 +2206,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T15:38:29.442920+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T15:38:29.442920+00:00"
   },
   {
     "id": "rss_9a2ad462554c",
@@ -2215,7 +2216,8 @@
     "url": "https://cryptoslate.com/circle-still-tells-users-to-buy-noble-usdc-on-coinbase-after-cutoff-date-passes/",
     "published_at": "Tue, 18 Aug 2026 16:30:58 +0000",
     "fetched_at": "2026-08-18T16:39:25.759321+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T16:30:58+00:00"
   },
   {
     "id": "llama_2026081816",
@@ -2224,7 +2226,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T16:39:30.357352+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T16:39:30.357352+00:00"
   },
   {
     "id": "llama_2026081817",
@@ -2233,7 +2236,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T17:34:11.527035+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T17:34:11.527035+00:00"
   },
   {
     "id": "rss_3fa3c7388323",
@@ -2242,7 +2246,8 @@
     "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/",
     "published_at": "Tue, 18 Aug 2026 17:50:20 +0000",
     "fetched_at": "2026-08-18T18:48:54.919911+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T17:50:20+00:00"
   },
   {
     "id": "llama_2026081818",
@@ -2251,7 +2256,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T18:48:58.212437+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T18:48:58.212437+00:00"
   },
   {
     "id": "llama_2026081819",
@@ -2260,7 +2266,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T19:33:03.621486+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T19:33:03.621486+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -2278,6 +2285,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T20:31:51.567465+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T20:31:51.567465+00:00"
   }
 ]
