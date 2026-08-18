@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,645,256,833 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T13:58:08.406232+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T13:58:08.406232+00:00"
-  },
-  {
     "id": "rss_b801e64deaf9",
     "source": "The Defiant",
     "title": "Ousted Pudgy Penguins Co-Founder Sells Out 44,444-Piece NFT Mint on Robinhood Chain",
@@ -2339,6 +2329,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T13:51:53.407600+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081814",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,735,311,963 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T14:40:39.112249+00:00",
     "used": false
   }
 ]
