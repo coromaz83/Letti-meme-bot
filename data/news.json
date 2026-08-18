@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_3c54d99fe4ca",
-    "source": "The Defiant",
-    "title": "ENS Tokenholders Hand Endowment Control to a Staffed Foundation",
-    "url": "https://thedefiant.io/news/defi/ens-tokenholders-hand-endowment-control-to-a-staffed-foundation",
-    "published_at": "Tue, 11 Aug 2026 16:34:39 GMT",
-    "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T16:34:39+00:00"
-  },
-  {
-    "id": "rss_797396dba1ae",
-    "source": "The Defiant",
-    "title": "Coinbase Wins Abu Dhabi License for Tokenized Securities Hub",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub",
-    "published_at": "Tue, 11 Aug 2026 16:21:34 GMT",
-    "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T16:21:34+00:00"
-  },
-  {
-    "id": "rss_31a265242de2",
-    "source": "Decrypt",
-    "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-    "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-    "published_at": "Tue, 11 Aug 2026 17:26:54 +0000",
-    "fetched_at": "2026-08-11T17:31:44.387786+00:00",
-    "used": true,
-    "_sort_date": "2026-08-11T17:26:54+00:00"
-  },
-  {
-    "id": "llama_2026081117",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,598,186,326 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T17:31:47.045312+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T17:31:47.045312+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -2313,6 +2273,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T16:39:30.357352+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081817",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,766,815,321 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T17:34:11.527035+00:00",
     "used": false
   }
 ]
