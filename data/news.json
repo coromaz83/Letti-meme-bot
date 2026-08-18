@@ -2275,7 +2275,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T09:40:40.582614+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T09:40:40.582614+00:00"
   },
   {
     "id": "llama_2026081810",
@@ -2284,7 +2285,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T10:36:23.010785+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T10:36:23.010785+00:00"
   },
   {
     "id": "llama_2026081811",
@@ -2293,7 +2295,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T11:32:07.038301+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T11:32:07.038301+00:00"
   },
   {
     "id": "rss_8e36e4957741",
@@ -2302,7 +2305,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
     "published_at": "Tue, 18 Aug 2026 12:17:05 +0000",
     "fetched_at": "2026-08-18T12:59:06.177104+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T12:17:05+00:00"
   },
   {
     "id": "rss_2fb1f2349d52",
@@ -2311,7 +2315,8 @@
     "url": "https://cryptoslate.com/half-of-aaves-debt-sits-in-just-9-of-positions-built-around-one-ethereum-correlation-trade/",
     "published_at": "Tue, 18 Aug 2026 12:05:39 +0000",
     "fetched_at": "2026-08-18T12:59:06.177104+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T12:05:39+00:00"
   },
   {
     "id": "llama_2026081812",
@@ -2320,7 +2325,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T12:59:11.861518+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T12:59:11.861518+00:00"
   },
   {
     "id": "llama_2026081813",
@@ -2329,7 +2335,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T13:51:53.407600+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-18T13:51:53.407600+00:00"
   },
   {
     "id": "llama_2026081814",
@@ -2338,6 +2345,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T14:40:39.112249+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-18T14:40:39.112249+00:00"
   }
 ]
