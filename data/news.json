@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_edea1421b3f9",
-    "source": "The Defiant",
-    "title": "Stablecoin Card Issuer Rain Buys Merchant Wallet Startup Ansa",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-acquires-ansa-stored-value-merchant-wallets",
-    "published_at": "Tue, 11 Aug 2026 19:10:48 GMT",
-    "fetched_at": "2026-08-11T20:11:02.381280+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T19:10:48+00:00"
-  },
-  {
-    "id": "llama_2026081120",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,597,634,289 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-11T20:11:08.541241+00:00",
-    "used": false,
-    "_sort_date": "2026-08-11T20:11:08.541241+00:00"
-  },
-  {
     "id": "rss_57796a87182e",
     "source": "The Defiant",
     "title": "CFTC Sues Goliath Ventures Over Alleged $397M DeFi Liquidity Pool Ponzi",
@@ -2280,6 +2260,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-18T19:33:03.621486+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-08-18T20:31:46.679680+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081820",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,765,933,846 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T20:31:51.567465+00:00",
     "used": false
   }
 ]
