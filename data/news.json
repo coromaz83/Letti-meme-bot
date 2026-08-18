@@ -2283,5 +2283,23 @@
     "published_at": "",
     "fetched_at": "2026-08-18T17:34:11.527035+00:00",
     "used": false
+  },
+  {
+    "id": "rss_3fa3c7388323",
+    "source": "CryptoSlate",
+    "title": "Ethereum wants to hide your trades from bots before they can attack",
+    "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/",
+    "published_at": "Tue, 18 Aug 2026 17:50:20 +0000",
+    "fetched_at": "2026-08-18T18:48:54.919911+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081818",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,764,681,513 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-18T18:48:58.212437+00:00",
+    "used": false
   }
 ]
