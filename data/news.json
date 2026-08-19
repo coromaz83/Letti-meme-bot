@@ -2256,7 +2256,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
     "published_at": "Wed, 19 Aug 2026 15:22:29 +0000",
     "fetched_at": "2026-08-19T15:59:06.402732+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T15:22:29+00:00"
   },
   {
     "id": "rss_114fcfe24a3d",
@@ -2265,7 +2266,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger",
     "published_at": "Wed, 19 Aug 2026 14:45:42 GMT",
     "fetched_at": "2026-08-19T15:59:06.402732+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T14:45:42+00:00"
   },
   {
     "id": "rss_e3cacf70e60d",
@@ -2274,7 +2276,8 @@
     "url": "https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq/",
     "published_at": "Wed, 19 Aug 2026 16:20:15 +0000",
     "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T16:20:15+00:00"
   },
   {
     "id": "rss_abc9dd994f8d",
@@ -2283,7 +2286,8 @@
     "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
     "published_at": "Wed, 19 Aug 2026 16:31:04 +0000",
     "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T16:31:04+00:00"
   },
   {
     "id": "rss_ce13ddd2fa43",
@@ -2292,7 +2296,8 @@
     "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
     "published_at": "Wed, 19 Aug 2026 16:00:06 +0000",
     "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T16:00:06+00:00"
   },
   {
     "id": "llama_2026081916",
@@ -2301,7 +2306,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T16:41:54.062135+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T16:41:54.062135+00:00"
   },
   {
     "id": "rss_28d16a2a3248",
@@ -2310,7 +2316,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-tops-68k-as-short-liquidations-hit-1-7-billion",
     "published_at": "Wed, 19 Aug 2026 17:16:33 GMT",
     "fetched_at": "2026-08-19T17:32:51.696426+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-19T17:16:33+00:00"
   },
   {
     "id": "llama_2026081917",
@@ -2319,7 +2326,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T17:32:56.977765+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T17:32:56.977765+00:00"
   },
   {
     "id": "rss_823766072903",
@@ -2328,7 +2336,8 @@
     "url": "https://cryptoslate.com/circles-renewed-coinbase-deal-creates-two-ways-to-challenge-coinbases-usdc-payouts-but-neither-works-quickly/",
     "published_at": "Wed, 19 Aug 2026 17:35:32 +0000",
     "fetched_at": "2026-08-19T18:44:47.063767+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-19T17:35:32+00:00"
   },
   {
     "id": "rss_42981f2201b8",
@@ -2337,7 +2346,8 @@
     "url": "https://www.bankless.com/read/news/nethermind-drops-layerzero-verifier-role-joins-chainlink",
     "published_at": "Wed, 19 Aug 2026 13:55:55 -0400",
     "fetched_at": "2026-08-19T18:44:47.063767+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T13:55:55-04:00"
   },
   {
     "id": "llama_2026081918",
@@ -2346,7 +2356,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T18:44:51.181167+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T18:44:51.181167+00:00"
   },
   {
     "id": "rss_1a9dbb6ce614",
@@ -2355,7 +2366,8 @@
     "url": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
     "published_at": "Wed, 19 Aug 2026 19:25:14 GMT",
     "fetched_at": "2026-08-19T19:32:03.574268+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T19:25:14+00:00"
   },
   {
     "id": "rss_c1ceeb67d175",
@@ -2364,7 +2376,8 @@
     "url": "https://www.bankless.com/read/news/base-app-unveils-hyperliquid-powered-perps",
     "published_at": "Wed, 19 Aug 2026 15:11:58 -0400",
     "fetched_at": "2026-08-19T19:32:03.574268+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T15:11:58-04:00"
   },
   {
     "id": "llama_2026081919",
@@ -2373,7 +2386,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T19:32:07.591839+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T19:32:07.591839+00:00"
   },
   {
     "id": "rss_016903d49e45",
@@ -2382,7 +2396,8 @@
     "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
     "published_at": "Wed, 19 Aug 2026 19:51:11 +0000",
     "fetched_at": "2026-08-19T20:36:14.153258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T19:51:11+00:00"
   },
   {
     "id": "rss_bd34217ebf75",
@@ -2391,7 +2406,8 @@
     "url": "https://www.bankless.com/read/the-debasement-trade-returns",
     "published_at": "Wed, 19 Aug 2026 15:32:37 -0400",
     "fetched_at": "2026-08-19T20:36:14.153258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-19T15:32:37-04:00"
   },
   {
     "id": "llama_2026081920",
@@ -2400,6 +2416,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T20:36:18.870741+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-19T20:36:18.870741+00:00"
   }
 ]
