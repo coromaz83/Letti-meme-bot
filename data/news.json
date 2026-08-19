@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_26ce5ffca9f0",
-    "source": "The Defiant",
-    "title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
-    "url": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
-    "published_at": "Wed, 12 Aug 2026 13:59:49 GMT",
-    "fetched_at": "2026-08-12T13:59:47.995250+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T13:59:49+00:00"
-  },
-  {
-    "id": "llama_2026081213",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,651,578,558 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T13:59:50.482121+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T13:59:50.482121+00:00"
-  },
-  {
     "id": "llama_2026081215",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,710,685,590 🟢 +0.00% (24h)",
@@ -2313,6 +2293,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T13:00:38.724188+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081914",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,709,934,524 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T14:08:08.987629+00:00",
     "used": false
   }
 ]
