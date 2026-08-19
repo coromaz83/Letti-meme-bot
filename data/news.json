@@ -2306,5 +2306,23 @@
     "published_at": "",
     "fetched_at": "2026-08-19T04:09:42.726340+00:00",
     "used": false
+  },
+  {
+    "id": "rss_432206d6f8d1",
+    "source": "CoinDesk",
+    "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+    "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+    "published_at": "Wed, 19 Aug 2026 04:25:42 +0000",
+    "fetched_at": "2026-08-19T05:04:11.612104+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081905",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,684,252,267 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T05:04:16.011458+00:00",
+    "used": false
   }
 ]
