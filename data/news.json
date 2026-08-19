@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081219",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,675,117,418 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T19:11:58.212542+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T19:11:58.212542+00:00"
-  },
-  {
     "id": "rss_fd0dd83dcfdd",
     "source": "The Defiant",
     "title": "Marinade Says 28.83% of Solana Stake Went Delinquent, Nearing Finality Halt",
@@ -2396,6 +2386,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T18:44:51.181167+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1a9dbb6ce614",
+    "source": "The Defiant",
+    "title": "How Maple Finance Became the #2 Crypto Lender Behind Tether — Sid Powell Explains",
+    "url": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
+    "published_at": "Wed, 19 Aug 2026 19:25:14 GMT",
+    "fetched_at": "2026-08-19T19:32:03.574268+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c1ceeb67d175",
+    "source": "Bankless",
+    "title": "Base App Unveils Hyperliquid-Powered Perps",
+    "url": "https://www.bankless.com/read/news/base-app-unveils-hyperliquid-powered-perps",
+    "published_at": "Wed, 19 Aug 2026 15:11:58 -0400",
+    "fetched_at": "2026-08-19T19:32:03.574268+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081919",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,910,161,191 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T19:32:07.591839+00:00",
     "used": false
   }
 ]
