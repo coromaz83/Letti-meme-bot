@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081215",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,710,685,590 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T15:09:21.725011+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T15:09:21.725011+00:00"
-  },
-  {
     "id": "rss_3afb66f74bf7",
     "source": "The Defiant",
     "title": "Bitwise Cuts 14% of Staff as Client Assets Fall to $9 Billion",
@@ -2358,5 +2348,23 @@
     "fetched_at": "2026-08-19T15:03:39.497095+00:00",
     "used": false,
     "_sort_date": "2026-08-19T15:03:39.497095+00:00"
+  },
+  {
+    "id": "rss_17e40568306c",
+    "source": "CoinDesk",
+    "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+    "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+    "published_at": "Wed, 19 Aug 2026 15:22:29 +0000",
+    "fetched_at": "2026-08-19T15:59:06.402732+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_114fcfe24a3d",
+    "source": "The Defiant",
+    "title": "HSBC and Standard Chartered Complete First Live Transaction on Swift Blockchain Ledger",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger",
+    "published_at": "Wed, 19 Aug 2026 14:45:42 GMT",
+    "fetched_at": "2026-08-19T15:59:06.402732+00:00",
+    "used": false
   }
 ]
