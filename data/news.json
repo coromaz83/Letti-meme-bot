@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_b51d8d399b78",
-    "source": "CoinDesk",
-    "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-    "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-    "published_at": "Wed, 12 Aug 2026 09:30:20 +0000",
-    "fetched_at": "2026-08-12T09:42:49.083468+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T09:30:20+00:00"
-  },
-  {
-    "id": "llama_2026081209",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,619,575,830 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T09:42:54.193995+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T09:42:54.193995+00:00"
-  },
-  {
     "id": "llama_2026081211",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,623,871,599 🟢 +0.00% (24h)",
@@ -2337,6 +2317,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T09:40:39.852902+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081910",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,686,110,702 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T10:35:42.774593+00:00",
     "used": false
   }
 ]
