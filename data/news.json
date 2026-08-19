@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_20a8ed8e5ea3",
-    "source": "The Defiant",
-    "title": "Boltz Founders Exit as Unnamed Bitcoin Group Agrees to Take Over Suspended Swap Service",
-    "url": "https://thedefiant.io/news/infrastructure/boltz-founders-exit-as-unnamed-bitcoin-group-agrees-to-take-over-suspended-swap-service",
-    "published_at": "Wed, 12 Aug 2026 21:35:29 GMT",
-    "fetched_at": "2026-08-12T22:19:58.461592+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081222",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,682,216,884 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T22:20:01.103508+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T22:20:01.103508+00:00"
-  },
-  {
     "id": "llama_2026081223",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,674,829,225 🟢 +0.00% (24h)",
@@ -2366,6 +2347,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T21:32:20.499658+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081922",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,020,105,636 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T22:32:02.391070+00:00",
     "used": false
   }
 ]
