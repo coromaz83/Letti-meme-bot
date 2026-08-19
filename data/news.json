@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_5436712dcecd",
-    "source": "CoinDesk",
-    "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-    "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-    "published_at": "Wed, 12 Aug 2026 05:26:55 +0000",
-    "fetched_at": "2026-08-12T06:54:56.807301+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T05:26:55+00:00"
-  },
-  {
-    "id": "llama_2026081206",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,624,290,745 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T06:54:58.298749+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T06:54:58.298749+00:00"
-  },
-  {
     "id": "llama_2026081208",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,621,517,864 🟢 +0.00% (24h)",
@@ -2313,6 +2293,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T05:04:16.011458+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081906",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,683,794,680 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T06:59:06.997525+00:00",
     "used": false
   }
 ]
