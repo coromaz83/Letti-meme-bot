@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081211",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,623,871,599 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T11:04:36.354046+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T11:04:36.354046+00:00"
-  },
-  {
     "id": "rss_5870de0d0328",
     "source": "CoinDesk",
     "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
@@ -2326,6 +2316,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T10:35:42.774593+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081911",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,693,768,277 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T11:32:26.137075+00:00",
     "used": false
   }
 ]
