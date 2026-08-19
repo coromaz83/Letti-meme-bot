@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_fd0dd83dcfdd",
-    "source": "The Defiant",
-    "title": "Marinade Says 28.83% of Solana Stake Went Delinquent, Nearing Finality Halt",
-    "url": "https://thedefiant.io/news/blockchains/marinade-says-28-83-of-solana-stake-went-delinquent-nearing-finality-halt",
-    "published_at": "Wed, 12 Aug 2026 19:31:22 GMT",
-    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T19:31:22+00:00"
-  },
-  {
-    "id": "rss_61298d17b7fb",
-    "source": "The Defiant",
-    "title": "SEC Advances Tokenized-Securities Exemption That Could Enable 24/7 Trading",
-    "url": "https://thedefiant.io/converge/regulation/sec-advances-tokenized-securities-exemption-that-could-enable-24-7-trading",
-    "published_at": "Wed, 12 Aug 2026 19:30:12 GMT",
-    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T19:30:12+00:00"
-  },
-  {
-    "id": "rss_d911dfdfd31c",
-    "source": "Bankless",
-    "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
-    "url": "https://www.bankless.com/read/gnosis-chain-just-made-the-first-move-toward-the-ethereum-economic-zone",
-    "published_at": "Wed, 12 Aug 2026 15:27:24 -0400",
-    "fetched_at": "2026-08-12T20:10:30.351496+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T15:27:24-04:00"
-  },
-  {
-    "id": "llama_2026081220",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,673,697,445 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T20:10:37.077978+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T20:10:37.077978+00:00"
-  },
-  {
     "id": "rss_590951903f10",
     "source": "The Defiant",
     "title": "Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding",
@@ -2413,6 +2373,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T19:32:07.591839+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_016903d49e45",
+    "source": "Decrypt",
+    "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
+    "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
+    "published_at": "Wed, 19 Aug 2026 19:51:11 +0000",
+    "fetched_at": "2026-08-19T20:36:14.153258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bd34217ebf75",
+    "source": "Bankless",
+    "title": "The Debasement Trade Returns",
+    "url": "https://www.bankless.com/read/the-debasement-trade-returns",
+    "published_at": "Wed, 19 Aug 2026 15:32:37 -0400",
+    "fetched_at": "2026-08-19T20:36:14.153258+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081920",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,910,419,853 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T20:36:18.870741+00:00",
     "used": false
   }
 ]
