@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081203",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,611,829,654 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T03:06:17.138307+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T03:06:17.138307+00:00"
-  },
-  {
     "id": "llama_2026081205",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,621,494,218 🟢 +0.00% (24h)",
@@ -2297,6 +2287,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T03:04:42.415094+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c7dbbafc1cdc",
+    "source": "CryptoSlate",
+    "title": "Canaan counted paused Ethiopia mining as nearly 35% of its July operating hashrate total",
+    "url": "https://cryptoslate.com/canaan-counted-paused-ethiopia-mining-as-nearly-35-of-its-july-operating-hashrate-total/",
+    "published_at": "Wed, 19 Aug 2026 04:00:38 +0000",
+    "fetched_at": "2026-08-19T04:09:39.206318+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081904",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,688,516,043 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T04:09:42.726340+00:00",
     "used": false
   }
 ]
