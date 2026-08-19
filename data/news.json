@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_590951903f10",
-    "source": "The Defiant",
-    "title": "Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding",
-    "url": "https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding",
-    "published_at": "Wed, 12 Aug 2026 21:18:10 GMT",
-    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T21:18:10+00:00"
-  },
-  {
-    "id": "rss_a3a9bbb7caca",
-    "source": "The Defiant",
-    "title": "BitGo CFO to Exit as Q2 Net Loss Hits $19 Million",
-    "url": "https://thedefiant.io/converge/cefi/bitgo-cfo-to-exit-as-q2-net-loss-hits-19-million",
-    "published_at": "Wed, 12 Aug 2026 21:03:01 GMT",
-    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T21:03:01+00:00"
-  },
-  {
-    "id": "rss_91a8ae95de86",
-    "source": "The Defiant",
-    "title": "SEC Staff Clears Franklin Funds to Use Onchain Money Fund for Cash and Collateral",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral",
-    "published_at": "Wed, 12 Aug 2026 20:16:45 GMT",
-    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T20:16:45+00:00"
-  },
-  {
-    "id": "rss_4a3342cb4982",
-    "source": "The Defiant",
-    "title": "Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half",
-    "url": "https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa",
-    "published_at": "Wed, 12 Aug 2026 19:31:54 GMT",
-    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T19:31:54+00:00"
-  },
-  {
-    "id": "rss_438b6d8840fc",
-    "source": "CryptoSlate",
-    "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
-    "url": "https://cryptoslate.com/russia-picks-bitcoin-ethereum-and-usdt-for-public-trading-as-retail-faces-58000-cap/",
-    "published_at": "Wed, 12 Aug 2026 20:40:31 +0000",
-    "fetched_at": "2026-08-12T21:23:16.435432+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T20:40:31+00:00"
-  },
-  {
-    "id": "llama_2026081221",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,673,420,723 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T21:23:20.100538+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T21:23:20.100538+00:00"
-  },
-  {
     "id": "rss_20a8ed8e5ea3",
     "source": "The Defiant",
     "title": "Boltz Founders Exit as Unnamed Bitcoin Group Agrees to Take Over Suspended Swap Service",
@@ -2418,5 +2358,14 @@
     "fetched_at": "2026-08-19T20:36:18.870741+00:00",
     "used": true,
     "_sort_date": "2026-08-19T20:36:18.870741+00:00"
+  },
+  {
+    "id": "llama_2026081921",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,931,663,888 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T21:32:20.499658+00:00",
+    "used": false
   }
 ]
