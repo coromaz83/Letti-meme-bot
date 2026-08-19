@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_5870de0d0328",
-    "source": "CoinDesk",
-    "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-    "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-    "published_at": "Wed, 12 Aug 2026 11:19:32 +0000",
-    "fetched_at": "2026-08-12T12:25:54.519857+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T11:19:32+00:00"
-  },
-  {
-    "id": "rss_3103180f17cb",
-    "source": "The Defiant",
-    "title": "Barça Mobile Plans Stellar Wallet With Wirex and Crossmint",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
-    "published_at": "Wed, 12 Aug 2026 11:26:30 GMT",
-    "fetched_at": "2026-08-12T12:25:54.519857+00:00",
-    "used": true,
-    "_sort_date": "2026-08-12T11:26:30+00:00"
-  },
-  {
-    "id": "llama_2026081212",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,638,946,562 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T12:26:00.524265+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T12:26:00.524265+00:00"
-  },
-  {
     "id": "rss_26ce5ffca9f0",
     "source": "The Defiant",
     "title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
@@ -2325,6 +2295,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-19T11:32:26.137075+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_af731ed886a2",
+    "source": "CoinDesk",
+    "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+    "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+    "published_at": "Wed, 19 Aug 2026 13:00:00 +0000",
+    "fetched_at": "2026-08-19T13:00:34.106160+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081913",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,688,937,187 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T13:00:38.724188+00:00",
     "used": false
   }
 ]
