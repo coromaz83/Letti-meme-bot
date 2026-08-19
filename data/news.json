@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_3afb66f74bf7",
-    "source": "The Defiant",
-    "title": "Bitwise Cuts 14% of Staff as Client Assets Fall to $9 Billion",
-    "url": "https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion",
-    "published_at": "Wed, 12 Aug 2026 15:31:25 GMT",
-    "fetched_at": "2026-08-12T16:28:09.290013+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T15:31:25+00:00"
-  },
-  {
-    "id": "llama_2026081216",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,680,124,226 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-12T16:28:12.172741+00:00",
-    "used": false,
-    "_sort_date": "2026-08-12T16:28:12.172741+00:00"
-  },
-  {
     "id": "rss_da2f0b20b87d",
     "source": "The Defiant",
     "title": "Solana Community Argues Over Whether Its Foundation Should Pick Winners",
@@ -2365,6 +2345,42 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger",
     "published_at": "Wed, 19 Aug 2026 14:45:42 GMT",
     "fetched_at": "2026-08-19T15:59:06.402732+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e3cacf70e60d",
+    "source": "CryptoSlate",
+    "title": "How crypto turned a 68-point deficit into a market lead as Bitcoin and top altcoins outrun the Nasdaq",
+    "url": "https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq/",
+    "published_at": "Wed, 19 Aug 2026 16:20:15 +0000",
+    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_abc9dd994f8d",
+    "source": "Decrypt",
+    "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+    "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+    "published_at": "Wed, 19 Aug 2026 16:31:04 +0000",
+    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ce13ddd2fa43",
+    "source": "Decrypt",
+    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+    "published_at": "Wed, 19 Aug 2026 16:00:06 +0000",
+    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081916",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,728,375,785 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T16:41:54.062135+00:00",
     "used": false
   }
 ]
