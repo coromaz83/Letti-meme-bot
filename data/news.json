@@ -2303,5 +2303,23 @@
     "published_at": "",
     "fetched_at": "2026-08-19T06:59:06.997525+00:00",
     "used": false
+  },
+  {
+    "id": "rss_2f955d5583fa",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s 12-GPU proving problem just got a 4-GPU answer",
+    "url": "https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer/",
+    "published_at": "Wed, 19 Aug 2026 07:00:12 +0000",
+    "fetched_at": "2026-08-19T07:49:04.274427+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026081907",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,680,595,727 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-19T07:49:08.069026+00:00",
+    "used": false
   }
 ]
