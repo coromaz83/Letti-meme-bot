@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_9aea9ae39d32",
-    "source": "The Defiant",
-    "title": "Securitize’s Tokenized Assets Hit $4.3 Billion as Revenue Falls",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls",
-    "published_at": "Thu, 13 Aug 2026 01:18:37 GMT",
-    "fetched_at": "2026-08-13T03:09:57.547352+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T01:18:37+00:00"
-  },
-  {
-    "id": "rss_b99b9347e35b",
-    "source": "The Defiant",
-    "title": "Uniswap Founder Says Team Renounced Creator Fees From Employee Testing",
-    "url": "https://thedefiant.io/news/defi/uniswap-founder-says-team-renounced-creator-fees-from-employee-testing",
-    "published_at": "Thu, 13 Aug 2026 01:09:22 GMT",
-    "fetched_at": "2026-08-13T03:09:57.547352+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T01:09:22+00:00"
-  },
-  {
-    "id": "llama_2026081303",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,653,450,472 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T03:10:01.267924+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T03:10:01.267924+00:00"
-  },
-  {
     "id": "llama_2026081305",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,628,573,736 🟢 +0.00% (24h)",
@@ -2372,6 +2342,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T03:04:05.550566+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082004",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,011,260,966 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T04:09:42.246325+00:00",
     "used": false
   }
 ]
