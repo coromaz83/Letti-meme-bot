@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_09509670a47b",
-    "source": "The Defiant",
-    "title": "Standard Chartered Says Its $100 UNI Target May Be Too Low After Robinhood Chain Burns",
-    "url": "https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns",
-    "published_at": "Thu, 13 Aug 2026 15:14:41 GMT",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T15:14:41+00:00"
-  },
-  {
-    "id": "rss_ae8048af29da",
-    "source": "The Defiant",
-    "title": "SharpLink Plans $200 Million ETH Allocation to Lido’s wstETH",
-    "url": "https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth",
-    "published_at": "Thu, 13 Aug 2026 15:10:55 GMT",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T15:10:55+00:00"
-  },
-  {
-    "id": "rss_74d143163a6f",
-    "source": "The Defiant",
-    "title": "Neutrl Pauses Minting and Redemptions While Assessing Reserve Impact",
-    "url": "https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact",
-    "published_at": "Thu, 13 Aug 2026 14:31:52 GMT",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T14:31:52+00:00"
-  },
-  {
-    "id": "rss_1614caf9a49c",
-    "source": "The Defiant",
-    "title": "Robinhood Private-Market Fund Prices $200 Million IPO",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo",
-    "published_at": "Thu, 13 Aug 2026 14:13:49 GMT",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T14:13:49+00:00"
-  },
-  {
-    "id": "rss_dc8468ea872e",
-    "source": "The Defiant",
-    "title": "Trezor Shipping-Provider Breach Exposes Data of 13,689 Customers",
-    "url": "https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers",
-    "published_at": "Thu, 13 Aug 2026 14:04:09 GMT",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T14:04:09+00:00"
-  },
-  {
-    "id": "rss_a79e30a293dd",
-    "source": "Decrypt",
-    "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-    "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
-    "published_at": "Thu, 13 Aug 2026 14:01:03 +0000",
-    "fetched_at": "2026-08-13T15:31:26.551900+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T14:01:03+00:00"
-  },
-  {
-    "id": "llama_2026081315",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,645,256,178 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T15:31:29.404264+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T15:31:29.404264+00:00"
-  },
-  {
     "id": "rss_3cbb9fdb2d7f",
     "source": "Cointelegraph Base",
     "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
@@ -2419,5 +2349,23 @@
     "fetched_at": "2026-08-20T15:06:48.238755+00:00",
     "used": false,
     "_sort_date": "2026-08-20T15:06:48.238755+00:00"
+  },
+  {
+    "id": "rss_144b5c8f4840",
+    "source": "Cointelegraph Base",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
+    "fetched_at": "2026-08-20T16:00:53.997533+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082016",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,110,303,062 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T16:00:59.545974+00:00",
+    "used": false
   }
 ]
