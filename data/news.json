@@ -2389,5 +2389,23 @@
     "fetched_at": "2026-08-20T09:07:18.260213+00:00",
     "used": true,
     "_sort_date": "2026-08-20T09:07:18.260213+00:00"
+  },
+  {
+    "id": "rss_cda0b7878c31",
+    "source": "CoinDesk",
+    "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
+    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
+    "published_at": "Thu, 20 Aug 2026 09:25:03 +0000",
+    "fetched_at": "2026-08-20T10:02:16.599885+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082010",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,090,080,151 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T10:02:20.169554+00:00",
+    "used": false
   }
 ]
