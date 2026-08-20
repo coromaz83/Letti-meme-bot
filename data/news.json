@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081320",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,634,730,861 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T20:52:42.024859+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T20:52:42.024859+00:00"
-  },
-  {
     "id": "rss_fc7373979bab",
     "source": "The Defiant",
     "title": "Tether Clears First Full Audit From KPMG Without Publishing the Statements",
@@ -2319,5 +2309,23 @@
     "fetched_at": "2026-08-20T20:36:44.403620+00:00",
     "used": true,
     "_sort_date": "2026-08-20T20:36:44.403620+00:00"
+  },
+  {
+    "id": "rss_996368c2755e",
+    "source": "Bankless",
+    "title": "ETH's Comeback Is Overdue",
+    "url": "https://www.bankless.com/read/eths-comeback-is-overdue",
+    "published_at": "Thu, 20 Aug 2026 16:58:36 -0400",
+    "fetched_at": "2026-08-20T21:34:34.627559+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082021",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,180,783,104 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T21:34:39.068068+00:00",
+    "used": false
   }
 ]
