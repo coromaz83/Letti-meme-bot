@@ -2355,5 +2355,23 @@
     "published_at": "",
     "fetched_at": "2026-08-20T01:42:21.592267+00:00",
     "used": false
+  },
+  {
+    "id": "rss_9fe00f6aa15c",
+    "source": "The Defiant",
+    "title": "Trump Says CFTC Working to Onshore Hyperliquid",
+    "url": "https://thedefiant.io/news/regulation/trump-says-cftc-working-to-onshore-hyperliquid",
+    "published_at": "Thu, 20 Aug 2026 02:44:48 GMT",
+    "fetched_at": "2026-08-20T03:04:01.272500+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082003",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,034,583,943 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T03:04:05.550566+00:00",
+    "used": false
   }
 ]
