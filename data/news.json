@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_e29c87ebdcbe",
-    "source": "CryptoSlate",
-    "title": "Gaming firm GameSquare boasts a $26M Ethereum fortune, but quiet debt fine print leaves just $2.1M in real cash",
-    "url": "https://cryptoslate.com/gaming-firm-gamesquare-boasts-a-26m-ethereum-fortune-but-quiet-debt-fine-print-leaves-just-2-1m-in-real-cash/",
-    "published_at": "Thu, 13 Aug 2026 19:35:07 +0000",
-    "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T19:35:07+00:00"
-  },
-  {
-    "id": "rss_71acbccd0ad1",
-    "source": "Decrypt",
-    "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-    "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
-    "published_at": "Thu, 13 Aug 2026 18:39:11 +0000",
-    "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": true,
-    "_sort_date": "2026-08-13T18:39:11+00:00"
-  },
-  {
-    "id": "rss_2c099dd76f46",
-    "source": "Bankless",
-    "title": "Justin Drake: The EF Is Moving Away From Poseidon for Ethereum L1",
-    "url": "https://www.bankless.com/read/news/justin-drake-the-ef-is-moving-away-from-poseidon-for-ethereum-l1",
-    "published_at": "Thu, 13 Aug 2026 14:44:42 -0400",
-    "fetched_at": "2026-08-13T19:39:00.130664+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T14:44:42-04:00"
-  },
-  {
-    "id": "llama_2026081319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,627,026,309 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T19:39:02.746071+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T19:39:02.746071+00:00"
-  },
-  {
     "id": "llama_2026081320",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,634,730,861 🟢 +0.00% (24h)",
@@ -2333,6 +2293,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T19:37:00.197472+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2d7c9ad8e4c5",
+    "source": "CryptoSlate",
+    "title": "Tether-backed Antalpha’s loan TVL declined $696 million as its gold bet returned a $22 million loss",
+    "url": "https://cryptoslate.com/tether-backed-antalphas-loan-tvl-declined-696-million-as-its-gold-bet-returned-a-22-million-loss/",
+    "published_at": "Thu, 20 Aug 2026 20:00:46 +0000",
+    "fetched_at": "2026-08-20T20:36:40.137499+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,174,294,113 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T20:36:44.403620+00:00",
     "used": false
   }
 ]
