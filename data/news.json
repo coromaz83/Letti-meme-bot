@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,657,751,871 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T10:16:16.569142+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T10:16:16.569142+00:00"
-  },
-  {
     "id": "llama_2026081311",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,648,883,756 🟢 +0.00% (24h)",
@@ -2406,6 +2396,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T10:02:20.169554+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ebddc80aa0e",
+    "source": "CoinDesk",
+    "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+    "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+    "published_at": "Thu, 20 Aug 2026 10:47:35 +0000",
+    "fetched_at": "2026-08-20T10:58:47.539659+00:00",
     "used": false
   }
 ]
