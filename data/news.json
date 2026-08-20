@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081305",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,628,573,736 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T05:19:29.518174+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T05:19:29.518174+00:00"
-  },
-  {
     "id": "llama_2026081306",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,656,213,310 🟢 +0.00% (24h)",
@@ -2369,6 +2359,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T05:05:59.671875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0fe0783f1771",
+    "source": "CoinDesk",
+    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+    "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+    "published_at": "Thu, 20 Aug 2026 05:40:54 +0000",
+    "fetched_at": "2026-08-20T05:58:53.536606+00:00",
     "used": false
   }
 ]
