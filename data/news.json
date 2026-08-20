@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_c63466f25306",
-    "source": "CoinDesk",
-    "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-    "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-    "published_at": "Thu, 13 Aug 2026 18:26:21 +0000",
-    "fetched_at": "2026-08-13T18:29:06.142700+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T18:26:21+00:00"
-  },
-  {
-    "id": "rss_29c9e0026891",
-    "source": "Bankless",
-    "title": "Ether.fi Unveils Major Revamp of Its Neobank",
-    "url": "https://www.bankless.com/read/news/etherfi-major-revamp-neobank",
-    "published_at": "Thu, 13 Aug 2026 14:21:35 -0400",
-    "fetched_at": "2026-08-13T18:29:06.142700+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T14:21:35-04:00"
-  },
-  {
-    "id": "llama_2026081318",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,638,112,864 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T18:29:10.041703+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T18:29:10.041703+00:00"
-  },
-  {
     "id": "rss_e29c87ebdcbe",
     "source": "CryptoSlate",
     "title": "Gaming firm GameSquare boasts a $26M Ethereum fortune, but quiet debt fine print leaves just $2.1M in real cash",
@@ -2336,6 +2306,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T17:02:27.237947+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-08-20T18:53:11.499761+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082018",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,193,428,134 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T18:53:15.710848+00:00",
     "used": false
   }
 ]
