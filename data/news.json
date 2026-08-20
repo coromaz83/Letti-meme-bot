@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081311",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,648,883,756 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T11:22:50.742057+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T11:22:50.742057+00:00"
-  },
-  {
     "id": "llama_2026081312",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,647,886,869 🟢 +0.00% (24h)",
@@ -2405,6 +2395,24 @@
     "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
     "published_at": "Thu, 20 Aug 2026 10:47:35 +0000",
     "fetched_at": "2026-08-20T10:58:47.539659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2d8186d7bb9b",
+    "source": "CoinDesk",
+    "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+    "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+    "published_at": "Thu, 20 Aug 2026 11:35:47 +0000",
+    "fetched_at": "2026-08-20T11:36:04.708257+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082011",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,137,935,234 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-20T11:36:08.648182+00:00",
     "used": false
   }
 ]
