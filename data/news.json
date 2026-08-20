@@ -2248,7 +2248,8 @@
     "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
     "fetched_at": "2026-08-20T16:00:53.997533+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-20T15:43:00+00:00"
   },
   {
     "id": "llama_2026082016",
@@ -2257,7 +2258,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T16:00:59.545974+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T16:00:59.545974+00:00"
   },
   {
     "id": "llama_2026082017",
@@ -2266,7 +2268,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T17:02:27.237947+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T17:02:27.237947+00:00"
   },
   {
     "id": "rss_3cbb9fdb2d7f",
@@ -2284,7 +2287,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T18:53:15.710848+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T18:53:15.710848+00:00"
   },
   {
     "id": "llama_2026082019",
@@ -2293,7 +2297,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T19:37:00.197472+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T19:37:00.197472+00:00"
   },
   {
     "id": "rss_2d7c9ad8e4c5",
@@ -2302,7 +2307,8 @@
     "url": "https://cryptoslate.com/tether-backed-antalphas-loan-tvl-declined-696-million-as-its-gold-bet-returned-a-22-million-loss/",
     "published_at": "Thu, 20 Aug 2026 20:00:46 +0000",
     "fetched_at": "2026-08-20T20:36:40.137499+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-20T20:00:46+00:00"
   },
   {
     "id": "llama_2026082020",
@@ -2311,6 +2317,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T20:36:44.403620+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-20T20:36:44.403620+00:00"
   }
 ]
