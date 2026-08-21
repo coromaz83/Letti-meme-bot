@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081323",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,637,183,311 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-13T23:50:42.811979+00:00",
-    "used": false,
-    "_sort_date": "2026-08-13T23:50:42.811979+00:00"
-  },
-  {
     "id": "rss_f93ae236ab82",
     "source": "CryptoSlate",
     "title": "Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call",
@@ -2315,6 +2305,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T23:32:33.343219+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e1772f2b25a9",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window",
+    "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/",
+    "published_at": "Fri, 21 Aug 2026 01:00:59 +0000",
+    "fetched_at": "2026-08-21T01:47:43.072600+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082101",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,202,530,019 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T01:47:47.315468+00:00",
     "used": false
   }
 ]
