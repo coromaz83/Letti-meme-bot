@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081418",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,614,143,361 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T18:26:28.389612+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T18:26:28.389612+00:00"
-  },
-  {
     "id": "rss_04543067a1d8",
     "source": "Decrypt",
     "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
@@ -2426,6 +2416,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T17:02:24.922154+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082118",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,431,513,403 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T18:50:22.713251+00:00",
     "used": false
   }
 ]
