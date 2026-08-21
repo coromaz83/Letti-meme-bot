@@ -2210,7 +2210,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T21:34:39.068068+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T21:34:39.068068+00:00"
   },
   {
     "id": "llama_2026082022",
@@ -2219,7 +2220,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T22:35:01.822217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T22:35:01.822217+00:00"
   },
   {
     "id": "rss_0052a6430610",
@@ -2228,7 +2230,8 @@
     "url": "https://thedefiant.io/news/blockchains/optimism-redirects-49-7-million-airdrop-reserve-after-late-deciding-vote",
     "published_at": "Thu, 20 Aug 2026 22:54:21 GMT",
     "fetched_at": "2026-08-20T23:32:28.321742+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T22:54:21+00:00"
   },
   {
     "id": "rss_0e8e4028acdb",
@@ -2237,7 +2240,8 @@
     "url": "https://thedefiant.io/news/blockchains/arbitrum-activates-elara-with-optional-compliance-filters-for-dedicated-chains",
     "published_at": "Thu, 20 Aug 2026 22:50:28 GMT",
     "fetched_at": "2026-08-20T23:32:28.321742+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T22:50:28+00:00"
   },
   {
     "id": "llama_2026082023",
@@ -2246,7 +2250,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-20T23:32:33.343219+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-20T23:32:33.343219+00:00"
   },
   {
     "id": "rss_e1772f2b25a9",
@@ -2255,7 +2260,8 @@
     "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/",
     "published_at": "Fri, 21 Aug 2026 01:00:59 +0000",
     "fetched_at": "2026-08-21T01:47:43.072600+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T01:00:59+00:00"
   },
   {
     "id": "llama_2026082101",
@@ -2264,7 +2270,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T01:47:47.315468+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T01:47:47.315468+00:00"
   },
   {
     "id": "llama_2026082103",
@@ -2273,7 +2280,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T03:10:17.906134+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T03:10:17.906134+00:00"
   },
   {
     "id": "llama_2026082104",
@@ -2282,7 +2290,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T04:11:19.147174+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T04:11:19.147174+00:00"
   },
   {
     "id": "rss_3f38282f595f",
@@ -2291,7 +2300,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
     "published_at": "Fri, 21 Aug 2026 04:56:30 +0000",
     "fetched_at": "2026-08-21T05:06:28.634720+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T04:56:30+00:00"
   },
   {
     "id": "rss_fb5bfa617533",
@@ -2300,7 +2310,8 @@
     "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/",
     "published_at": "Fri, 21 Aug 2026 05:00:12 +0000",
     "fetched_at": "2026-08-21T05:06:28.634720+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T05:00:12+00:00"
   },
   {
     "id": "llama_2026082105",
@@ -2309,7 +2320,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T05:06:32.522792+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T05:06:32.522792+00:00"
   },
   {
     "id": "llama_2026082106",
@@ -2318,7 +2330,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T06:00:14.962135+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T06:00:14.962135+00:00"
   },
   {
     "id": "rss_f648112a9c76",
@@ -2327,7 +2340,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
     "published_at": "Fri, 21 Aug 2026 06:43:24 +0000",
     "fetched_at": "2026-08-21T07:02:53.718633+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T06:43:24+00:00"
   },
   {
     "id": "rss_ff280182342d",
@@ -2336,7 +2350,8 @@
     "url": "https://cryptoslate.com/ethereum-wallets-gained-new-powers-but-early-eip-7702-data-shows-who-moved-fastest/",
     "published_at": "Fri, 21 Aug 2026 07:00:39 +0000",
     "fetched_at": "2026-08-21T07:02:53.718633+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T07:00:39+00:00"
   },
   {
     "id": "llama_2026082107",
@@ -2345,7 +2360,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T07:02:57.412554+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T07:02:57.412554+00:00"
   },
   {
     "id": "llama_2026082108",
@@ -2354,7 +2370,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T08:07:49.429297+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T08:07:49.429297+00:00"
   },
   {
     "id": "llama_2026082109",
@@ -2363,6 +2380,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T09:09:30.679630+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T09:09:30.679630+00:00"
   }
 ]
