@@ -1,25 +1,5 @@
 [
   {
-    "id": "llama_2026081421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,601,879,284 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T21:32:03.680732+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T21:32:03.680732+00:00"
-  },
-  {
-    "id": "llama_2026081422",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,607,524,239 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T22:31:08.613485+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T22:31:08.613485+00:00"
-  },
-  {
     "id": "llama_2026081423",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,607,485,628 🟢 +0.00% (24h)",
@@ -2430,6 +2410,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T21:31:20.341103+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7985ab1d95a6",
+    "source": "The Defiant",
+    "title": "Solana Activates 350-Millisecond Slots on Mainnet",
+    "url": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
+    "published_at": "Fri, 21 Aug 2026 22:09:27 GMT",
+    "fetched_at": "2026-08-21T22:31:41.138981+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_91208f65285e",
+    "source": "The Defiant",
+    "title": "Bitcoin Posts Biggest Week Since 2024 as Trump Pushes Senate on CLARITY Act",
+    "url": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
+    "published_at": "Fri, 21 Aug 2026 21:56:35 GMT",
+    "fetched_at": "2026-08-21T22:31:41.138981+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,439,355,391 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T22:31:45.974587+00:00",
     "used": false
   }
 ]
