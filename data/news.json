@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_f93ae236ab82",
-    "source": "CryptoSlate",
-    "title": "Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call",
-    "url": "https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/",
-    "published_at": "Fri, 14 Aug 2026 00:30:29 +0000",
-    "fetched_at": "2026-08-14T02:32:31.076484+00:00",
-    "used": true,
-    "_sort_date": "2026-08-14T00:30:29+00:00"
-  },
-  {
-    "id": "llama_2026081402",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,631,594,917 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T02:32:34.913434+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T02:32:34.913434+00:00"
-  },
-  {
     "id": "rss_786907e8b692",
     "source": "Bankless",
     "title": "Breaking Down Ethereum's New Issuance Debate",
@@ -2323,6 +2303,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T01:47:47.315468+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082103",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,240,354,054 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T03:10:17.906134+00:00",
     "used": false
   }
 ]
