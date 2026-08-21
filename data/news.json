@@ -2361,5 +2361,32 @@
     "published_at": "",
     "fetched_at": "2026-08-21T10:02:52.703335+00:00",
     "used": false
+  },
+  {
+    "id": "rss_60fe4036d0bf",
+    "source": "CoinDesk",
+    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+    "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+    "published_at": "Fri, 21 Aug 2026 11:31:30 +0000",
+    "fetched_at": "2026-08-21T11:35:40.119796+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eb07f1945fb5",
+    "source": "CryptoSlate",
+    "title": "US rule rewrite looms for $200B on-chain venue Hyperliquid as Trump signals onshore approval",
+    "url": "https://cryptoslate.com/trumps-hyperliquid-push-forces-regulators-to-define-what-a-legal-on-chain-exchange-looks-like/",
+    "published_at": "Fri, 21 Aug 2026 11:30:06 +0000",
+    "fetched_at": "2026-08-21T11:35:40.119796+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082111",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,451,382,570 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T11:35:46.329560+00:00",
+    "used": false
   }
 ]
