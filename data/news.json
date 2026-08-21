@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_786907e8b692",
-    "source": "Bankless",
-    "title": "Breaking Down Ethereum's New Issuance Debate",
-    "url": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
-    "published_at": "Thu, 06 Aug 2026 16:40:09 -0400",
-    "fetched_at": "2026-08-14T04:54:52.576543+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081404",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,633,188,471 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T04:54:56.225070+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T04:54:56.225070+00:00"
-  },
-  {
     "id": "llama_2026081406",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,624,594,133 🟢 +0.00% (24h)",
@@ -2321,6 +2302,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T04:11:19.147174+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f38282f595f",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+    "published_at": "Fri, 21 Aug 2026 04:56:30 +0000",
+    "fetched_at": "2026-08-21T05:06:28.634720+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb5bfa617533",
+    "source": "CryptoSlate",
+    "title": "BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash",
+    "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/",
+    "published_at": "Fri, 21 Aug 2026 05:00:12 +0000",
+    "fetched_at": "2026-08-21T05:06:28.634720+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082105",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,281,256,719 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T05:06:32.522792+00:00",
     "used": false
   }
 ]
