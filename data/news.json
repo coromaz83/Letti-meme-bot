@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_d4e1233f7513",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about",
-    "url": "https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/",
-    "published_at": "Fri, 14 Aug 2026 11:40:44 +0000",
-    "fetched_at": "2026-08-14T11:50:59.593348+00:00",
-    "used": true,
-    "_sort_date": "2026-08-14T11:40:44+00:00"
-  },
-  {
-    "id": "rss_ce4c3cd6c7df",
-    "source": "Decrypt",
-    "title": "Morning Minute: Tether Finally Gets An Audit",
-    "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-    "published_at": "Fri, 14 Aug 2026 11:45:39 +0000",
-    "fetched_at": "2026-08-14T11:50:59.593348+00:00",
-    "used": true,
-    "_sort_date": "2026-08-14T11:45:39+00:00"
-  },
-  {
-    "id": "llama_2026081411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,601,052,015 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T11:51:02.243895+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T11:51:02.243895+00:00"
-  },
-  {
     "id": "llama_2026081413",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,604,102,034 🟢 +0.00% (24h)",
@@ -2387,6 +2357,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T11:35:46.329560+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082113",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,411,861,486 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T13:01:59.387507+00:00",
     "used": false
   }
 ]
