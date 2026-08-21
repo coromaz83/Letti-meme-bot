@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081406",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,624,594,133 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T06:20:06.487383+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T06:20:06.487383+00:00"
-  },
-  {
     "id": "llama_2026081407",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,627,121,325 🟢 +0.00% (24h)",
@@ -2338,6 +2328,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T06:00:14.962135+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f648112a9c76",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+    "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+    "published_at": "Fri, 21 Aug 2026 06:43:24 +0000",
+    "fetched_at": "2026-08-21T07:02:53.718633+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ff280182342d",
+    "source": "CryptoSlate",
+    "title": "Attackers drove 63% of early use of Ethereum’s new smart wallet feature",
+    "url": "https://cryptoslate.com/ethereum-wallets-gained-new-powers-but-early-eip-7702-data-shows-who-moved-fastest/",
+    "published_at": "Fri, 21 Aug 2026 07:00:39 +0000",
+    "fetched_at": "2026-08-21T07:02:53.718633+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082107",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,306,622,611 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T07:02:57.412554+00:00",
     "used": false
   }
 ]
