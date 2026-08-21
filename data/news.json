@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081415",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,590,848,104 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T15:57:46.494780+00:00",
-    "used": false,
-    "_sort_date": "2026-08-14T15:57:46.494780+00:00"
-  },
-  {
     "id": "llama_2026081417",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,584,995,449 🟢 +0.00% (24h)",
@@ -2402,5 +2392,32 @@
     "fetched_at": "2026-08-21T15:05:02.553208+00:00",
     "used": false,
     "_sort_date": "2026-08-21T15:05:02.553208+00:00"
+  },
+  {
+    "id": "rss_7128539c4d9e",
+    "source": "The Defiant",
+    "title": "Circle Targets Sept. 16 for Arc Public Mainnet Launch",
+    "url": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch",
+    "published_at": "Fri, 21 Aug 2026 15:13:36 GMT",
+    "fetched_at": "2026-08-21T16:00:13.772773+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_960c0012c3a5",
+    "source": "The Defiant",
+    "title": "Illuvium Team Cuts Wages To Extend Runway",
+    "url": "https://thedefiant.io/news/nfts-and-web3/illuvium-team-cuts-wages-to-extend-runway",
+    "published_at": "Fri, 21 Aug 2026 15:03:45 GMT",
+    "fetched_at": "2026-08-21T16:00:13.772773+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082116",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,400,385,204 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T16:00:17.633886+00:00",
+    "used": false
   }
 ]
