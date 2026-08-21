@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081414",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,603,971,191 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T14:32:35.790712+00:00",
-    "used": true,
-    "_sort_date": "2026-08-14T14:32:35.790712+00:00"
-  },
-  {
     "id": "llama_2026081415",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,590,848,104 🟢 +0.00% (24h)",
@@ -2365,6 +2355,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T14:07:59.108145+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f85020c8c47e",
+    "source": "The Defiant",
+    "title": "MANTRA Halts Chain, Blames Cosmos EVM Module",
+    "url": "https://thedefiant.io/news/blockchains/mantra-halts-chain-blames-cosmos-evm-module",
+    "published_at": "Fri, 21 Aug 2026 14:50:51 GMT",
+    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_10d6a6e514ed",
+    "source": "The Defiant",
+    "title": "Judge Keeps Sun's World Liberty Claims In Court",
+    "url": "https://thedefiant.io/news/defi/judge-keeps-justin-sun-world-liberty-claims-in-court",
+    "published_at": "Fri, 21 Aug 2026 14:31:55 GMT",
+    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8f667a12581e",
+    "source": "CryptoSlate",
+    "title": "This Nasdaq-listed crypto firm is swapping fresh Ethereum buys for an AI pivot",
+    "url": "https://cryptoslate.com/this-nasdaq-listed-crypto-firm-is-swapping-fresh-ethereum-buys-for-an-ai-pivot/",
+    "published_at": "Fri, 21 Aug 2026 15:00:32 +0000",
+    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082115",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,405,483,605 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T15:05:02.553208+00:00",
     "used": false
   }
 ]
