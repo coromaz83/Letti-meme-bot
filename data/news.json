@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081409",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,604,263,821 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-14T09:15:11.147155+00:00",
-    "used": true,
-    "_sort_date": "2026-08-14T09:15:11.147155+00:00"
-  },
-  {
     "id": "rss_584ee63ebfac",
     "source": "CryptoSlate",
     "title": "Tether finally got the audit critics demanded, just as Washington changed the test",
@@ -2382,5 +2372,14 @@
     "fetched_at": "2026-08-21T09:09:30.679630+00:00",
     "used": true,
     "_sort_date": "2026-08-21T09:09:30.679630+00:00"
+  },
+  {
+    "id": "llama_2026082110",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,391,596,864 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T10:02:52.703335+00:00",
+    "used": false
   }
 ]
