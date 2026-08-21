@@ -2419,5 +2419,23 @@
     "published_at": "",
     "fetched_at": "2026-08-21T16:00:17.633886+00:00",
     "used": false
+  },
+  {
+    "id": "rss_f1948925a8cf",
+    "source": "CoinDesk",
+    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+    "published_at": "Fri, 21 Aug 2026 16:10:37 +0000",
+    "fetched_at": "2026-08-21T17:02:20.775681+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082117",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,399,957,558 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-21T17:02:24.922154+00:00",
+    "used": false
   }
 ]
