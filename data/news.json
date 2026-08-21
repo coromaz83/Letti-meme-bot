@@ -2350,7 +2350,8 @@
     "url": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch",
     "published_at": "Fri, 21 Aug 2026 15:13:36 GMT",
     "fetched_at": "2026-08-21T16:00:13.772773+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T15:13:36+00:00"
   },
   {
     "id": "rss_960c0012c3a5",
@@ -2359,7 +2360,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/illuvium-team-cuts-wages-to-extend-runway",
     "published_at": "Fri, 21 Aug 2026 15:03:45 GMT",
     "fetched_at": "2026-08-21T16:00:13.772773+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T15:03:45+00:00"
   },
   {
     "id": "llama_2026082116",
@@ -2368,7 +2370,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T16:00:17.633886+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T16:00:17.633886+00:00"
   },
   {
     "id": "rss_f1948925a8cf",
@@ -2377,7 +2380,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
     "published_at": "Fri, 21 Aug 2026 16:10:37 +0000",
     "fetched_at": "2026-08-21T17:02:20.775681+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T16:10:37+00:00"
   },
   {
     "id": "llama_2026082117",
@@ -2386,7 +2390,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T17:02:24.922154+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T17:02:24.922154+00:00"
   },
   {
     "id": "llama_2026082118",
@@ -2395,7 +2400,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T18:50:22.713251+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T18:50:22.713251+00:00"
   },
   {
     "id": "llama_2026082119",
@@ -2404,7 +2410,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T19:30:42.118294+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T19:30:42.118294+00:00"
   },
   {
     "id": "rss_783072d06e87",
@@ -2413,7 +2420,8 @@
     "url": "https://cryptoslate.com/a-22-9-million-capital-deficit-threatens-to-derail-an-energy-firms-pivot-to-off-grid-bitcoin-mining/",
     "published_at": "Fri, 21 Aug 2026 20:30:07 +0000",
     "fetched_at": "2026-08-21T20:32:46.847432+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-21T20:30:07+00:00"
   },
   {
     "id": "llama_2026082120",
@@ -2422,6 +2430,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T20:32:50.983481+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T20:32:50.983481+00:00"
   }
 ]
