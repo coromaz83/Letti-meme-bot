@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081511",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,605,152,773 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-15T11:26:52.107566+00:00",
-    "used": true,
-    "_sort_date": "2026-08-15T11:26:52.107566+00:00"
-  },
-  {
     "id": "rss_c647703f9f2b",
     "source": "CoinDesk",
     "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
