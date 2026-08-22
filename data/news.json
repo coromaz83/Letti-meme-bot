@@ -2416,5 +2416,23 @@
     "published_at": "",
     "fetched_at": "2026-08-22T13:37:19.561975+00:00",
     "used": false
+  },
+  {
+    "id": "rss_43f6e307b247",
+    "source": "CoinDesk",
+    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+    "published_at": "Sat, 22 Aug 2026 14:10:17 +0000",
+    "fetched_at": "2026-08-22T14:28:45.822987+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082214",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,446,348,799 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-22T14:28:49.979769+00:00",
+    "used": false
   }
 ]
