@@ -2300,7 +2300,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T21:31:20.341103+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T21:31:20.341103+00:00"
   },
   {
     "id": "rss_7985ab1d95a6",
@@ -2309,7 +2310,8 @@
     "url": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
     "published_at": "Fri, 21 Aug 2026 22:09:27 GMT",
     "fetched_at": "2026-08-21T22:31:41.138981+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T22:09:27+00:00"
   },
   {
     "id": "rss_91208f65285e",
@@ -2318,7 +2320,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
     "published_at": "Fri, 21 Aug 2026 21:56:35 GMT",
     "fetched_at": "2026-08-21T22:31:41.138981+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T21:56:35+00:00"
   },
   {
     "id": "llama_2026082122",
@@ -2327,7 +2330,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T22:31:45.974587+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T22:31:45.974587+00:00"
   },
   {
     "id": "llama_2026082123",
@@ -2336,7 +2340,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-21T23:30:39.229525+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-21T23:30:39.229525+00:00"
   },
   {
     "id": "rss_b144b2c02231",
@@ -2345,7 +2350,8 @@
     "url": "https://cryptoslate.com/ethereum-researchers-are-racing-to-close-a-zkevm-security-gap-before-december/",
     "published_at": "Sat, 22 Aug 2026 00:20:14 +0000",
     "fetched_at": "2026-08-22T01:41:03.017881+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-22T00:20:14+00:00"
   },
   {
     "id": "llama_2026082201",
@@ -2354,7 +2360,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T01:41:07.492719+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-22T01:41:07.492719+00:00"
   },
   {
     "id": "llama_2026082203",
@@ -2363,7 +2370,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T03:01:02.570839+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-22T03:01:02.570839+00:00"
   },
   {
     "id": "llama_2026082204",
@@ -2372,7 +2380,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T04:07:44.557305+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-22T04:07:44.557305+00:00"
   },
   {
     "id": "llama_2026082205",
@@ -2381,7 +2390,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T05:00:54.673832+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-22T05:00:54.673832+00:00"
   },
   {
     "id": "llama_2026082206",
@@ -2390,7 +2400,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T06:52:19.603974+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-22T06:52:19.603974+00:00"
   },
   {
     "id": "llama_2026082207",
@@ -2399,7 +2410,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T07:37:35.771910+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-22T07:37:35.771910+00:00"
   },
   {
     "id": "llama_2026082208",
@@ -2408,6 +2420,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T08:38:57.920645+00:00",
-    "used": false
+    "used": true,
+    "_sort_date": "2026-08-22T08:38:57.920645+00:00"
   }
 ]
