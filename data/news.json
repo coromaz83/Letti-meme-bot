@@ -1,25 +1,5 @@
 [
   {
-    "id": "llama_2026081516",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,604,489,794 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-15T16:33:12.538814+00:00",
-    "used": false,
-    "_sort_date": "2026-08-15T16:33:12.538814+00:00"
-  },
-  {
-    "id": "llama_2026081517",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,605,486,648 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-15T17:26:32.781608+00:00",
-    "used": false,
-    "_sort_date": "2026-08-15T17:26:32.781608+00:00"
-  },
-  {
     "id": "rss_aafc2dafe7b1",
     "source": "CryptoSlate",
     "title": "A staked Ethereum ETF processed $48M in redemptions while keeping 86% of ETH locked, 21Shares filing shows",
@@ -2439,6 +2419,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-22T16:33:09.031790+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_169a609e2443",
+    "source": "The Defiant",
+    "title": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
+    "url": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
+    "published_at": "Sat, 22 Aug 2026 17:08:34 GMT",
+    "fetched_at": "2026-08-22T17:27:09.805143+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,428,813,986 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-22T17:27:15.118951+00:00",
     "used": false
   }
 ]
