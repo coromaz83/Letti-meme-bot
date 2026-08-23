@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_008aaf273556",
-    "source": "CryptoSlate",
-    "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
-    "url": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
-    "published_at": "Sun, 16 Aug 2026 09:20:53 +0000",
-    "fetched_at": "2026-08-16T09:34:29.285073+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081609",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,612,299,696 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-16T09:34:33.372618+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026081610",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,612,353,590 🟢 +0.00% (24h)",
@@ -2442,5 +2424,14 @@
     "fetched_at": "2026-08-23T08:38:54.840732+00:00",
     "used": false,
     "_sort_date": "2026-08-23T08:38:54.840732+00:00"
+  },
+  {
+    "id": "llama_2026082309",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,380,749,264 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-23T09:34:50.578199+00:00",
+    "used": false
   }
 ]
