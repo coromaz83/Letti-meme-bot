@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_32c1086d57a7",
-    "source": "CryptoSlate",
-    "title": "Wall Street finally turned staking into a dividend, now Ethereum and Solana want to shrink it",
-    "url": "https://cryptoslate.com/wall-street-finally-turned-staking-into-a-dividend-now-ethereum-and-solana-want-to-shrink-it/",
-    "published_at": "Sun, 16 Aug 2026 10:40:50 +0000",
-    "fetched_at": "2026-08-16T10:54:02.375974+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081611",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,612,268,305 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-16T11:26:46.030830+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026081612",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,610,794,555 🟢 +0.00% (24h)",
@@ -2432,6 +2414,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-23T10:30:59.327150+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082311",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,411,705,568 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-23T11:27:25.851690+00:00",
     "used": false
   }
 ]
