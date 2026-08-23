@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026081620",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,615,652,730 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-16T20:30:36.547338+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026081621",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,613,988,708 🟢 +0.00% (24h)",
@@ -2405,6 +2396,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-23T19:27:27.774324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b1edb0bfe97",
+    "source": "CryptoSlate",
+    "title": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
+    "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
+    "published_at": "Sun, 23 Aug 2026 20:05:10 +0000",
+    "fetched_at": "2026-08-23T20:31:17.931357+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082320",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,465,024,663 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-23T20:31:21.577598+00:00",
     "used": false
   }
 ]
