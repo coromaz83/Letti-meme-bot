@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_7088560575cd",
-    "source": "The Defiant",
-    "title": "Search Interest in Prediction Markets Falls 83% From Its World Cup Peak as Kalshi Pulls Away",
-    "url": "https://thedefiant.io/news/defi/prediction-market-search-interest-falls-83-from-world-cup-peak-as-kalshi-pulls-away",
-    "published_at": "Mon, 17 Aug 2026 19:45:30 GMT",
-    "fetched_at": "2026-08-17T20:34:31.142063+00:00",
-    "used": true,
-    "_sort_date": "2026-08-17T19:45:30+00:00"
-  },
-  {
-    "id": "rss_d8f0e9a42d77",
-    "source": "Decrypt",
-    "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-    "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-    "published_at": "Mon, 17 Aug 2026 20:31:04 +0000",
-    "fetched_at": "2026-08-17T20:34:31.142063+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T20:31:04+00:00"
-  },
-  {
-    "id": "llama_2026081720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,741,268,855 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T20:34:34.964982+00:00",
-    "used": true,
-    "_sort_date": "2026-08-17T20:34:34.964982+00:00"
-  },
-  {
     "id": "rss_6a2ff2bcfd16",
     "source": "The Defiant",
     "title": "Deel Takes Its DLUSD Stablecoin Wallet to More Than 80 Countries",
@@ -2357,6 +2327,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T19:35:26.966850+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d231d913bef7",
+    "source": "Decrypt",
+    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+    "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+    "published_at": "Mon, 24 Aug 2026 19:43:43 +0000",
+    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5f916924f718",
+    "source": "Bankless",
+    "title": "Coinbase Enters the Tokenized Stock Wars",
+    "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
+    "published_at": "Mon, 24 Aug 2026 16:25:42 -0400",
+    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_28ec320aa9c7",
+    "source": "Bankless",
+    "title": "Kinetiq Unveils Elysium L2 for Hyperliquid",
+    "url": "https://www.bankless.com/read/news/kinetiq-unveils-elysium-l2-for-hyperliquid",
+    "published_at": "Mon, 24 Aug 2026 16:22:15 -0400",
+    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082420",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,500,006,612 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T20:38:52.112690+00:00",
     "used": false
   }
 ]
