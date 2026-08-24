@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_e37c2f4171de",
-    "source": "CoinDesk",
-    "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-    "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-    "published_at": "Mon, 17 Aug 2026 09:13:02 +0000",
-    "fetched_at": "2026-08-17T09:50:55.204382+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081709",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,641,996,824 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T09:50:59.689240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T09:50:59.689240+00:00"
-  },
-  {
     "id": "llama_2026081710",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,633,665,297 🟢 +0.00% (24h)",
@@ -2436,5 +2417,14 @@
     "fetched_at": "2026-08-24T08:56:45.059074+00:00",
     "used": false,
     "_sort_date": "2026-08-24T08:56:45.059074+00:00"
+  },
+  {
+    "id": "llama_2026082409",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,486,398,366 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T09:57:06.678331+00:00",
+    "used": false
   }
 ]
