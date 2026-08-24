@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081719",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,668,201,768 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T19:33:45.729803+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T19:33:45.729803+00:00"
-  },
-  {
     "id": "rss_7088560575cd",
     "source": "The Defiant",
     "title": "Search Interest in Prediction Markets Falls 83% From Its World Cup Peak as Kalshi Pulls Away",
@@ -2349,6 +2339,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T18:54:22.250738+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-08-24T19:35:22.122890+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082419",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,500,916,046 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T19:35:26.966850+00:00",
     "used": false
   }
 ]
