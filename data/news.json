@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081711",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,633,509,028 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T11:32:40.514616+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T11:32:40.514616+00:00"
-  },
-  {
     "id": "rss_2b0072922191",
     "source": "CoinDesk",
     "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
@@ -2424,6 +2414,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T10:46:36.132422+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082411",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,463,552,766 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T11:36:09.103105+00:00",
     "used": false
   }
 ]
