@@ -2246,7 +2246,8 @@
     "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
     "published_at": "Mon, 24 Aug 2026 15:43:36 +0000",
     "fetched_at": "2026-08-24T16:05:36.541078+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T15:43:36+00:00"
   },
   {
     "id": "llama_2026082416",
@@ -2255,7 +2256,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T16:05:40.120478+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T16:05:40.120478+00:00"
   },
   {
     "id": "rss_edf37f1dc175",
@@ -2264,7 +2266,8 @@
     "url": "https://cryptoslate.com/saylor-sat-out-bitcoins-20-rally-while-tom-lee-bought-ethereum-after-a-30-surge/",
     "published_at": "Mon, 24 Aug 2026 17:00:28 +0000",
     "fetched_at": "2026-08-24T17:06:53.645977+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T17:00:28+00:00"
   },
   {
     "id": "llama_2026082417",
@@ -2273,7 +2276,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T17:06:57.048289+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T17:06:57.048289+00:00"
   },
   {
     "id": "rss_4ec51375439d",
@@ -2282,7 +2286,8 @@
     "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
     "published_at": "Mon, 24 Aug 2026 17:12:35 +0000",
     "fetched_at": "2026-08-24T17:59:47.815263+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T17:12:35+00:00"
   },
   {
     "id": "rss_e49c9bd51ad6",
@@ -2291,7 +2296,8 @@
     "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
     "published_at": "Mon, 24 Aug 2026 17:07:32 +0000",
     "fetched_at": "2026-08-24T17:59:47.815263+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T17:07:32+00:00"
   },
   {
     "id": "rss_935f3b855f6e",
@@ -2309,7 +2315,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T18:54:22.250738+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T18:54:22.250738+00:00"
   },
   {
     "id": "rss_f1b056cb4dc9",
@@ -2318,7 +2325,8 @@
     "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
     "fetched_at": "2026-08-24T19:35:22.122890+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T19:11:48+00:00"
   },
   {
     "id": "llama_2026082419",
@@ -2327,7 +2335,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T19:35:26.966850+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T19:35:26.966850+00:00"
   },
   {
     "id": "rss_d231d913bef7",
@@ -2336,7 +2345,8 @@
     "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
     "published_at": "Mon, 24 Aug 2026 19:43:43 +0000",
     "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T19:43:43+00:00"
   },
   {
     "id": "rss_5f916924f718",
@@ -2345,7 +2355,8 @@
     "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
     "published_at": "Mon, 24 Aug 2026 16:25:42 -0400",
     "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T16:25:42-04:00"
   },
   {
     "id": "rss_28ec320aa9c7",
@@ -2354,7 +2365,8 @@
     "url": "https://www.bankless.com/read/news/kinetiq-unveils-elysium-l2-for-hyperliquid",
     "published_at": "Mon, 24 Aug 2026 16:22:15 -0400",
     "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T16:22:15-04:00"
   },
   {
     "id": "llama_2026082420",
@@ -2363,6 +2375,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T20:38:52.112690+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T20:38:52.112690+00:00"
   }
 ]
