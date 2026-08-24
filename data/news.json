@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_337dad366da2",
-    "source": "The Defiant",
-    "title": "Omnichain Launchpad Printr Shuts Down, Cancels Token Launch And Airdrop",
-    "url": "https://thedefiant.io/news/defi/printr-launchpad-wind-down-cancels-tge-airdrop",
-    "published_at": "Mon, 17 Aug 2026 22:13:41 GMT",
-    "fetched_at": "2026-08-17T22:31:20.486422+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T22:13:41+00:00"
-  },
-  {
-    "id": "rss_9d3b2d1e36f2",
-    "source": "The Defiant",
-    "title": "Ansem Launches Site Where Teams Buy His Attention With Airdrops",
-    "url": "https://thedefiant.io/news/tokens/ansem-z500-index-teams-airdrop-supply-ansem-holders",
-    "published_at": "Mon, 17 Aug 2026 21:40:00 GMT",
-    "fetched_at": "2026-08-17T22:31:20.486422+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T21:40:00+00:00"
-  },
-  {
-    "id": "llama_2026081722",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,727,290,729 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T22:31:23.590451+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T22:31:23.590451+00:00"
-  },
-  {
     "id": "llama_2026081723",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,736,248,568 🟢 +0.00% (24h)",
@@ -2375,6 +2345,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T21:36:23.243789+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082422",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,510,171,873 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T22:34:27.972973+00:00",
     "used": false
   }
 ]
