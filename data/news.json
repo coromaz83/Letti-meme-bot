@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_8b8252856cc9",
-    "source": "The Defiant",
-    "title": "Compound Foundation Names Coinbase And Anchorage Alumni To Run $52 Million Institutional Push",
-    "url": "https://thedefiant.io/news/defi/compound-foundation-52m-institutional-credit-leadership",
-    "published_at": "Mon, 17 Aug 2026 17:49:57 GMT",
-    "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T17:49:57+00:00"
-  },
-  {
-    "id": "rss_1b473c9ad0f4",
-    "source": "The Defiant",
-    "title": "Fake World Assets Opens Its Gacha Pool to New NFT Collections",
-    "url": "https://thedefiant.io/news/nfts-and-web3/fake-world-assets-opens-its-gacha-pool-to-new-nft-collections",
-    "published_at": "Mon, 17 Aug 2026 17:37:44 GMT",
-    "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": true,
-    "_sort_date": "2026-08-17T17:37:44+00:00"
-  },
-  {
-    "id": "rss_fe29ade19100",
-    "source": "Decrypt",
-    "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-    "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-    "published_at": "Mon, 17 Aug 2026 18:19:46 +0000",
-    "fetched_at": "2026-08-17T18:50:02.555726+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T18:19:46+00:00"
-  },
-  {
-    "id": "llama_2026081718",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,668,137,329 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T18:50:06.297084+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T18:50:06.297084+00:00"
-  },
-  {
     "id": "llama_2026081719",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,668,201,768 🟢 +0.00% (24h)",
@@ -2371,6 +2331,24 @@
     "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
     "published_at": "Mon, 24 Aug 2026 17:07:32 +0000",
     "fetched_at": "2026-08-24T17:59:47.815263+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-08-24T18:54:18.115209+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082418",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,555,725,013 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T18:54:22.250738+00:00",
     "used": false
   }
 ]
