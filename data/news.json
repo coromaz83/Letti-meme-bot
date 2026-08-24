@@ -1,33 +1,5 @@
 [
   {
-    "id": "rss_6a2ff2bcfd16",
-    "source": "The Defiant",
-    "title": "Deel Takes Its DLUSD Stablecoin Wallet to More Than 80 Countries",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-dlusd-stablecoin-wallet-80-countries",
-    "published_at": "Mon, 17 Aug 2026 21:00:23 GMT",
-    "fetched_at": "2026-08-17T21:31:57.417208+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2cd3c92ad2c4",
-    "source": "The Defiant",
-    "title": "Neynar Seeks a New Owner for Farcaster Seven Months After Buying It",
-    "url": "https://thedefiant.io/news/nfts-and-web3/neynar-seeks-new-owner-farcaster-clanker",
-    "published_at": "Mon, 17 Aug 2026 20:59:05 GMT",
-    "fetched_at": "2026-08-17T21:31:57.417208+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081721",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,726,293,769 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T21:32:00.787204+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T21:32:00.787204+00:00"
-  },
-  {
     "id": "rss_337dad366da2",
     "source": "The Defiant",
     "title": "Omnichain Launchpad Printr Shuts Down, Cancels Token Launch And Airdrop",
@@ -2377,5 +2349,32 @@
     "fetched_at": "2026-08-24T20:38:52.112690+00:00",
     "used": false,
     "_sort_date": "2026-08-24T20:38:52.112690+00:00"
+  },
+  {
+    "id": "rss_32e9a60ff16e",
+    "source": "The Defiant",
+    "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
+    "url": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
+    "published_at": "Mon, 24 Aug 2026 21:26:43 GMT",
+    "fetched_at": "2026-08-24T21:36:20.124182+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_33ecef1a835f",
+    "source": "The Defiant",
+    "title": "Coinbase Launches Tokenized Stocks On Base",
+    "url": "https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base",
+    "published_at": "Mon, 24 Aug 2026 21:10:00 GMT",
+    "fetched_at": "2026-08-24T21:36:20.124182+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082421",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,503,211,763 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T21:36:23.243789+00:00",
+    "used": false
   }
 ]
