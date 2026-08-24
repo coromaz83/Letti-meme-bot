@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_2b0072922191",
-    "source": "CoinDesk",
-    "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
-    "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
-    "published_at": "Mon, 17 Aug 2026 12:02:10 +0000",
-    "fetched_at": "2026-08-17T12:58:02.116924+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T12:02:10+00:00"
-  },
-  {
-    "id": "llama_2026081712",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,644,810,045 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-17T12:58:06.557452+00:00",
-    "used": false,
-    "_sort_date": "2026-08-17T12:58:06.557452+00:00"
-  },
-  {
     "id": "llama_2026081713",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,641,042,514 🟢 +0.00% (24h)",
@@ -2423,6 +2403,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T11:36:09.103105+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cfafaa39f6c5",
+    "source": "CoinDesk",
+    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+    "published_at": "Mon, 24 Aug 2026 12:59:55 +0000",
+    "fetched_at": "2026-08-24T13:04:17.882612+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082413",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,509,446,848 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-24T13:04:22.387852+00:00",
     "used": false
   }
 ]
