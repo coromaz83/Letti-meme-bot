@@ -2234,7 +2234,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-23T22:29:31.143041+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-23T22:29:31.143041+00:00"
   },
   {
     "id": "llama_2026082323",
@@ -2243,7 +2244,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-23T23:27:45.221995+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-23T23:27:45.221995+00:00"
   },
   {
     "id": "llama_2026082401",
@@ -2252,7 +2254,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T01:48:34.722103+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T01:48:34.722103+00:00"
   },
   {
     "id": "llama_2026082403",
@@ -2261,7 +2264,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T03:11:22.838658+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T03:11:22.838658+00:00"
   },
   {
     "id": "llama_2026082404",
@@ -2270,7 +2274,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T04:23:13.433961+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T04:23:13.433961+00:00"
   },
   {
     "id": "llama_2026082405",
@@ -2279,7 +2284,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T05:20:21.592458+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T05:20:21.592458+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -2288,7 +2294,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-08-24T06:05:07.860116+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T06:05:07.860116+00:00"
   },
   {
     "id": "llama_2026082406",
@@ -2297,7 +2304,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T06:05:12.865678+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T06:05:12.865678+00:00"
   },
   {
     "id": "rss_6ec41e1b7024",
@@ -2306,7 +2314,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
     "published_at": "Mon, 24 Aug 2026 06:50:58 +0000",
     "fetched_at": "2026-08-24T07:39:54.215721+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T06:50:58+00:00"
   },
   {
     "id": "rss_0c79d68fc2fa",
@@ -2315,7 +2324,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
     "published_at": "Mon, 24 Aug 2026 06:27:33 +0000",
     "fetched_at": "2026-08-24T07:39:54.215721+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T06:27:33+00:00"
   },
   {
     "id": "llama_2026082407",
@@ -2324,7 +2334,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T07:39:58.211702+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T07:39:58.211702+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -2423,6 +2434,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T08:56:45.059074+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T08:56:45.059074+00:00"
   }
 ]
