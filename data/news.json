@@ -2355,7 +2355,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T09:57:06.678331+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T09:57:06.678331+00:00"
   },
   {
     "id": "llama_2026082410",
@@ -2364,7 +2365,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T10:46:36.132422+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T10:46:36.132422+00:00"
   },
   {
     "id": "llama_2026082411",
@@ -2373,7 +2375,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T11:36:09.103105+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T11:36:09.103105+00:00"
   },
   {
     "id": "rss_cfafaa39f6c5",
@@ -2382,7 +2385,8 @@
     "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
     "published_at": "Mon, 24 Aug 2026 12:59:55 +0000",
     "fetched_at": "2026-08-24T13:04:17.882612+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T12:59:55+00:00"
   },
   {
     "id": "llama_2026082413",
@@ -2391,7 +2395,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T13:04:22.387852+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T13:04:22.387852+00:00"
   },
   {
     "id": "llama_2026082414",
@@ -2400,7 +2405,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T14:19:50.901830+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T14:19:50.901830+00:00"
   },
   {
     "id": "llama_2026082415",
@@ -2409,6 +2415,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T15:11:34.420547+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T15:11:34.420547+00:00"
   }
 ]
