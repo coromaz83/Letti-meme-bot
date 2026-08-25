@@ -2315,7 +2315,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T10:02:32.123497+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T10:02:32.123497+00:00"
   },
   {
     "id": "llama_2026082511",
@@ -2324,7 +2325,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T11:01:21.168008+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T11:01:21.168008+00:00"
   },
   {
     "id": "rss_e91a423d58a2",
@@ -2333,7 +2335,8 @@
     "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
     "published_at": "Tue, 25 Aug 2026 13:00:00 +0000",
     "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T13:00:00+00:00"
   },
   {
     "id": "rss_f24b157ba6d8",
@@ -2342,7 +2345,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
     "published_at": "Tue, 25 Aug 2026 12:03:55 +0000",
     "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T12:03:55+00:00"
   },
   {
     "id": "rss_21f271e5855e",
@@ -2351,7 +2355,8 @@
     "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
     "published_at": "Tue, 25 Aug 2026 11:58:22 +0000",
     "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T11:58:22+00:00"
   },
   {
     "id": "llama_2026082513",
@@ -2360,7 +2365,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T13:03:37.143250+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T13:03:37.143250+00:00"
   },
   {
     "id": "llama_2026082514",
@@ -2369,7 +2375,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T14:22:03.505033+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T14:22:03.505033+00:00"
   },
   {
     "id": "rss_183a9ca15579",
@@ -2378,7 +2385,8 @@
     "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
     "published_at": "Tue, 25 Aug 2026 14:50:22 +0000",
     "fetched_at": "2026-08-25T15:23:18.049464+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T14:50:22+00:00"
   },
   {
     "id": "llama_2026082515",
@@ -2387,6 +2395,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T15:23:21.475186+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T15:23:21.475186+00:00"
   }
 ]
