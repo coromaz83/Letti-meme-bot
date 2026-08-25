@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_65d1ff7864fc",
-    "source": "The Defiant",
-    "title": "Hayden Adams Says AMMs Will Win The Biggest Markets. A Former XTX Trader Says They're Going To Zero",
-    "url": "https://thedefiant.io/news/defi/hayden-adams-correlated-pairs-amms-market-makers",
-    "published_at": "Tue, 18 Aug 2026 21:55:04 GMT",
-    "fetched_at": "2026-08-18T22:31:17.179834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9631d2b18318",
-    "source": "The Defiant",
-    "title": "Aligned Details ALIGN Airdrop 20 Months Later",
-    "url": "https://thedefiant.io/news/tokens/aligned-details-align-airdrop-still-no-launch-date",
-    "published_at": "Tue, 18 Aug 2026 21:42:33 GMT",
-    "fetched_at": "2026-08-18T22:31:17.179834+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081822",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,758,299,579 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T22:31:20.879633+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026081823",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,757,495,655 🟢 +0.00% (24h)",
@@ -2418,6 +2391,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T21:35:51.707490+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082522",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,501,099,933 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T22:34:44.081090+00:00",
     "used": false
   }
 ]
