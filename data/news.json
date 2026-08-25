@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081814",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,735,311,963 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T14:40:39.112249+00:00",
-    "used": true,
-    "_sort_date": "2026-08-18T14:40:39.112249+00:00"
-  },
-  {
     "id": "llama_2026081815",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,731,311,132 🟢 +0.00% (24h)",
@@ -2379,6 +2369,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T14:22:03.505033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_183a9ca15579",
+    "source": "CoinDesk",
+    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+    "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+    "published_at": "Tue, 25 Aug 2026 14:50:22 +0000",
+    "fetched_at": "2026-08-25T15:23:18.049464+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,490,279,496 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T15:23:21.475186+00:00",
     "used": false
   }
 ]
