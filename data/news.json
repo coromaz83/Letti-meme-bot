@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081805",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,717,599,228 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T05:03:38.534790+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T05:03:38.534790+00:00"
-  },
-  {
     "id": "rss_e74cd4eefb93",
     "source": "CoinDesk",
     "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
@@ -2368,6 +2358,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T04:10:14.498309+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4afd1759cbf6",
+    "source": "CryptoSlate",
+    "title": "Ledger patched an Ethereum app bug that could show one transaction and sign another",
+    "url": "https://cryptoslate.com/ledger-patched-an-ethereum-app-bug-that-could-show-one-transaction-and-sign-another/",
+    "published_at": "Tue, 25 Aug 2026 05:00:33 +0000",
+    "fetched_at": "2026-08-25T05:07:24.492024+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082505",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,620,009,167 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T05:07:27.652673+00:00",
     "used": false
   }
 ]
