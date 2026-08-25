@@ -2316,7 +2316,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T16:09:44.430321+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T16:09:44.430321+00:00"
   },
   {
     "id": "rss_802e4c7c0843",
@@ -2325,7 +2326,8 @@
     "url": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
     "published_at": "Tue, 25 Aug 2026 16:28:16 GMT",
     "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T16:28:16+00:00"
   },
   {
     "id": "rss_7d0a822098ac",
@@ -2334,7 +2336,8 @@
     "url": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million",
     "published_at": "Tue, 25 Aug 2026 16:19:44 GMT",
     "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T16:19:44+00:00"
   },
   {
     "id": "rss_c4dd98d71f45",
@@ -2343,7 +2346,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
     "published_at": "Tue, 25 Aug 2026 16:10:00 GMT",
     "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T16:10:00+00:00"
   },
   {
     "id": "llama_2026082517",
@@ -2352,7 +2356,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T17:07:09.245570+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T17:07:09.245570+00:00"
   },
   {
     "id": "rss_a973ab5d3b93",
@@ -2361,7 +2366,8 @@
     "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected/",
     "published_at": "Tue, 25 Aug 2026 17:30:21 +0000",
     "fetched_at": "2026-08-25T17:58:53.282408+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T17:30:21+00:00"
   },
   {
     "id": "llama_2026082518",
@@ -2370,7 +2376,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T18:52:27.842233+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T18:52:27.842233+00:00"
   },
   {
     "id": "rss_2b972f076355",
@@ -2379,7 +2386,8 @@
     "url": "https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million",
     "published_at": "Tue, 25 Aug 2026 19:24:38 GMT",
     "fetched_at": "2026-08-25T19:37:35.354839+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T19:24:38+00:00"
   },
   {
     "id": "rss_67d8e182d6ba",
@@ -2388,7 +2396,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base",
     "published_at": "Tue, 25 Aug 2026 19:17:25 GMT",
     "fetched_at": "2026-08-25T19:37:35.354839+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T19:17:25+00:00"
   },
   {
     "id": "llama_2026082519",
@@ -2397,7 +2406,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T19:37:53.230688+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T19:37:53.230688+00:00"
   },
   {
     "id": "rss_fed2f96685cd",
@@ -2406,7 +2416,8 @@
     "url": "https://www.bankless.com/read/what-to-expect-from-kinetiqs-upcoming-hyperliquid-l2",
     "published_at": "Tue, 25 Aug 2026 15:59:55 -0400",
     "fetched_at": "2026-08-25T20:37:01.395377+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T15:59:55-04:00"
   },
   {
     "id": "llama_2026082520",
@@ -2415,6 +2426,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T20:37:12.049219+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T20:37:12.049219+00:00"
   }
 ]
