@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_5ebfa51989e0",
-    "source": "The Defiant",
-    "title": "Tenev Pushes for Tokenized Stocks in America",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/vlad-tenev-pushes-for-tokenized-stocks-in-america",
-    "published_at": "Tue, 18 Aug 2026 21:01:11 GMT",
-    "fetched_at": "2026-08-18T21:30:49.590956+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_be1e25298fa6",
-    "source": "The Defiant",
-    "title": "SEC Proposes Token Offering Rules With $75 Million Exemption",
-    "url": "https://thedefiant.io/news/regulation/sec-proposes-token-offering-rules-75-million-exemption",
-    "published_at": "Tue, 18 Aug 2026 20:25:05 GMT",
-    "fetched_at": "2026-08-18T21:30:49.590956+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026081821",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,758,348,497 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T21:30:53.887617+00:00",
-    "used": false
-  },
-  {
     "id": "rss_65d1ff7864fc",
     "source": "The Defiant",
     "title": "Hayden Adams Says AMMs Will Win The Biggest Markets. A Former XTX Trader Says They're Going To Zero",
@@ -2428,5 +2401,23 @@
     "fetched_at": "2026-08-25T20:37:12.049219+00:00",
     "used": false,
     "_sort_date": "2026-08-25T20:37:12.049219+00:00"
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-08-25T21:35:36.849231+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082521",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,501,099,933 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T21:35:51.707490+00:00",
+    "used": false
   }
 ]
