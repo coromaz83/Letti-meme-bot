@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081803",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,744,305,012 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T03:02:53.897870+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T03:02:53.897870+00:00"
-  },
-  {
     "id": "llama_2026081804",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,718,572,480 🟢 +0.00% (24h)",
@@ -2352,6 +2342,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T01:43:10.251640+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_12d090580bf9",
+    "source": "CryptoSlate",
+    "title": "FalconX asks SEC to bring single-stock perpetuals from DeFi under swap rules",
+    "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules/",
+    "published_at": "Tue, 25 Aug 2026 02:30:17 +0000",
+    "fetched_at": "2026-08-25T03:06:09.443929+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082503",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,562,700,678 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T03:06:16.611438+00:00",
     "used": false
   }
 ]
