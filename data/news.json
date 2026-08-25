@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026081823",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,757,495,655 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T23:28:42.076181+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026081901",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,751,386,579 🟢 +0.00% (24h)",
@@ -2400,6 +2391,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T22:34:44.081090+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5618b5f97c76",
+    "source": "The Defiant",
+    "title": "Cosmos Labs Urges EVM Chains To Halt As Shared Bug Drains Three Networks",
+    "url": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks",
+    "published_at": "Tue, 25 Aug 2026 22:28:06 GMT",
+    "fetched_at": "2026-08-25T23:30:46.452765+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082523",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,460,350,458 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T23:30:51.891268+00:00",
     "used": false
   }
 ]
