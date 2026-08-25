@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081815",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,731,311,132 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T15:38:29.442920+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T15:38:29.442920+00:00"
-  },
-  {
     "id": "rss_9a2ad462554c",
     "source": "CryptoSlate",
     "title": "Circle still tells users to buy Noble USDC on Coinbase after cutoff date passes",
@@ -2397,5 +2387,14 @@
     "fetched_at": "2026-08-25T15:23:21.475186+00:00",
     "used": false,
     "_sort_date": "2026-08-25T15:23:21.475186+00:00"
+  },
+  {
+    "id": "llama_2026082516",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,490,280,412 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T16:09:44.430321+00:00",
+    "used": false
   }
 ]
