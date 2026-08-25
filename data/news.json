@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081804",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,718,572,480 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T04:09:37.287194+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T04:09:37.287194+00:00"
-  },
-  {
     "id": "llama_2026081805",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,717,599,228 🟢 +0.00% (24h)",
@@ -2360,6 +2350,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T03:06:16.611438+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c9e5065e7569",
+    "source": "CryptoSlate",
+    "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
+    "url": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client/",
+    "published_at": "Tue, 25 Aug 2026 03:40:43 +0000",
+    "fetched_at": "2026-08-25T04:10:08.830663+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082504",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,619,964,828 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T04:10:14.498309+00:00",
     "used": false
   }
 ]
