@@ -2255,7 +2255,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T21:36:23.243789+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T21:36:23.243789+00:00"
   },
   {
     "id": "llama_2026082422",
@@ -2264,7 +2265,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T22:34:27.972973+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T22:34:27.972973+00:00"
   },
   {
     "id": "llama_2026082423",
@@ -2273,7 +2275,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-24T23:27:56.554494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-24T23:27:56.554494+00:00"
   },
   {
     "id": "llama_2026082501",
@@ -2282,7 +2285,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T01:43:10.251640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T01:43:10.251640+00:00"
   },
   {
     "id": "rss_12d090580bf9",
@@ -2291,7 +2295,8 @@
     "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules/",
     "published_at": "Tue, 25 Aug 2026 02:30:17 +0000",
     "fetched_at": "2026-08-25T03:06:09.443929+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T02:30:17+00:00"
   },
   {
     "id": "llama_2026082503",
@@ -2300,7 +2305,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T03:06:16.611438+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T03:06:16.611438+00:00"
   },
   {
     "id": "rss_c9e5065e7569",
@@ -2309,7 +2315,8 @@
     "url": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client/",
     "published_at": "Tue, 25 Aug 2026 03:40:43 +0000",
     "fetched_at": "2026-08-25T04:10:08.830663+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T03:40:43+00:00"
   },
   {
     "id": "llama_2026082504",
@@ -2318,7 +2325,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T04:10:14.498309+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T04:10:14.498309+00:00"
   },
   {
     "id": "rss_4afd1759cbf6",
@@ -2327,7 +2335,8 @@
     "url": "https://cryptoslate.com/ledger-patched-an-ethereum-app-bug-that-could-show-one-transaction-and-sign-another/",
     "published_at": "Tue, 25 Aug 2026 05:00:33 +0000",
     "fetched_at": "2026-08-25T05:07:24.492024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T05:00:33+00:00"
   },
   {
     "id": "llama_2026082505",
@@ -2336,7 +2345,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T05:07:27.652673+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T05:07:27.652673+00:00"
   },
   {
     "id": "llama_2026082507",
@@ -2345,7 +2355,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T07:03:44.878108+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T07:03:44.878108+00:00"
   },
   {
     "id": "llama_2026082508",
@@ -2354,7 +2365,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T08:10:14.831607+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T08:10:14.831607+00:00"
   },
   {
     "id": "rss_2b2f0a2a55c3",
@@ -2363,7 +2375,8 @@
     "url": "https://cryptoslate.com/tethers-120-million-uruguay-mining-failure-now-shadows-its-next-bitcoin-bet-in-brazil/",
     "published_at": "Tue, 25 Aug 2026 08:30:08 +0000",
     "fetched_at": "2026-08-25T09:09:53.137794+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T08:30:08+00:00"
   },
   {
     "id": "llama_2026082509",
@@ -2372,6 +2385,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T09:09:57.606769+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T09:09:57.606769+00:00"
   }
 ]
