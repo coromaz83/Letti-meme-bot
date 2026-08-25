@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081808",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,732,342,701 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T08:46:22.914476+00:00",
-    "used": true,
-    "_sort_date": "2026-08-18T08:46:22.914476+00:00"
-  },
-  {
     "id": "llama_2026081809",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,731,827,797 🟢 +0.00% (24h)",
@@ -2364,6 +2354,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T08:10:14.831607+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2b2f0a2a55c3",
+    "source": "CryptoSlate",
+    "title": "Tether’s $120 million Uruguay mining failure now shadows its next Bitcoin bet in Brazil",
+    "url": "https://cryptoslate.com/tethers-120-million-uruguay-mining-failure-now-shadows-its-next-bitcoin-bet-in-brazil/",
+    "published_at": "Tue, 25 Aug 2026 08:30:08 +0000",
+    "fetched_at": "2026-08-25T09:09:53.137794+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082509",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,612,629,548 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T09:09:57.606769+00:00",
     "used": false
   }
 ]
