@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_3fa3c7388323",
-    "source": "CryptoSlate",
-    "title": "Ethereum wants to hide your trades from bots before they can attack",
-    "url": "https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/",
-    "published_at": "Tue, 18 Aug 2026 17:50:20 +0000",
-    "fetched_at": "2026-08-18T18:48:54.919911+00:00",
-    "used": true,
-    "_sort_date": "2026-08-18T17:50:20+00:00"
-  },
-  {
-    "id": "llama_2026081818",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,764,681,513 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T18:48:58.212437+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T18:48:58.212437+00:00"
-  },
-  {
     "id": "llama_2026081819",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,764,681,513 🟢 +0.00% (24h)",
@@ -2410,6 +2390,15 @@
     "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected/",
     "published_at": "Tue, 25 Aug 2026 17:30:21 +0000",
     "fetched_at": "2026-08-25T17:58:53.282408+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082518",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,520,943,882 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T18:52:27.842233+00:00",
     "used": false
   }
 ]
