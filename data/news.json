@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,764,681,513 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T19:33:03.621486+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T19:33:03.621486+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -2399,6 +2389,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T18:52:27.842233+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2b972f076355",
+    "source": "The Defiant",
+    "title": "Term Finance Permanently Shuts Meta Vaults After Exploit PeckShield Estimated at $8.5 Million",
+    "url": "https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million",
+    "published_at": "Tue, 25 Aug 2026 19:24:38 GMT",
+    "fetched_at": "2026-08-25T19:37:35.354839+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_67d8e182d6ba",
+    "source": "The Defiant",
+    "title": "Bitwise Launches Self-Custodied Tokenized Stock Portfolio on Base",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base",
+    "published_at": "Tue, 25 Aug 2026 19:17:25 GMT",
+    "fetched_at": "2026-08-25T19:37:35.354839+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082519",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,525,808,877 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-25T19:37:53.230688+00:00",
     "used": false
   }
 ]
