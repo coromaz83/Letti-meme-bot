@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081811",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,724,779,363 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T11:32:07.038301+00:00",
-    "used": false,
-    "_sort_date": "2026-08-18T11:32:07.038301+00:00"
-  },
-  {
     "id": "rss_8e36e4957741",
     "source": "CoinDesk",
     "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
