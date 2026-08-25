@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081817",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,766,815,321 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-18T17:34:11.527035+00:00",
-    "used": true,
-    "_sort_date": "2026-08-18T17:34:11.527035+00:00"
-  },
-  {
     "id": "rss_3fa3c7388323",
     "source": "CryptoSlate",
     "title": "Ethereum wants to hide your trades from bots before they can attack",
@@ -2411,6 +2401,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T17:07:09.245570+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a973ab5d3b93",
+    "source": "CryptoSlate",
+    "title": "How Ethereum’s new 2,048 ETH staking rule could lock up user rewards longer than expected",
+    "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected/",
+    "published_at": "Tue, 25 Aug 2026 17:30:21 +0000",
+    "fetched_at": "2026-08-25T17:58:53.282408+00:00",
     "used": false
   }
 ]
