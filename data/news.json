@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_823766072903",
-    "source": "CryptoSlate",
-    "title": "Circle renews Coinbase deal creating two ways to challenge Coinbase’s USDC payouts, but neither works quickly",
-    "url": "https://cryptoslate.com/circles-renewed-coinbase-deal-creates-two-ways-to-challenge-coinbases-usdc-payouts-but-neither-works-quickly/",
-    "published_at": "Wed, 19 Aug 2026 17:35:32 +0000",
-    "fetched_at": "2026-08-19T18:44:47.063767+00:00",
-    "used": true,
-    "_sort_date": "2026-08-19T17:35:32+00:00"
-  },
-  {
-    "id": "rss_42981f2201b8",
-    "source": "Bankless",
-    "title": "Nethermind Drops LayerZero Verifier Role, Joins Chainlink",
-    "url": "https://www.bankless.com/read/news/nethermind-drops-layerzero-verifier-role-joins-chainlink",
-    "published_at": "Wed, 19 Aug 2026 13:55:55 -0400",
-    "fetched_at": "2026-08-19T18:44:47.063767+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T13:55:55-04:00"
-  },
-  {
-    "id": "llama_2026081918",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,910,146,932 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T18:44:51.181167+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T18:44:51.181167+00:00"
-  },
-  {
-    "id": "rss_1a9dbb6ce614",
-    "source": "The Defiant",
-    "title": "How Maple Finance Became the #2 Crypto Lender Behind Tether — Sid Powell Explains",
-    "url": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
-    "published_at": "Wed, 19 Aug 2026 19:25:14 GMT",
-    "fetched_at": "2026-08-19T19:32:03.574268+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T19:25:14+00:00"
-  },
-  {
-    "id": "rss_c1ceeb67d175",
-    "source": "Bankless",
-    "title": "Base App Unveils Hyperliquid-Powered Perps",
-    "url": "https://www.bankless.com/read/news/base-app-unveils-hyperliquid-powered-perps",
-    "published_at": "Wed, 19 Aug 2026 15:11:58 -0400",
-    "fetched_at": "2026-08-19T19:32:03.574268+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T15:11:58-04:00"
-  },
-  {
-    "id": "llama_2026081919",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,910,161,191 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T19:32:07.591839+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T19:32:07.591839+00:00"
-  },
-  {
-    "id": "rss_016903d49e45",
-    "source": "Decrypt",
-    "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-    "url": "https://decrypt.co/375990/crypto-stocks-rip-strategy-coinbase-bitcoin",
-    "published_at": "Wed, 19 Aug 2026 19:51:11 +0000",
-    "fetched_at": "2026-08-19T20:36:14.153258+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T19:51:11+00:00"
-  },
-  {
-    "id": "rss_bd34217ebf75",
-    "source": "Bankless",
-    "title": "The Debasement Trade Returns",
-    "url": "https://www.bankless.com/read/the-debasement-trade-returns",
-    "published_at": "Wed, 19 Aug 2026 15:32:37 -0400",
-    "fetched_at": "2026-08-19T20:36:14.153258+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T15:32:37-04:00"
-  },
-  {
-    "id": "llama_2026081920",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,910,419,853 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T20:36:18.870741+00:00",
-    "used": true,
-    "_sort_date": "2026-08-19T20:36:18.870741+00:00"
-  },
-  {
     "id": "llama_2026081921",
     "source": "DeFiLlama",
     "title": "Base TVL: $4,931,663,888 🟢 +0.00% (24h)",
@@ -2323,6 +2233,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T18:18:15.292407+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_720a2c40bbf7",
+    "source": "The Defiant",
+    "title": "Core Lightning Tells Node Operators To Go Offline, With No Patch Published",
+    "url": "https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published",
+    "published_at": "Wed, 26 Aug 2026 20:07:46 GMT",
+    "fetched_at": "2026-08-26T20:59:32.829705+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_09ced16e7876",
+    "source": "The Defiant",
+    "title": "Unstoppable Skips ICANN Round, Refunds Web3 Domains",
+    "url": "https://thedefiant.io/news/nfts-and-web3/unstoppable-skips-icann-round-refunds-web3-domains",
+    "published_at": "Wed, 26 Aug 2026 18:33:13 GMT",
+    "fetched_at": "2026-08-26T20:59:32.829705+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_464850c0b9e5",
+    "source": "CryptoSlate",
+    "title": "A hidden Bitcoin node database just shrank by 40 GB, but only if runners rebuild it",
+    "url": "https://cryptoslate.com/a-hidden-bitcoin-node-database-just-shrank-by-40-gb-but-only-if-runners-rebuild-it/",
+    "published_at": "Wed, 26 Aug 2026 20:45:35 +0000",
+    "fetched_at": "2026-08-26T20:59:32.829705+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f10c58bb3f87",
+    "source": "Decrypt",
+    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+    "published_at": "Wed, 26 Aug 2026 19:56:03 +0000",
+    "fetched_at": "2026-08-26T20:59:32.829705+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082620",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,479,384,067 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T20:59:37.611313+00:00",
     "used": false
   }
 ]
