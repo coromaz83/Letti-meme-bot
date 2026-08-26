@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_2f955d5583fa",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s 12-GPU proving problem just got a 4-GPU answer",
-    "url": "https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer/",
-    "published_at": "Wed, 19 Aug 2026 07:00:12 +0000",
-    "fetched_at": "2026-08-19T07:49:04.274427+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T07:00:12+00:00"
-  },
-  {
-    "id": "llama_2026081907",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,680,595,727 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T07:49:08.069026+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T07:49:08.069026+00:00"
-  },
-  {
     "id": "rss_068bb29483bc",
     "source": "CryptoSlate",
     "title": "This Solana treasury company may sell SOL as a DeFi loan ties up more than half its treasury",
@@ -2404,6 +2384,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T07:27:58.654199+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082608",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,513,971,645 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T08:20:45.209496+00:00",
     "used": false
   }
 ]
