@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081914",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,709,934,524 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T14:08:08.987629+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T14:08:08.987629+00:00"
-  },
-  {
     "id": "rss_62e6803e165c",
     "source": "CoinDesk",
     "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
@@ -2390,6 +2380,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T13:10:34.555338+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ad0041646cec",
+    "source": "CoinDesk",
+    "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+    "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+    "published_at": "Wed, 26 Aug 2026 13:30:00 +0000",
+    "fetched_at": "2026-08-26T14:20:24.728011+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082614",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,484,023,320 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T14:20:29.631763+00:00",
     "used": false
   }
 ]
