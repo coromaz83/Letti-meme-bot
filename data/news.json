@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026081903",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,744,325,498 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T03:04:42.415094+00:00",
-    "used": false
-  },
-  {
     "id": "rss_c7dbbafc1cdc",
     "source": "CryptoSlate",
     "title": "Canaan counted paused Ethiopia mining as nearly 35% of its July operating hashrate total",
@@ -2409,6 +2400,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T01:48:37.836514+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082603",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,498,185,292 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T03:12:48.705596+00:00",
     "used": false
   }
 ]
