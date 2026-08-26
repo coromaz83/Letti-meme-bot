@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_62e6803e165c",
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
-    "published_at": "Wed, 19 Aug 2026 14:57:35 +0000",
-    "fetched_at": "2026-08-19T15:03:35.391177+00:00",
-    "used": true,
-    "_sort_date": "2026-08-19T14:57:35+00:00"
-  },
-  {
-    "id": "rss_73718ab630be",
-    "source": "The Defiant",
-    "title": "Maya Protocol Exploit Drains $1.7 Million From Shared Liquidity",
-    "url": "https://thedefiant.io/news/hacks/maya-protocol-exploit-drains-1-7-million-from-shared-liquidity",
-    "published_at": "Wed, 19 Aug 2026 14:43:24 GMT",
-    "fetched_at": "2026-08-19T15:03:35.391177+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T14:43:24+00:00"
-  },
-  {
-    "id": "rss_84954ace39b9",
-    "source": "The Defiant",
-    "title": "Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum",
-    "url": "https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum",
-    "published_at": "Wed, 19 Aug 2026 14:25:49 GMT",
-    "fetched_at": "2026-08-19T15:03:35.391177+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T14:25:49+00:00"
-  },
-  {
-    "id": "llama_2026081915",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,709,941,920 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T15:03:39.497095+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T15:03:39.497095+00:00"
-  },
-  {
-    "id": "rss_17e40568306c",
-    "source": "CoinDesk",
-    "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-    "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
-    "published_at": "Wed, 19 Aug 2026 15:22:29 +0000",
-    "fetched_at": "2026-08-19T15:59:06.402732+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T15:22:29+00:00"
-  },
-  {
-    "id": "rss_114fcfe24a3d",
-    "source": "The Defiant",
-    "title": "HSBC and Standard Chartered Complete First Live Transaction on Swift Blockchain Ledger",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger",
-    "published_at": "Wed, 19 Aug 2026 14:45:42 GMT",
-    "fetched_at": "2026-08-19T15:59:06.402732+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T14:45:42+00:00"
-  },
-  {
     "id": "rss_e3cacf70e60d",
     "source": "CryptoSlate",
     "title": "How crypto turned a 68-point deficit into a market lead as Bitcoin and top altcoins outrun the Nasdaq",
@@ -2398,6 +2338,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T14:20:29.631763+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_235740a95c84",
+    "source": "The Defiant",
+    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+    "published_at": "Wed, 26 Aug 2026 16:02:12 GMT",
+    "fetched_at": "2026-08-26T16:02:10.612461+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_137fa64d4896",
+    "source": "Decrypt",
+    "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+    "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+    "published_at": "Wed, 26 Aug 2026 15:04:58 +0000",
+    "fetched_at": "2026-08-26T16:02:10.612461+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082616",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,478,172,343 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T16:02:14.518021+00:00",
     "used": false
   }
 ]
