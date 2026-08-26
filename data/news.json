@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_e3cacf70e60d",
-    "source": "CryptoSlate",
-    "title": "How crypto turned a 68-point deficit into a market lead as Bitcoin and top altcoins outrun the Nasdaq",
-    "url": "https://cryptoslate.com/how-crypto-turned-a-68-point-deficit-into-a-market-lead-as-bitcoin-and-top-altcoins-outrun-the-nasdaq/",
-    "published_at": "Wed, 19 Aug 2026 16:20:15 +0000",
-    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T16:20:15+00:00"
-  },
-  {
-    "id": "rss_abc9dd994f8d",
-    "source": "Decrypt",
-    "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
-    "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-    "published_at": "Wed, 19 Aug 2026 16:31:04 +0000",
-    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T16:31:04+00:00"
-  },
-  {
-    "id": "rss_ce13ddd2fa43",
-    "source": "Decrypt",
-    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-    "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-    "published_at": "Wed, 19 Aug 2026 16:00:06 +0000",
-    "fetched_at": "2026-08-19T16:41:49.793399+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T16:00:06+00:00"
-  },
-  {
-    "id": "llama_2026081916",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,728,375,785 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T16:41:54.062135+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T16:41:54.062135+00:00"
-  },
-  {
-    "id": "rss_28d16a2a3248",
-    "source": "The Defiant",
-    "title": "Bitcoin Tops $68,000 as Short Liquidations Hit $1.7 Billion",
-    "url": "https://thedefiant.io/news/markets/bitcoin-tops-68k-as-short-liquidations-hit-1-7-billion",
-    "published_at": "Wed, 19 Aug 2026 17:16:33 GMT",
-    "fetched_at": "2026-08-19T17:32:51.696426+00:00",
-    "used": true,
-    "_sort_date": "2026-08-19T17:16:33+00:00"
-  },
-  {
-    "id": "llama_2026081917",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,899,847,531 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T17:32:56.977765+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T17:32:56.977765+00:00"
-  },
-  {
     "id": "rss_823766072903",
     "source": "CryptoSlate",
     "title": "Circle renews Coinbase deal creating two ways to challenge Coinbase’s USDC payouts, but neither works quickly",
@@ -2365,6 +2305,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T16:02:14.518021+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_37fea5f41c92",
+    "source": "The Defiant",
+    "title": "SEC Crypto Custody Rewrite Enters White House Review",
+    "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
+    "published_at": "Wed, 26 Aug 2026 18:18:13 GMT",
+    "fetched_at": "2026-08-26T18:18:11.766024+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082618",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,471,662,332 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-26T18:18:15.292407+00:00",
     "used": false
   }
 ]
