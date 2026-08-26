@@ -2283,7 +2283,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T22:34:44.081090+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T22:34:44.081090+00:00"
   },
   {
     "id": "rss_5618b5f97c76",
@@ -2292,7 +2293,8 @@
     "url": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks",
     "published_at": "Tue, 25 Aug 2026 22:28:06 GMT",
     "fetched_at": "2026-08-25T23:30:46.452765+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T22:28:06+00:00"
   },
   {
     "id": "llama_2026082523",
@@ -2301,7 +2303,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-25T23:30:51.891268+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-25T23:30:51.891268+00:00"
   },
   {
     "id": "llama_2026082601",
@@ -2310,7 +2313,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T01:48:37.836514+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T01:48:37.836514+00:00"
   },
   {
     "id": "llama_2026082603",
@@ -2319,7 +2323,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T03:12:48.705596+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T03:12:48.705596+00:00"
   },
   {
     "id": "llama_2026082604",
@@ -2328,7 +2333,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T04:11:38.843418+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T04:11:38.843418+00:00"
   },
   {
     "id": "rss_f008ee21a142",
@@ -2337,7 +2343,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
     "published_at": "Wed, 26 Aug 2026 04:13:10 +0000",
     "fetched_at": "2026-08-26T05:07:19.356864+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T04:13:10+00:00"
   },
   {
     "id": "llama_2026082605",
@@ -2346,7 +2353,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T05:07:23.935975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T05:07:23.935975+00:00"
   },
   {
     "id": "llama_2026082606",
@@ -2355,7 +2363,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T06:01:24.681527+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T06:01:24.681527+00:00"
   },
   {
     "id": "llama_2026082607",
@@ -2364,7 +2373,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T07:27:58.654199+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T07:27:58.654199+00:00"
   },
   {
     "id": "llama_2026082608",
@@ -2373,7 +2383,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T08:20:45.209496+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T08:20:45.209496+00:00"
   },
   {
     "id": "rss_a17b98daab2e",
@@ -2382,7 +2393,8 @@
     "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
     "published_at": "Wed, 26 Aug 2026 09:06:00 +0000",
     "fetched_at": "2026-08-26T09:21:00.740274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T09:06:00+00:00"
   },
   {
     "id": "llama_2026082609",
@@ -2391,6 +2403,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T09:21:04.831000+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T09:21:04.831000+00:00"
   }
 ]
