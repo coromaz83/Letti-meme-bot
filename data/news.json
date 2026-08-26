@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026081911",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,693,768,277 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-19T11:32:26.137075+00:00",
-    "used": false,
-    "_sort_date": "2026-08-19T11:32:26.137075+00:00"
-  },
-  {
     "id": "rss_af731ed886a2",
     "source": "CoinDesk",
     "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
@@ -2402,6 +2392,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T11:03:41.638938+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_baf3df5ad689",
+    "source": "CoinDesk",
+    "title": "The 3 catalysts that could define bitcoin's next move",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+    "published_at": "Wed, 26 Aug 2026 11:02:33 +0000",
+    "fetched_at": "2026-08-26T11:58:21.144053+00:00",
     "used": false
   }
 ]
