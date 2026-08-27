@@ -2170,7 +2170,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T13:10:34.555338+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T13:10:34.555338+00:00"
   },
   {
     "id": "rss_ad0041646cec",
@@ -2179,7 +2180,8 @@
     "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
     "published_at": "Wed, 26 Aug 2026 13:30:00 +0000",
     "fetched_at": "2026-08-26T14:20:24.728011+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T13:30:00+00:00"
   },
   {
     "id": "llama_2026082614",
@@ -2188,7 +2190,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T14:20:29.631763+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T14:20:29.631763+00:00"
   },
   {
     "id": "rss_235740a95c84",
@@ -2197,7 +2200,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
     "published_at": "Wed, 26 Aug 2026 16:02:12 GMT",
     "fetched_at": "2026-08-26T16:02:10.612461+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T16:02:12+00:00"
   },
   {
     "id": "rss_137fa64d4896",
@@ -2206,7 +2210,8 @@
     "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
     "published_at": "Wed, 26 Aug 2026 15:04:58 +0000",
     "fetched_at": "2026-08-26T16:02:10.612461+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T15:04:58+00:00"
   },
   {
     "id": "llama_2026082616",
@@ -2215,7 +2220,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T16:02:14.518021+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T16:02:14.518021+00:00"
   },
   {
     "id": "rss_37fea5f41c92",
@@ -2224,7 +2230,8 @@
     "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
     "published_at": "Wed, 26 Aug 2026 18:18:13 GMT",
     "fetched_at": "2026-08-26T18:18:11.766024+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T18:18:13+00:00"
   },
   {
     "id": "llama_2026082618",
@@ -2233,7 +2240,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T18:18:15.292407+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T18:18:15.292407+00:00"
   },
   {
     "id": "rss_720a2c40bbf7",
@@ -2242,7 +2250,8 @@
     "url": "https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published",
     "published_at": "Wed, 26 Aug 2026 20:07:46 GMT",
     "fetched_at": "2026-08-26T20:59:32.829705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T20:07:46+00:00"
   },
   {
     "id": "rss_09ced16e7876",
@@ -2251,7 +2260,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/unstoppable-skips-icann-round-refunds-web3-domains",
     "published_at": "Wed, 26 Aug 2026 18:33:13 GMT",
     "fetched_at": "2026-08-26T20:59:32.829705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T18:33:13+00:00"
   },
   {
     "id": "rss_464850c0b9e5",
@@ -2260,7 +2270,8 @@
     "url": "https://cryptoslate.com/a-hidden-bitcoin-node-database-just-shrank-by-40-gb-but-only-if-runners-rebuild-it/",
     "published_at": "Wed, 26 Aug 2026 20:45:35 +0000",
     "fetched_at": "2026-08-26T20:59:32.829705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T20:45:35+00:00"
   },
   {
     "id": "rss_f10c58bb3f87",
@@ -2269,7 +2280,8 @@
     "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
     "published_at": "Wed, 26 Aug 2026 19:56:03 +0000",
     "fetched_at": "2026-08-26T20:59:32.829705+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T19:56:03+00:00"
   },
   {
     "id": "llama_2026082620",
@@ -2278,6 +2290,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-26T20:59:37.611313+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-26T20:59:37.611313+00:00"
   }
 ]
