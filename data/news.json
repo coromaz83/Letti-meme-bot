@@ -2157,7 +2157,8 @@
     "url": "https://cryptoslate.com/pyth-networks-api-overhaul-threatens-to-freeze-unpatched-smart-contracts-across-300-defi-protocols/",
     "published_at": "Thu, 27 Aug 2026 08:10:42 +0000",
     "fetched_at": "2026-08-27T11:06:47.087962+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T08:10:42+00:00"
   },
   {
     "id": "rss_a1d75deaacc1",
@@ -2175,6 +2176,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-27T11:06:51.224439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T11:06:51.224439+00:00"
   }
 ]
