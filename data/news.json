@@ -1,134 +1,5 @@
 [
   {
-    "id": "rss_2d8186d7bb9b",
-    "source": "CoinDesk",
-    "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-    "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
-    "published_at": "Thu, 20 Aug 2026 11:35:47 +0000",
-    "fetched_at": "2026-08-20T11:36:04.708257+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T11:35:47+00:00"
-  },
-  {
-    "id": "llama_2026082011",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,137,935,234 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T11:36:08.648182+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T11:36:08.648182+00:00"
-  },
-  {
-    "id": "llama_2026082013",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,120,092,623 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T13:03:13.285426+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T13:03:13.285426+00:00"
-  },
-  {
-    "id": "llama_2026082014",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,107,786,756 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T14:09:49.381380+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T14:09:49.381380+00:00"
-  },
-  {
-    "id": "llama_2026082015",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,107,874,777 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T15:06:48.238755+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T15:06:48.238755+00:00"
-  },
-  {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-08-20T16:00:53.997533+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T15:43:00+00:00"
-  },
-  {
-    "id": "llama_2026082016",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,110,303,062 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T16:00:59.545974+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T16:00:59.545974+00:00"
-  },
-  {
-    "id": "llama_2026082017",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,110,257,463 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T17:02:27.237947+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T17:02:27.237947+00:00"
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-08-20T18:53:11.499761+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082018",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,193,428,134 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T18:53:15.710848+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T18:53:15.710848+00:00"
-  },
-  {
-    "id": "llama_2026082019",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,193,442,040 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T19:37:00.197472+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T19:37:00.197472+00:00"
-  },
-  {
-    "id": "rss_2d7c9ad8e4c5",
-    "source": "CryptoSlate",
-    "title": "Tether-backed Antalpha’s loan TVL declined $696 million as its gold bet returned a $22 million loss",
-    "url": "https://cryptoslate.com/tether-backed-antalphas-loan-tvl-declined-696-million-as-its-gold-bet-returned-a-22-million-loss/",
-    "published_at": "Thu, 20 Aug 2026 20:00:46 +0000",
-    "fetched_at": "2026-08-20T20:36:40.137499+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T20:00:46+00:00"
-  },
-  {
-    "id": "llama_2026082020",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,174,294,113 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T20:36:44.403620+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T20:36:44.403620+00:00"
-  },
-  {
     "id": "rss_996368c2755e",
     "source": "Bankless",
     "title": "ETH's Comeback Is Overdue",
@@ -2178,5 +2049,140 @@
     "fetched_at": "2026-08-27T11:06:51.224439+00:00",
     "used": false,
     "_sort_date": "2026-08-27T11:06:51.224439+00:00"
+  },
+  {
+    "id": "rss_0233450b1434",
+    "source": "CoinDesk",
+    "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
+    "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+    "published_at": "Thu, 27 Aug 2026 17:32:20 +0000",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2bd166638617",
+    "source": "CoinDesk",
+    "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
+    "published_at": "Thu, 27 Aug 2026 15:10:56 +0000",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_32619b0c8517",
+    "source": "CoinDesk",
+    "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
+    "published_at": "Thu, 27 Aug 2026 11:11:08 +0000",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a6170c616f9b",
+    "source": "The Defiant",
+    "title": "Bitcoin Clears $80,000 As Schwab Adds Solana",
+    "url": "https://thedefiant.io/news/markets/bitcoin-clears-usd80-000-as-schwab-adds-solana",
+    "published_at": "Thu, 27 Aug 2026 20:57:14 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab9f2c812139",
+    "source": "The Defiant",
+    "title": "Aave V4 Deposits Reach $806 Million After 30% Weekly Gain",
+    "url": "https://thedefiant.io/news/defi/aave-v4-deposits-reach-806-million-after-30-weekly-gain",
+    "published_at": "Thu, 27 Aug 2026 20:52:17 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fd6daab66a03",
+    "source": "The Defiant",
+    "title": "Moonwell Loses $8.7 Million To MAMO Price Manipulation On Base",
+    "url": "https://thedefiant.io/news/hacks/moonwell-loses-8-7-million-to-mamo-price-manipulation-on-base",
+    "published_at": "Thu, 27 Aug 2026 16:54:49 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d8cebd642f0a",
+    "source": "The Defiant",
+    "title": "StarkWare Says it Confirmed a Quantum Safe Bitcoin Transaction on Mainnet",
+    "url": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet",
+    "published_at": "Thu, 27 Aug 2026 16:36:31 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cbf2866906f1",
+    "source": "The Defiant",
+    "title": "FRIEND Soars After Machi Big Brother Bids $1 Million For Friend.tech",
+    "url": "https://thedefiant.io/news/defi/friend-soars-after-machi-big-brother-bids-usd1-million-for-friend-tech",
+    "published_at": "Thu, 27 Aug 2026 15:14:31 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d6b77dc1bccc",
+    "source": "The Defiant",
+    "title": "Ethena Proposes Sending All Net Revenue to ENA Buybacks",
+    "url": "https://thedefiant.io/news/defi/ethena-proposes-sending-all-net-revenue-to-ena-buybacks",
+    "published_at": "Thu, 27 Aug 2026 14:57:18 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_99e3acb3e72f",
+    "source": "The Defiant",
+    "title": "Coinbase and Better Take Bitcoin-Backed Mortgages Beyond the Waitlist",
+    "url": "https://thedefiant.io/converge/cefi/coinbase-and-better-take-bitcoin-backed-mortgages-beyond-the-waitlist",
+    "published_at": "Thu, 27 Aug 2026 14:53:32 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8fa57d735647",
+    "source": "The Defiant",
+    "title": "Schwab Crypto to Add SOL, AVAX and LINK to Bitcoin-and-Ether Lineup",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-crypto-to-add-sol-avax-and-link-to-bitcoin-and-ether-lineup",
+    "published_at": "Thu, 27 Aug 2026 14:47:06 GMT",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b5381f6ca34",
+    "source": "Decrypt",
+    "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
+    "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
+    "published_at": "Thu, 27 Aug 2026 18:16:03 +0000",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_970433ec7c95",
+    "source": "Bankless",
+    "title": "DefiLlama Introduces Universal Token Ratings Dashboard",
+    "url": "https://www.bankless.com/read/news/defillama-introduces-universal-token-ratings-dashboard",
+    "published_at": "Thu, 27 Aug 2026 12:34:58 -0400",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_53fc07d79690",
+    "source": "Bankless",
+    "title": "Ethena Fee Switch Vote Ties ENA Buybacks to USDe Growth",
+    "url": "https://www.bankless.com/read/news/ethena-fee-switch-vote-ties-ena-buybacks-to-usde-growth",
+    "published_at": "Thu, 27 Aug 2026 12:20:20 -0400",
+    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082721",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,491,573,536 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-27T21:07:38.859525+00:00",
+    "used": false
   }
 ]
