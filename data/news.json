@@ -1,145 +1,5 @@
 [
   {
-    "id": "llama_2026082001",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,015,878,351 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T01:42:21.592267+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T01:42:21.592267+00:00"
-  },
-  {
-    "id": "rss_9fe00f6aa15c",
-    "source": "The Defiant",
-    "title": "Trump Says CFTC Working to Onshore Hyperliquid",
-    "url": "https://thedefiant.io/news/regulation/trump-says-cftc-working-to-onshore-hyperliquid",
-    "published_at": "Thu, 20 Aug 2026 02:44:48 GMT",
-    "fetched_at": "2026-08-20T03:04:01.272500+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T02:44:48+00:00"
-  },
-  {
-    "id": "llama_2026082003",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,034,583,943 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T03:04:05.550566+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T03:04:05.550566+00:00"
-  },
-  {
-    "id": "llama_2026082004",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,011,260,966 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T04:09:42.246325+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T04:09:42.246325+00:00"
-  },
-  {
-    "id": "rss_57842be71a0c",
-    "source": "CoinDesk",
-    "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-    "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-    "published_at": "Thu, 20 Aug 2026 04:10:40 +0000",
-    "fetched_at": "2026-08-20T05:05:55.723267+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T04:10:40+00:00"
-  },
-  {
-    "id": "llama_2026082005",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,005,162,700 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T05:05:59.671875+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T05:05:59.671875+00:00"
-  },
-  {
-    "id": "rss_0fe0783f1771",
-    "source": "CoinDesk",
-    "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
-    "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
-    "published_at": "Thu, 20 Aug 2026 05:40:54 +0000",
-    "fetched_at": "2026-08-20T05:58:53.536606+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T05:40:54+00:00"
-  },
-  {
-    "id": "rss_3cd542ffd42b",
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
-    "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-    "published_at": "Thu, 20 Aug 2026 06:21:17 +0000",
-    "fetched_at": "2026-08-20T07:00:32.964058+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T06:21:17+00:00"
-  },
-  {
-    "id": "llama_2026082007",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,016,418,813 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T07:00:41.732022+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T07:00:41.732022+00:00"
-  },
-  {
-    "id": "llama_2026082008",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,037,146,207 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T08:07:16.083082+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T08:07:16.083082+00:00"
-  },
-  {
-    "id": "llama_2026082009",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,034,113,318 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T09:07:18.260213+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T09:07:18.260213+00:00"
-  },
-  {
-    "id": "rss_cda0b7878c31",
-    "source": "CoinDesk",
-    "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
-    "published_at": "Thu, 20 Aug 2026 09:25:03 +0000",
-    "fetched_at": "2026-08-20T10:02:16.599885+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T09:25:03+00:00"
-  },
-  {
-    "id": "llama_2026082010",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,090,080,151 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T10:02:20.169554+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T10:02:20.169554+00:00"
-  },
-  {
-    "id": "rss_4ebddc80aa0e",
-    "source": "CoinDesk",
-    "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-    "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-    "published_at": "Thu, 20 Aug 2026 10:47:35 +0000",
-    "fetched_at": "2026-08-20T10:58:47.539659+00:00",
-    "used": true,
-    "_sort_date": "2026-08-20T10:47:35+00:00"
-  },
-  {
     "id": "rss_2d8186d7bb9b",
     "source": "CoinDesk",
     "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
@@ -2288,6 +2148,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-27T00:42:58.635809+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23e09d8e162a",
+    "source": "CryptoSlate",
+    "title": "Pyth Network’s API overhaul threatens to freeze unpatched smart contracts across 300 DeFi protocols",
+    "url": "https://cryptoslate.com/pyth-networks-api-overhaul-threatens-to-freeze-unpatched-smart-contracts-across-300-defi-protocols/",
+    "published_at": "Thu, 27 Aug 2026 08:10:42 +0000",
+    "fetched_at": "2026-08-27T11:06:47.087962+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1d75deaacc1",
+    "source": "CryptoSlate",
+    "title": "Staking Ethereum could soon look entirely different under a new deposit proposal",
+    "url": "https://cryptoslate.com/staking-ethereum-could-soon-look-entirely-different-under-a-new-deposit-proposal/",
+    "published_at": "Thu, 27 Aug 2026 07:00:20 +0000",
+    "fetched_at": "2026-08-27T11:06:47.087962+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082711",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,490,232,430 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-27T11:06:51.224439+00:00",
     "used": false
   }
 ]
