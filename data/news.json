@@ -1,134 +1,5 @@
 [
   {
-    "id": "rss_996368c2755e",
-    "source": "Bankless",
-    "title": "ETH's Comeback Is Overdue",
-    "url": "https://www.bankless.com/read/eths-comeback-is-overdue",
-    "published_at": "Thu, 20 Aug 2026 16:58:36 -0400",
-    "fetched_at": "2026-08-20T21:34:34.627559+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082021",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,180,783,104 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T21:34:39.068068+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T21:34:39.068068+00:00"
-  },
-  {
-    "id": "llama_2026082022",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,181,226,152 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T22:35:01.822217+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T22:35:01.822217+00:00"
-  },
-  {
-    "id": "rss_0052a6430610",
-    "source": "The Defiant",
-    "title": "Optimism Redirects $49.7 Million Airdrop Reserve After Late Deciding Vote",
-    "url": "https://thedefiant.io/news/blockchains/optimism-redirects-49-7-million-airdrop-reserve-after-late-deciding-vote",
-    "published_at": "Thu, 20 Aug 2026 22:54:21 GMT",
-    "fetched_at": "2026-08-20T23:32:28.321742+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T22:54:21+00:00"
-  },
-  {
-    "id": "rss_0e8e4028acdb",
-    "source": "The Defiant",
-    "title": "Arbitrum Activates Elara With Optional Compliance Filters for Dedicated Chains",
-    "url": "https://thedefiant.io/news/blockchains/arbitrum-activates-elara-with-optional-compliance-filters-for-dedicated-chains",
-    "published_at": "Thu, 20 Aug 2026 22:50:28 GMT",
-    "fetched_at": "2026-08-20T23:32:28.321742+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T22:50:28+00:00"
-  },
-  {
-    "id": "llama_2026082023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,187,208,229 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-20T23:32:33.343219+00:00",
-    "used": false,
-    "_sort_date": "2026-08-20T23:32:33.343219+00:00"
-  },
-  {
-    "id": "rss_e1772f2b25a9",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s next upgrade turns a 2-second block bottleneck into a roughly 9-second window",
-    "url": "https://cryptoslate.com/ethereums-next-upgrade-turns-a-2-second-block-bottleneck-into-a-roughly-9-second-window/",
-    "published_at": "Fri, 21 Aug 2026 01:00:59 +0000",
-    "fetched_at": "2026-08-21T01:47:43.072600+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T01:00:59+00:00"
-  },
-  {
-    "id": "llama_2026082101",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,202,530,019 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T01:47:47.315468+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T01:47:47.315468+00:00"
-  },
-  {
-    "id": "llama_2026082103",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,240,354,054 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T03:10:17.906134+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T03:10:17.906134+00:00"
-  },
-  {
-    "id": "llama_2026082104",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,281,247,085 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T04:11:19.147174+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T04:11:19.147174+00:00"
-  },
-  {
-    "id": "rss_3f38282f595f",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-    "published_at": "Fri, 21 Aug 2026 04:56:30 +0000",
-    "fetched_at": "2026-08-21T05:06:28.634720+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T04:56:30+00:00"
-  },
-  {
-    "id": "rss_fb5bfa617533",
-    "source": "CryptoSlate",
-    "title": "BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash",
-    "url": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/",
-    "published_at": "Fri, 21 Aug 2026 05:00:12 +0000",
-    "fetched_at": "2026-08-21T05:06:28.634720+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T05:00:12+00:00"
-  },
-  {
-    "id": "llama_2026082105",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,281,256,719 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T05:06:32.522792+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T05:06:32.522792+00:00"
-  },
-  {
     "id": "llama_2026082106",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,280,898,427 🟢 +0.00% (24h)",
@@ -2189,5 +2060,59 @@
     "fetched_at": "2026-08-27T21:07:38.859525+00:00",
     "used": false,
     "_sort_date": "2026-08-27T21:07:38.859525+00:00"
+  },
+  {
+    "id": "rss_144b5c8f4840",
+    "source": "Cointelegraph Base",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
+    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9209d9d7e6ba",
+    "source": "CoinDesk",
+    "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
+    "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+    "published_at": "Fri, 28 Aug 2026 05:02:22 +0000",
+    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_faf03ece260d",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s plan to triple network speed could silently break millions of existing smart contracts",
+    "url": "https://cryptoslate.com/ethereums-plan-to-triple-network-speed-could-silently-break-millions-of-existing-smart-contracts/",
+    "published_at": "Fri, 28 Aug 2026 04:40:41 +0000",
+    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9586f1a5e7d4",
+    "source": "CryptoSlate",
+    "title": "Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand",
+    "url": "https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/",
+    "published_at": "Fri, 28 Aug 2026 03:20:51 +0000",
+    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082805",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,480,592,389 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-28T05:35:22.238988+00:00",
+    "used": false
   }
 ]
