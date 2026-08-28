@@ -1,215 +1,5 @@
 [
   {
-    "id": "llama_2026082106",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,280,898,427 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T06:00:14.962135+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T06:00:14.962135+00:00"
-  },
-  {
-    "id": "rss_f648112a9c76",
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
-    "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-    "published_at": "Fri, 21 Aug 2026 06:43:24 +0000",
-    "fetched_at": "2026-08-21T07:02:53.718633+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T06:43:24+00:00"
-  },
-  {
-    "id": "rss_ff280182342d",
-    "source": "CryptoSlate",
-    "title": "Attackers drove 63% of early use of Ethereum’s new smart wallet feature",
-    "url": "https://cryptoslate.com/ethereum-wallets-gained-new-powers-but-early-eip-7702-data-shows-who-moved-fastest/",
-    "published_at": "Fri, 21 Aug 2026 07:00:39 +0000",
-    "fetched_at": "2026-08-21T07:02:53.718633+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T07:00:39+00:00"
-  },
-  {
-    "id": "llama_2026082107",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,306,622,611 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T07:02:57.412554+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T07:02:57.412554+00:00"
-  },
-  {
-    "id": "llama_2026082108",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,307,440,744 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T08:07:49.429297+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T08:07:49.429297+00:00"
-  },
-  {
-    "id": "llama_2026082109",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,321,167,158 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T09:09:30.679630+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T09:09:30.679630+00:00"
-  },
-  {
-    "id": "llama_2026082110",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,391,596,864 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T10:02:52.703335+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T10:02:52.703335+00:00"
-  },
-  {
-    "id": "rss_60fe4036d0bf",
-    "source": "CoinDesk",
-    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-    "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-    "published_at": "Fri, 21 Aug 2026 11:31:30 +0000",
-    "fetched_at": "2026-08-21T11:35:40.119796+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T11:31:30+00:00"
-  },
-  {
-    "id": "rss_eb07f1945fb5",
-    "source": "CryptoSlate",
-    "title": "US rule rewrite looms for $200B on-chain venue Hyperliquid as Trump signals onshore approval",
-    "url": "https://cryptoslate.com/trumps-hyperliquid-push-forces-regulators-to-define-what-a-legal-on-chain-exchange-looks-like/",
-    "published_at": "Fri, 21 Aug 2026 11:30:06 +0000",
-    "fetched_at": "2026-08-21T11:35:40.119796+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T11:30:06+00:00"
-  },
-  {
-    "id": "llama_2026082111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,451,382,570 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T11:35:46.329560+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T11:35:46.329560+00:00"
-  },
-  {
-    "id": "llama_2026082113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,411,861,486 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T13:01:59.387507+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T13:01:59.387507+00:00"
-  },
-  {
-    "id": "llama_2026082114",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,400,646,798 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T14:07:59.108145+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T14:07:59.108145+00:00"
-  },
-  {
-    "id": "rss_f85020c8c47e",
-    "source": "The Defiant",
-    "title": "MANTRA Halts Chain, Blames Cosmos EVM Module",
-    "url": "https://thedefiant.io/news/blockchains/mantra-halts-chain-blames-cosmos-evm-module",
-    "published_at": "Fri, 21 Aug 2026 14:50:51 GMT",
-    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T14:50:51+00:00"
-  },
-  {
-    "id": "rss_10d6a6e514ed",
-    "source": "The Defiant",
-    "title": "Judge Keeps Sun's World Liberty Claims In Court",
-    "url": "https://thedefiant.io/news/defi/judge-keeps-justin-sun-world-liberty-claims-in-court",
-    "published_at": "Fri, 21 Aug 2026 14:31:55 GMT",
-    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T14:31:55+00:00"
-  },
-  {
-    "id": "rss_8f667a12581e",
-    "source": "CryptoSlate",
-    "title": "This Nasdaq-listed crypto firm is swapping fresh Ethereum buys for an AI pivot",
-    "url": "https://cryptoslate.com/this-nasdaq-listed-crypto-firm-is-swapping-fresh-ethereum-buys-for-an-ai-pivot/",
-    "published_at": "Fri, 21 Aug 2026 15:00:32 +0000",
-    "fetched_at": "2026-08-21T15:04:57.225859+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T15:00:32+00:00"
-  },
-  {
-    "id": "llama_2026082115",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,405,483,605 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T15:05:02.553208+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T15:05:02.553208+00:00"
-  },
-  {
-    "id": "rss_7128539c4d9e",
-    "source": "The Defiant",
-    "title": "Circle Targets Sept. 16 for Arc Public Mainnet Launch",
-    "url": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch",
-    "published_at": "Fri, 21 Aug 2026 15:13:36 GMT",
-    "fetched_at": "2026-08-21T16:00:13.772773+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T15:13:36+00:00"
-  },
-  {
-    "id": "rss_960c0012c3a5",
-    "source": "The Defiant",
-    "title": "Illuvium Team Cuts Wages To Extend Runway",
-    "url": "https://thedefiant.io/news/nfts-and-web3/illuvium-team-cuts-wages-to-extend-runway",
-    "published_at": "Fri, 21 Aug 2026 15:03:45 GMT",
-    "fetched_at": "2026-08-21T16:00:13.772773+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T15:03:45+00:00"
-  },
-  {
-    "id": "llama_2026082116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,400,385,204 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T16:00:17.633886+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T16:00:17.633886+00:00"
-  },
-  {
-    "id": "rss_f1948925a8cf",
-    "source": "CoinDesk",
-    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-    "published_at": "Fri, 21 Aug 2026 16:10:37 +0000",
-    "fetched_at": "2026-08-21T17:02:20.775681+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T16:10:37+00:00"
-  },
-  {
-    "id": "llama_2026082117",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,399,957,558 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T17:02:24.922154+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T17:02:24.922154+00:00"
-  },
-  {
     "id": "llama_2026082118",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,431,513,403 🟢 +0.00% (24h)",
@@ -2113,6 +1903,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-28T05:35:22.238988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b78ade52a95",
+    "source": "CoinDesk",
+    "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+    "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+    "published_at": "Fri, 28 Aug 2026 12:30:57 +0000",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa0efcae5445",
+    "source": "The Defiant",
+    "title": "Bullish Provides USD.AI $100 Million Facility for GPU-Backed Loans",
+    "url": "https://thedefiant.io/news/defi/bullish-provides-usd-ai-100-million-facility-for-gpu-backed-loans",
+    "published_at": "Fri, 28 Aug 2026 17:50:32 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_45bdb79cf04a",
+    "source": "The Defiant",
+    "title": "The Sandbox Pledges 1:1 SAND Repayment After Bridge Exploit",
+    "url": "https://thedefiant.io/news/hacks/the-sandbox-pledges-1-1-sand-repayment-after-bridge-exploit",
+    "published_at": "Fri, 28 Aug 2026 17:45:22 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4d5d8bd0626b",
+    "source": "The Defiant",
+    "title": "Stellar RWA Assets Outgrow Its DeFi Markets",
+    "url": "https://thedefiant.io/converge/defi/stellar-rwa-3-billion-defi-tvl-gap-redstone-report",
+    "published_at": "Fri, 28 Aug 2026 17:33:11 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_41fb6c8dbee7",
+    "source": "The Defiant",
+    "title": "Circle Adds Native USDC, EURC and CCTP Support to Plasma",
+    "url": "https://thedefiant.io/converge/blockchains/circle-adds-native-usdc-eurc-and-cctp-support-to-plasma",
+    "published_at": "Fri, 28 Aug 2026 17:16:42 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69b061a50ca8",
+    "source": "The Defiant",
+    "title": "Bitcoin Drops Below $78,000 After Warsh Speech",
+    "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-usd78-000-after-warsh-speech",
+    "published_at": "Fri, 28 Aug 2026 17:10:59 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bd7e70a9a4c4",
+    "source": "The Defiant",
+    "title": "Bitwise Solana ETF Is First to Cross $1 Billion",
+    "url": "https://thedefiant.io/converge/markets/bitwise-solana-etf-is-first-to-cross-1-billion",
+    "published_at": "Fri, 28 Aug 2026 15:47:27 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bb977db47ee3",
+    "source": "The Defiant",
+    "title": "Solana Validators Approve Doubling Disinflation in First Governance Vote, With Kraken Reversing Late",
+    "url": "https://thedefiant.io/news/blockchains/solana-validators-approve-doubling-disinflation-in-first-governance-vote-with-kraken-reversing",
+    "published_at": "Fri, 28 Aug 2026 15:32:53 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69e3e241b9ea",
+    "source": "The Defiant",
+    "title": "Ethena Plans Equity-Perpetual Basis Trades for USDe Backing",
+    "url": "https://thedefiant.io/news/defi/ethena-plans-equity-perpetual-basis-trades-for-usde-backing",
+    "published_at": "Fri, 28 Aug 2026 14:26:46 GMT",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_998893db2b8d",
+    "source": "Decrypt",
+    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+    "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+    "published_at": "Fri, 28 Aug 2026 16:39:02 +0000",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_228b07a1a7f4",
+    "source": "Decrypt",
+    "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
+    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
+    "published_at": "Fri, 28 Aug 2026 14:17:21 +0000",
+    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082818",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,487,151,790 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-28T18:30:58.621396+00:00",
     "used": false
   }
 ]
