@@ -2057,7 +2057,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
     "published_at": "Thu, 27 Aug 2026 17:32:20 +0000",
     "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T17:32:20+00:00"
   },
   {
     "id": "rss_2bd166638617",
@@ -2084,7 +2085,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-clears-usd80-000-as-schwab-adds-solana",
     "published_at": "Thu, 27 Aug 2026 20:57:14 GMT",
     "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T20:57:14+00:00"
   },
   {
     "id": "rss_ab9f2c812139",
@@ -2093,7 +2095,8 @@
     "url": "https://thedefiant.io/news/defi/aave-v4-deposits-reach-806-million-after-30-weekly-gain",
     "published_at": "Thu, 27 Aug 2026 20:52:17 GMT",
     "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T20:52:17+00:00"
   },
   {
     "id": "rss_fd6daab66a03",
@@ -2156,7 +2159,8 @@
     "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
     "published_at": "Thu, 27 Aug 2026 18:16:03 +0000",
     "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T18:16:03+00:00"
   },
   {
     "id": "rss_970433ec7c95",
@@ -2183,6 +2187,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-27T21:07:38.859525+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-27T21:07:38.859525+00:00"
   }
 ]
