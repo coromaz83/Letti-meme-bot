@@ -1,115 +1,5 @@
 [
   {
-    "id": "llama_2026082118",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,431,513,403 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T18:50:22.713251+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T18:50:22.713251+00:00"
-  },
-  {
-    "id": "llama_2026082119",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,432,055,635 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T19:30:42.118294+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T19:30:42.118294+00:00"
-  },
-  {
-    "id": "rss_783072d06e87",
-    "source": "CryptoSlate",
-    "title": "A $22.9 million capital deficit threatens to derail an energy firm’s pivot to off-grid Bitcoin mining",
-    "url": "https://cryptoslate.com/a-22-9-million-capital-deficit-threatens-to-derail-an-energy-firms-pivot-to-off-grid-bitcoin-mining/",
-    "published_at": "Fri, 21 Aug 2026 20:30:07 +0000",
-    "fetched_at": "2026-08-21T20:32:46.847432+00:00",
-    "used": true,
-    "_sort_date": "2026-08-21T20:30:07+00:00"
-  },
-  {
-    "id": "llama_2026082120",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,433,944,796 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T20:32:50.983481+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T20:32:50.983481+00:00"
-  },
-  {
-    "id": "llama_2026082121",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,413,296,030 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T21:31:20.341103+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T21:31:20.341103+00:00"
-  },
-  {
-    "id": "rss_7985ab1d95a6",
-    "source": "The Defiant",
-    "title": "Solana Activates 350-Millisecond Slots on Mainnet",
-    "url": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
-    "published_at": "Fri, 21 Aug 2026 22:09:27 GMT",
-    "fetched_at": "2026-08-21T22:31:41.138981+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T22:09:27+00:00"
-  },
-  {
-    "id": "rss_91208f65285e",
-    "source": "The Defiant",
-    "title": "Bitcoin Posts Biggest Week Since 2024 as Trump Pushes Senate on CLARITY Act",
-    "url": "https://thedefiant.io/news/markets/bitcoin-reaches-79-500-as-2-75-billion-liquidation-claim-lacks-detail",
-    "published_at": "Fri, 21 Aug 2026 21:56:35 GMT",
-    "fetched_at": "2026-08-21T22:31:41.138981+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T21:56:35+00:00"
-  },
-  {
-    "id": "llama_2026082122",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,439,355,391 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T22:31:45.974587+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T22:31:45.974587+00:00"
-  },
-  {
-    "id": "llama_2026082123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,459,908,794 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-21T23:30:39.229525+00:00",
-    "used": false,
-    "_sort_date": "2026-08-21T23:30:39.229525+00:00"
-  },
-  {
-    "id": "rss_b144b2c02231",
-    "source": "CryptoSlate",
-    "title": "Ethereum researchers are racing to close a zkEVM security gap before December",
-    "url": "https://cryptoslate.com/ethereum-researchers-are-racing-to-close-a-zkevm-security-gap-before-december/",
-    "published_at": "Sat, 22 Aug 2026 00:20:14 +0000",
-    "fetched_at": "2026-08-22T01:41:03.017881+00:00",
-    "used": true,
-    "_sort_date": "2026-08-22T00:20:14+00:00"
-  },
-  {
-    "id": "llama_2026082201",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,521,679,961 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T01:41:07.492719+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T01:41:07.492719+00:00"
-  },
-  {
     "id": "llama_2026082203",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,497,423,816 🟢 +0.00% (24h)",
@@ -2024,5 +1914,50 @@
     "fetched_at": "2026-08-28T18:30:58.621396+00:00",
     "used": false,
     "_sort_date": "2026-08-28T18:30:58.621396+00:00"
+  },
+  {
+    "id": "rss_79a8ba4e2699",
+    "source": "The Defiant",
+    "title": "Ninth Circuit Says Kalshi Sports Contracts Aren’t Swaps, Splitting With Third Circuit",
+    "url": "https://thedefiant.io/news/regulation/ninth-circuit-says-kalshi-sports-contracts-aren-t-swaps-splitting-with-third-circuit",
+    "published_at": "Fri, 28 Aug 2026 20:15:18 GMT",
+    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_668f0b8d6b64",
+    "source": "The Defiant",
+    "title": "Avici Says 1,685 Users Lost $500,859 In Rain Card Contract Exploit",
+    "url": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
+    "published_at": "Fri, 28 Aug 2026 19:05:09 GMT",
+    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c06ccee3dcdb",
+    "source": "CryptoSlate",
+    "title": "Ethena is targeting the $120 trillion Wall Street stock market to hunt yields 5x higher than Bitcoin",
+    "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin/",
+    "published_at": "Fri, 28 Aug 2026 21:30:27 +0000",
+    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_923538bc4f88",
+    "source": "Bankless",
+    "title": "Ethena Adds Equities to Basis Trade, Shutters HIP-3 Market",
+    "url": "https://www.bankless.com/read/news/ethena-adds-equities-to-basis-trade-shutters-hip-3-market",
+    "published_at": "Fri, 28 Aug 2026 12:37:05 -0400",
+    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082902",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,488,895,862 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-29T02:02:30.545918+00:00",
+    "used": false
   }
 ]
