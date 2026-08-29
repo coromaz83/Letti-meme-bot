@@ -1,44 +1,5 @@
 [
   {
-    "id": "rss_eebac7499fc8",
-    "source": "The Defiant",
-    "title": "Eric Trump Denies New Coin Launch as TRUMP Jumps 38%",
-    "url": "https://thedefiant.io/news/tokens/eric-trump-denies-new-coin-launch-as-trump-jumps-38",
-    "published_at": "Sat, 22 Aug 2026 21:21:36 GMT",
-    "fetched_at": "2026-08-22T21:28:28.272182+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082221",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,438,850,009 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T21:28:32.084770+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T21:28:32.084770+00:00"
-  },
-  {
-    "id": "llama_2026082222",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,450,244,481 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T22:29:23.593420+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T22:29:23.593420+00:00"
-  },
-  {
-    "id": "llama_2026082223",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,427,793,629 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T23:27:27.518050+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T23:27:27.518050+00:00"
-  },
-  {
     "id": "llama_2026082301",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,431,309,580 🟢 +0.00% (24h)",
@@ -1824,5 +1785,23 @@
     "fetched_at": "2026-08-29T21:05:51.060793+00:00",
     "used": false,
     "_sort_date": "2026-08-29T21:05:51.060793+00:00"
+  },
+  {
+    "id": "rss_5fcd30101ff2",
+    "source": "CryptoSlate",
+    "title": "Deribit moved 90% of client assets to Coinbase, then killed its daily proof-of-reserves check",
+    "url": "https://cryptoslate.com/deribit-moved-90-of-client-assets-to-coinbase-then-killed-its-daily-proof-of-reserves-check/",
+    "published_at": "Sat, 29 Aug 2026 23:20:14 +0000",
+    "fetched_at": "2026-08-29T23:33:29.088339+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082923",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,510,922,125 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-29T23:33:32.694733+00:00",
+    "used": false
   }
 ]
