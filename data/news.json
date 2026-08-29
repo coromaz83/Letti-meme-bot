@@ -1,45 +1,5 @@
 [
   {
-    "id": "llama_2026082215",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,446,348,799 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T15:28:22.186237+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T15:28:22.186237+00:00"
-  },
-  {
-    "id": "llama_2026082216",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,435,341,411 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T16:33:09.031790+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T16:33:09.031790+00:00"
-  },
-  {
-    "id": "rss_169a609e2443",
-    "source": "The Defiant",
-    "title": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
-    "url": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
-    "published_at": "Sat, 22 Aug 2026 17:08:34 GMT",
-    "fetched_at": "2026-08-22T17:27:09.805143+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T17:08:34+00:00"
-  },
-  {
-    "id": "llama_2026082217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,428,813,986 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T17:27:15.118951+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T17:27:15.118951+00:00"
-  },
-  {
     "id": "llama_2026082218",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,428,716,855 🟢 +0.00% (24h)",
@@ -1844,5 +1804,32 @@
     "fetched_at": "2026-08-29T14:39:25.320645+00:00",
     "used": false,
     "_sort_date": "2026-08-29T14:39:25.320645+00:00"
+  },
+  {
+    "id": "rss_59350c097c02",
+    "source": "Cointelegraph Base",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "fetched_at": "2026-08-29T18:18:47.678555+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57f7fb48eb35",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETF inflows snap after $3 billion streak as ETH, XRP and Solana keep buying",
+    "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying/",
+    "published_at": "Sat, 29 Aug 2026 17:40:52 +0000",
+    "fetched_at": "2026-08-29T18:18:47.678555+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026082918",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,497,742,061 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-29T18:18:55.033075+00:00",
+    "used": false
   }
 ]
