@@ -1912,6 +1912,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-29T09:19:51.131314+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-29T09:19:51.131314+00:00"
   }
 ]
