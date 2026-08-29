@@ -1,85 +1,5 @@
 [
   {
-    "id": "llama_2026082209",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,473,557,214 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T09:34:04.647676+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T09:34:04.647676+00:00"
-  },
-  {
-    "id": "llama_2026082210",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,418,757,572 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T10:31:32.317152+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T10:31:32.317152+00:00"
-  },
-  {
-    "id": "llama_2026082211",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,427,696,033 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T11:26:45.364883+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T11:26:45.364883+00:00"
-  },
-  {
-    "id": "rss_77d1591384a3",
-    "source": "CoinDesk",
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-    "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-    "published_at": "Sat, 22 Aug 2026 12:00:00 +0000",
-    "fetched_at": "2026-08-22T12:52:51.682325+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T12:00:00+00:00"
-  },
-  {
-    "id": "llama_2026082212",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,432,409,800 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T12:52:56.067377+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T12:52:56.067377+00:00"
-  },
-  {
-    "id": "llama_2026082213",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,435,431,217 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T13:37:19.561975+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T13:37:19.561975+00:00"
-  },
-  {
-    "id": "rss_43f6e307b247",
-    "source": "CoinDesk",
-    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-    "published_at": "Sat, 22 Aug 2026 14:10:17 +0000",
-    "fetched_at": "2026-08-22T14:28:45.822987+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T14:10:17+00:00"
-  },
-  {
-    "id": "llama_2026082214",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,446,348,799 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-22T14:28:49.979769+00:00",
-    "used": false,
-    "_sort_date": "2026-08-22T14:28:49.979769+00:00"
-  },
-  {
     "id": "llama_2026082215",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,446,348,799 🟢 +0.00% (24h)",
@@ -1914,5 +1834,14 @@
     "fetched_at": "2026-08-29T09:19:51.131314+00:00",
     "used": false,
     "_sort_date": "2026-08-29T09:19:51.131314+00:00"
+  },
+  {
+    "id": "llama_2026082914",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,472,245,610 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-29T14:39:25.320645+00:00",
+    "used": false
   }
 ]
