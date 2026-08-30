@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-08-23T19:27:23.203431+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,464,206,978 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T19:27:27.774324+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4b1edb0bfe97",
-    "source": "CryptoSlate",
-    "title": "Bitcoin and Ethereum ETFs just had their biggest week of 2026 as crypto exploded higher",
-    "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-just-had-their-biggest-week-of-2026-as-crypto-exploded-higher/",
-    "published_at": "Sun, 23 Aug 2026 20:05:10 +0000",
-    "fetched_at": "2026-08-23T20:31:17.931357+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082320",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,465,024,663 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T20:31:21.577598+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082321",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,467,743,370 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T21:28:20.809430+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026082322",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,476,337,295 🟢 +0.00% (24h)",
@@ -1691,6 +1646,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-30T18:45:09.828689+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8a80dfdc9527",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "published_at": "Sun, 30 Aug 2026 21:31:04 +0000",
+    "fetched_at": "2026-08-30T21:52:52.495007+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026083021",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,557,504,642 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-30T21:52:56.433231+00:00",
     "used": false
   }
 ]
