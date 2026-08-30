@@ -1646,7 +1646,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-30T18:45:09.828689+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-30T18:45:09.828689+00:00"
   },
   {
     "id": "rss_8a80dfdc9527",
@@ -1655,7 +1656,8 @@
     "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
     "published_at": "Sun, 30 Aug 2026 21:31:04 +0000",
     "fetched_at": "2026-08-30T21:52:52.495007+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-30T21:31:04+00:00"
   },
   {
     "id": "llama_2026083021",
@@ -1664,6 +1666,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-30T21:52:56.433231+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-30T21:52:56.433231+00:00"
   }
 ]
