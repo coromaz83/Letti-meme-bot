@@ -1,53 +1,5 @@
 [
   {
-    "id": "llama_2026082306",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,414,340,198 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T06:54:50.835070+00:00",
-    "used": false,
-    "_sort_date": "2026-08-23T06:54:50.835070+00:00"
-  },
-  {
-    "id": "llama_2026082307",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,383,419,404 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T07:39:18.730405+00:00",
-    "used": false,
-    "_sort_date": "2026-08-23T07:39:18.730405+00:00"
-  },
-  {
-    "id": "llama_2026082308",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,379,598,885 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T08:38:54.840732+00:00",
-    "used": false,
-    "_sort_date": "2026-08-23T08:38:54.840732+00:00"
-  },
-  {
-    "id": "llama_2026082309",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,380,749,264 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T09:34:50.578199+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,406,822,745 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-23T10:30:59.327150+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026082311",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,411,705,568 🟢 +0.00% (24h)",
@@ -1771,6 +1723,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-30T05:06:45.467164+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026083010",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,510,485,116 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-30T10:37:49.572809+00:00",
     "used": false
   }
 ]
