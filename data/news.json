@@ -1707,7 +1707,8 @@
     "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending/",
     "published_at": "Sun, 30 Aug 2026 11:40:11 +0000",
     "fetched_at": "2026-08-30T15:17:41.936727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-30T11:40:11+00:00"
   },
   {
     "id": "llama_2026083015",
@@ -1716,6 +1717,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-30T15:17:45.771347+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-30T15:17:45.771347+00:00"
   }
 ]
