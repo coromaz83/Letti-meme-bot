@@ -1434,7 +1434,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T05:59:24.391875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T05:59:24.391875+00:00"
   },
   {
     "id": "rss_cc0e20956352",
@@ -1443,7 +1444,8 @@
     "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
     "published_at": "Mon, 31 Aug 2026 12:53:17 +0000",
     "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T12:53:17+00:00"
   },
   {
     "id": "rss_ad6f409dbc41",
@@ -1452,7 +1454,8 @@
     "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
     "published_at": "Mon, 31 Aug 2026 11:53:56 +0000",
     "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T11:53:56+00:00"
   },
   {
     "id": "rss_7a77675a1904",
@@ -1461,7 +1464,8 @@
     "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
     "published_at": "Mon, 31 Aug 2026 11:26:26 +0000",
     "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T11:26:26+00:00"
   },
   {
     "id": "rss_6d2cd0b7cf8a",
@@ -1470,7 +1474,8 @@
     "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/",
     "published_at": "Mon, 31 Aug 2026 08:25:54 +0000",
     "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T08:25:54+00:00"
   },
   {
     "id": "rss_5109d2ebd1f3",
@@ -1479,7 +1484,8 @@
     "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
     "published_at": "Mon, 31 Aug 2026 12:37:44 +0000",
     "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T12:37:44+00:00"
   },
   {
     "id": "llama_2026083113",
@@ -1488,6 +1494,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T13:34:19.093704+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T13:34:19.093704+00:00"
   }
 ]
