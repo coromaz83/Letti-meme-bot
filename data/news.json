@@ -1,93 +1,5 @@
 [
   {
-    "id": "rss_d231d913bef7",
-    "source": "Decrypt",
-    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-    "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-    "published_at": "Mon, 24 Aug 2026 19:43:43 +0000",
-    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T19:43:43+00:00"
-  },
-  {
-    "id": "rss_5f916924f718",
-    "source": "Bankless",
-    "title": "Coinbase Enters the Tokenized Stock Wars",
-    "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
-    "published_at": "Mon, 24 Aug 2026 16:25:42 -0400",
-    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T16:25:42-04:00"
-  },
-  {
-    "id": "rss_28ec320aa9c7",
-    "source": "Bankless",
-    "title": "Kinetiq Unveils Elysium L2 for Hyperliquid",
-    "url": "https://www.bankless.com/read/news/kinetiq-unveils-elysium-l2-for-hyperliquid",
-    "published_at": "Mon, 24 Aug 2026 16:22:15 -0400",
-    "fetched_at": "2026-08-24T20:38:48.835576+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T16:22:15-04:00"
-  },
-  {
-    "id": "llama_2026082420",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,500,006,612 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T20:38:52.112690+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T20:38:52.112690+00:00"
-  },
-  {
-    "id": "rss_32e9a60ff16e",
-    "source": "The Defiant",
-    "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
-    "url": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
-    "published_at": "Mon, 24 Aug 2026 21:26:43 GMT",
-    "fetched_at": "2026-08-24T21:36:20.124182+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_33ecef1a835f",
-    "source": "The Defiant",
-    "title": "Coinbase Launches Tokenized Stocks On Base",
-    "url": "https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base",
-    "published_at": "Mon, 24 Aug 2026 21:10:00 GMT",
-    "fetched_at": "2026-08-24T21:36:20.124182+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,503,211,763 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T21:36:23.243789+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T21:36:23.243789+00:00"
-  },
-  {
-    "id": "llama_2026082422",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,510,171,873 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T22:34:27.972973+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T22:34:27.972973+00:00"
-  },
-  {
-    "id": "llama_2026082423",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,510,171,873 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T23:27:56.554494+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T23:27:56.554494+00:00"
-  },
-  {
     "id": "llama_2026082501",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,515,521,547 🟢 +0.00% (24h)",
@@ -1601,6 +1513,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T19:55:46.903561+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fdd91d333be2",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Tops Ethereum In Daily App Revenue",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
+    "published_at": "Mon, 31 Aug 2026 20:38:48 GMT",
+    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e3142eb951c7",
+    "source": "The Defiant",
+    "title": "Bloomberg: Hyperliquid in Advanced Talks With Kraken Parent on US Perpetuals Push",
+    "url": "https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push",
+    "published_at": "Mon, 31 Aug 2026 20:37:55 GMT",
+    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_791f27f4c12f",
+    "source": "Decrypt",
+    "title": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
+    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
+    "published_at": "Mon, 31 Aug 2026 20:16:03 +0000",
+    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026083123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,575,786,962 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-31T23:43:33.037721+00:00",
     "used": false
   }
 ]
