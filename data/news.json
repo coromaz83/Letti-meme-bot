@@ -1,205 +1,5 @@
 [
   {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-08-24T06:05:07.860116+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T06:05:07.860116+00:00"
-  },
-  {
-    "id": "llama_2026082406",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,458,895,182 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T06:05:12.865678+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T06:05:12.865678+00:00"
-  },
-  {
-    "id": "rss_6ec41e1b7024",
-    "source": "CoinDesk",
-    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
-    "published_at": "Mon, 24 Aug 2026 06:50:58 +0000",
-    "fetched_at": "2026-08-24T07:39:54.215721+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T06:50:58+00:00"
-  },
-  {
-    "id": "rss_0c79d68fc2fa",
-    "source": "CoinDesk",
-    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-    "published_at": "Mon, 24 Aug 2026 06:27:33 +0000",
-    "fetched_at": "2026-08-24T07:39:54.215721+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T06:27:33+00:00"
-  },
-  {
-    "id": "llama_2026082407",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,464,776,119 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T07:39:58.211702+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T07:39:58.211702+00:00"
-  },
-  {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3a86da63fcf",
-    "source": "Cointelegraph Base",
-    "title": "Travala lets AI agents book hotels with USDC on Base",
-    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cb1f3e4f40b0",
-    "source": "Cointelegraph Base",
-    "title": "Agentic payment activity tops 100M transactions on Base",
-    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dd2b56f1e18b",
-    "source": "Cointelegraph Base",
-    "title": "Base launches new tool to connect crypto wallets to AI agents",
-    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d565fa6cef39",
-    "source": "Cointelegraph Base",
-    "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
-    "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 21 May 2026 06:30:06 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e5444d8e1573",
-    "source": "Cointelegraph Base",
-    "title": "Circle makes USDC push into AI agent payment tools",
-    "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 11 May 2026 06:00:00 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_796a0e9ef18d",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase and AWS launch USDC payment rails for AI agents",
-    "url": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 07 May 2026 06:00:00 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_85a1b3339037",
-    "source": "Cointelegraph Base",
-    "title": "Visa adds Polygon, Base support as stablecoin settlement run rate hits $7B",
-    "url": "https://cointelegraph.com/news/visa-stablecoin-settlement-polygon-base-7b-run-rate?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Apr 2026 16:21:55 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_197ac5ad83ce",
-    "source": "Cointelegraph Base",
-    "title": "Base joins Ethereum, Tron, others in betting big on AI agent future",
-    "url": "https://cointelegraph.com/news/base-joins-ethereum-tron-others-betting-big-ai-agent-future?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 31 Mar 2026 14:00:00 +0000",
-    "fetched_at": "2026-08-24T08:56:40.883411+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082408",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,480,396,732 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T08:56:45.059074+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T08:56:45.059074+00:00"
-  },
-  {
-    "id": "llama_2026082409",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,486,398,366 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T09:57:06.678331+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T09:57:06.678331+00:00"
-  },
-  {
-    "id": "llama_2026082410",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,465,953,555 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T10:46:36.132422+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T10:46:36.132422+00:00"
-  },
-  {
-    "id": "llama_2026082411",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,463,552,766 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T11:36:09.103105+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T11:36:09.103105+00:00"
-  },
-  {
-    "id": "rss_cfafaa39f6c5",
-    "source": "CoinDesk",
-    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-    "published_at": "Mon, 24 Aug 2026 12:59:55 +0000",
-    "fetched_at": "2026-08-24T13:04:17.882612+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T12:59:55+00:00"
-  },
-  {
-    "id": "llama_2026082413",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,509,446,848 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-24T13:04:22.387852+00:00",
-    "used": false,
-    "_sort_date": "2026-08-24T13:04:22.387852+00:00"
-  },
-  {
     "id": "llama_2026082414",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,509,446,848 🟢 +0.00% (24h)",
@@ -1634,6 +1434,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T05:59:24.391875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc0e20956352",
+    "source": "CoinDesk",
+    "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
+    "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
+    "published_at": "Mon, 31 Aug 2026 12:53:17 +0000",
+    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ad6f409dbc41",
+    "source": "CoinDesk",
+    "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
+    "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
+    "published_at": "Mon, 31 Aug 2026 11:53:56 +0000",
+    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7a77675a1904",
+    "source": "CoinDesk",
+    "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
+    "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
+    "published_at": "Mon, 31 Aug 2026 11:26:26 +0000",
+    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6d2cd0b7cf8a",
+    "source": "CryptoSlate",
+    "title": "A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily",
+    "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/",
+    "published_at": "Mon, 31 Aug 2026 08:25:54 +0000",
+    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5109d2ebd1f3",
+    "source": "Decrypt",
+    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+    "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+    "published_at": "Mon, 31 Aug 2026 12:37:44 +0000",
+    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026083113",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,524,576,930 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-08-31T13:34:19.093704+00:00",
     "used": false
   }
 ]
