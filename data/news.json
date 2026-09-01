@@ -1,53 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-08-25T21:35:36.849231+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082521",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,501,099,933 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T21:35:51.707490+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082522",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,501,099,933 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T22:34:44.081090+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T22:34:44.081090+00:00"
-  },
-  {
-    "id": "rss_5618b5f97c76",
-    "source": "The Defiant",
-    "title": "Cosmos Labs Urges EVM Chains To Halt As Shared Bug Drains Three Networks",
-    "url": "https://thedefiant.io/news/blockchains/cosmos-labs-urges-evm-chains-halt-shared-bug-drains-three-networks",
-    "published_at": "Tue, 25 Aug 2026 22:28:06 GMT",
-    "fetched_at": "2026-08-25T23:30:46.452765+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T22:28:06+00:00"
-  },
-  {
-    "id": "llama_2026082523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,460,350,458 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T23:30:51.891268+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T23:30:51.891268+00:00"
-  },
-  {
     "id": "llama_2026082601",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,473,947,209 🟢 +0.00% (24h)",
@@ -1449,5 +1401,14 @@
     "fetched_at": "2026-09-01T21:15:19.073691+00:00",
     "used": false,
     "_sort_date": "2026-09-01T21:15:19.073691+00:00"
+  },
+  {
+    "id": "llama_2026090123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,474,562,432 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-01T23:31:08.844202+00:00",
+    "used": false
   }
 ]
