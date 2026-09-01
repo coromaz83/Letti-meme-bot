@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_183a9ca15579",
-    "source": "CoinDesk",
-    "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-    "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
-    "published_at": "Tue, 25 Aug 2026 14:50:22 +0000",
-    "fetched_at": "2026-08-25T15:23:18.049464+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T14:50:22+00:00"
-  },
-  {
-    "id": "llama_2026082515",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,490,279,496 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T15:23:21.475186+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T15:23:21.475186+00:00"
-  },
-  {
-    "id": "llama_2026082516",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,490,280,412 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T16:09:44.430321+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T16:09:44.430321+00:00"
-  },
-  {
-    "id": "rss_802e4c7c0843",
-    "source": "The Defiant",
-    "title": "LayerZero Unveils ATLAS Exchange Engine",
-    "url": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
-    "published_at": "Tue, 25 Aug 2026 16:28:16 GMT",
-    "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T16:28:16+00:00"
-  },
-  {
-    "id": "rss_7d0a822098ac",
-    "source": "The Defiant",
-    "title": "Pendle Oracle Move Liquidates $36 Million",
-    "url": "https://thedefiant.io/news/defi/pendle-oracle-move-liquidates-usd36-million",
-    "published_at": "Tue, 25 Aug 2026 16:19:44 GMT",
-    "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T16:19:44+00:00"
-  },
-  {
-    "id": "rss_c4dd98d71f45",
-    "source": "The Defiant",
-    "title": "Ex-X Product Chief Says Trade Buttons Coming",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/ex-x-product-chief-says-trade-buttons-coming",
-    "published_at": "Tue, 25 Aug 2026 16:10:00 GMT",
-    "fetched_at": "2026-08-25T17:07:06.137386+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T16:10:00+00:00"
-  },
-  {
-    "id": "llama_2026082517",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,518,579,854 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T17:07:09.245570+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T17:07:09.245570+00:00"
-  },
-  {
-    "id": "rss_a973ab5d3b93",
-    "source": "CryptoSlate",
-    "title": "How Ethereum’s new 2,048 ETH staking rule could lock up user rewards longer than expected",
-    "url": "https://cryptoslate.com/how-ethereums-new-2048-eth-staking-rule-could-lock-up-user-rewards-longer-than-expected/",
-    "published_at": "Tue, 25 Aug 2026 17:30:21 +0000",
-    "fetched_at": "2026-08-25T17:58:53.282408+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T17:30:21+00:00"
-  },
-  {
     "id": "llama_2026082518",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,520,943,882 🟢 +0.00% (24h)",
@@ -1519,5 +1439,50 @@
     "fetched_at": "2026-09-01T14:42:39.386715+00:00",
     "used": false,
     "_sort_date": "2026-09-01T14:42:39.386715+00:00"
+  },
+  {
+    "id": "rss_b60ae1d20c87",
+    "source": "The Defiant",
+    "title": "Robinhood Chain DEX Volume Hits $1.49 Billion As Pons Takes Two-Thirds Of Launchpad Fees",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-dex-volume-hits-usd1-49-billion-as-pons-takes-two-thirds-of-launchpad-fees",
+    "published_at": "Tue, 01 Sep 2026 17:09:58 GMT",
+    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_63f8ab77297b",
+    "source": "The Defiant",
+    "title": "Arbitrum Jumps 25% on Robinhood Chain Fees as Bitcoin Holds $78,000",
+    "url": "https://thedefiant.io/news/markets/arbitrum-jumps-25-on-robinhood-chain-fees-as-bitcoin-holds-78000",
+    "published_at": "Tue, 01 Sep 2026 16:16:42 GMT",
+    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_510553cc5517",
+    "source": "Decrypt",
+    "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+    "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+    "published_at": "Tue, 01 Sep 2026 18:03:47 +0000",
+    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9c37ed795609",
+    "source": "Bankless",
+    "title": "Ethena Launches Neobank App on Avalanche",
+    "url": "https://www.bankless.com/read/news/ethena-launches-neobank-app-on-avalanche",
+    "published_at": "Tue, 01 Sep 2026 14:11:27 -0400",
+    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090118",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,507,351,649 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-01T18:20:30.860349+00:00",
+    "used": false
   }
 ]
