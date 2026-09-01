@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_4afd1759cbf6",
-    "source": "CryptoSlate",
-    "title": "Ledger patched an Ethereum app bug that could show one transaction and sign another",
-    "url": "https://cryptoslate.com/ledger-patched-an-ethereum-app-bug-that-could-show-one-transaction-and-sign-another/",
-    "published_at": "Tue, 25 Aug 2026 05:00:33 +0000",
-    "fetched_at": "2026-08-25T05:07:24.492024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T05:00:33+00:00"
-  },
-  {
-    "id": "llama_2026082505",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,620,009,167 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T05:07:27.652673+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T05:07:27.652673+00:00"
-  },
-  {
-    "id": "llama_2026082507",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,614,564,271 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T07:03:44.878108+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T07:03:44.878108+00:00"
-  },
-  {
-    "id": "llama_2026082508",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,615,841,554 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T08:10:14.831607+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T08:10:14.831607+00:00"
-  },
-  {
-    "id": "rss_2b2f0a2a55c3",
-    "source": "CryptoSlate",
-    "title": "Tether’s $120 million Uruguay mining failure now shadows its next Bitcoin bet in Brazil",
-    "url": "https://cryptoslate.com/tethers-120-million-uruguay-mining-failure-now-shadows-its-next-bitcoin-bet-in-brazil/",
-    "published_at": "Tue, 25 Aug 2026 08:30:08 +0000",
-    "fetched_at": "2026-08-25T09:09:53.137794+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T08:30:08+00:00"
-  },
-  {
-    "id": "llama_2026082509",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,612,629,548 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T09:09:57.606769+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T09:09:57.606769+00:00"
-  },
-  {
     "id": "llama_2026082510",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,579,464,128 🟢 +0.00% (24h)",
@@ -1547,6 +1487,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-01T04:49:53.283306+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_af43836720c6",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
+    "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+    "published_at": "Tue, 01 Sep 2026 08:35:57 +0000",
+    "fetched_at": "2026-09-01T09:54:35.659776+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ef372f910366",
+    "source": "CoinDesk",
+    "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+    "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+    "published_at": "Tue, 01 Sep 2026 07:49:16 +0000",
+    "fetched_at": "2026-09-01T09:54:35.659776+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090109",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,550,476,650 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-01T09:54:40.569395+00:00",
     "used": false
   }
 ]
