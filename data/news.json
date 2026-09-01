@@ -1,55 +1,5 @@
 [
   {
-    "id": "llama_2026082501",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,515,521,547 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T01:43:10.251640+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T01:43:10.251640+00:00"
-  },
-  {
-    "id": "rss_12d090580bf9",
-    "source": "CryptoSlate",
-    "title": "FalconX asks SEC to bring single-stock perpetuals from DeFi under swap rules",
-    "url": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules/",
-    "published_at": "Tue, 25 Aug 2026 02:30:17 +0000",
-    "fetched_at": "2026-08-25T03:06:09.443929+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T02:30:17+00:00"
-  },
-  {
-    "id": "llama_2026082503",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,562,700,678 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T03:06:16.611438+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T03:06:16.611438+00:00"
-  },
-  {
-    "id": "rss_c9e5065e7569",
-    "source": "CryptoSlate",
-    "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
-    "url": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client/",
-    "published_at": "Tue, 25 Aug 2026 03:40:43 +0000",
-    "fetched_at": "2026-08-25T04:10:08.830663+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T03:40:43+00:00"
-  },
-  {
-    "id": "llama_2026082504",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,619,964,828 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T04:10:14.498309+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T04:10:14.498309+00:00"
-  },
-  {
     "id": "rss_4afd1759cbf6",
     "source": "CryptoSlate",
     "title": "Ledger patched an Ethereum app bug that could show one transaction and sign another",
@@ -1589,5 +1539,14 @@
     "fetched_at": "2026-08-31T23:43:33.037721+00:00",
     "used": false,
     "_sort_date": "2026-08-31T23:43:33.037721+00:00"
+  },
+  {
+    "id": "llama_2026090104",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,539,979,912 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-01T04:49:53.283306+00:00",
+    "used": false
   }
 ]
