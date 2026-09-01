@@ -1,75 +1,5 @@
 [
   {
-    "id": "llama_2026082510",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,579,464,128 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T10:02:32.123497+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T10:02:32.123497+00:00"
-  },
-  {
-    "id": "llama_2026082511",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,570,136,083 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T11:01:21.168008+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T11:01:21.168008+00:00"
-  },
-  {
-    "id": "rss_e91a423d58a2",
-    "source": "CoinDesk",
-    "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-    "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-    "published_at": "Tue, 25 Aug 2026 13:00:00 +0000",
-    "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T13:00:00+00:00"
-  },
-  {
-    "id": "rss_f24b157ba6d8",
-    "source": "CoinDesk",
-    "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-    "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
-    "published_at": "Tue, 25 Aug 2026 12:03:55 +0000",
-    "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T12:03:55+00:00"
-  },
-  {
-    "id": "rss_21f271e5855e",
-    "source": "Decrypt",
-    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-    "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-    "published_at": "Tue, 25 Aug 2026 11:58:22 +0000",
-    "fetched_at": "2026-08-25T13:03:32.838145+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T11:58:22+00:00"
-  },
-  {
-    "id": "llama_2026082513",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,526,753,242 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T13:03:37.143250+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T13:03:37.143250+00:00"
-  },
-  {
-    "id": "llama_2026082514",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,522,210,178 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-25T14:22:03.505033+00:00",
-    "used": false,
-    "_sort_date": "2026-08-25T14:22:03.505033+00:00"
-  },
-  {
     "id": "rss_183a9ca15579",
     "source": "CoinDesk",
     "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
@@ -1519,5 +1449,68 @@
     "fetched_at": "2026-09-01T09:54:40.569395+00:00",
     "used": false,
     "_sort_date": "2026-09-01T09:54:40.569395+00:00"
+  },
+  {
+    "id": "rss_b717593e4bf4",
+    "source": "CoinDesk",
+    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+    "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+    "published_at": "Tue, 01 Sep 2026 13:56:44 +0000",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b4c8336e8268",
+    "source": "CoinDesk",
+    "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+    "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+    "published_at": "Tue, 01 Sep 2026 13:15:35 +0000",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebce24ed96c6",
+    "source": "The Defiant",
+    "title": "Ethena Launches Pay App on Avalanche With Tiered Rate Up to 6%",
+    "url": "https://thedefiant.io/news/defi/ethena-launches-pay-app-on-avalanche-with-tiered-rate-up-to-6",
+    "published_at": "Tue, 01 Sep 2026 14:30:56 GMT",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_554b91a40cd0",
+    "source": "The Defiant",
+    "title": "Firelight Raises $8 Million to Backstop DeFi Vaults With Staked XRP",
+    "url": "https://thedefiant.io/news/defi/firelight-raises-8-million-to-backstop-defi-vaults-with-staked-xrp",
+    "published_at": "Tue, 01 Sep 2026 14:05:49 GMT",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a7a137435616",
+    "source": "The Defiant",
+    "title": "Securitize's HINC Becomes Collateral on Solana's Loopscale",
+    "url": "https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral",
+    "published_at": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c383ad2c0681",
+    "source": "CryptoSlate",
+    "title": "Cross-chain oracle compromise triggers liquidations and frozen vaults across multiple DeFi networks",
+    "url": "https://cryptoslate.com/cross-chain-oracle-compromise-triggers-liquidations-and-frozen-vaults-across-multiple-defi-networks/",
+    "published_at": "Tue, 01 Sep 2026 14:30:15 +0000",
+    "fetched_at": "2026-09-01T14:42:22.157925+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090114",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,511,005,041 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-01T14:42:39.386715+00:00",
+    "used": false
   }
 ]
