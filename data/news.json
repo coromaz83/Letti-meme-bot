@@ -1387,7 +1387,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-dex-volume-hits-usd1-49-billion-as-pons-takes-two-thirds-of-launchpad-fees",
     "published_at": "Tue, 01 Sep 2026 17:09:58 GMT",
     "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T17:09:58+00:00"
   },
   {
     "id": "rss_63f8ab77297b",
@@ -1396,7 +1397,8 @@
     "url": "https://thedefiant.io/news/markets/arbitrum-jumps-25-on-robinhood-chain-fees-as-bitcoin-holds-78000",
     "published_at": "Tue, 01 Sep 2026 16:16:42 GMT",
     "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T16:16:42+00:00"
   },
   {
     "id": "rss_510553cc5517",
@@ -1405,7 +1407,8 @@
     "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
     "published_at": "Tue, 01 Sep 2026 18:03:47 +0000",
     "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T18:03:47+00:00"
   },
   {
     "id": "rss_9c37ed795609",
@@ -1414,7 +1417,8 @@
     "url": "https://www.bankless.com/read/news/ethena-launches-neobank-app-on-avalanche",
     "published_at": "Tue, 01 Sep 2026 14:11:27 -0400",
     "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T14:11:27-04:00"
   },
   {
     "id": "llama_2026090118",
@@ -1423,7 +1427,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-01T18:20:30.860349+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T18:20:30.860349+00:00"
   },
   {
     "id": "rss_6248f3e21c1d",
@@ -1432,7 +1437,8 @@
     "url": "https://www.bankless.com/read/ripe-brings-old-school-defi-farming-to-robinhood-chain",
     "published_at": "Tue, 01 Sep 2026 15:04:42 -0400",
     "fetched_at": "2026-09-01T21:15:14.314498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T15:04:42-04:00"
   },
   {
     "id": "llama_2026090121",
@@ -1441,6 +1447,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-01T21:15:19.073691+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T21:15:19.073691+00:00"
   }
 ]
