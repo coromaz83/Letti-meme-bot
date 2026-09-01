@@ -1369,7 +1369,8 @@
     "url": "https://thedefiant.io/news/tokens/a-memecoin-called-boner-has-cornered-half-the-tokenized-hims-and-hers-float",
     "published_at": "Mon, 31 Aug 2026 17:34:35 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T17:34:35+00:00"
   },
   {
     "id": "rss_2618e81d56dd",
@@ -1378,7 +1379,8 @@
     "url": "https://thedefiant.io/news/blockchains/ontology-halts-mainnet-block-production-over-potential-security-concern",
     "published_at": "Mon, 31 Aug 2026 17:32:50 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T17:32:50+00:00"
   },
   {
     "id": "rss_0344ca67a075",
@@ -1387,7 +1389,8 @@
     "url": "https://thedefiant.io/news/markets/traders-make-september-rate-increase-favorite-bitcoin-holds-78000",
     "published_at": "Mon, 31 Aug 2026 16:43:02 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T16:43:02+00:00"
   },
   {
     "id": "rss_7bc3ff80f9fd",
@@ -1396,7 +1399,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-staked-eth-holds-at-5-07-million-as-treasury-grows",
     "published_at": "Mon, 31 Aug 2026 16:24:16 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T16:24:16+00:00"
   },
   {
     "id": "rss_5f62a7d7b380",
@@ -1405,7 +1409,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral",
     "published_at": "Mon, 31 Aug 2026 16:22:19 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T16:22:19+00:00"
   },
   {
     "id": "rss_d476cc833add",
@@ -1414,7 +1419,8 @@
     "url": "https://thedefiant.io/news/cefi/strategy-restarts-bitcoin-buying-with-370-million-purchase",
     "published_at": "Mon, 31 Aug 2026 16:06:15 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T16:06:15+00:00"
   },
   {
     "id": "rss_226c0f58e65b",
@@ -1423,7 +1429,8 @@
     "url": "https://thedefiant.io/news/security/fogo-halts-mainnet-after-400-million-fogo-sent-to-bad-actor",
     "published_at": "Mon, 31 Aug 2026 15:10:24 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T15:10:24+00:00"
   },
   {
     "id": "rss_83cbda759d54",
@@ -1432,7 +1439,8 @@
     "url": "https://thedefiant.io/news/defi/balancer-warns-legacy-v1-lps-to-exit-after-pool-draining-bug",
     "published_at": "Mon, 31 Aug 2026 14:44:38 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T14:44:38+00:00"
   },
   {
     "id": "rss_9122281d2c72",
@@ -1441,7 +1449,8 @@
     "url": "https://thedefiant.io/converge/markets/cme-launches-crypto-index-that-excludes-bitcoin-and-ether",
     "published_at": "Mon, 31 Aug 2026 14:42:21 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T14:42:21+00:00"
   },
   {
     "id": "rss_f05cda3849b8",
@@ -1450,7 +1459,8 @@
     "url": "https://thedefiant.io/news/hacks/cronos-produces-no-block-for-10-hours-as-68-7m-from-tectonic-exploit-sits-frozen",
     "published_at": "Mon, 31 Aug 2026 14:34:02 GMT",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T14:34:02+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -1459,7 +1469,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T19:55:42.843374+00:00"
   },
   {
     "id": "rss_5280b50f6807",
@@ -1468,7 +1479,8 @@
     "url": "https://cryptoslate.com/massive-bitcoin-derivatives-gap-between-cme-and-coinbase-threatens-violent-position-shakeout/",
     "published_at": "Mon, 31 Aug 2026 17:05:49 +0000",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T17:05:49+00:00"
   },
   {
     "id": "rss_503a5129656c",
@@ -1477,7 +1489,8 @@
     "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about/",
     "published_at": "Mon, 31 Aug 2026 13:45:33 +0000",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T13:45:33+00:00"
   },
   {
     "id": "rss_c82b11f2db8f",
@@ -1486,7 +1499,8 @@
     "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
     "published_at": "Mon, 31 Aug 2026 18:46:04 +0000",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T18:46:04+00:00"
   },
   {
     "id": "rss_67391317e276",
@@ -1495,7 +1509,8 @@
     "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
     "published_at": "Mon, 31 Aug 2026 14:54:47 +0000",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T14:54:47+00:00"
   },
   {
     "id": "rss_0d6929ab0669",
@@ -1504,7 +1519,8 @@
     "url": "https://www.bankless.com/read/news/strategy-snaps-its-bitcoin-pause-as-bitmine-s-eth-buying-streak-continues",
     "published_at": "Mon, 31 Aug 2026 13:47:03 -0400",
     "fetched_at": "2026-08-31T19:55:42.843374+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T13:47:03-04:00"
   },
   {
     "id": "llama_2026083119",
@@ -1513,7 +1529,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T19:55:46.903561+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T19:55:46.903561+00:00"
   },
   {
     "id": "rss_f1b056cb4dc9",
@@ -1540,7 +1557,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
     "published_at": "Mon, 31 Aug 2026 20:38:48 GMT",
     "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T20:38:48+00:00"
   },
   {
     "id": "rss_e3142eb951c7",
@@ -1549,7 +1567,8 @@
     "url": "https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push",
     "published_at": "Mon, 31 Aug 2026 20:37:55 GMT",
     "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T20:37:55+00:00"
   },
   {
     "id": "rss_791f27f4c12f",
@@ -1558,7 +1577,8 @@
     "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
     "published_at": "Mon, 31 Aug 2026 20:16:03 +0000",
     "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T20:16:03+00:00"
   },
   {
     "id": "llama_2026083123",
@@ -1567,6 +1587,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-08-31T23:43:33.037721+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-08-31T23:43:33.037721+00:00"
   }
 ]
