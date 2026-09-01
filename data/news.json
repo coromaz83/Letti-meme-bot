@@ -1487,7 +1487,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-01T04:49:53.283306+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T04:49:53.283306+00:00"
   },
   {
     "id": "rss_af43836720c6",
@@ -1496,7 +1497,8 @@
     "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
     "published_at": "Tue, 01 Sep 2026 08:35:57 +0000",
     "fetched_at": "2026-09-01T09:54:35.659776+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T08:35:57+00:00"
   },
   {
     "id": "rss_ef372f910366",
@@ -1505,7 +1507,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
     "published_at": "Tue, 01 Sep 2026 07:49:16 +0000",
     "fetched_at": "2026-09-01T09:54:35.659776+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T07:49:16+00:00"
   },
   {
     "id": "llama_2026090109",
@@ -1514,6 +1517,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-01T09:54:40.569395+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-01T09:54:40.569395+00:00"
   }
 ]
