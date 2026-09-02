@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_ad0041646cec",
-    "source": "CoinDesk",
-    "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
-    "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
-    "published_at": "Wed, 26 Aug 2026 13:30:00 +0000",
-    "fetched_at": "2026-08-26T14:20:24.728011+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T13:30:00+00:00"
-  },
-  {
-    "id": "llama_2026082614",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,484,023,320 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T14:20:29.631763+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T14:20:29.631763+00:00"
-  },
-  {
-    "id": "rss_235740a95c84",
-    "source": "The Defiant",
-    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-    "published_at": "Wed, 26 Aug 2026 16:02:12 GMT",
-    "fetched_at": "2026-08-26T16:02:10.612461+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T16:02:12+00:00"
-  },
-  {
-    "id": "rss_137fa64d4896",
-    "source": "Decrypt",
-    "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-    "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-    "published_at": "Wed, 26 Aug 2026 15:04:58 +0000",
-    "fetched_at": "2026-08-26T16:02:10.612461+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T15:04:58+00:00"
-  },
-  {
-    "id": "llama_2026082616",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,478,172,343 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T16:02:14.518021+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T16:02:14.518021+00:00"
-  },
-  {
     "id": "rss_37fea5f41c92",
     "source": "The Defiant",
     "title": "SEC Crypto Custody Rewrite Enters White House Review",
@@ -1376,6 +1326,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T13:32:45.274991+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f5fbfc5faf6",
+    "source": "The Defiant",
+    "title": "Bitcoin Holds $77,000 After Weak Hiring Print",
+    "url": "https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print",
+    "published_at": "Wed, 02 Sep 2026 16:26:51 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7fe14c68f87b",
+    "source": "The Defiant",
+    "title": "OpenSea Adds Solana NFT Trading Across OS2",
+    "url": "https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2",
+    "published_at": "Wed, 02 Sep 2026 16:24:33 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1ecba015c559",
+    "source": "The Defiant",
+    "title": "ArbitrumDAO Income Reached $6.19 Million In H1",
+    "url": "https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july",
+    "published_at": "Wed, 02 Sep 2026 16:00:16 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7831a3c36e47",
+    "source": "The Defiant",
+    "title": "Nomura's Laser Digital Moves Into DeFi Fixed Income",
+    "url": "https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler",
+    "published_at": "Wed, 02 Sep 2026 15:16:58 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_995133aaa7e2",
+    "source": "The Defiant",
+    "title": "21 Financial Institutions Commit to Joint Stablecoin Venture",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture",
+    "published_at": "Wed, 02 Sep 2026 15:01:49 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ad3710cc115d",
+    "source": "The Defiant",
+    "title": "Securitize Will Issue Socios' Tokenized Sports Team Equity",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-socios-tokenized-sports-team-equity",
+    "published_at": "Wed, 02 Sep 2026 14:52:20 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5d5b3d4b9017",
+    "source": "The Defiant",
+    "title": "Backpack Adds Micron and SanDisk Shares as Margin Collateral",
+    "url": "https://thedefiant.io/news/cefi/backpack-adds-micron-and-sandisk-shares-as-margin-collateral",
+    "published_at": "Wed, 02 Sep 2026 14:37:14 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_83c72d6b639a",
+    "source": "The Defiant",
+    "title": "SEC Proposes Transfer Agent Rules for Blockchain-Based Share Records",
+    "url": "https://thedefiant.io/converge/regulation/sec-proposes-transfer-agent-rules-for-blockchain-based-share-records",
+    "published_at": "Wed, 02 Sep 2026 14:29:01 GMT",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_adf1dc2f5a70",
+    "source": "CryptoSlate",
+    "title": "North Korea’s $30M crypto cashout just handed legacy finance its best weapon to kill DeFi’s US debut",
+    "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
+    "published_at": "Wed, 02 Sep 2026 14:35:11 +0000",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c681711ad07",
+    "source": "CryptoSlate",
+    "title": "TRON H1 2026 Strategy Report: Dual-Engine Growth via DeFi and AI Delivers Record Traction",
+    "url": "https://cryptoslate.com/tron-h1-2026-strategy-report-dual-engine-growth-via-defi-and-ai-delivers-record-traction/",
+    "published_at": "Wed, 02 Sep 2026 14:15:18 +0000",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_892715011549",
+    "source": "Decrypt",
+    "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+    "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+    "published_at": "Wed, 02 Sep 2026 15:42:13 +0000",
+    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,462,746,586 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-02T17:49:37.396160+00:00",
     "used": false
   }
 ]
