@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_37fea5f41c92",
-    "source": "The Defiant",
-    "title": "SEC Crypto Custody Rewrite Enters White House Review",
-    "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-    "published_at": "Wed, 26 Aug 2026 18:18:13 GMT",
-    "fetched_at": "2026-08-26T18:18:11.766024+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T18:18:13+00:00"
-  },
-  {
-    "id": "llama_2026082618",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,471,662,332 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T18:18:15.292407+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T18:18:15.292407+00:00"
-  },
-  {
     "id": "rss_720a2c40bbf7",
     "source": "The Defiant",
     "title": "Core Lightning Tells Node Operators To Go Offline, With No Patch Published",
@@ -1452,5 +1432,50 @@
     "fetched_at": "2026-09-02T17:49:37.396160+00:00",
     "used": false,
     "_sort_date": "2026-09-02T17:49:37.396160+00:00"
+  },
+  {
+    "id": "rss_235740a95c84",
+    "source": "The Defiant",
+    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+    "published_at": "Wed, 02 Sep 2026 20:55:23 GMT",
+    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c1e031a50361",
+    "source": "The Defiant",
+    "title": "'Money Mushroom' Moved A Nasdaq Penny Stock, But Its 'Tokenized Stock' Is A Memecoin Too",
+    "url": "https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too",
+    "published_at": "Wed, 02 Sep 2026 19:33:49 GMT",
+    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_37bd9ae34969",
+    "source": "CryptoSlate",
+    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
+    "url": "https://cryptoslate.com/uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind/",
+    "published_at": "Wed, 02 Sep 2026 19:00:26 +0000",
+    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f5ee3c46e0e",
+    "source": "Bankless",
+    "title": "What EIP-7906 Would Change About Ethereum Transactions",
+    "url": "https://www.bankless.com/read/what-eip-7906-would-change-about-ethereum-transactions",
+    "published_at": "Wed, 02 Sep 2026 15:54:25 -0400",
+    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090220",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,470,483,604 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-02T20:55:25.790522+00:00",
+    "used": false
   }
 ]
