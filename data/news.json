@@ -1,62 +1,5 @@
 [
   {
-    "id": "rss_a17b98daab2e",
-    "source": "CoinDesk",
-    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
-    "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
-    "published_at": "Wed, 26 Aug 2026 09:06:00 +0000",
-    "fetched_at": "2026-08-26T09:21:00.740274+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T09:06:00+00:00"
-  },
-  {
-    "id": "llama_2026082609",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,504,634,518 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T09:21:04.831000+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T09:21:04.831000+00:00"
-  },
-  {
-    "id": "llama_2026082610",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,504,634,518 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T10:08:02.822642+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082611",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,495,465,671 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T11:03:41.638938+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_baf3df5ad689",
-    "source": "CoinDesk",
-    "title": "The 3 catalysts that could define bitcoin's next move",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-    "published_at": "Wed, 26 Aug 2026 11:02:33 +0000",
-    "fetched_at": "2026-08-26T11:58:21.144053+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082613",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,487,551,634 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T13:10:34.555338+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T13:10:34.555338+00:00"
-  },
-  {
     "id": "rss_ad0041646cec",
     "source": "CoinDesk",
     "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
@@ -1389,5 +1332,50 @@
     "fetched_at": "2026-09-02T08:58:16.022275+00:00",
     "used": false,
     "_sort_date": "2026-09-02T08:58:16.022275+00:00"
+  },
+  {
+    "id": "rss_021e1cc9c335",
+    "source": "CoinDesk",
+    "title": "Bart Simpson pattern feared for bitcoin and XRP as prices pull back",
+    "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
+    "published_at": "Wed, 02 Sep 2026 12:13:26 +0000",
+    "fetched_at": "2026-09-02T13:32:43.196817+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e7fc0a8422a0",
+    "source": "CoinDesk",
+    "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+    "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+    "published_at": "Wed, 02 Sep 2026 11:03:46 +0000",
+    "fetched_at": "2026-09-02T13:32:43.196817+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_46a9bfb48048",
+    "source": "CryptoSlate",
+    "title": "Wall Street is now racing to control the $1.9T stablecoin shift to avoid losing its customer base",
+    "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base/",
+    "published_at": "Wed, 02 Sep 2026 11:15:53 +0000",
+    "fetched_at": "2026-09-02T13:32:43.196817+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_485f1d4e874b",
+    "source": "Decrypt",
+    "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
+    "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
+    "published_at": "Wed, 02 Sep 2026 11:30:45 +0000",
+    "fetched_at": "2026-09-02T13:32:43.196817+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090213",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,427,741,420 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-02T13:32:45.274991+00:00",
+    "used": false
   }
 ]
