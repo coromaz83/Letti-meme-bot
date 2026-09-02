@@ -1347,7 +1347,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T04:10:48.853949+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T04:10:48.853949+00:00"
   },
   {
     "id": "rss_3815c132395b",
@@ -1356,7 +1357,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
     "published_at": "Wed, 02 Sep 2026 05:01:25 +0000",
     "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T05:01:25+00:00"
   },
   {
     "id": "rss_c34f324f9dca",
@@ -1365,7 +1367,8 @@
     "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review/",
     "published_at": "Wed, 02 Sep 2026 08:20:13 +0000",
     "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T08:20:13+00:00"
   },
   {
     "id": "rss_1a9a18e9a9fa",
@@ -1374,7 +1377,8 @@
     "url": "https://cryptoslate.com/deribit-already-holds-96-6-of-coinbases-derivatives-open-interest-ahead-of-sept-9-migration/",
     "published_at": "Wed, 02 Sep 2026 07:10:29 +0000",
     "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T07:10:29+00:00"
   },
   {
     "id": "llama_2026090208",
@@ -1383,6 +1387,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T08:58:16.022275+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T08:58:16.022275+00:00"
   }
 ]
