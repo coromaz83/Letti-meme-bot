@@ -1290,7 +1290,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
     "published_at": "Wed, 02 Sep 2026 12:13:26 +0000",
     "fetched_at": "2026-09-02T13:32:43.196817+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T12:13:26+00:00"
   },
   {
     "id": "rss_e7fc0a8422a0",
@@ -1299,7 +1300,8 @@
     "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
     "published_at": "Wed, 02 Sep 2026 11:03:46 +0000",
     "fetched_at": "2026-09-02T13:32:43.196817+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T11:03:46+00:00"
   },
   {
     "id": "rss_46a9bfb48048",
@@ -1308,7 +1310,8 @@
     "url": "https://cryptoslate.com/wall-street-is-now-racing-to-control-the-1-9t-stablecoin-shift-to-avoid-losing-its-customer-base/",
     "published_at": "Wed, 02 Sep 2026 11:15:53 +0000",
     "fetched_at": "2026-09-02T13:32:43.196817+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T11:15:53+00:00"
   },
   {
     "id": "rss_485f1d4e874b",
@@ -1317,7 +1320,8 @@
     "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
     "published_at": "Wed, 02 Sep 2026 11:30:45 +0000",
     "fetched_at": "2026-09-02T13:32:43.196817+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T11:30:45+00:00"
   },
   {
     "id": "llama_2026090213",
@@ -1326,7 +1330,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T13:32:45.274991+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T13:32:45.274991+00:00"
   },
   {
     "id": "rss_2f5fbfc5faf6",
@@ -1335,7 +1340,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print",
     "published_at": "Wed, 02 Sep 2026 16:26:51 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T16:26:51+00:00"
   },
   {
     "id": "rss_7fe14c68f87b",
@@ -1344,7 +1350,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2",
     "published_at": "Wed, 02 Sep 2026 16:24:33 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T16:24:33+00:00"
   },
   {
     "id": "rss_1ecba015c559",
@@ -1353,7 +1360,8 @@
     "url": "https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july",
     "published_at": "Wed, 02 Sep 2026 16:00:16 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T16:00:16+00:00"
   },
   {
     "id": "rss_7831a3c36e47",
@@ -1362,7 +1370,8 @@
     "url": "https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler",
     "published_at": "Wed, 02 Sep 2026 15:16:58 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T15:16:58+00:00"
   },
   {
     "id": "rss_995133aaa7e2",
@@ -1371,7 +1380,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture",
     "published_at": "Wed, 02 Sep 2026 15:01:49 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T15:01:49+00:00"
   },
   {
     "id": "rss_ad3710cc115d",
@@ -1380,7 +1390,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-socios-tokenized-sports-team-equity",
     "published_at": "Wed, 02 Sep 2026 14:52:20 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T14:52:20+00:00"
   },
   {
     "id": "rss_5d5b3d4b9017",
@@ -1389,7 +1400,8 @@
     "url": "https://thedefiant.io/news/cefi/backpack-adds-micron-and-sandisk-shares-as-margin-collateral",
     "published_at": "Wed, 02 Sep 2026 14:37:14 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T14:37:14+00:00"
   },
   {
     "id": "rss_83c72d6b639a",
@@ -1398,7 +1410,8 @@
     "url": "https://thedefiant.io/converge/regulation/sec-proposes-transfer-agent-rules-for-blockchain-based-share-records",
     "published_at": "Wed, 02 Sep 2026 14:29:01 GMT",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T14:29:01+00:00"
   },
   {
     "id": "rss_adf1dc2f5a70",
@@ -1407,7 +1420,8 @@
     "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
     "published_at": "Wed, 02 Sep 2026 14:35:11 +0000",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T14:35:11+00:00"
   },
   {
     "id": "rss_2c681711ad07",
@@ -1416,7 +1430,8 @@
     "url": "https://cryptoslate.com/tron-h1-2026-strategy-report-dual-engine-growth-via-defi-and-ai-delivers-record-traction/",
     "published_at": "Wed, 02 Sep 2026 14:15:18 +0000",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T14:15:18+00:00"
   },
   {
     "id": "rss_892715011549",
@@ -1425,7 +1440,8 @@
     "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
     "published_at": "Wed, 02 Sep 2026 15:42:13 +0000",
     "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T15:42:13+00:00"
   },
   {
     "id": "llama_2026090217",
@@ -1434,6 +1450,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T17:49:37.396160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-02T17:49:37.396160+00:00"
   }
 ]
