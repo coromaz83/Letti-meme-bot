@@ -1,65 +1,5 @@
 [
   {
-    "id": "llama_2026082604",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,498,186,406 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T04:11:38.843418+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T04:11:38.843418+00:00"
-  },
-  {
-    "id": "rss_f008ee21a142",
-    "source": "CoinDesk",
-    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-    "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-    "published_at": "Wed, 26 Aug 2026 04:13:10 +0000",
-    "fetched_at": "2026-08-26T05:07:19.356864+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T04:13:10+00:00"
-  },
-  {
-    "id": "llama_2026082605",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,514,287,648 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T05:07:23.935975+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T05:07:23.935975+00:00"
-  },
-  {
-    "id": "llama_2026082606",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,508,270,238 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T06:01:24.681527+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T06:01:24.681527+00:00"
-  },
-  {
-    "id": "llama_2026082607",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,513,966,195 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T07:27:58.654199+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T07:27:58.654199+00:00"
-  },
-  {
-    "id": "llama_2026082608",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,513,971,645 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-26T08:20:45.209496+00:00",
-    "used": false,
-    "_sort_date": "2026-08-26T08:20:45.209496+00:00"
-  },
-  {
     "id": "rss_a17b98daab2e",
     "source": "CoinDesk",
     "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
@@ -1407,6 +1347,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T04:10:48.853949+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3815c132395b",
+    "source": "CoinDesk",
+    "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+    "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+    "published_at": "Wed, 02 Sep 2026 05:01:25 +0000",
+    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c34f324f9dca",
+    "source": "CryptoSlate",
+    "title": "DeFi Technologies misses Nasdaq $1 deadline as DEFT faces delisting review",
+    "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review/",
+    "published_at": "Wed, 02 Sep 2026 08:20:13 +0000",
+    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1a9a18e9a9fa",
+    "source": "CryptoSlate",
+    "title": "Deribit already holds 96.6% of Coinbase’s derivatives open interest ahead of Sept. 9 migration",
+    "url": "https://cryptoslate.com/deribit-already-holds-96-6-of-coinbases-derivatives-open-interest-ahead-of-sept-9-migration/",
+    "published_at": "Wed, 02 Sep 2026 07:10:29 +0000",
+    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090208",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,492,411,314 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-02T08:58:16.022275+00:00",
     "used": false
   }
 ]
