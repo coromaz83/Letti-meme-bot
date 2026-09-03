@@ -1,145 +1,5 @@
 [
   {
-    "id": "rss_0233450b1434",
-    "source": "CoinDesk",
-    "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
-    "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
-    "published_at": "Thu, 27 Aug 2026 17:32:20 +0000",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T17:32:20+00:00"
-  },
-  {
-    "id": "rss_2bd166638617",
-    "source": "CoinDesk",
-    "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
-    "published_at": "Thu, 27 Aug 2026 15:10:56 +0000",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_32619b0c8517",
-    "source": "CoinDesk",
-    "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-    "published_at": "Thu, 27 Aug 2026 11:11:08 +0000",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a6170c616f9b",
-    "source": "The Defiant",
-    "title": "Bitcoin Clears $80,000 As Schwab Adds Solana",
-    "url": "https://thedefiant.io/news/markets/bitcoin-clears-usd80-000-as-schwab-adds-solana",
-    "published_at": "Thu, 27 Aug 2026 20:57:14 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T20:57:14+00:00"
-  },
-  {
-    "id": "rss_ab9f2c812139",
-    "source": "The Defiant",
-    "title": "Aave V4 Deposits Reach $806 Million After 30% Weekly Gain",
-    "url": "https://thedefiant.io/news/defi/aave-v4-deposits-reach-806-million-after-30-weekly-gain",
-    "published_at": "Thu, 27 Aug 2026 20:52:17 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T20:52:17+00:00"
-  },
-  {
-    "id": "rss_fd6daab66a03",
-    "source": "The Defiant",
-    "title": "Moonwell Loses $8.7 Million To MAMO Price Manipulation On Base",
-    "url": "https://thedefiant.io/news/hacks/moonwell-loses-8-7-million-to-mamo-price-manipulation-on-base",
-    "published_at": "Thu, 27 Aug 2026 16:54:49 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d8cebd642f0a",
-    "source": "The Defiant",
-    "title": "StarkWare Says it Confirmed a Quantum Safe Bitcoin Transaction on Mainnet",
-    "url": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet",
-    "published_at": "Thu, 27 Aug 2026 16:36:31 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cbf2866906f1",
-    "source": "The Defiant",
-    "title": "FRIEND Soars After Machi Big Brother Bids $1 Million For Friend.tech",
-    "url": "https://thedefiant.io/news/defi/friend-soars-after-machi-big-brother-bids-usd1-million-for-friend-tech",
-    "published_at": "Thu, 27 Aug 2026 15:14:31 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d6b77dc1bccc",
-    "source": "The Defiant",
-    "title": "Ethena Proposes Sending All Net Revenue to ENA Buybacks",
-    "url": "https://thedefiant.io/news/defi/ethena-proposes-sending-all-net-revenue-to-ena-buybacks",
-    "published_at": "Thu, 27 Aug 2026 14:57:18 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_99e3acb3e72f",
-    "source": "The Defiant",
-    "title": "Coinbase and Better Take Bitcoin-Backed Mortgages Beyond the Waitlist",
-    "url": "https://thedefiant.io/converge/cefi/coinbase-and-better-take-bitcoin-backed-mortgages-beyond-the-waitlist",
-    "published_at": "Thu, 27 Aug 2026 14:53:32 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8fa57d735647",
-    "source": "The Defiant",
-    "title": "Schwab Crypto to Add SOL, AVAX and LINK to Bitcoin-and-Ether Lineup",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-crypto-to-add-sol-avax-and-link-to-bitcoin-and-ether-lineup",
-    "published_at": "Thu, 27 Aug 2026 14:47:06 GMT",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6b5381f6ca34",
-    "source": "Decrypt",
-    "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
-    "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
-    "published_at": "Thu, 27 Aug 2026 18:16:03 +0000",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T18:16:03+00:00"
-  },
-  {
-    "id": "rss_970433ec7c95",
-    "source": "Bankless",
-    "title": "DefiLlama Introduces Universal Token Ratings Dashboard",
-    "url": "https://www.bankless.com/read/news/defillama-introduces-universal-token-ratings-dashboard",
-    "published_at": "Thu, 27 Aug 2026 12:34:58 -0400",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_53fc07d79690",
-    "source": "Bankless",
-    "title": "Ethena Fee Switch Vote Ties ENA Buybacks to USDe Growth",
-    "url": "https://www.bankless.com/read/news/ethena-fee-switch-vote-ties-ena-buybacks-to-usde-growth",
-    "published_at": "Thu, 27 Aug 2026 12:20:20 -0400",
-    "fetched_at": "2026-08-27T21:07:34.702470+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082721",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,491,573,536 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-27T21:07:38.859525+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T21:07:38.859525+00:00"
-  },
-  {
     "id": "rss_144b5c8f4840",
     "source": "Cointelegraph Base",
     "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
@@ -1534,6 +1394,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T19:23:30.672236+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2436b8252b5d",
+    "source": "The Defiant",
+    "title": "Coinbase Files SEC Notices in Bid to Bring Single-Stock Perpetuals to US",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
+    "published_at": "Thu, 03 Sep 2026 21:13:05 GMT",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0af01c9fc80c",
+    "source": "The Defiant",
+    "title": "Revolut Says OCC Conditionally Approved Proposed US National Bank",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-says-occ-conditionally-approved-proposed-us-national-bank",
+    "published_at": "Thu, 03 Sep 2026 21:12:34 GMT",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab865167e89d",
+    "source": "The Defiant",
+    "title": "Trading Terminals Post First $1 Billion Day Since January 2025",
+    "url": "https://thedefiant.io/news/defi/trading-terminals-post-first-usd1-billion-day-since-january-2025",
+    "published_at": "Thu, 03 Sep 2026 21:10:49 GMT",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_16be6b9c1b1b",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Gas Fees Jump 82-Fold In 11 Days To Top Every Other Chain",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-gas-fees-jump-82-fold-in-11-days-to-top-every-other-chain",
+    "published_at": "Thu, 03 Sep 2026 21:00:56 GMT",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8262e76bd8f1",
+    "source": "The Defiant",
+    "title": "Polymarket Launches Perps With 20x Leverage",
+    "url": "https://thedefiant.io/news/defi/polymarket-opens-perps-trading-to-the-public-with-20x-leverage",
+    "published_at": "Thu, 03 Sep 2026 20:52:25 GMT",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2cf0beb1b559",
+    "source": "CryptoSlate",
+    "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
+    "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/",
+    "published_at": "Thu, 03 Sep 2026 21:25:27 +0000",
+    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090321",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,708,206,149 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T21:51:33.910502+00:00",
     "used": false
   }
 ]
