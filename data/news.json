@@ -1340,7 +1340,8 @@
     "url": "https://thedefiant.io/news/defi/curve-dao-yrisk-risk-provider-crvusd-llamalend",
     "published_at": "Thu, 03 Sep 2026 18:11:53 GMT",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T18:11:53+00:00"
   },
   {
     "id": "rss_6a7ec02f3ea1",
@@ -1349,7 +1350,8 @@
     "url": "https://thedefiant.io/converge/regulation/wyoming-stable-token-chainlink-proof-of-reserve-frnt",
     "published_at": "Thu, 03 Sep 2026 17:47:15 GMT",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T17:47:15+00:00"
   },
   {
     "id": "rss_b5075e736b04",
@@ -1358,7 +1360,8 @@
     "url": "https://thedefiant.io/news/regulation/tether-sued-42-million-usdt-freeze-before-seizure-warrant",
     "published_at": "Thu, 03 Sep 2026 17:36:04 GMT",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T17:36:04+00:00"
   },
   {
     "id": "rss_913a5ed26f9c",
@@ -1367,7 +1370,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-retakes-80000-after-waller-signals-a-hold",
     "published_at": "Thu, 03 Sep 2026 16:30:34 GMT",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T16:30:34+00:00"
   },
   {
     "id": "rss_6149d2e34936",
@@ -1376,7 +1380,8 @@
     "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
     "published_at": "Thu, 03 Sep 2026 18:15:07 +0000",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T18:15:07+00:00"
   },
   {
     "id": "rss_35e22a5d7369",
@@ -1385,7 +1390,8 @@
     "url": "https://www.bankless.com/read/news/ethereum-blob-usage-new-record",
     "published_at": "Thu, 03 Sep 2026 14:11:41 -0400",
     "fetched_at": "2026-09-03T19:23:27.062453+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T14:11:41-04:00"
   },
   {
     "id": "llama_2026090319",
@@ -1394,7 +1400,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T19:23:30.672236+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T19:23:30.672236+00:00"
   },
   {
     "id": "rss_2436b8252b5d",
@@ -1403,7 +1410,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
     "published_at": "Thu, 03 Sep 2026 21:13:05 GMT",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:13:05+00:00"
   },
   {
     "id": "rss_0af01c9fc80c",
@@ -1412,7 +1420,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-says-occ-conditionally-approved-proposed-us-national-bank",
     "published_at": "Thu, 03 Sep 2026 21:12:34 GMT",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:12:34+00:00"
   },
   {
     "id": "rss_ab865167e89d",
@@ -1421,7 +1430,8 @@
     "url": "https://thedefiant.io/news/defi/trading-terminals-post-first-usd1-billion-day-since-january-2025",
     "published_at": "Thu, 03 Sep 2026 21:10:49 GMT",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:10:49+00:00"
   },
   {
     "id": "rss_16be6b9c1b1b",
@@ -1430,7 +1440,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-gas-fees-jump-82-fold-in-11-days-to-top-every-other-chain",
     "published_at": "Thu, 03 Sep 2026 21:00:56 GMT",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:00:56+00:00"
   },
   {
     "id": "rss_8262e76bd8f1",
@@ -1439,7 +1450,8 @@
     "url": "https://thedefiant.io/news/defi/polymarket-opens-perps-trading-to-the-public-with-20x-leverage",
     "published_at": "Thu, 03 Sep 2026 20:52:25 GMT",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T20:52:25+00:00"
   },
   {
     "id": "rss_2cf0beb1b559",
@@ -1448,7 +1460,8 @@
     "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/",
     "published_at": "Thu, 03 Sep 2026 21:25:27 +0000",
     "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:25:27+00:00"
   },
   {
     "id": "llama_2026090321",
@@ -1457,6 +1470,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T21:51:33.910502+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T21:51:33.910502+00:00"
   }
 ]
