@@ -1420,7 +1420,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T01:21:53.603483+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T01:21:53.603483+00:00"
   },
   {
     "id": "rss_e8b29961ea0a",
@@ -1429,7 +1430,8 @@
     "url": "https://cryptoslate.com/coinbase-co-founder-joins-rush-for-venezuelan-oil-assets-under-new-us-backed-framework/",
     "published_at": "Thu, 03 Sep 2026 03:50:38 +0000",
     "fetched_at": "2026-09-03T06:23:01.413451+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T03:50:38+00:00"
   },
   {
     "id": "llama_2026090306",
@@ -1438,7 +1440,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T06:23:06.376326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T06:23:06.376326+00:00"
   },
   {
     "id": "llama_2026090311",
@@ -1447,6 +1450,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T11:37:15.655899+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T11:37:15.655899+00:00"
   }
 ]
