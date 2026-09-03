@@ -1452,5 +1452,23 @@
     "fetched_at": "2026-09-03T11:37:15.655899+00:00",
     "used": false,
     "_sort_date": "2026-09-03T11:37:15.655899+00:00"
+  },
+  {
+    "id": "rss_919060ea2fb8",
+    "source": "CoinDesk",
+    "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+    "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+    "published_at": "Thu, 03 Sep 2026 15:58:02 +0000",
+    "fetched_at": "2026-09-03T16:17:06.552828+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090316",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,608,334,405 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T16:17:11.219136+00:00",
+    "used": false
   }
 ]
