@@ -1450,5 +1450,23 @@
     "published_at": "",
     "fetched_at": "2026-09-03T01:21:53.603483+00:00",
     "used": false
+  },
+  {
+    "id": "rss_e8b29961ea0a",
+    "source": "CryptoSlate",
+    "title": "Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework",
+    "url": "https://cryptoslate.com/coinbase-co-founder-joins-rush-for-venezuelan-oil-assets-under-new-us-backed-framework/",
+    "published_at": "Thu, 03 Sep 2026 03:50:38 +0000",
+    "fetched_at": "2026-09-03T06:23:01.413451+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090306",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,480,740,566 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T06:23:06.376326+00:00",
+    "used": false
   }
 ]
