@@ -1460,7 +1460,8 @@
     "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
     "published_at": "Thu, 03 Sep 2026 15:58:02 +0000",
     "fetched_at": "2026-09-03T16:17:06.552828+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T15:58:02+00:00"
   },
   {
     "id": "llama_2026090316",
@@ -1469,6 +1470,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T16:17:11.219136+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-03T16:17:11.219136+00:00"
   }
 ]
