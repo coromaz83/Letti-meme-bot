@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_23e09d8e162a",
-    "source": "CryptoSlate",
-    "title": "Pyth Network’s API overhaul threatens to freeze unpatched smart contracts across 300 DeFi protocols",
-    "url": "https://cryptoslate.com/pyth-networks-api-overhaul-threatens-to-freeze-unpatched-smart-contracts-across-300-defi-protocols/",
-    "published_at": "Thu, 27 Aug 2026 08:10:42 +0000",
-    "fetched_at": "2026-08-27T11:06:47.087962+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T08:10:42+00:00"
-  },
-  {
-    "id": "rss_a1d75deaacc1",
-    "source": "CryptoSlate",
-    "title": "Staking Ethereum could soon look entirely different under a new deposit proposal",
-    "url": "https://cryptoslate.com/staking-ethereum-could-soon-look-entirely-different-under-a-new-deposit-proposal/",
-    "published_at": "Thu, 27 Aug 2026 07:00:20 +0000",
-    "fetched_at": "2026-08-27T11:06:47.087962+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082711",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,490,232,430 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-27T11:06:51.224439+00:00",
-    "used": false,
-    "_sort_date": "2026-08-27T11:06:51.224439+00:00"
-  },
-  {
     "id": "rss_0233450b1434",
     "source": "CoinDesk",
     "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
@@ -1467,6 +1438,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-03T06:23:06.376326+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090311",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,481,541,994 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T11:37:15.655899+00:00",
     "used": false
   }
 ]
