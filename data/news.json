@@ -1472,5 +1472,68 @@
     "fetched_at": "2026-09-03T16:17:11.219136+00:00",
     "used": false,
     "_sort_date": "2026-09-03T16:17:11.219136+00:00"
+  },
+  {
+    "id": "rss_1725926f232b",
+    "source": "The Defiant",
+    "title": "Curve Hands Its Risk Mandate To Two Resupply Developers",
+    "url": "https://thedefiant.io/news/defi/curve-dao-yrisk-risk-provider-crvusd-llamalend",
+    "published_at": "Thu, 03 Sep 2026 18:11:53 GMT",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6a7ec02f3ea1",
+    "source": "The Defiant",
+    "title": "Wyoming Puts Its Stablecoin Reserves Onchain With Under $1 Million Outstanding",
+    "url": "https://thedefiant.io/converge/regulation/wyoming-stable-token-chainlink-proof-of-reserve-frnt",
+    "published_at": "Thu, 03 Sep 2026 17:47:15 GMT",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b5075e736b04",
+    "source": "The Defiant",
+    "title": "Tether Froze $42.4 Million Three Months Before A Seizure Warrant, Lawsuit Says",
+    "url": "https://thedefiant.io/news/regulation/tether-sued-42-million-usdt-freeze-before-seizure-warrant",
+    "published_at": "Thu, 03 Sep 2026 17:36:04 GMT",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_913a5ed26f9c",
+    "source": "The Defiant",
+    "title": "Bitcoin Retakes $80,000 After Waller Signals A Hold",
+    "url": "https://thedefiant.io/news/markets/bitcoin-retakes-80000-after-waller-signals-a-hold",
+    "published_at": "Thu, 03 Sep 2026 16:30:34 GMT",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6149d2e34936",
+    "source": "Decrypt",
+    "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
+    "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
+    "published_at": "Thu, 03 Sep 2026 18:15:07 +0000",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_35e22a5d7369",
+    "source": "Bankless",
+    "title": "Ethereum Achieves New Blob Usage Record",
+    "url": "https://www.bankless.com/read/news/ethereum-blob-usage-new-record",
+    "published_at": "Thu, 03 Sep 2026 14:11:41 -0400",
+    "fetched_at": "2026-09-03T19:23:27.062453+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090319",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,681,224,263 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T19:23:30.672236+00:00",
+    "used": false
   }
 ]
