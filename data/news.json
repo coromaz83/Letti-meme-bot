@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_9832c937a474",
-    "source": "The Defiant",
-    "title": "Aave Opens iOS Early Access, Keeps Android and Web Waitlisted",
-    "url": "https://thedefiant.io/news/defi/aave-opens-ios-early-access-keeps-android-and-web-waitlisted",
-    "published_at": "Wed, 26 Aug 2026 22:46:53 GMT",
-    "fetched_at": "2026-08-27T00:42:55.844917+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_66b3fcd4250a",
-    "source": "The Defiant",
-    "title": "39 State Banking Groups Form BankChain Alliance for 2027 Blockchain Launch",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/39-state-banking-groups-form-bankchain-alliance-for-2027-blockchain-launch",
-    "published_at": "Wed, 26 Aug 2026 22:46:33 GMT",
-    "fetched_at": "2026-08-27T00:42:55.844917+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082700",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,489,944,278 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-27T00:42:58.635809+00:00",
-    "used": false
-  },
-  {
     "id": "rss_23e09d8e162a",
     "source": "CryptoSlate",
     "title": "Pyth Network’s API overhaul threatens to freeze unpatched smart contracts across 300 DeFi protocols",
@@ -1458,6 +1431,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-02T23:14:13.366945+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b8c6515e5c7b",
+    "source": "CryptoSlate",
+    "title": "Nearly $10 million must escape a dying Ethereum L2 network before New Year’s Eve or risk becoming unrecoverable",
+    "url": "https://cryptoslate.com/nearly-10-million-must-escape-a-dying-ethereum-network-before-new-years-eve-or-risk-becoming-unrecoverable/",
+    "published_at": "Thu, 03 Sep 2026 01:00:59 +0000",
+    "fetched_at": "2026-09-03T01:21:49.162827+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090301",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,447,680,849 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-03T01:21:53.603483+00:00",
     "used": false
   }
 ]
