@@ -1,59 +1,5 @@
 [
   {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9209d9d7e6ba",
-    "source": "CoinDesk",
-    "title": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
-    "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
-    "published_at": "Fri, 28 Aug 2026 05:02:22 +0000",
-    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_faf03ece260d",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s plan to triple network speed could silently break millions of existing smart contracts",
-    "url": "https://cryptoslate.com/ethereums-plan-to-triple-network-speed-could-silently-break-millions-of-existing-smart-contracts/",
-    "published_at": "Fri, 28 Aug 2026 04:40:41 +0000",
-    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9586f1a5e7d4",
-    "source": "CryptoSlate",
-    "title": "Ethereum and Solana are hosting trillions in dollar volume, yet their native tokens risk losing direct consumer demand",
-    "url": "https://cryptoslate.com/stablecoin-apps-can-hide-ethereum-and-solana-but-they-cannot-erase-the-gas-bill/",
-    "published_at": "Fri, 28 Aug 2026 03:20:51 +0000",
-    "fetched_at": "2026-08-28T05:35:06.816700+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026082805",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,480,592,389 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-28T05:35:22.238988+00:00",
-    "used": false
-  },
-  {
     "id": "rss_4b78ade52a95",
     "source": "CoinDesk",
     "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
@@ -1534,6 +1480,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-04T04:13:35.650847+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090408",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,672,847,835 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-04T08:59:51.583835+00:00",
     "used": false
   }
 ]
