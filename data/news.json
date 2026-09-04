@@ -1517,5 +1517,32 @@
     "published_at": "",
     "fetched_at": "2026-09-04T13:26:33.946140+00:00",
     "used": false
+  },
+  {
+    "id": "rss_77139f8247d2",
+    "source": "The Defiant",
+    "title": "AMC's CEO Told Robinhood To Halt Its Stock Token. Robinhood Told Him To Send Lawyers",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/amc-s-ceo-told-robinhood-to-halt-its-stock-token-robinhood-told-him-to-send-lawyers",
+    "published_at": "Fri, 04 Sep 2026 16:02:56 GMT",
+    "fetched_at": "2026-09-04T17:00:15.675099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aa371621901a",
+    "source": "CryptoSlate",
+    "title": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
+    "url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/",
+    "published_at": "Fri, 04 Sep 2026 14:55:26 +0000",
+    "fetched_at": "2026-09-04T17:00:15.675099+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090417",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,566,627,907 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-04T17:00:18.546052+00:00",
+    "used": false
   }
 ]
