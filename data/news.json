@@ -1,125 +1,5 @@
 [
   {
-    "id": "rss_4b78ade52a95",
-    "source": "CoinDesk",
-    "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-    "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-    "published_at": "Fri, 28 Aug 2026 12:30:57 +0000",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T12:30:57+00:00"
-  },
-  {
-    "id": "rss_fa0efcae5445",
-    "source": "The Defiant",
-    "title": "Bullish Provides USD.AI $100 Million Facility for GPU-Backed Loans",
-    "url": "https://thedefiant.io/news/defi/bullish-provides-usd-ai-100-million-facility-for-gpu-backed-loans",
-    "published_at": "Fri, 28 Aug 2026 17:50:32 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T17:50:32+00:00"
-  },
-  {
-    "id": "rss_45bdb79cf04a",
-    "source": "The Defiant",
-    "title": "The Sandbox Pledges 1:1 SAND Repayment After Bridge Exploit",
-    "url": "https://thedefiant.io/news/hacks/the-sandbox-pledges-1-1-sand-repayment-after-bridge-exploit",
-    "published_at": "Fri, 28 Aug 2026 17:45:22 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T17:45:22+00:00"
-  },
-  {
-    "id": "rss_4d5d8bd0626b",
-    "source": "The Defiant",
-    "title": "Stellar RWA Assets Outgrow Its DeFi Markets",
-    "url": "https://thedefiant.io/converge/defi/stellar-rwa-3-billion-defi-tvl-gap-redstone-report",
-    "published_at": "Fri, 28 Aug 2026 17:33:11 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T17:33:11+00:00"
-  },
-  {
-    "id": "rss_41fb6c8dbee7",
-    "source": "The Defiant",
-    "title": "Circle Adds Native USDC, EURC and CCTP Support to Plasma",
-    "url": "https://thedefiant.io/converge/blockchains/circle-adds-native-usdc-eurc-and-cctp-support-to-plasma",
-    "published_at": "Fri, 28 Aug 2026 17:16:42 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T17:16:42+00:00"
-  },
-  {
-    "id": "rss_69b061a50ca8",
-    "source": "The Defiant",
-    "title": "Bitcoin Drops Below $78,000 After Warsh Speech",
-    "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-usd78-000-after-warsh-speech",
-    "published_at": "Fri, 28 Aug 2026 17:10:59 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T17:10:59+00:00"
-  },
-  {
-    "id": "rss_bd7e70a9a4c4",
-    "source": "The Defiant",
-    "title": "Bitwise Solana ETF Is First to Cross $1 Billion",
-    "url": "https://thedefiant.io/converge/markets/bitwise-solana-etf-is-first-to-cross-1-billion",
-    "published_at": "Fri, 28 Aug 2026 15:47:27 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T15:47:27+00:00"
-  },
-  {
-    "id": "rss_bb977db47ee3",
-    "source": "The Defiant",
-    "title": "Solana Validators Approve Doubling Disinflation in First Governance Vote, With Kraken Reversing Late",
-    "url": "https://thedefiant.io/news/blockchains/solana-validators-approve-doubling-disinflation-in-first-governance-vote-with-kraken-reversing",
-    "published_at": "Fri, 28 Aug 2026 15:32:53 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T15:32:53+00:00"
-  },
-  {
-    "id": "rss_69e3e241b9ea",
-    "source": "The Defiant",
-    "title": "Ethena Plans Equity-Perpetual Basis Trades for USDe Backing",
-    "url": "https://thedefiant.io/news/defi/ethena-plans-equity-perpetual-basis-trades-for-usde-backing",
-    "published_at": "Fri, 28 Aug 2026 14:26:46 GMT",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T14:26:46+00:00"
-  },
-  {
-    "id": "rss_998893db2b8d",
-    "source": "Decrypt",
-    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-    "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-    "published_at": "Fri, 28 Aug 2026 16:39:02 +0000",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T16:39:02+00:00"
-  },
-  {
-    "id": "rss_228b07a1a7f4",
-    "source": "Decrypt",
-    "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-    "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-    "published_at": "Fri, 28 Aug 2026 14:17:21 +0000",
-    "fetched_at": "2026-08-28T18:30:54.390119+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T14:17:21+00:00"
-  },
-  {
-    "id": "llama_2026082818",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,487,151,790 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-28T18:30:58.621396+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T18:30:58.621396+00:00"
-  },
-  {
     "id": "rss_79a8ba4e2699",
     "source": "The Defiant",
     "title": "Ninth Circuit Says Kalshi Sports Contracts Aren’t Swaps, Splitting With Third Circuit",
@@ -1549,5 +1429,23 @@
     "fetched_at": "2026-09-04T17:00:18.546052+00:00",
     "used": false,
     "_sort_date": "2026-09-04T17:00:18.546052+00:00"
+  },
+  {
+    "id": "rss_a291b59d9c98",
+    "source": "The Defiant",
+    "title": "August Payrolls Knock Bitcoin Off $81,000",
+    "url": "https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000",
+    "published_at": "Fri, 04 Sep 2026 19:40:14 GMT",
+    "fetched_at": "2026-09-04T19:48:39.017184+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090419",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,608,030,032 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-04T19:48:43.133045+00:00",
+    "used": false
   }
 ]
