@@ -1437,7 +1437,8 @@
     "url": "https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000",
     "published_at": "Fri, 04 Sep 2026 19:40:14 GMT",
     "fetched_at": "2026-09-04T19:48:39.017184+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-04T19:40:14+00:00"
   },
   {
     "id": "llama_2026090419",
@@ -1446,7 +1447,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-04T19:48:43.133045+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-04T19:48:43.133045+00:00"
   },
   {
     "id": "rss_8d72010047b2",
@@ -1455,7 +1457,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes",
     "published_at": "Fri, 04 Sep 2026 21:12:48 GMT",
     "fetched_at": "2026-09-04T22:17:33.319741+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-04T21:12:48+00:00"
   },
   {
     "id": "llama_2026090422",
@@ -1464,6 +1467,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-04T22:17:38.269711+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-04T22:17:38.269711+00:00"
   }
 ]
