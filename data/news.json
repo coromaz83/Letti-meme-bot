@@ -1447,5 +1447,23 @@
     "published_at": "",
     "fetched_at": "2026-09-04T19:48:43.133045+00:00",
     "used": false
+  },
+  {
+    "id": "rss_8d72010047b2",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes",
+    "published_at": "Fri, 04 Sep 2026 21:12:48 GMT",
+    "fetched_at": "2026-09-04T22:17:33.319741+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090422",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,625,042,137 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-04T22:17:38.269711+00:00",
+    "used": false
   }
 ]
