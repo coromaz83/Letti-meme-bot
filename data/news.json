@@ -1499,5 +1499,41 @@
     "published_at": "",
     "fetched_at": "2026-09-03T23:55:12.645784+00:00",
     "used": false
+  },
+  {
+    "id": "rss_248abdc4a2fd",
+    "source": "CryptoSlate",
+    "title": "Monad’s mainnet upgrade makes storing data together 98% cheaper",
+    "url": "https://cryptoslate.com/monads-mainnet-upgrade-makes-storing-data-together-98-cheaper/",
+    "published_at": "Fri, 04 Sep 2026 02:30:28 +0000",
+    "fetched_at": "2026-09-04T04:13:31.523824+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b783c95d20f9",
+    "source": "CryptoSlate",
+    "title": "Scan reveals 96,000 fake-address outputs clogging Bitcoin’s unspent database",
+    "url": "https://cryptoslate.com/scan-reveals-96000-fake-address-outputs-clogging-bitcoins-unspent-database/",
+    "published_at": "Fri, 04 Sep 2026 00:20:15 +0000",
+    "fetched_at": "2026-09-04T04:13:31.523824+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b5a3d0d1b92b",
+    "source": "CryptoSlate",
+    "title": "Parked Coldcard loot begins moving as attacker routes $1.6M in stolen Bitcoin to Ethereum",
+    "url": "https://cryptoslate.com/parked-coldcard-loot-begins-moving-as-attacker-routes-1-6m-in-stolen-bitcoin-to-ethereum/",
+    "published_at": "Thu, 03 Sep 2026 22:50:13 +0000",
+    "fetched_at": "2026-09-04T04:13:31.523824+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090404",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,681,385,208 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-04T04:13:35.650847+00:00",
+    "used": false
   }
 ]
