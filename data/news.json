@@ -1446,7 +1446,8 @@
     "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
     "published_at": "Sat, 05 Sep 2026 16:06:41 +0000",
     "fetched_at": "2026-09-05T18:05:52.984326+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T16:06:41+00:00"
   },
   {
     "id": "llama_2026090518",
@@ -1455,7 +1456,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T18:05:56.613495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T18:05:56.613495+00:00"
   },
   {
     "id": "llama_2026090520",
@@ -1464,6 +1466,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T20:39:32.996461+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T20:39:32.996461+00:00"
   }
 ]
