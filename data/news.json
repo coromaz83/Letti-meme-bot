@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026082914",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,472,245,610 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-29T14:39:25.320645+00:00",
-    "used": false,
-    "_sort_date": "2026-08-29T14:39:25.320645+00:00"
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -1455,6 +1445,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T12:35:13.609447+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c8f7e0bfaca5",
+    "source": "The Defiant",
+    "title": "The AMC Fight Turned Into An Industry Argument Over Which Tokenized Stock Model Wins",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/the-amc-fight-turned-into-an-industry-argument-over-which-tokenized-stock-model-wins",
+    "published_at": "Sat, 05 Sep 2026 15:13:15 GMT",
+    "fetched_at": "2026-09-05T15:55:09.180289+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,651,833,998 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-05T15:55:27.023415+00:00",
     "used": false
   }
 ]
