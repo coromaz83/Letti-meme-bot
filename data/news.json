@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_79a8ba4e2699",
-    "source": "The Defiant",
-    "title": "Ninth Circuit Says Kalshi Sports Contracts Aren’t Swaps, Splitting With Third Circuit",
-    "url": "https://thedefiant.io/news/regulation/ninth-circuit-says-kalshi-sports-contracts-aren-t-swaps-splitting-with-third-circuit",
-    "published_at": "Fri, 28 Aug 2026 20:15:18 GMT",
-    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T20:15:18+00:00"
-  },
-  {
-    "id": "rss_668f0b8d6b64",
-    "source": "The Defiant",
-    "title": "Avici Says 1,685 Users Lost $500,859 In Rain Card Contract Exploit",
-    "url": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
-    "published_at": "Fri, 28 Aug 2026 19:05:09 GMT",
-    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T19:05:09+00:00"
-  },
-  {
-    "id": "rss_c06ccee3dcdb",
-    "source": "CryptoSlate",
-    "title": "Ethena is targeting the $120 trillion Wall Street stock market to hunt yields 5x higher than Bitcoin",
-    "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin/",
-    "published_at": "Fri, 28 Aug 2026 21:30:27 +0000",
-    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T21:30:27+00:00"
-  },
-  {
-    "id": "rss_923538bc4f88",
-    "source": "Bankless",
-    "title": "Ethena Adds Equities to Basis Trade, Shutters HIP-3 Market",
-    "url": "https://www.bankless.com/read/news/ethena-adds-equities-to-basis-trade-shutters-hip-3-market",
-    "published_at": "Fri, 28 Aug 2026 12:37:05 -0400",
-    "fetched_at": "2026-08-29T02:02:25.381240+00:00",
-    "used": false,
-    "_sort_date": "2026-08-28T12:37:05-04:00"
-  },
-  {
-    "id": "llama_2026082902",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,488,895,862 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-29T02:02:30.545918+00:00",
-    "used": false,
-    "_sort_date": "2026-08-29T02:02:30.545918+00:00"
-  },
-  {
     "id": "llama_2026082909",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,469,251,607 🟢 +0.00% (24h)",
@@ -1477,6 +1427,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T00:18:45.143016+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090504",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,628,048,857 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-05T04:52:16.739185+00:00",
     "used": false
   }
 ]
