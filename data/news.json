@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-08-29T18:18:47.678555+00:00",
-    "used": false,
-    "_sort_date": "2026-08-29T16:27:28+00:00"
-  },
-  {
-    "id": "rss_57f7fb48eb35",
-    "source": "CryptoSlate",
-    "title": "Bitcoin ETF inflows snap after $3 billion streak as ETH, XRP and Solana keep buying",
-    "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying/",
-    "published_at": "Sat, 29 Aug 2026 17:40:52 +0000",
-    "fetched_at": "2026-08-29T18:18:47.678555+00:00",
-    "used": false,
-    "_sort_date": "2026-08-29T17:40:52+00:00"
-  },
-  {
-    "id": "llama_2026082918",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,497,742,061 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-29T18:18:55.033075+00:00",
-    "used": false,
-    "_sort_date": "2026-08-29T18:18:55.033075+00:00"
-  },
-  {
     "id": "rss_29e7bc4fafa7",
     "source": "CryptoSlate",
     "title": "Coinbase’s $104M US500 trading spike hits an early reality check",
@@ -1485,6 +1455,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T18:05:56.613495+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090520",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,673,478,228 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-05T20:39:32.996461+00:00",
     "used": false
   }
 ]
