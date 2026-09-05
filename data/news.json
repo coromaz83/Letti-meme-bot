@@ -1436,7 +1436,8 @@
     "url": "https://cryptoslate.com/how-the-buy-borrow-die-tax-trade-is-quietly-loading-defi-pools-with-hidden-credit-risk/",
     "published_at": "Sat, 05 Sep 2026 12:00:05 +0000",
     "fetched_at": "2026-09-05T12:35:09.904801+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T12:00:05+00:00"
   },
   {
     "id": "llama_2026090512",
@@ -1445,7 +1446,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T12:35:13.609447+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T12:35:13.609447+00:00"
   },
   {
     "id": "rss_c8f7e0bfaca5",
@@ -1454,7 +1456,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/the-amc-fight-turned-into-an-industry-argument-over-which-tokenized-stock-model-wins",
     "published_at": "Sat, 05 Sep 2026 15:13:15 GMT",
     "fetched_at": "2026-09-05T15:55:09.180289+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T15:13:15+00:00"
   },
   {
     "id": "llama_2026090515",
@@ -1463,6 +1466,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-05T15:55:27.023415+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-05T15:55:27.023415+00:00"
   }
 ]
