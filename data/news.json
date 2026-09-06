@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026083018",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,564,591,264 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-30T18:45:09.828689+00:00",
-    "used": false,
-    "_sort_date": "2026-08-30T18:45:09.828689+00:00"
-  },
-  {
     "id": "rss_8a80dfdc9527",
     "source": "Decrypt",
     "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
@@ -1468,5 +1458,23 @@
     "fetched_at": "2026-09-06T17:18:00.125799+00:00",
     "used": false,
     "_sort_date": "2026-09-06T17:18:00.125799+00:00"
+  },
+  {
+    "id": "rss_ec13307d8235",
+    "source": "CryptoSlate",
+    "title": "How Bitmine could surpass its 5% Ethereum goal without buying more ETH",
+    "url": "https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/",
+    "published_at": "Sun, 06 Sep 2026 18:10:04 +0000",
+    "fetched_at": "2026-09-06T19:26:38.668106+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090619",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-06T19:26:42.091572+00:00",
+    "used": false
   }
 ]
