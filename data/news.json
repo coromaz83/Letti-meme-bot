@@ -1466,7 +1466,8 @@
     "url": "https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/",
     "published_at": "Sun, 06 Sep 2026 18:10:04 +0000",
     "fetched_at": "2026-09-06T19:26:38.668106+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T18:10:04+00:00"
   },
   {
     "id": "llama_2026090619",
@@ -1475,7 +1476,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-06T19:26:42.091572+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T19:26:42.091572+00:00"
   },
   {
     "id": "rss_5e304600ae40",
@@ -1484,7 +1486,8 @@
     "url": "https://cryptoslate.com/three-defi-projects-face-possible-exclusion-from-future-arbitrum-dao-programs/",
     "published_at": "Sun, 06 Sep 2026 21:05:28 +0000",
     "fetched_at": "2026-09-06T21:37:58.264905+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T21:05:28+00:00"
   },
   {
     "id": "llama_2026090621",
@@ -1493,6 +1496,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-06T21:38:02.407251+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T21:38:02.407251+00:00"
   }
 ]
