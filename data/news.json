@@ -1458,5 +1458,23 @@
     "fetched_at": "2026-09-06T10:45:15.513413+00:00",
     "used": false,
     "_sort_date": "2026-09-06T10:45:15.513413+00:00"
+  },
+  {
+    "id": "rss_0fb1669a3698",
+    "source": "CoinDesk",
+    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+    "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "published_at": "Sun, 06 Sep 2026 14:00:00 +0000",
+    "fetched_at": "2026-09-06T14:05:01.995231+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090614",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-06T14:05:06.894911+00:00",
+    "used": false
   }
 ]
