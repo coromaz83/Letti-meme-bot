@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_8a80dfdc9527",
-    "source": "Decrypt",
-    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
-    "published_at": "Sun, 30 Aug 2026 21:31:04 +0000",
-    "fetched_at": "2026-08-30T21:52:52.495007+00:00",
-    "used": false,
-    "_sort_date": "2026-08-30T21:31:04+00:00"
-  },
-  {
-    "id": "llama_2026083021",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,557,504,642 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-30T21:52:56.433231+00:00",
-    "used": false,
-    "_sort_date": "2026-08-30T21:52:56.433231+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -1498,5 +1478,23 @@
     "fetched_at": "2026-09-06T21:38:02.407251+00:00",
     "used": false,
     "_sort_date": "2026-09-06T21:38:02.407251+00:00"
+  },
+  {
+    "id": "rss_27c6343d510e",
+    "source": "The Defiant",
+    "title": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
+    "url": "https://thedefiant.io/news/security/liquid-sidechain-paused-after-3998-btc-leaves-federation-wallet",
+    "published_at": "Sun, 06 Sep 2026 23:15:09 GMT",
+    "fetched_at": "2026-09-06T23:43:22.742820+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090623",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-06T23:43:26.787121+00:00",
+    "used": false
   }
 ]
