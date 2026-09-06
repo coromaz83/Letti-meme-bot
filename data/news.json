@@ -1446,7 +1446,8 @@
     "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
     "published_at": "Sun, 06 Sep 2026 14:00:00 +0000",
     "fetched_at": "2026-09-06T14:05:01.995231+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T14:00:00+00:00"
   },
   {
     "id": "llama_2026090614",
@@ -1455,7 +1456,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-06T14:05:06.894911+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T14:05:06.894911+00:00"
   },
   {
     "id": "llama_2026090617",
@@ -1464,6 +1466,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-06T17:18:00.125799+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-06T17:18:00.125799+00:00"
   }
 ]
