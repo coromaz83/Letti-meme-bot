@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_cc0e20956352",
-    "source": "CoinDesk",
-    "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
-    "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
-    "published_at": "Mon, 31 Aug 2026 12:53:17 +0000",
-    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T12:53:17+00:00"
-  },
-  {
-    "id": "rss_ad6f409dbc41",
-    "source": "CoinDesk",
-    "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
-    "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
-    "published_at": "Mon, 31 Aug 2026 11:53:56 +0000",
-    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T11:53:56+00:00"
-  },
-  {
-    "id": "rss_7a77675a1904",
-    "source": "CoinDesk",
-    "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-    "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
-    "published_at": "Mon, 31 Aug 2026 11:26:26 +0000",
-    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T11:26:26+00:00"
-  },
-  {
-    "id": "rss_6d2cd0b7cf8a",
-    "source": "CryptoSlate",
-    "title": "A 36-day staking bottleneck is costing Ethereum depositors over $350,000 in lost rewards daily",
-    "url": "https://cryptoslate.com/a-36-day-staking-bottleneck-is-costing-ethereum-depositors-over-350000-in-lost-rewards-daily/",
-    "published_at": "Mon, 31 Aug 2026 08:25:54 +0000",
-    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T08:25:54+00:00"
-  },
-  {
-    "id": "rss_5109d2ebd1f3",
-    "source": "Decrypt",
-    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-    "url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-    "published_at": "Mon, 31 Aug 2026 12:37:44 +0000",
-    "fetched_at": "2026-08-31T13:34:15.798302+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T12:37:44+00:00"
-  },
-  {
-    "id": "llama_2026083113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,524,576,930 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-31T13:34:19.093704+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T13:34:19.093704+00:00"
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -1517,5 +1457,68 @@
     "fetched_at": "2026-09-07T09:37:36.219196+00:00",
     "used": false,
     "_sort_date": "2026-09-07T09:37:36.219196+00:00"
+  },
+  {
+    "id": "rss_6750d5b3143c",
+    "source": "CoinDesk",
+    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+    "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+    "published_at": "Mon, 07 Sep 2026 13:54:07 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1c3e8cd0d214",
+    "source": "CoinDesk",
+    "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
+    "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
+    "published_at": "Mon, 07 Sep 2026 10:35:23 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e11041aec4e0",
+    "source": "CryptoSlate",
+    "title": "Ethereum may have a simpler way to ease the computing burden of its growing rollup ecosystem",
+    "url": "https://cryptoslate.com/ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem/",
+    "published_at": "Mon, 07 Sep 2026 13:30:00 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9427b2edfa5c",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen",
+    "url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/",
+    "published_at": "Mon, 07 Sep 2026 11:55:13 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c071772cd831",
+    "source": "CryptoSlate",
+    "title": "A Coinbase-backed crypto bridge is shutting down after its business model stopped working",
+    "url": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/",
+    "published_at": "Mon, 07 Sep 2026 10:00:29 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b4e78d1c08fb",
+    "source": "Decrypt",
+    "title": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH",
+    "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
+    "published_at": "Mon, 07 Sep 2026 15:03:44 +0000",
+    "fetched_at": "2026-09-07T15:42:52.952188+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090715",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-07T15:42:57.396811+00:00",
+    "used": false
   }
 ]
