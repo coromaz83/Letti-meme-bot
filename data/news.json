@@ -1476,7 +1476,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T04:17:07.468741+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T04:17:07.468741+00:00"
   },
   {
     "id": "rss_287140871b21",
@@ -1494,7 +1495,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
     "published_at": "Mon, 07 Sep 2026 08:07:05 +0000",
     "fetched_at": "2026-09-07T09:37:26.810861+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T08:07:05+00:00"
   },
   {
     "id": "rss_fb039e52d842",
@@ -1503,7 +1505,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
     "published_at": "Mon, 07 Sep 2026 08:02:18 +0000",
     "fetched_at": "2026-09-07T09:37:26.810861+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T08:02:18+00:00"
   },
   {
     "id": "llama_2026090709",
@@ -1512,6 +1515,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T09:37:36.219196+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T09:37:36.219196+00:00"
   }
 ]
