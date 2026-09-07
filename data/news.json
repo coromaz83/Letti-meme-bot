@@ -1527,5 +1527,68 @@
     "fetched_at": "2026-09-07T15:42:57.396811+00:00",
     "used": false,
     "_sort_date": "2026-09-07T15:42:57.396811+00:00"
+  },
+  {
+    "id": "rss_e09b25c7dda8",
+    "source": "The Defiant",
+    "title": "Orionx Halts Withdrawals and Winds Down After Alleged $7M Asset Transfers",
+    "url": "https://thedefiant.io/news/cefi/orionx-halts-withdrawals-and-winds-down-after-alleged-7m-asset-transfers",
+    "published_at": "Mon, 07 Sep 2026 16:14:35 GMT",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fc9225c3006b",
+    "source": "The Defiant",
+    "title": "Liquid Attacker Broadcasts Return Of 3,400 BTC, Keeps 598",
+    "url": "https://thedefiant.io/news/security/liquid-attacker-broadcasts-return-of-3400-btc-keeps-598",
+    "published_at": "Mon, 07 Sep 2026 16:06:06 GMT",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e87886decab9",
+    "source": "The Defiant",
+    "title": "Hunter Biden Confirms LAPTOP Memecoin Launch On Sept. 9",
+    "url": "https://thedefiant.io/news/tokens/hunter-biden-confirms-laptop-memecoin-launch-sept-9",
+    "published_at": "Mon, 07 Sep 2026 15:53:01 GMT",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6dea2dd172f2",
+    "source": "The Defiant",
+    "title": "Arkham Links Wintermute to $2.4 Million PONS Position",
+    "url": "https://thedefiant.io/news/markets/arkham-links-wintermute-to-2-4-million-pons-position",
+    "published_at": "Mon, 07 Sep 2026 15:49:45 GMT",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_84fe98c422f3",
+    "source": "The Defiant",
+    "title": "Router Protocol Plans Sept. 30 Shutdown and 303 Million ROUTE Burn",
+    "url": "https://thedefiant.io/news/defi/router-protocol-plans-sept-30-shutdown-and-303-million-route-burn",
+    "published_at": "Mon, 07 Sep 2026 15:48:49 GMT",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_afb95f441e9c",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s privacy push hits a numbers problem: one proof needs nearly twice the proposed gas allowance",
+    "url": "https://cryptoslate.com/ethereums-privacy-push-hits-a-numbers-problem-one-proof-needs-nearly-twice-the-proposed-gas-allowance/",
+    "published_at": "Mon, 07 Sep 2026 16:25:19 +0000",
+    "fetched_at": "2026-09-07T19:49:15.498912+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090719",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,625,338,385 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-07T19:49:19.144443+00:00",
+    "used": false
   }
 ]
