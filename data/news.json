@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026083105",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,476,100,786 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-31T05:59:24.391875+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T05:59:24.391875+00:00"
-  },
-  {
     "id": "rss_cc0e20956352",
     "source": "CoinDesk",
     "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
@@ -1486,6 +1476,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T04:17:07.468741+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ef729c67b156",
+    "source": "CoinDesk",
+    "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+    "published_at": "Mon, 07 Sep 2026 08:07:05 +0000",
+    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb039e52d842",
+    "source": "CoinDesk",
+    "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+    "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+    "published_at": "Mon, 07 Sep 2026 08:02:18 +0000",
+    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090709",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-07T09:37:36.219196+00:00",
     "used": false
   }
 ]
