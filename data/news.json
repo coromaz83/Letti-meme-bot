@@ -1293,7 +1293,8 @@
     "url": "https://thedefiant.io/news/cefi/orionx-halts-withdrawals-and-winds-down-after-alleged-7m-asset-transfers",
     "published_at": "Mon, 07 Sep 2026 16:14:35 GMT",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T16:14:35+00:00"
   },
   {
     "id": "rss_fc9225c3006b",
@@ -1302,7 +1303,8 @@
     "url": "https://thedefiant.io/news/security/liquid-attacker-broadcasts-return-of-3400-btc-keeps-598",
     "published_at": "Mon, 07 Sep 2026 16:06:06 GMT",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T16:06:06+00:00"
   },
   {
     "id": "rss_e87886decab9",
@@ -1311,7 +1313,8 @@
     "url": "https://thedefiant.io/news/tokens/hunter-biden-confirms-laptop-memecoin-launch-sept-9",
     "published_at": "Mon, 07 Sep 2026 15:53:01 GMT",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T15:53:01+00:00"
   },
   {
     "id": "rss_6dea2dd172f2",
@@ -1320,7 +1323,8 @@
     "url": "https://thedefiant.io/news/markets/arkham-links-wintermute-to-2-4-million-pons-position",
     "published_at": "Mon, 07 Sep 2026 15:49:45 GMT",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T15:49:45+00:00"
   },
   {
     "id": "rss_84fe98c422f3",
@@ -1329,7 +1333,8 @@
     "url": "https://thedefiant.io/news/defi/router-protocol-plans-sept-30-shutdown-and-303-million-route-burn",
     "published_at": "Mon, 07 Sep 2026 15:48:49 GMT",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T15:48:49+00:00"
   },
   {
     "id": "rss_afb95f441e9c",
@@ -1338,7 +1343,8 @@
     "url": "https://cryptoslate.com/ethereums-privacy-push-hits-a-numbers-problem-one-proof-needs-nearly-twice-the-proposed-gas-allowance/",
     "published_at": "Mon, 07 Sep 2026 16:25:19 +0000",
     "fetched_at": "2026-09-07T19:49:15.498912+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T16:25:19+00:00"
   },
   {
     "id": "llama_2026090719",
@@ -1347,7 +1353,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T19:49:19.144443+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T19:49:19.144443+00:00"
   },
   {
     "id": "rss_9101587a7dd9",
@@ -1356,7 +1363,8 @@
     "url": "https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network/",
     "published_at": "Mon, 07 Sep 2026 21:05:07 +0000",
     "fetched_at": "2026-09-07T22:44:09.533345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T21:05:07+00:00"
   },
   {
     "id": "rss_be94cfc33a25",
@@ -1365,7 +1373,8 @@
     "url": "https://cryptoslate.com/lending-protocol-offers-bad-debt-fix-while-trapped-depositors-face-missing-usdc-funds-and-zero-cash-access/",
     "published_at": "Mon, 07 Sep 2026 20:05:30 +0000",
     "fetched_at": "2026-09-07T22:44:09.533345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T20:05:30+00:00"
   },
   {
     "id": "llama_2026090722",
@@ -1374,6 +1383,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T22:44:14.360472+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T22:44:14.360472+00:00"
   }
 ]
