@@ -1465,7 +1465,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
     "published_at": "Mon, 07 Sep 2026 13:54:07 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T13:54:07+00:00"
   },
   {
     "id": "rss_1c3e8cd0d214",
@@ -1474,7 +1475,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
     "published_at": "Mon, 07 Sep 2026 10:35:23 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T10:35:23+00:00"
   },
   {
     "id": "rss_e11041aec4e0",
@@ -1483,7 +1485,8 @@
     "url": "https://cryptoslate.com/ethereum-may-have-a-simpler-way-to-ease-the-computing-burden-of-its-growing-rollup-ecosystem/",
     "published_at": "Mon, 07 Sep 2026 13:30:00 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T13:30:00+00:00"
   },
   {
     "id": "rss_9427b2edfa5c",
@@ -1492,7 +1495,8 @@
     "url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/",
     "published_at": "Mon, 07 Sep 2026 11:55:13 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T11:55:13+00:00"
   },
   {
     "id": "rss_c071772cd831",
@@ -1501,7 +1505,8 @@
     "url": "https://cryptoslate.com/a-coinbase-backed-crypto-bridge-is-shutting-down-after-its-business-model-stopped-working/",
     "published_at": "Mon, 07 Sep 2026 10:00:29 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T10:00:29+00:00"
   },
   {
     "id": "rss_b4e78d1c08fb",
@@ -1510,7 +1515,8 @@
     "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
     "published_at": "Mon, 07 Sep 2026 15:03:44 +0000",
     "fetched_at": "2026-09-07T15:42:52.952188+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T15:03:44+00:00"
   },
   {
     "id": "llama_2026090715",
@@ -1519,6 +1525,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-07T15:42:57.396811+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-07T15:42:57.396811+00:00"
   }
 ]
