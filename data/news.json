@@ -1430,7 +1430,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T06:28:45.999060+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T06:28:45.999060+00:00"
   },
   {
     "id": "rss_bee73faa3756",
@@ -1439,7 +1440,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
     "published_at": "Tue, 08 Sep 2026 11:06:31 +0000",
     "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T11:06:31+00:00"
   },
   {
     "id": "rss_bc44c003db71",
@@ -1448,7 +1450,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
     "published_at": "Tue, 08 Sep 2026 10:33:17 +0000",
     "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T10:33:17+00:00"
   },
   {
     "id": "rss_4ea6f47004a1",
@@ -1457,7 +1460,8 @@
     "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next/",
     "published_at": "Tue, 08 Sep 2026 10:40:21 +0000",
     "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T10:40:21+00:00"
   },
   {
     "id": "llama_2026090811",
@@ -1466,6 +1470,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T11:41:26.484555+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T11:41:26.484555+00:00"
   }
 ]
