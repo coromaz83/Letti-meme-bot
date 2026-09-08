@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_b60ae1d20c87",
-    "source": "The Defiant",
-    "title": "Robinhood Chain DEX Volume Hits $1.49 Billion As Pons Takes Two-Thirds Of Launchpad Fees",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-dex-volume-hits-usd1-49-billion-as-pons-takes-two-thirds-of-launchpad-fees",
-    "published_at": "Tue, 01 Sep 2026 17:09:58 GMT",
-    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T17:09:58+00:00"
-  },
-  {
-    "id": "rss_63f8ab77297b",
-    "source": "The Defiant",
-    "title": "Arbitrum Jumps 25% on Robinhood Chain Fees as Bitcoin Holds $78,000",
-    "url": "https://thedefiant.io/news/markets/arbitrum-jumps-25-on-robinhood-chain-fees-as-bitcoin-holds-78000",
-    "published_at": "Tue, 01 Sep 2026 16:16:42 GMT",
-    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T16:16:42+00:00"
-  },
-  {
-    "id": "rss_510553cc5517",
-    "source": "Decrypt",
-    "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-    "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-    "published_at": "Tue, 01 Sep 2026 18:03:47 +0000",
-    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T18:03:47+00:00"
-  },
-  {
-    "id": "rss_9c37ed795609",
-    "source": "Bankless",
-    "title": "Ethena Launches Neobank App on Avalanche",
-    "url": "https://www.bankless.com/read/news/ethena-launches-neobank-app-on-avalanche",
-    "published_at": "Tue, 01 Sep 2026 14:11:27 -0400",
-    "fetched_at": "2026-09-01T18:20:25.610305+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T14:11:27-04:00"
-  },
-  {
-    "id": "llama_2026090118",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,507,351,649 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-01T18:20:30.860349+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T18:20:30.860349+00:00"
-  },
-  {
     "id": "rss_6248f3e21c1d",
     "source": "Bankless",
     "title": "Ripe Brings Old School DeFi Farming to Robinhood Chain",
@@ -1562,5 +1512,41 @@
     "fetched_at": "2026-09-08T16:30:12.250609+00:00",
     "used": false,
     "_sort_date": "2026-09-08T16:30:12.250609+00:00"
+  },
+  {
+    "id": "rss_af7e1cf4c7c2",
+    "source": "The Defiant",
+    "title": "Compound Opens Institutional-Only Lending Market",
+    "url": "https://thedefiant.io/news/defi/compound-institutional-market-launch",
+    "published_at": "Tue, 08 Sep 2026 17:33:14 GMT",
+    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0f9bfb05e73",
+    "source": "Decrypt",
+    "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+    "published_at": "Tue, 08 Sep 2026 18:16:04 +0000",
+    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5c22564eb279",
+    "source": "Decrypt",
+    "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+    "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+    "published_at": "Tue, 08 Sep 2026 17:10:51 +0000",
+    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090819",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,626,356,387 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-08T19:33:15.591142+00:00",
+    "used": false
   }
 ]
