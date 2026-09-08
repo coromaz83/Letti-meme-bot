@@ -1,63 +1,5 @@
 [
   {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fdd91d333be2",
-    "source": "The Defiant",
-    "title": "Robinhood Chain Tops Ethereum In Daily App Revenue",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
-    "published_at": "Mon, 31 Aug 2026 20:38:48 GMT",
-    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T20:38:48+00:00"
-  },
-  {
-    "id": "rss_e3142eb951c7",
-    "source": "The Defiant",
-    "title": "Bloomberg: Hyperliquid in Advanced Talks With Kraken Parent on US Perpetuals Push",
-    "url": "https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push",
-    "published_at": "Mon, 31 Aug 2026 20:37:55 GMT",
-    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T20:37:55+00:00"
-  },
-  {
-    "id": "rss_791f27f4c12f",
-    "source": "Decrypt",
-    "title": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-    "published_at": "Mon, 31 Aug 2026 20:16:03 +0000",
-    "fetched_at": "2026-08-31T23:43:28.330074+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T20:16:03+00:00"
-  },
-  {
-    "id": "llama_2026083123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,575,786,962 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-08-31T23:43:33.037721+00:00",
-    "used": false,
-    "_sort_date": "2026-08-31T23:43:33.037721+00:00"
-  },
-  {
     "id": "llama_2026090104",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,539,979,912 🟢 +0.00% (24h)",
@@ -1385,5 +1327,113 @@
     "fetched_at": "2026-09-07T22:44:14.360472+00:00",
     "used": false,
     "_sort_date": "2026-09-07T22:44:14.360472+00:00"
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3a86da63fcf",
+    "source": "Cointelegraph Base",
+    "title": "Travala lets AI agents book hotels with USDC on Base",
+    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb1f3e4f40b0",
+    "source": "Cointelegraph Base",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd2b56f1e18b",
+    "source": "Cointelegraph Base",
+    "title": "Base launches new tool to connect crypto wallets to AI agents",
+    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d565fa6cef39",
+    "source": "Cointelegraph Base",
+    "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
+    "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 21 May 2026 06:30:06 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5444d8e1573",
+    "source": "Cointelegraph Base",
+    "title": "Circle makes USDC push into AI agent payment tools",
+    "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 11 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_796a0e9ef18d",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase and AWS launch USDC payment rails for AI agents",
+    "url": "https://cointelegraph.com/news/aws-and-coinbase-launch-crypto-payment-infrastructure-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 07 May 2026 06:00:00 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_274012cfbeac",
+    "source": "CryptoSlate",
+    "title": "Tether-backed crypto exchange freezes withdrawals after $7 million leaves custody",
+    "url": "https://cryptoslate.com/tether-backed-crypto-exchange-freezes-withdrawals-after-7-million-leaves-custody/",
+    "published_at": "Tue, 08 Sep 2026 00:20:52 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_53bbd6bd74b8",
+    "source": "CryptoSlate",
+    "title": "A seven-year-old blockchain is permanently abandoning its own network to seek refuge on Ethereum",
+    "url": "https://cryptoslate.com/a-seven-year-old-blockchain-is-permanently-abandoning-its-own-network-to-seek-refuge-on-ethereum/",
+    "published_at": "Mon, 07 Sep 2026 23:10:48 +0000",
+    "fetched_at": "2026-09-08T01:05:22.665825+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090801",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,617,794,600 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-08T01:05:25.493625+00:00",
+    "used": false
   }
 ]
