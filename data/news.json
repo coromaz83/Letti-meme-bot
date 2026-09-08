@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_6248f3e21c1d",
-    "source": "Bankless",
-    "title": "Ripe Brings Old School DeFi Farming to Robinhood Chain",
-    "url": "https://www.bankless.com/read/ripe-brings-old-school-defi-farming-to-robinhood-chain",
-    "published_at": "Tue, 01 Sep 2026 15:04:42 -0400",
-    "fetched_at": "2026-09-01T21:15:14.314498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T15:04:42-04:00"
-  },
-  {
-    "id": "llama_2026090121",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,452,860,126 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-01T21:15:19.073691+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T21:15:19.073691+00:00"
-  },
-  {
     "id": "llama_2026090123",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,474,562,432 🟢 +0.00% (24h)",
@@ -1547,6 +1527,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T19:33:15.591142+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c6d5c3424fdc",
+    "source": "The Defiant",
+    "title": "Polkadot Leads A Rotation Into Old Layer-1s As Hike Odds Widen",
+    "url": "https://thedefiant.io/news/markets/polkadot-leads-rotation-old-layer-1s-hike-odds-widen-sep-8-2026",
+    "published_at": "Tue, 08 Sep 2026 21:32:57 GMT",
+    "fetched_at": "2026-09-08T22:31:36.570614+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c817b6fe49cb",
+    "source": "The Defiant",
+    "title": "ARK Asks SEC To Approve Tokenized Share Class of Venture Fund",
+    "url": "https://thedefiant.io/news/regulation/ark-sec-tokenized-share-class-venture-fund",
+    "published_at": "Tue, 08 Sep 2026 21:19:54 GMT",
+    "fetched_at": "2026-09-08T22:31:36.570614+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e633e903397d",
+    "source": "The Defiant",
+    "title": "Tokenized Stocks Traded $1 Billion While The Stock Market Was Shut",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stocks-traded-1-billion-while-the-stock-market-was-shut",
+    "published_at": "Tue, 08 Sep 2026 21:16:19 GMT",
+    "fetched_at": "2026-09-08T22:31:36.570614+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_58bae247a193",
+    "source": "Bankless",
+    "title": "ETH Is Lining Up for Trillions",
+    "url": "https://www.bankless.com/read/eth-is-lining-up-for-trillions",
+    "published_at": "Tue, 08 Sep 2026 15:32:48 -0400",
+    "fetched_at": "2026-09-08T22:31:36.570614+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090822",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,652,113,745 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-08T22:31:41.182452+00:00",
     "used": false
   }
 ]
