@@ -1410,7 +1410,8 @@
     "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
     "published_at": "Tue, 08 Sep 2026 14:29:14 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T14:29:14+00:00"
   },
   {
     "id": "rss_741dd8befac5",
@@ -1419,7 +1420,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
     "published_at": "Tue, 08 Sep 2026 13:18:24 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T13:18:24+00:00"
   },
   {
     "id": "rss_6a9a0923b488",
@@ -1428,7 +1430,8 @@
     "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
     "published_at": "Tue, 08 Sep 2026 13:06:34 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T13:06:34+00:00"
   },
   {
     "id": "rss_620b7610a108",
@@ -1437,7 +1440,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-and-citi-complete-weekend-dollar-payment-on-swift-ledger",
     "published_at": "Tue, 08 Sep 2026 16:01:32 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T16:01:32+00:00"
   },
   {
     "id": "rss_6ecdccbea5e5",
@@ -1446,7 +1450,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2029-quantum-target-and-narrows-hegot-scope",
     "published_at": "Tue, 08 Sep 2026 15:48:15 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:48:15+00:00"
   },
   {
     "id": "rss_cf60b378f1e8",
@@ -1455,7 +1460,8 @@
     "url": "https://thedefiant.io/news/blockchains/harmony-proposes-sunsetting-network-and-moving-one-to-ethereum",
     "published_at": "Tue, 08 Sep 2026 15:40:18 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:40:18+00:00"
   },
   {
     "id": "rss_1bd9def380cf",
@@ -1464,7 +1470,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
     "published_at": "Tue, 08 Sep 2026 15:29:09 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:29:09+00:00"
   },
   {
     "id": "rss_46805f232294",
@@ -1473,7 +1480,8 @@
     "url": "https://thedefiant.io/news/defi/morpho-expands-fixed-rate-midnight-markets-to-ethereum",
     "published_at": "Tue, 08 Sep 2026 15:15:19 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:15:19+00:00"
   },
   {
     "id": "rss_99f60f4f1992",
@@ -1482,7 +1490,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-takes-stakes-in-crypto-com-and-og-com-as-it-routes-football-contracts",
     "published_at": "Tue, 08 Sep 2026 15:01:38 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:01:38+00:00"
   },
   {
     "id": "rss_433ab3ea71fa",
@@ -1491,7 +1500,8 @@
     "url": "https://thedefiant.io/converge/infrastructure/merck-kgaa-pilots-cocoa-traceability-on-hedera",
     "published_at": "Tue, 08 Sep 2026 07:00:00 GMT",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T07:00:00+00:00"
   },
   {
     "id": "rss_c1b24695327d",
@@ -1500,7 +1510,8 @@
     "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending/",
     "published_at": "Tue, 08 Sep 2026 15:40:20 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:40:20+00:00"
   },
   {
     "id": "rss_7b495edd63fd",
@@ -1509,7 +1520,8 @@
     "url": "https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth/",
     "published_at": "Tue, 08 Sep 2026 12:35:47 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T12:35:47+00:00"
   },
   {
     "id": "rss_461d889a2619",
@@ -1518,7 +1530,8 @@
     "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
     "published_at": "Tue, 08 Sep 2026 15:04:44 +0000",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:04:44+00:00"
   },
   {
     "id": "rss_0b2f483250b6",
@@ -1527,7 +1540,8 @@
     "url": "https://www.bankless.com/read/news/visa-taps-onchain-credit-for-stablecoin-card-settlement",
     "published_at": "Tue, 08 Sep 2026 10:59:00 -0400",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T10:59:00-04:00"
   },
   {
     "id": "rss_b306b1feaff2",
@@ -1536,7 +1550,8 @@
     "url": "https://www.bankless.com/read/news/hunter-bidens-laptop-memecoin-hits-base-sept-9",
     "published_at": "Tue, 08 Sep 2026 10:10:13 -0400",
     "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T10:10:13-04:00"
   },
   {
     "id": "llama_2026090816",
@@ -1545,6 +1560,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T16:30:12.250609+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T16:30:12.250609+00:00"
   }
 ]
