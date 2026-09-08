@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090104",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,539,979,912 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-01T04:49:53.283306+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T04:49:53.283306+00:00"
-  },
-  {
     "id": "rss_af43836720c6",
     "source": "CoinDesk",
     "title": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
@@ -1434,6 +1424,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T01:05:25.493625+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-09-08T06:28:22.572253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-09-08T06:28:22.572253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0d6929ab0669",
+    "source": "Bankless",
+    "title": "Strategy Snaps Its Bitcoin Pause as Bitmine's ETH Buying Streak Continues",
+    "url": "https://www.bankless.com/read/news/strategy-snaps-its-bitcoin-pause-as-bitmine-s-eth-buying-streak-continues",
+    "published_at": "Mon, 31 Aug 2026 13:47:03 -0400",
+    "fetched_at": "2026-09-08T06:28:22.572253+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090806",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,611,972,252 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-08T06:28:45.999060+00:00",
     "used": false
   }
 ]
