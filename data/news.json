@@ -1500,7 +1500,8 @@
     "url": "https://thedefiant.io/news/defi/compound-institutional-market-launch",
     "published_at": "Tue, 08 Sep 2026 17:33:14 GMT",
     "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T17:33:14+00:00"
   },
   {
     "id": "rss_a0f9bfb05e73",
@@ -1509,7 +1510,8 @@
     "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
     "published_at": "Tue, 08 Sep 2026 18:16:04 +0000",
     "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T18:16:04+00:00"
   },
   {
     "id": "rss_5c22564eb279",
@@ -1518,7 +1520,8 @@
     "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
     "published_at": "Tue, 08 Sep 2026 17:10:51 +0000",
     "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T17:10:51+00:00"
   },
   {
     "id": "llama_2026090819",
@@ -1527,7 +1530,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T19:33:15.591142+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T19:33:15.591142+00:00"
   },
   {
     "id": "rss_c6d5c3424fdc",
@@ -1536,7 +1540,8 @@
     "url": "https://thedefiant.io/news/markets/polkadot-leads-rotation-old-layer-1s-hike-odds-widen-sep-8-2026",
     "published_at": "Tue, 08 Sep 2026 21:32:57 GMT",
     "fetched_at": "2026-09-08T22:31:36.570614+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T21:32:57+00:00"
   },
   {
     "id": "rss_c817b6fe49cb",
@@ -1545,7 +1550,8 @@
     "url": "https://thedefiant.io/news/regulation/ark-sec-tokenized-share-class-venture-fund",
     "published_at": "Tue, 08 Sep 2026 21:19:54 GMT",
     "fetched_at": "2026-09-08T22:31:36.570614+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T21:19:54+00:00"
   },
   {
     "id": "rss_e633e903397d",
@@ -1554,7 +1560,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stocks-traded-1-billion-while-the-stock-market-was-shut",
     "published_at": "Tue, 08 Sep 2026 21:16:19 GMT",
     "fetched_at": "2026-09-08T22:31:36.570614+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T21:16:19+00:00"
   },
   {
     "id": "rss_58bae247a193",
@@ -1563,7 +1570,8 @@
     "url": "https://www.bankless.com/read/eth-is-lining-up-for-trillions",
     "published_at": "Tue, 08 Sep 2026 15:32:48 -0400",
     "fetched_at": "2026-09-08T22:31:36.570614+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T15:32:48-04:00"
   },
   {
     "id": "llama_2026090822",
@@ -1572,6 +1580,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T22:31:41.182452+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-08T22:31:41.182452+00:00"
   }
 ]
