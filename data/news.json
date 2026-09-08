@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_af43836720c6",
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
-    "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-    "published_at": "Tue, 01 Sep 2026 08:35:57 +0000",
-    "fetched_at": "2026-09-01T09:54:35.659776+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T08:35:57+00:00"
-  },
-  {
-    "id": "rss_ef372f910366",
-    "source": "CoinDesk",
-    "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-    "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-    "published_at": "Tue, 01 Sep 2026 07:49:16 +0000",
-    "fetched_at": "2026-09-01T09:54:35.659776+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T07:49:16+00:00"
-  },
-  {
-    "id": "llama_2026090109",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,550,476,650 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-01T09:54:40.569395+00:00",
-    "used": false,
-    "_sort_date": "2026-09-01T09:54:40.569395+00:00"
-  },
-  {
     "id": "rss_b717593e4bf4",
     "source": "CoinDesk",
     "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
@@ -1460,6 +1430,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-08T06:28:45.999060+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bee73faa3756",
+    "source": "CoinDesk",
+    "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+    "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
+    "published_at": "Tue, 08 Sep 2026 11:06:31 +0000",
+    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc44c003db71",
+    "source": "CoinDesk",
+    "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+    "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
+    "published_at": "Tue, 08 Sep 2026 10:33:17 +0000",
+    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ea6f47004a1",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s 2029 quantum deadline is starting to reshape what gets built next",
+    "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next/",
+    "published_at": "Tue, 08 Sep 2026 10:40:21 +0000",
+    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090811",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,594,563,487 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-08T11:41:26.484555+00:00",
     "used": false
   }
 ]
