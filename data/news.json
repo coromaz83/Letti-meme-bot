@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_235740a95c84",
-    "source": "The Defiant",
-    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-    "published_at": "Wed, 02 Sep 2026 20:55:23 GMT",
-    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T20:55:23+00:00"
-  },
-  {
-    "id": "rss_c1e031a50361",
-    "source": "The Defiant",
-    "title": "'Money Mushroom' Moved A Nasdaq Penny Stock, But Its 'Tokenized Stock' Is A Memecoin Too",
-    "url": "https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too",
-    "published_at": "Wed, 02 Sep 2026 19:33:49 GMT",
-    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T19:33:49+00:00"
-  },
-  {
-    "id": "rss_37bd9ae34969",
-    "source": "CryptoSlate",
-    "title": "Uniswap trading volume explodes to record levels over 7 million per day – but actual fees lag far behind",
-    "url": "https://cryptoslate.com/uniswap-trading-volume-explodes-to-record-levels-over-7-million-per-day-but-actual-fees-lag-far-behind/",
-    "published_at": "Wed, 02 Sep 2026 19:00:26 +0000",
-    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T19:00:26+00:00"
-  },
-  {
-    "id": "rss_2f5ee3c46e0e",
-    "source": "Bankless",
-    "title": "What EIP-7906 Would Change About Ethereum Transactions",
-    "url": "https://www.bankless.com/read/what-eip-7906-would-change-about-ethereum-transactions",
-    "published_at": "Wed, 02 Sep 2026 15:54:25 -0400",
-    "fetched_at": "2026-09-02T20:55:22.141984+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T15:54:25-04:00"
-  },
-  {
-    "id": "llama_2026090220",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,470,483,604 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-02T20:55:25.790522+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T20:55:25.790522+00:00"
-  },
-  {
     "id": "rss_37fea5f41c92",
     "source": "The Defiant",
     "title": "SEC Crypto Custody Rewrite Enters White House Review",
@@ -1543,6 +1493,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T19:40:09.813794+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_530c03f5e8ce",
+    "source": "The Defiant",
+    "title": "Pump.fun Lets Creators Launch Coins Priced In Tokenized Stocks",
+    "url": "https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks",
+    "published_at": "Wed, 09 Sep 2026 21:15:45 GMT",
+    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9deca8cd24aa",
+    "source": "The Defiant",
+    "title": "Zora Co-Founder Dee Goens Replaces Jacob Horne as CEO",
+    "url": "https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo",
+    "published_at": "Wed, 09 Sep 2026 20:38:02 GMT",
+    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59c957bff039",
+    "source": "The Defiant",
+    "title": "Tenev Says Robinhood Stock Tokens Should Not Automatically Require Issuer Consent",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent",
+    "published_at": "Wed, 09 Sep 2026 20:36:11 GMT",
+    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090922",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,625,645,412 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-09T22:26:01.231935+00:00",
     "used": false
   }
 ]
