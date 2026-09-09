@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_3815c132395b",
-    "source": "CoinDesk",
-    "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
-    "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
-    "published_at": "Wed, 02 Sep 2026 05:01:25 +0000",
-    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T05:01:25+00:00"
-  },
-  {
-    "id": "rss_c34f324f9dca",
-    "source": "CryptoSlate",
-    "title": "DeFi Technologies misses Nasdaq $1 deadline as DEFT faces delisting review",
-    "url": "https://cryptoslate.com/defi-technologies-misses-nasdaq-1-deadline-as-deft-faces-delisting-review/",
-    "published_at": "Wed, 02 Sep 2026 08:20:13 +0000",
-    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T08:20:13+00:00"
-  },
-  {
-    "id": "rss_1a9a18e9a9fa",
-    "source": "CryptoSlate",
-    "title": "Deribit already holds 96.6% of Coinbase’s derivatives open interest ahead of Sept. 9 migration",
-    "url": "https://cryptoslate.com/deribit-already-holds-96-6-of-coinbases-derivatives-open-interest-ahead-of-sept-9-migration/",
-    "published_at": "Wed, 02 Sep 2026 07:10:29 +0000",
-    "fetched_at": "2026-09-02T08:58:08.137180+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T07:10:29+00:00"
-  },
-  {
-    "id": "llama_2026090208",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,492,411,314 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-02T08:58:16.022275+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T08:58:16.022275+00:00"
-  },
-  {
     "id": "rss_021e1cc9c335",
     "source": "CoinDesk",
     "title": "Bart Simpson pattern feared for bitcoin and XRP as prices pull back",
@@ -1580,6 +1540,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T06:34:10.196796+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-09-09T12:16:28.902592+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3e0c04f3d712",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
+    "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "published_at": "Wed, 09 Sep 2026 07:20:51 +0000",
+    "fetched_at": "2026-09-09T12:16:28.902592+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090912",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,665,525,732 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-09T12:16:32.590002+00:00",
     "used": false
   }
 ]
