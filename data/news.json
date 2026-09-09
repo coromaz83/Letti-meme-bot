@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-09-02T04:10:45.312990+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026090204",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,465,474,591 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-02T04:10:48.853949+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T04:10:48.853949+00:00"
-  },
-  {
     "id": "rss_3815c132395b",
     "source": "CoinDesk",
     "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
@@ -1590,6 +1571,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T01:09:34.586503+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090906",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,668,695,162 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-09T06:34:10.196796+00:00",
     "used": false
   }
 ]
