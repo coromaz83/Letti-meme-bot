@@ -1,125 +1,5 @@
 [
   {
-    "id": "rss_2f5fbfc5faf6",
-    "source": "The Defiant",
-    "title": "Bitcoin Holds $77,000 After Weak Hiring Print",
-    "url": "https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print",
-    "published_at": "Wed, 02 Sep 2026 16:26:51 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T16:26:51+00:00"
-  },
-  {
-    "id": "rss_7fe14c68f87b",
-    "source": "The Defiant",
-    "title": "OpenSea Adds Solana NFT Trading Across OS2",
-    "url": "https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2",
-    "published_at": "Wed, 02 Sep 2026 16:24:33 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T16:24:33+00:00"
-  },
-  {
-    "id": "rss_1ecba015c559",
-    "source": "The Defiant",
-    "title": "ArbitrumDAO Income Reached $6.19 Million In H1",
-    "url": "https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july",
-    "published_at": "Wed, 02 Sep 2026 16:00:16 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T16:00:16+00:00"
-  },
-  {
-    "id": "rss_7831a3c36e47",
-    "source": "The Defiant",
-    "title": "Nomura's Laser Digital Moves Into DeFi Fixed Income",
-    "url": "https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler",
-    "published_at": "Wed, 02 Sep 2026 15:16:58 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T15:16:58+00:00"
-  },
-  {
-    "id": "rss_995133aaa7e2",
-    "source": "The Defiant",
-    "title": "21 Financial Institutions Commit to Joint Stablecoin Venture",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture",
-    "published_at": "Wed, 02 Sep 2026 15:01:49 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T15:01:49+00:00"
-  },
-  {
-    "id": "rss_ad3710cc115d",
-    "source": "The Defiant",
-    "title": "Securitize Will Issue Socios' Tokenized Sports Team Equity",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-socios-tokenized-sports-team-equity",
-    "published_at": "Wed, 02 Sep 2026 14:52:20 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T14:52:20+00:00"
-  },
-  {
-    "id": "rss_5d5b3d4b9017",
-    "source": "The Defiant",
-    "title": "Backpack Adds Micron and SanDisk Shares as Margin Collateral",
-    "url": "https://thedefiant.io/news/cefi/backpack-adds-micron-and-sandisk-shares-as-margin-collateral",
-    "published_at": "Wed, 02 Sep 2026 14:37:14 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T14:37:14+00:00"
-  },
-  {
-    "id": "rss_83c72d6b639a",
-    "source": "The Defiant",
-    "title": "SEC Proposes Transfer Agent Rules for Blockchain-Based Share Records",
-    "url": "https://thedefiant.io/converge/regulation/sec-proposes-transfer-agent-rules-for-blockchain-based-share-records",
-    "published_at": "Wed, 02 Sep 2026 14:29:01 GMT",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T14:29:01+00:00"
-  },
-  {
-    "id": "rss_adf1dc2f5a70",
-    "source": "CryptoSlate",
-    "title": "North Korea’s $30M crypto cashout just handed legacy finance its best weapon to kill DeFi’s US debut",
-    "url": "https://cryptoslate.com/north-koreas-30m-crypto-cashout-just-handed-legacy-finance-its-best-weapon-to-kill-defis-us-debut/",
-    "published_at": "Wed, 02 Sep 2026 14:35:11 +0000",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T14:35:11+00:00"
-  },
-  {
-    "id": "rss_2c681711ad07",
-    "source": "CryptoSlate",
-    "title": "TRON H1 2026 Strategy Report: Dual-Engine Growth via DeFi and AI Delivers Record Traction",
-    "url": "https://cryptoslate.com/tron-h1-2026-strategy-report-dual-engine-growth-via-defi-and-ai-delivers-record-traction/",
-    "published_at": "Wed, 02 Sep 2026 14:15:18 +0000",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T14:15:18+00:00"
-  },
-  {
-    "id": "rss_892715011549",
-    "source": "Decrypt",
-    "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-    "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
-    "published_at": "Wed, 02 Sep 2026 15:42:13 +0000",
-    "fetched_at": "2026-09-02T17:49:34.307326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T15:42:13+00:00"
-  },
-  {
-    "id": "llama_2026090217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,462,746,586 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-02T17:49:37.396160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-02T17:49:37.396160+00:00"
-  },
-  {
     "id": "rss_235740a95c84",
     "source": "The Defiant",
     "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
@@ -1601,5 +1481,68 @@
     "fetched_at": "2026-09-09T16:51:21.197756+00:00",
     "used": false,
     "_sort_date": "2026-09-09T16:51:21.197756+00:00"
+  },
+  {
+    "id": "rss_04cb02fe7931",
+    "source": "The Defiant",
+    "title": "Report Links $2.08M in LAPTOP Sales to Wintermute-Tagged Wallet",
+    "url": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
+    "published_at": "Wed, 09 Sep 2026 19:24:00 GMT",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59f09570233f",
+    "source": "The Defiant",
+    "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
+    "published_at": "Wed, 09 Sep 2026 16:58:22 GMT",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9fe6b023a7fd",
+    "source": "The Defiant",
+    "title": "Circle to Acquire Tazapay in $400 Million All-Stock Payments Deal",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-to-acquire-tazapay-in-400-million-all-stock-payments-deal",
+    "published_at": "Wed, 09 Sep 2026 16:57:42 GMT",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b327ea594c6a",
+    "source": "The Defiant",
+    "title": "Bitcoin Gives Back Its Overnight Gain As Brent Tops $100",
+    "url": "https://thedefiant.io/converge/markets/bitcoin-gives-back-overnight-gain-brent-tops-100-sep-9-2026",
+    "published_at": "Wed, 09 Sep 2026 16:55:20 GMT",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_39f72dea0bbf",
+    "source": "CryptoSlate",
+    "title": "How Tether’s $45 million crackdown drove Southeast Asian scam compounds into an ‘unfreezable’ decentralized stablecoin",
+    "url": "https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin/",
+    "published_at": "Wed, 09 Sep 2026 17:20:12 +0000",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_105f27ff1a6e",
+    "source": "Bankless",
+    "title": "Vitalik Pitches EIP-8288 as Ethereum's Next Big Cryptography Unlock",
+    "url": "https://www.bankless.com/read/news/vitalik-pitches-eip-8288-as-ethereums-next-big-cryptography-unlock",
+    "published_at": "Wed, 09 Sep 2026 13:39:36 -0400",
+    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026090919",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,670,969,798 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-09T19:40:09.813794+00:00",
+    "used": false
   }
 ]
