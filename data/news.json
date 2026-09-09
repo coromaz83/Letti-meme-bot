@@ -1529,7 +1529,8 @@
     "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
     "published_at": "Wed, 09 Sep 2026 15:51:25 +0000",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T15:51:25+00:00"
   },
   {
     "id": "rss_99e1a8761e9e",
@@ -1538,7 +1539,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
     "published_at": "Wed, 09 Sep 2026 15:30:00 +0000",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T15:30:00+00:00"
   },
   {
     "id": "rss_49f0342c5a7e",
@@ -1547,7 +1549,8 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "published_at": "Wed, 09 Sep 2026 14:58:07 +0000",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T14:58:07+00:00"
   },
   {
     "id": "rss_a7fd0cd19bf6",
@@ -1556,7 +1559,8 @@
     "url": "https://thedefiant.io/news/defi/arbitrum-watchdog-seeks-permanent-bans-three-grant-recipients",
     "published_at": "Wed, 09 Sep 2026 16:25:49 GMT",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:25:49+00:00"
   },
   {
     "id": "rss_2e8c468a05ad",
@@ -1565,7 +1569,8 @@
     "url": "https://thedefiant.io/news/tokens/hunter-biden-laptop-falls-99-percent-three-hours-trump-valuation",
     "published_at": "Wed, 09 Sep 2026 15:45:48 GMT",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T15:45:48+00:00"
   },
   {
     "id": "rss_df8637965e96",
@@ -1574,7 +1579,8 @@
     "url": "https://thedefiant.io/news/defi/consensys-software-inc-splits-in-two-rebrands-as-metamask",
     "published_at": "Wed, 09 Sep 2026 15:00:08 GMT",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T15:00:08+00:00"
   },
   {
     "id": "rss_b6f8cf7bc70e",
@@ -1583,7 +1589,8 @@
     "url": "https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking/",
     "published_at": "Wed, 09 Sep 2026 16:05:54 +0000",
     "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:05:54+00:00"
   },
   {
     "id": "llama_2026090916",
@@ -1592,6 +1599,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T16:51:21.197756+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:51:21.197756+00:00"
   }
 ]
