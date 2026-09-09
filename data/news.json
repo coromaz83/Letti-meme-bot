@@ -1439,7 +1439,8 @@
     "url": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
     "published_at": "Wed, 09 Sep 2026 19:24:00 GMT",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T19:24:00+00:00"
   },
   {
     "id": "rss_59f09570233f",
@@ -1448,7 +1449,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
     "published_at": "Wed, 09 Sep 2026 16:58:22 GMT",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:58:22+00:00"
   },
   {
     "id": "rss_9fe6b023a7fd",
@@ -1457,7 +1459,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-to-acquire-tazapay-in-400-million-all-stock-payments-deal",
     "published_at": "Wed, 09 Sep 2026 16:57:42 GMT",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:57:42+00:00"
   },
   {
     "id": "rss_b327ea594c6a",
@@ -1466,7 +1469,8 @@
     "url": "https://thedefiant.io/converge/markets/bitcoin-gives-back-overnight-gain-brent-tops-100-sep-9-2026",
     "published_at": "Wed, 09 Sep 2026 16:55:20 GMT",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T16:55:20+00:00"
   },
   {
     "id": "rss_39f72dea0bbf",
@@ -1475,7 +1479,8 @@
     "url": "https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin/",
     "published_at": "Wed, 09 Sep 2026 17:20:12 +0000",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T17:20:12+00:00"
   },
   {
     "id": "rss_105f27ff1a6e",
@@ -1484,7 +1489,8 @@
     "url": "https://www.bankless.com/read/news/vitalik-pitches-eip-8288-as-ethereums-next-big-cryptography-unlock",
     "published_at": "Wed, 09 Sep 2026 13:39:36 -0400",
     "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T13:39:36-04:00"
   },
   {
     "id": "llama_2026090919",
@@ -1493,7 +1499,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T19:40:09.813794+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T19:40:09.813794+00:00"
   },
   {
     "id": "rss_530c03f5e8ce",
@@ -1502,7 +1509,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks",
     "published_at": "Wed, 09 Sep 2026 21:15:45 GMT",
     "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T21:15:45+00:00"
   },
   {
     "id": "rss_9deca8cd24aa",
@@ -1511,7 +1519,8 @@
     "url": "https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo",
     "published_at": "Wed, 09 Sep 2026 20:38:02 GMT",
     "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T20:38:02+00:00"
   },
   {
     "id": "rss_59c957bff039",
@@ -1520,7 +1529,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent",
     "published_at": "Wed, 09 Sep 2026 20:36:11 GMT",
     "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T20:36:11+00:00"
   },
   {
     "id": "llama_2026090922",
@@ -1529,6 +1539,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-09T22:26:01.231935+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-09T22:26:01.231935+00:00"
   }
 ]
