@@ -1,102 +1,5 @@
 [
   {
-    "id": "rss_2436b8252b5d",
-    "source": "The Defiant",
-    "title": "Coinbase Files SEC Notices in Bid to Bring Single-Stock Perpetuals to US",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-files-sec-notices-in-bid-to-bring-single-stock-perpetuals-to-us",
-    "published_at": "Thu, 03 Sep 2026 21:13:05 GMT",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:13:05+00:00"
-  },
-  {
-    "id": "rss_0af01c9fc80c",
-    "source": "The Defiant",
-    "title": "Revolut Says OCC Conditionally Approved Proposed US National Bank",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-says-occ-conditionally-approved-proposed-us-national-bank",
-    "published_at": "Thu, 03 Sep 2026 21:12:34 GMT",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:12:34+00:00"
-  },
-  {
-    "id": "rss_ab865167e89d",
-    "source": "The Defiant",
-    "title": "Trading Terminals Post First $1 Billion Day Since January 2025",
-    "url": "https://thedefiant.io/news/defi/trading-terminals-post-first-usd1-billion-day-since-january-2025",
-    "published_at": "Thu, 03 Sep 2026 21:10:49 GMT",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:10:49+00:00"
-  },
-  {
-    "id": "rss_16be6b9c1b1b",
-    "source": "The Defiant",
-    "title": "Robinhood Chain Gas Fees Jump 82-Fold In 11 Days To Top Every Other Chain",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-gas-fees-jump-82-fold-in-11-days-to-top-every-other-chain",
-    "published_at": "Thu, 03 Sep 2026 21:00:56 GMT",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:00:56+00:00"
-  },
-  {
-    "id": "rss_8262e76bd8f1",
-    "source": "The Defiant",
-    "title": "Polymarket Launches Perps With 20x Leverage",
-    "url": "https://thedefiant.io/news/defi/polymarket-opens-perps-trading-to-the-public-with-20x-leverage",
-    "published_at": "Thu, 03 Sep 2026 20:52:25 GMT",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T20:52:25+00:00"
-  },
-  {
-    "id": "rss_2cf0beb1b559",
-    "source": "CryptoSlate",
-    "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
-    "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/",
-    "published_at": "Thu, 03 Sep 2026 21:25:27 +0000",
-    "fetched_at": "2026-09-03T21:51:28.562164+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:25:27+00:00"
-  },
-  {
-    "id": "llama_2026090321",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,708,206,149 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-03T21:51:33.910502+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T21:51:33.910502+00:00"
-  },
-  {
-    "id": "rss_aa757e897432",
-    "source": "The Defiant",
-    "title": "Uniswap Labs Bought Pons Token for 'Long-Term Alignment'",
-    "url": "https://thedefiant.io/news/defi/uniswap-labs-bought-pons-token-for-long-term-alignment",
-    "published_at": "Thu, 03 Sep 2026 23:34:05 GMT",
-    "fetched_at": "2026-09-03T23:55:09.375269+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4e0c392f5de9",
-    "source": "The Defiant",
-    "title": "Lighter Leads Perp DEX Token Rally",
-    "url": "https://thedefiant.io/news/defi/lighter-lit-perp-dex-token-rally-robinhood-volume",
-    "published_at": "Thu, 03 Sep 2026 23:31:43 GMT",
-    "fetched_at": "2026-09-03T23:55:09.375269+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026090323",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,705,285,508 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-03T23:55:12.645784+00:00",
-    "used": false
-  },
-  {
     "id": "rss_248abdc4a2fd",
     "source": "CryptoSlate",
     "title": "Monad’s mainnet upgrade makes storing data together 98% cheaper",
@@ -1653,5 +1556,14 @@
     "fetched_at": "2026-09-10T21:32:11.845990+00:00",
     "used": false,
     "_sort_date": "2026-09-10T21:32:11.845990+00:00"
+  },
+  {
+    "id": "llama_2026091023",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,540,715,774 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-10T23:57:02.957881+00:00",
+    "used": false
   }
 ]
