@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090311",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,481,541,994 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-03T11:37:15.655899+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T11:37:15.655899+00:00"
-  },
-  {
     "id": "rss_919060ea2fb8",
     "source": "CoinDesk",
     "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
@@ -1583,5 +1573,68 @@
     "fetched_at": "2026-09-10T11:06:06.168680+00:00",
     "used": false,
     "_sort_date": "2026-09-10T11:06:06.168680+00:00"
+  },
+  {
+    "id": "rss_5df8cc33ae51",
+    "source": "CoinDesk",
+    "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+    "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+    "published_at": "Thu, 10 Sep 2026 13:00:00 +0000",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3741786da8a5",
+    "source": "The Defiant",
+    "title": "Latitude Raises $35 Million For Local Stablecoin Off-Ramps",
+    "url": "https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails",
+    "published_at": "Thu, 10 Sep 2026 14:20:39 GMT",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_67bddcd98ffd",
+    "source": "The Defiant",
+    "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
+    "url": "https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot",
+    "published_at": "Thu, 10 Sep 2026 14:14:04 GMT",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_93fea7bc0bec",
+    "source": "The Defiant",
+    "title": "Tether And Fasanara Seed A $400 Million Private Credit Fund",
+    "url": "https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund",
+    "published_at": "Thu, 10 Sep 2026 14:11:50 GMT",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8555aca21a89",
+    "source": "The Defiant",
+    "title": "Nasdaq Invests $100 Million in Kraken Parent Payward",
+    "url": "https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward",
+    "published_at": "Thu, 10 Sep 2026 14:08:58 GMT",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a9c7ee4f27d4",
+    "source": "Decrypt",
+    "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+    "url": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+    "published_at": "Thu, 10 Sep 2026 13:04:27 +0000",
+    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091015",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,551,322,998 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-10T15:06:57.378705+00:00",
+    "used": false
   }
 ]
