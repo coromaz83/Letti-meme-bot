@@ -1561,7 +1561,8 @@
     "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
     "published_at": "Thu, 10 Sep 2026 18:38:47 GMT",
     "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T18:38:47+00:00"
   },
   {
     "id": "rss_0017637ec520",
@@ -1570,7 +1571,8 @@
     "url": "https://thedefiant.io/news/defi/valinor-launches-tokenized-bdc-fund-on-superstate",
     "published_at": "Thu, 10 Sep 2026 18:23:27 GMT",
     "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T18:23:27+00:00"
   },
   {
     "id": "rss_de7ef6973281",
@@ -1579,7 +1581,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-stablecoin-visa-card-goes-live-in-colombia",
     "published_at": "Thu, 10 Sep 2026 17:46:09 GMT",
     "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T17:46:09+00:00"
   },
   {
     "id": "llama_2026091018",
@@ -1588,7 +1591,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-10T18:38:49.075424+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T18:38:49.075424+00:00"
   },
   {
     "id": "rss_5a19995c4e5a",
@@ -1597,7 +1601,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
     "published_at": "Thu, 10 Sep 2026 20:21:57 +0000",
     "fetched_at": "2026-09-10T21:32:07.229413+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T20:21:57+00:00"
   },
   {
     "id": "rss_48b8d1370e0b",
@@ -1606,7 +1611,8 @@
     "url": "https://thedefiant.io/news/defi/uniswap-launches-dynamic-fees-for-two-stable-pair-pools",
     "published_at": "Thu, 10 Sep 2026 18:38:44 GMT",
     "fetched_at": "2026-09-10T21:32:07.229413+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T18:38:44+00:00"
   },
   {
     "id": "rss_f475e6d5379d",
@@ -1615,7 +1621,8 @@
     "url": "https://cryptoslate.com/metamask-and-consensys-split-exposes-the-gap-between-ethereum-adoption-and-eth-demand/",
     "published_at": "Thu, 10 Sep 2026 21:00:04 +0000",
     "fetched_at": "2026-09-10T21:32:07.229413+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T21:00:04+00:00"
   },
   {
     "id": "rss_bc1a4f805a50",
@@ -1624,7 +1631,8 @@
     "url": "https://cryptoslate.com/visas-2-5-billion-onchain-credit-bet-puts-card-settlement-financing-onchain/",
     "published_at": "Thu, 10 Sep 2026 20:00:19 +0000",
     "fetched_at": "2026-09-10T21:32:07.229413+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T20:00:19+00:00"
   },
   {
     "id": "rss_f215dc207c1a",
@@ -1633,7 +1641,8 @@
     "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
     "published_at": "Thu, 10 Sep 2026 18:51:04 +0000",
     "fetched_at": "2026-09-10T21:32:07.229413+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T18:51:04+00:00"
   },
   {
     "id": "llama_2026091021",
@@ -1642,6 +1651,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-10T21:32:11.845990+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-10T21:32:11.845990+00:00"
   }
 ]
