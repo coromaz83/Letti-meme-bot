@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_e8b29961ea0a",
-    "source": "CryptoSlate",
-    "title": "Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework",
-    "url": "https://cryptoslate.com/coinbase-co-founder-joins-rush-for-venezuelan-oil-assets-under-new-us-backed-framework/",
-    "published_at": "Thu, 03 Sep 2026 03:50:38 +0000",
-    "fetched_at": "2026-09-03T06:23:01.413451+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T03:50:38+00:00"
-  },
-  {
-    "id": "llama_2026090306",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,480,740,566 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-03T06:23:06.376326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-03T06:23:06.376326+00:00"
-  },
-  {
     "id": "llama_2026090311",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,481,541,994 🟢 +0.00% (24h)",
@@ -1539,6 +1519,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-10T05:47:07.128158+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78a4b94fd936",
+    "source": "CoinDesk",
+    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+    "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+    "published_at": "Thu, 10 Sep 2026 09:42:59 +0000",
+    "fetched_at": "2026-09-10T11:06:00.624852+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ee59393ff36c",
+    "source": "CoinDesk",
+    "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+    "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+    "published_at": "Thu, 10 Sep 2026 07:01:44 +0000",
+    "fetched_at": "2026-09-10T11:06:00.624852+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b2da5099c91",
+    "source": "CryptoSlate",
+    "title": "Paolo Ardoino says 650 million people decentralized US debt, but Tether still controls the T-bills",
+    "url": "https://cryptoslate.com/paolo-ardoino-says-650-million-people-decentralized-us-debt-but-tether-still-controls-the-t-bills/",
+    "published_at": "Thu, 10 Sep 2026 09:45:27 +0000",
+    "fetched_at": "2026-09-10T11:06:00.624852+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b459920d3fa1",
+    "source": "CryptoSlate",
+    "title": "Tether is pushing USDT into a cracking $3 trillion Wall Street debt machine as defaults hit five-year highs at major funds",
+    "url": "https://cryptoslate.com/tether-is-pushing-usdt-into-a-cracking-3-trillion-wall-street-debt-machine-as-defaults-hit-five-year-highs-at-major-funds/",
+    "published_at": "Thu, 10 Sep 2026 07:50:07 +0000",
+    "fetched_at": "2026-09-10T11:06:00.624852+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bb89d516761f",
+    "source": "Decrypt",
+    "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+    "url": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
+    "published_at": "Thu, 10 Sep 2026 10:11:52 +0000",
+    "fetched_at": "2026-09-10T11:06:00.624852+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091011",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,621,290,029 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-10T11:06:06.168680+00:00",
     "used": false
   }
 ]
