@@ -1587,7 +1587,8 @@
     "url": "https://thedefiant.io/news/defi/anon-triples-after-sesta-deploys-amm-on-robinhood-chain",
     "published_at": "Fri, 11 Sep 2026 18:19:01 GMT",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T18:19:01+00:00"
   },
   {
     "id": "rss_d89dc0f2d714",
@@ -1596,7 +1597,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-chain-revenue-falls-83-from-peak-while-trading-volume-sets-records",
     "published_at": "Fri, 11 Sep 2026 17:47:02 GMT",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T17:47:02+00:00"
   },
   {
     "id": "rss_9573dc2ff6b5",
@@ -1605,7 +1607,8 @@
     "url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
     "published_at": "Fri, 11 Sep 2026 20:10:09 +0000",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T20:10:09+00:00"
   },
   {
     "id": "rss_aba6b759e010",
@@ -1614,7 +1617,8 @@
     "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
     "published_at": "Fri, 11 Sep 2026 18:16:04 +0000",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T18:16:04+00:00"
   },
   {
     "id": "rss_fc5b967538d6",
@@ -1623,7 +1627,8 @@
     "url": "https://www.bankless.com/read/news/last-minute-clarity-act-revisions-eye-defi-clarifications",
     "published_at": "Fri, 11 Sep 2026 15:32:08 -0400",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T15:32:08-04:00"
   },
   {
     "id": "rss_d7d5f7515dcd",
@@ -1632,7 +1637,8 @@
     "url": "https://www.bankless.com/read/news/eth-wins-todays-risk-on-bounce-among-crypto-majors",
     "published_at": "Fri, 11 Sep 2026 14:34:27 -0400",
     "fetched_at": "2026-09-11T20:51:47.037274+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T14:34:27-04:00"
   },
   {
     "id": "llama_2026091120",
@@ -1641,6 +1647,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T20:51:51.499577+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T20:51:51.499577+00:00"
   }
 ]
