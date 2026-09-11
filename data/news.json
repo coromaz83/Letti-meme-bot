@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090408",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,672,847,835 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-04T08:59:51.583835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T08:59:51.583835+00:00"
-  },
-  {
     "id": "rss_144b5c8f4840",
     "source": "Cointelegraph Base",
     "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
@@ -1537,6 +1527,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T04:25:31.499108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1572679900d5",
+    "source": "CryptoSlate",
+    "title": "Rising Aave borrow rates threaten to flip Ethena’s USDe yield loops into negative carry",
+    "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry/",
+    "published_at": "Fri, 11 Sep 2026 06:40:27 +0000",
+    "fetched_at": "2026-09-11T09:03:52.699987+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091109",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,555,079,210 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-11T09:03:59.638436+00:00",
     "used": false
   }
 ]
