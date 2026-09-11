@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_8d72010047b2",
-    "source": "The Defiant",
-    "title": "Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes",
-    "published_at": "Fri, 04 Sep 2026 21:12:48 GMT",
-    "fetched_at": "2026-09-04T22:17:33.319741+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T21:12:48+00:00"
-  },
-  {
-    "id": "llama_2026090422",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,625,042,137 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-04T22:17:38.269711+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T22:17:38.269711+00:00"
-  },
-  {
     "id": "llama_2026090500",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,628,058,754 🟢 +0.00% (24h)",
@@ -1649,5 +1629,23 @@
     "fetched_at": "2026-09-11T20:51:51.499577+00:00",
     "used": false,
     "_sort_date": "2026-09-11T20:51:51.499577+00:00"
+  },
+  {
+    "id": "rss_430fc3064ecf",
+    "source": "CryptoSlate",
+    "title": "Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000",
+    "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/",
+    "published_at": "Fri, 11 Sep 2026 21:20:06 +0000",
+    "fetched_at": "2026-09-11T23:09:37.020185+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,588,823,905 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-11T23:09:41.719018+00:00",
+    "used": false
   }
 ]
