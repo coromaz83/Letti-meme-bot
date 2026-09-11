@@ -1,33 +1,5 @@
 [
   {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-09-04T13:26:11.893867+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-09-04T13:26:11.893867+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026090413",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,690,116,094 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-04T13:26:33.946140+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T13:26:33.946140+00:00"
-  },
-  {
     "id": "rss_77139f8247d2",
     "source": "The Defiant",
     "title": "AMC's CEO Told Robinhood To Halt Its Stock Token. Robinhood Told Him To Send Lawyers",
@@ -1549,5 +1521,23 @@
     "fetched_at": "2026-09-11T09:03:59.638436+00:00",
     "used": false,
     "_sort_date": "2026-09-11T09:03:59.638436+00:00"
+  },
+  {
+    "id": "rss_42dfa31ea2e9",
+    "source": "CryptoSlate",
+    "title": "BitMine’s staked ETH equals nearly 12% of Ethereum’s active stake, but who controls it?",
+    "url": "https://cryptoslate.com/bitmines-staked-eth-equals-nearly-12-of-ethereums-active-stake-but-who-controls-it/",
+    "published_at": "Fri, 11 Sep 2026 12:40:50 +0000",
+    "fetched_at": "2026-09-11T13:44:31.089729+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091113",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,534,986,460 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-11T13:44:35.347644+00:00",
+    "used": false
   }
 ]
