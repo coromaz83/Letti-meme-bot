@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_a291b59d9c98",
-    "source": "The Defiant",
-    "title": "August Payrolls Knock Bitcoin Off $81,000",
-    "url": "https://thedefiant.io/news/markets/august-payrolls-knock-bitcoin-off-81000",
-    "published_at": "Fri, 04 Sep 2026 19:40:14 GMT",
-    "fetched_at": "2026-09-04T19:48:39.017184+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T19:40:14+00:00"
-  },
-  {
-    "id": "llama_2026090419",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,608,030,032 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-04T19:48:43.133045+00:00",
-    "used": false,
-    "_sort_date": "2026-09-04T19:48:43.133045+00:00"
-  },
-  {
     "id": "rss_8d72010047b2",
     "source": "The Defiant",
     "title": "Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes",
@@ -1599,5 +1579,68 @@
     "fetched_at": "2026-09-11T17:41:58.853955+00:00",
     "used": false,
     "_sort_date": "2026-09-11T17:41:58.853955+00:00"
+  },
+  {
+    "id": "rss_a0a9095e787d",
+    "source": "The Defiant",
+    "title": "ANON Triples After Sesta Deploys AMM On Robinhood Chain",
+    "url": "https://thedefiant.io/news/defi/anon-triples-after-sesta-deploys-amm-on-robinhood-chain",
+    "published_at": "Fri, 11 Sep 2026 18:19:01 GMT",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d89dc0f2d714",
+    "source": "The Defiant",
+    "title": "Robinhood Chain Revenue Falls 83% From Its Peak While Trading Volume Sets Records",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-chain-revenue-falls-83-from-peak-while-trading-volume-sets-records",
+    "published_at": "Fri, 11 Sep 2026 17:47:02 GMT",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9573dc2ff6b5",
+    "source": "CryptoSlate",
+    "title": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+    "url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
+    "published_at": "Fri, 11 Sep 2026 20:10:09 +0000",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aba6b759e010",
+    "source": "Decrypt",
+    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+    "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+    "published_at": "Fri, 11 Sep 2026 18:16:04 +0000",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fc5b967538d6",
+    "source": "Bankless",
+    "title": "Last Minute Clarity Act Revisions Eye DeFi Clarifications",
+    "url": "https://www.bankless.com/read/news/last-minute-clarity-act-revisions-eye-defi-clarifications",
+    "published_at": "Fri, 11 Sep 2026 15:32:08 -0400",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d7d5f7515dcd",
+    "source": "Bankless",
+    "title": "ETH Wins Today's Risk-On Bounce Among Crypto Majors",
+    "url": "https://www.bankless.com/read/news/eth-wins-todays-risk-on-bounce-among-crypto-majors",
+    "published_at": "Fri, 11 Sep 2026 14:34:27 -0400",
+    "fetched_at": "2026-09-11T20:51:47.037274+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091120",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,573,534,364 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-11T20:51:51.499577+00:00",
+    "used": false
   }
 ]
