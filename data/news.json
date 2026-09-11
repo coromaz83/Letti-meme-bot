@@ -1499,7 +1499,8 @@
     "url": "https://cryptoslate.com/bitmines-staked-eth-equals-nearly-12-of-ethereums-active-stake-but-who-controls-it/",
     "published_at": "Fri, 11 Sep 2026 12:40:50 +0000",
     "fetched_at": "2026-09-11T13:44:31.089729+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T12:40:50+00:00"
   },
   {
     "id": "llama_2026091113",
@@ -1508,7 +1509,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T13:44:35.347644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T13:44:35.347644+00:00"
   },
   {
     "id": "rss_865568549b20",
@@ -1517,7 +1519,8 @@
     "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T16:05:15+00:00"
   },
   {
     "id": "rss_144b5c8f4840",
@@ -1544,7 +1547,8 @@
     "url": "https://thedefiant.io/news/regulation/clarity-act-revised-text-five-days-before-cloture-vote",
     "published_at": "Fri, 11 Sep 2026 15:30:38 GMT",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T15:30:38+00:00"
   },
   {
     "id": "rss_0b4861aafa67",
@@ -1553,7 +1557,8 @@
     "url": "https://thedefiant.io/news/defi/standard-chartered-sky-token-coverage-kendrick-0325-target",
     "published_at": "Fri, 11 Sep 2026 15:05:56 GMT",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T15:05:56+00:00"
   },
   {
     "id": "rss_e9b7c3a13fdb",
@@ -1562,7 +1567,8 @@
     "url": "https://thedefiant.io/news/defi/spark-okx-usdt-savings-x-layer-integration",
     "published_at": "Fri, 11 Sep 2026 14:50:50 GMT",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T14:50:50+00:00"
   },
   {
     "id": "rss_3f9bf223eaec",
@@ -1571,7 +1577,8 @@
     "url": "https://thedefiant.io/news/security/blockstream-rejects-ransom-demand-after-liquid-bitcoin-exploit",
     "published_at": "Fri, 11 Sep 2026 14:42:37 GMT",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T14:42:37+00:00"
   },
   {
     "id": "rss_03a7e8bcbfeb",
@@ -1580,7 +1587,8 @@
     "url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
     "published_at": "Fri, 11 Sep 2026 13:50:46 +0000",
     "fetched_at": "2026-09-11T17:41:54.591602+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T13:50:46+00:00"
   },
   {
     "id": "llama_2026091117",
@@ -1589,6 +1597,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T17:41:58.853955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T17:41:58.853955+00:00"
   }
 ]
