@@ -1527,7 +1527,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T04:25:31.499108+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T04:25:31.499108+00:00"
   },
   {
     "id": "rss_1572679900d5",
@@ -1536,7 +1537,8 @@
     "url": "https://cryptoslate.com/rising-aave-borrow-rates-threaten-to-flip-ethenas-usde-yield-loops-into-negative-carry/",
     "published_at": "Fri, 11 Sep 2026 06:40:27 +0000",
     "fetched_at": "2026-09-11T09:03:52.699987+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T06:40:27+00:00"
   },
   {
     "id": "llama_2026091109",
@@ -1545,6 +1547,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-11T09:03:59.638436+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-11T09:03:59.638436+00:00"
   }
 ]
