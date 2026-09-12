@@ -1626,7 +1626,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T01:26:42.132868+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T01:26:42.132868+00:00"
   },
   {
     "id": "llama_2026091206",
@@ -1635,7 +1636,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T06:24:11.459224+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T06:24:11.459224+00:00"
   },
   {
     "id": "llama_2026091211",
@@ -1644,6 +1646,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T11:10:45.716750+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T11:10:45.716750+00:00"
   }
 ]
