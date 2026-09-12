@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090508",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,637,199,861 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-05T08:56:06.307081+00:00",
-    "used": false,
-    "_sort_date": "2026-09-05T08:56:06.307081+00:00"
-  },
-  {
     "id": "rss_1ab445ae15b1",
     "source": "CryptoSlate",
     "title": "How the “buy, borrow, die” tax trade is quietly loading DeFi pools with hidden credit risk",
@@ -1645,6 +1635,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T06:24:11.459224+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091211",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,599,515,148 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-12T11:10:45.716750+00:00",
     "used": false
   }
 ]
