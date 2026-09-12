@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_c44aee85f9e0",
-    "source": "Decrypt",
-    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "published_at": "Sat, 05 Sep 2026 16:06:41 +0000",
-    "fetched_at": "2026-09-05T18:05:52.984326+00:00",
-    "used": false,
-    "_sort_date": "2026-09-05T16:06:41+00:00"
-  },
-  {
-    "id": "llama_2026090518",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,669,970,504 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-05T18:05:56.613495+00:00",
-    "used": false,
-    "_sort_date": "2026-09-05T18:05:56.613495+00:00"
-  },
-  {
     "id": "llama_2026090520",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,673,478,228 🟢 +0.00% (24h)",
@@ -1638,5 +1618,14 @@
     "fetched_at": "2026-09-12T17:23:49.201212+00:00",
     "used": false,
     "_sort_date": "2026-09-12T17:23:49.201212+00:00"
+  },
+  {
+    "id": "llama_2026091219",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,590,920,877 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-12T19:36:09.468027+00:00",
+    "used": false
   }
 ]
