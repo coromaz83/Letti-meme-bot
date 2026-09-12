@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090520",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,673,478,228 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-05T20:39:32.996461+00:00",
-    "used": false,
-    "_sort_date": "2026-09-05T20:39:32.996461+00:00"
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -1626,6 +1616,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T19:36:09.468027+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091222",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,584,977,843 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-12T22:09:35.250148+00:00",
     "used": false
   }
 ]
