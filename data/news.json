@@ -1616,7 +1616,8 @@
     "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
     "published_at": "Sat, 12 Sep 2026 14:00:00 +0000",
     "fetched_at": "2026-09-12T14:19:09.998821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T14:00:00+00:00"
   },
   {
     "id": "llama_2026091214",
@@ -1625,7 +1626,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T14:19:13.630454+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T14:19:13.630454+00:00"
   },
   {
     "id": "llama_2026091217",
@@ -1634,6 +1636,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-12T17:23:49.201212+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-12T17:23:49.201212+00:00"
   }
 ]
