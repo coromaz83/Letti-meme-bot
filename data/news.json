@@ -1596,7 +1596,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-13T18:03:17.931785+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-13T18:03:17.931785+00:00"
   },
   {
     "id": "rss_e3fce2c954f9",
@@ -1605,7 +1606,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
     "published_at": "Sun, 13 Sep 2026 18:45:08 +0000",
     "fetched_at": "2026-09-13T21:04:36.848211+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-13T18:45:08+00:00"
   },
   {
     "id": "rss_9df6edb745c9",
@@ -1614,7 +1616,8 @@
     "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
     "published_at": "Sun, 13 Sep 2026 20:15:08 +0000",
     "fetched_at": "2026-09-13T21:04:36.848211+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-13T20:15:08+00:00"
   },
   {
     "id": "rss_779d43586ba4",
@@ -1623,7 +1626,8 @@
     "url": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
     "published_at": "Sun, 13 Sep 2026 19:10:30 +0000",
     "fetched_at": "2026-09-13T21:04:36.848211+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-13T19:10:30+00:00"
   },
   {
     "id": "llama_2026091321",
@@ -1632,6 +1636,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-13T21:04:41.079684+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-13T21:04:41.079684+00:00"
   }
 ]
