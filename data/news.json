@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_5e304600ae40",
-    "source": "CryptoSlate",
-    "title": "Three DeFi projects face possible exclusion from future Arbitrum DAO programs",
-    "url": "https://cryptoslate.com/three-defi-projects-face-possible-exclusion-from-future-arbitrum-dao-programs/",
-    "published_at": "Sun, 06 Sep 2026 21:05:28 +0000",
-    "fetched_at": "2026-09-06T21:37:58.264905+00:00",
-    "used": false,
-    "_sort_date": "2026-09-06T21:05:28+00:00"
-  },
-  {
-    "id": "llama_2026090621",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-06T21:38:02.407251+00:00",
-    "used": false,
-    "_sort_date": "2026-09-06T21:38:02.407251+00:00"
-  },
-  {
     "id": "rss_27c6343d510e",
     "source": "The Defiant",
     "title": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
@@ -1638,5 +1618,14 @@
     "fetched_at": "2026-09-13T21:04:41.079684+00:00",
     "used": false,
     "_sort_date": "2026-09-13T21:04:41.079684+00:00"
+  },
+  {
+    "id": "llama_2026091323",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,597,482,233 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-13T23:24:40.504072+00:00",
+    "used": false
   }
 ]
