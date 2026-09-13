@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026090617",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-06T17:18:00.125799+00:00",
-    "used": false,
-    "_sort_date": "2026-09-06T17:18:00.125799+00:00"
-  },
-  {
     "id": "rss_ec13307d8235",
     "source": "CryptoSlate",
     "title": "How Bitmine could surpass its 5% Ethereum goal without buying more ETH",
@@ -1618,5 +1608,14 @@
     "fetched_at": "2026-09-13T14:53:25.893426+00:00",
     "used": false,
     "_sort_date": "2026-09-13T14:53:25.893426+00:00"
+  },
+  {
+    "id": "llama_2026091318",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,578,312,509 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-13T18:03:17.931785+00:00",
+    "used": false
   }
 ]
