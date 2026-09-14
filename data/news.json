@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_27c6343d510e",
-    "source": "The Defiant",
-    "title": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
-    "url": "https://thedefiant.io/news/security/liquid-sidechain-paused-after-3998-btc-leaves-federation-wallet",
-    "published_at": "Sun, 06 Sep 2026 23:15:09 GMT",
-    "fetched_at": "2026-09-06T23:43:22.742820+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026090623",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-06T23:43:26.787121+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026090704",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
@@ -1626,6 +1608,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-13T23:24:40.504072+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091401",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,547,007,240 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-14T01:30:19.634219+00:00",
     "used": false
   }
 ]
