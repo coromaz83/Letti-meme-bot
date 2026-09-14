@@ -1486,7 +1486,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
     "published_at": "Mon, 14 Sep 2026 18:34:09 +0000",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T18:34:09+00:00"
   },
   {
     "id": "rss_8cedaf63653b",
@@ -1495,7 +1496,8 @@
     "url": "https://thedefiant.io/news/regulation/republicans-post-final-clarity-act-text-with-trump-backed-ethics-terms",
     "published_at": "Mon, 14 Sep 2026 19:40:33 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T19:40:33+00:00"
   },
   {
     "id": "rss_a873a21b74c5",
@@ -1504,7 +1506,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-says-shares-and-votes-are-coming-for-stock-tokens",
     "published_at": "Mon, 14 Sep 2026 18:47:20 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T18:47:20+00:00"
   },
   {
     "id": "rss_d31a764083d2",
@@ -1513,7 +1516,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/pixelmon-ends-game-development-after-publisher-test-falls-short",
     "published_at": "Mon, 14 Sep 2026 15:52:16 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:52:16+00:00"
   },
   {
     "id": "rss_151835932d85",
@@ -1522,7 +1526,8 @@
     "url": "https://thedefiant.io/news/infrastructure/base-ethereum-account-abstraction-collaboration-broke-down-developer-says",
     "published_at": "Mon, 14 Sep 2026 15:38:47 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:38:47+00:00"
   },
   {
     "id": "rss_54ac1ab0e202",
@@ -1531,7 +1536,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-leads-kaiko-funding-extension-to-110-million",
     "published_at": "Mon, 14 Sep 2026 15:36:41 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:36:41+00:00"
   },
   {
     "id": "rss_45e75f6fb452",
@@ -1540,7 +1546,8 @@
     "url": "https://thedefiant.io/news/defi/kraken-launches-xstocks-vaults-that-borrow-against-tokenized-equities",
     "published_at": "Mon, 14 Sep 2026 15:21:18 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:21:18+00:00"
   },
   {
     "id": "rss_f88af80f0e14",
@@ -1549,7 +1556,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-drops-cashback-for-new-launches-adds-holder-rewards",
     "published_at": "Mon, 14 Sep 2026 15:14:09 GMT",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:14:09+00:00"
   },
   {
     "id": "rss_4df51e5a8cb1",
@@ -1558,7 +1566,8 @@
     "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
     "published_at": "Mon, 14 Sep 2026 17:25:06 +0000",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T17:25:06+00:00"
   },
   {
     "id": "rss_1f967c419cd4",
@@ -1567,7 +1576,8 @@
     "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
     "published_at": "Mon, 14 Sep 2026 16:02:25 +0000",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T16:02:25+00:00"
   },
   {
     "id": "rss_043a885c96c3",
@@ -1576,7 +1586,8 @@
     "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
     "published_at": "Mon, 14 Sep 2026 15:22:51 +0000",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T15:22:51+00:00"
   },
   {
     "id": "rss_e94c5e99456c",
@@ -1585,7 +1596,8 @@
     "url": "https://www.bankless.com/read/the-standard-reserve-is-building-a-new-kind-of-bank-onchain",
     "published_at": "Mon, 14 Sep 2026 14:57:00 -0400",
     "fetched_at": "2026-09-14T19:48:33.957523+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T14:57:00-04:00"
   },
   {
     "id": "llama_2026091419",
@@ -1594,7 +1606,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-14T19:48:37.539491+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T19:48:37.539491+00:00"
   },
   {
     "id": "rss_6c949a79dc6b",
@@ -1603,7 +1616,8 @@
     "url": "https://thedefiant.io/news/defi/balancer-proposes-shutting-down-and-distributing-treasury-to-bal-holders",
     "published_at": "Mon, 14 Sep 2026 20:33:35 GMT",
     "fetched_at": "2026-09-14T23:03:11.702197+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T20:33:35+00:00"
   },
   {
     "id": "rss_cc642285d36b",
@@ -1612,7 +1626,8 @@
     "url": "https://thedefiant.io/news/markets/xrp-leads-broad-crypto-bid-senate-vote-fed-decision-sep-14-2026",
     "published_at": "Mon, 14 Sep 2026 20:09:56 GMT",
     "fetched_at": "2026-09-14T23:03:11.702197+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T20:09:56+00:00"
   },
   {
     "id": "llama_2026091423",
@@ -1621,6 +1636,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-14T23:03:17.073953+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T23:03:17.073953+00:00"
   }
 ]
