@@ -1577,7 +1577,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-14T07:49:24.912875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T07:49:24.912875+00:00"
   },
   {
     "id": "rss_bdbd74155395",
@@ -1586,7 +1587,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
     "published_at": "Mon, 14 Sep 2026 14:27:48 +0000",
     "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T14:27:48+00:00"
   },
   {
     "id": "rss_7f79bc7d3458",
@@ -1595,7 +1597,8 @@
     "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
     "published_at": "Mon, 14 Sep 2026 12:58:42 +0000",
     "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T12:58:42+00:00"
   },
   {
     "id": "rss_bc5d32d05aa7",
@@ -1604,7 +1607,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
     "published_at": "Mon, 14 Sep 2026 12:07:19 +0000",
     "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T12:07:19+00:00"
   },
   {
     "id": "rss_55807e28d2ba",
@@ -1613,7 +1617,8 @@
     "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund/",
     "published_at": "Mon, 14 Sep 2026 14:50:53 +0000",
     "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T14:50:53+00:00"
   },
   {
     "id": "rss_908cfc82365c",
@@ -1622,7 +1627,8 @@
     "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
     "published_at": "Mon, 14 Sep 2026 14:37:21 +0000",
     "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T14:37:21+00:00"
   },
   {
     "id": "llama_2026091414",
@@ -1631,6 +1637,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-14T14:57:28.811127+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-14T14:57:28.811127+00:00"
   }
 ]
