@@ -1,44 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ef729c67b156",
-    "source": "CoinDesk",
-    "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
-    "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
-    "published_at": "Mon, 07 Sep 2026 08:07:05 +0000",
-    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
-    "used": false,
-    "_sort_date": "2026-09-07T08:07:05+00:00"
-  },
-  {
-    "id": "rss_fb039e52d842",
-    "source": "CoinDesk",
-    "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
-    "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
-    "published_at": "Mon, 07 Sep 2026 08:02:18 +0000",
-    "fetched_at": "2026-09-07T09:37:26.810861+00:00",
-    "used": false,
-    "_sort_date": "2026-09-07T08:02:18+00:00"
-  },
-  {
-    "id": "llama_2026090709",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,669,436,607 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-07T09:37:36.219196+00:00",
-    "used": false,
-    "_sort_date": "2026-09-07T09:37:36.219196+00:00"
-  },
-  {
     "id": "rss_6750d5b3143c",
     "source": "CoinDesk",
     "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
@@ -1616,6 +1577,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-14T07:49:24.912875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bdbd74155395",
+    "source": "CoinDesk",
+    "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+    "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+    "published_at": "Mon, 14 Sep 2026 14:27:48 +0000",
+    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7f79bc7d3458",
+    "source": "CoinDesk",
+    "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+    "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+    "published_at": "Mon, 14 Sep 2026 12:58:42 +0000",
+    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc5d32d05aa7",
+    "source": "CoinDesk",
+    "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+    "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+    "published_at": "Mon, 14 Sep 2026 12:07:19 +0000",
+    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_55807e28d2ba",
+    "source": "CryptoSlate",
+    "title": "BlackRock’s staking Ethereum ETF pays yield but investors still prefer its $9 billion ETHA fund",
+    "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund/",
+    "published_at": "Mon, 14 Sep 2026 14:50:53 +0000",
+    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_908cfc82365c",
+    "source": "Decrypt",
+    "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
+    "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
+    "published_at": "Mon, 14 Sep 2026 14:37:21 +0000",
+    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091414",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,627,256,425 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-14T14:57:28.811127+00:00",
     "used": false
   }
 ]
