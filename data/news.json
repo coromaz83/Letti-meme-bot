@@ -1520,7 +1520,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
     "published_at": "Tue, 15 Sep 2026 13:43:50 +0000",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T13:43:50+00:00"
   },
   {
     "id": "rss_9239d452001d",
@@ -1529,7 +1530,8 @@
     "url": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
     "published_at": "Tue, 15 Sep 2026 16:03:00 GMT",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T16:03:00+00:00"
   },
   {
     "id": "rss_3c5c4a64cf72",
@@ -1538,7 +1540,8 @@
     "url": "https://thedefiant.io/news/people/kamino-names-michael-weisz-ceo-for-us-and-institutional-expansion",
     "published_at": "Tue, 15 Sep 2026 15:59:53 GMT",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T15:59:53+00:00"
   },
   {
     "id": "rss_d68409d78694",
@@ -1547,7 +1550,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-76000-clarity-act-odds-senate-vote-sep-15-2026",
     "published_at": "Tue, 15 Sep 2026 15:58:40 GMT",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T15:58:40+00:00"
   },
   {
     "id": "rss_a9c544a1812a",
@@ -1556,7 +1560,8 @@
     "url": "https://thedefiant.io/news/cefi/coinex-to-close-exchange-on-ninth-anniversary",
     "published_at": "Tue, 15 Sep 2026 15:55:59 GMT",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T15:55:59+00:00"
   },
   {
     "id": "rss_900d2d7941d9",
@@ -1565,7 +1570,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/podcast/will-crypto-get-clarity-senate-votes-today",
     "published_at": "Tue, 15 Sep 2026 13:00:00 GMT",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T13:00:00+00:00"
   },
   {
     "id": "rss_9b3e34d143d5",
@@ -1574,7 +1580,8 @@
     "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance/",
     "published_at": "Tue, 15 Sep 2026 16:30:02 +0000",
     "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T16:30:02+00:00"
   },
   {
     "id": "llama_2026091517",
@@ -1583,6 +1590,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-15T17:44:27.724635+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T17:44:27.724635+00:00"
   }
 ]
