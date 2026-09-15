@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_bee73faa3756",
-    "source": "CoinDesk",
-    "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-    "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
-    "published_at": "Tue, 08 Sep 2026 11:06:31 +0000",
-    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T11:06:31+00:00"
-  },
-  {
-    "id": "rss_bc44c003db71",
-    "source": "CoinDesk",
-    "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-    "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-    "published_at": "Tue, 08 Sep 2026 10:33:17 +0000",
-    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T10:33:17+00:00"
-  },
-  {
-    "id": "rss_4ea6f47004a1",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s 2029 quantum deadline is starting to reshape what gets built next",
-    "url": "https://cryptoslate.com/ethereums-2029-quantum-deadline-is-starting-to-reshape-what-gets-built-next/",
-    "published_at": "Tue, 08 Sep 2026 10:40:21 +0000",
-    "fetched_at": "2026-09-08T11:41:22.394558+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T10:40:21+00:00"
-  },
-  {
-    "id": "llama_2026090811",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,594,563,487 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-08T11:41:26.484555+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T11:41:26.484555+00:00"
-  },
-  {
     "id": "rss_c8732a67a8f8",
     "source": "CoinDesk",
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
@@ -1609,6 +1569,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-15T07:35:15.930524+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4053069e4409",
+    "source": "CoinDesk",
+    "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+    "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+    "published_at": "Tue, 15 Sep 2026 11:15:44 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5ad271a97678",
+    "source": "The Defiant",
+    "title": "Standard Chartered Sets $10 Arbitrum Target on Robinhood and Tokenization Growth",
+    "url": "https://thedefiant.io/news/markets/standard-chartered-sets-10-arbitrum-target-on-robinhood-and-tokenization-growth",
+    "published_at": "Tue, 15 Sep 2026 12:27:07 GMT",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_19f4a6bf276c",
+    "source": "The Defiant",
+    "title": "Bitget Wallet Adds Reality's Tokenized U.S. Stocks Alongside Ondo And xStocks",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitget-wallet-integrates-reality-tokenized-us-stocks-rtokens",
+    "published_at": "Tue, 15 Sep 2026 12:00:49 GMT",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e80efb421d4e",
+    "source": "CryptoSlate",
+    "title": "XRP’s path back to $2 now hinges on whether the Senate passes the CLARITY Act",
+    "url": "https://cryptoslate.com/xrps-path-back-to-2-now-hinges-on-whether-the-senate-passes-the-clarity-act/",
+    "published_at": "Tue, 15 Sep 2026 13:15:16 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78d973707e8b",
+    "source": "CryptoSlate",
+    "title": "A DeFi giant that once held $3 billion is now proposing to wind itself down",
+    "url": "https://cryptoslate.com/a-defi-giant-that-once-held-3-billion-is-now-proposing-to-wind-itself-down/",
+    "published_at": "Tue, 15 Sep 2026 12:30:43 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0890e337296",
+    "source": "Decrypt",
+    "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+    "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+    "published_at": "Tue, 15 Sep 2026 11:01:04 +0000",
+    "fetched_at": "2026-09-15T13:24:34.551894+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091513",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,591,765,835 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-15T13:24:39.383441+00:00",
     "used": false
   }
 ]
