@@ -1,165 +1,5 @@
 [
   {
-    "id": "rss_c8732a67a8f8",
-    "source": "CoinDesk",
-    "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-    "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-    "published_at": "Tue, 08 Sep 2026 14:29:14 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T14:29:14+00:00"
-  },
-  {
-    "id": "rss_741dd8befac5",
-    "source": "CoinDesk",
-    "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-    "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-    "published_at": "Tue, 08 Sep 2026 13:18:24 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T13:18:24+00:00"
-  },
-  {
-    "id": "rss_6a9a0923b488",
-    "source": "CoinDesk",
-    "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-    "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
-    "published_at": "Tue, 08 Sep 2026 13:06:34 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T13:06:34+00:00"
-  },
-  {
-    "id": "rss_620b7610a108",
-    "source": "The Defiant",
-    "title": "DBS and Citi Complete Weekend Dollar Payment on Swift Ledger",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-and-citi-complete-weekend-dollar-payment-on-swift-ledger",
-    "published_at": "Tue, 08 Sep 2026 16:01:32 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T16:01:32+00:00"
-  },
-  {
-    "id": "rss_6ecdccbea5e5",
-    "source": "The Defiant",
-    "title": "Ethereum Foundation Sets 2029 Quantum Target and Narrows Hegotá Scope",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-sets-2029-quantum-target-and-narrows-hegot-scope",
-    "published_at": "Tue, 08 Sep 2026 15:48:15 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:48:15+00:00"
-  },
-  {
-    "id": "rss_cf60b378f1e8",
-    "source": "The Defiant",
-    "title": "Harmony Proposes Sunsetting Network and Moving ONE to Ethereum for AI Video Pivot",
-    "url": "https://thedefiant.io/news/blockchains/harmony-proposes-sunsetting-network-and-moving-one-to-ethereum",
-    "published_at": "Tue, 08 Sep 2026 15:40:18 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:40:18+00:00"
-  },
-  {
-    "id": "rss_1bd9def380cf",
-    "source": "The Defiant",
-    "title": "BitMine Adds 28,086 ETH as Treasury Nears 5% of Supply",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
-    "published_at": "Tue, 08 Sep 2026 15:29:09 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:29:09+00:00"
-  },
-  {
-    "id": "rss_46805f232294",
-    "source": "The Defiant",
-    "title": "Morpho Expands Fixed-Rate Midnight Markets to Ethereum",
-    "url": "https://thedefiant.io/news/defi/morpho-expands-fixed-rate-midnight-markets-to-ethereum",
-    "published_at": "Tue, 08 Sep 2026 15:15:19 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:15:19+00:00"
-  },
-  {
-    "id": "rss_99f60f4f1992",
-    "source": "The Defiant",
-    "title": "Robinhood Takes Stakes In Crypto.com And OG.com, Routes Football Contracts To Their Exchange",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-takes-stakes-in-crypto-com-and-og-com-as-it-routes-football-contracts",
-    "published_at": "Tue, 08 Sep 2026 15:01:38 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:01:38+00:00"
-  },
-  {
-    "id": "rss_433ab3ea71fa",
-    "source": "The Defiant",
-    "title": "Merck KGaA Pilots Cocoa Traceability On Hedera",
-    "url": "https://thedefiant.io/converge/infrastructure/merck-kgaa-pilots-cocoa-traceability-on-hedera",
-    "published_at": "Tue, 08 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T07:00:00+00:00"
-  },
-  {
-    "id": "rss_c1b24695327d",
-    "source": "CryptoSlate",
-    "title": "Paolo Ardoino wants AI agents to hold Tether, but developers are left on the hook for overspending",
-    "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-agents-to-hold-tether-but-developers-are-left-on-the-hook-for-overspending/",
-    "published_at": "Tue, 08 Sep 2026 15:40:20 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:40:20+00:00"
-  },
-  {
-    "id": "rss_7b495edd63fd",
-    "source": "CryptoSlate",
-    "title": "The fight over Ethereum’s supply is forcing a choice between high staking yields and the value of your ETH",
-    "url": "https://cryptoslate.com/the-fight-over-ethereums-supply-is-forcing-a-choice-between-high-staking-yields-and-the-value-of-your-eth/",
-    "published_at": "Tue, 08 Sep 2026 12:35:47 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T12:35:47+00:00"
-  },
-  {
-    "id": "rss_461d889a2619",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
-    "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-    "published_at": "Tue, 08 Sep 2026 15:04:44 +0000",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T15:04:44+00:00"
-  },
-  {
-    "id": "rss_0b2f483250b6",
-    "source": "Bankless",
-    "title": "Visa Taps Onchain Credit for Stablecoin Card Settlement",
-    "url": "https://www.bankless.com/read/news/visa-taps-onchain-credit-for-stablecoin-card-settlement",
-    "published_at": "Tue, 08 Sep 2026 10:59:00 -0400",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T10:59:00-04:00"
-  },
-  {
-    "id": "rss_b306b1feaff2",
-    "source": "Bankless",
-    "title": "Hunter Biden’s $LAPTOP Memecoin Hits Base Sept. 9",
-    "url": "https://www.bankless.com/read/news/hunter-bidens-laptop-memecoin-hits-base-sept-9",
-    "published_at": "Tue, 08 Sep 2026 10:10:13 -0400",
-    "fetched_at": "2026-09-08T16:30:08.872225+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T10:10:13-04:00"
-  },
-  {
-    "id": "llama_2026090816",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,603,891,015 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-08T16:30:12.250609+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T16:30:12.250609+00:00"
-  },
-  {
     "id": "rss_af7e1cf4c7c2",
     "source": "The Defiant",
     "title": "Compound Opens Institutional-Only Lending Market",
@@ -1672,5 +1512,77 @@
     "fetched_at": "2026-09-15T13:24:39.383441+00:00",
     "used": false,
     "_sort_date": "2026-09-15T13:24:39.383441+00:00"
+  },
+  {
+    "id": "rss_df1e8ba47c60",
+    "source": "CoinDesk",
+    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+    "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+    "published_at": "Tue, 15 Sep 2026 13:43:50 +0000",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9239d452001d",
+    "source": "The Defiant",
+    "title": "MEV Bot Front-Runs $7.8 Million rsETH Exploit on Ethereum",
+    "url": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
+    "published_at": "Tue, 15 Sep 2026 16:03:00 GMT",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3c5c4a64cf72",
+    "source": "The Defiant",
+    "title": "Kamino Names Michael Weisz CEO for US and Institutional Expansion",
+    "url": "https://thedefiant.io/news/people/kamino-names-michael-weisz-ceo-for-us-and-institutional-expansion",
+    "published_at": "Tue, 15 Sep 2026 15:59:53 GMT",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d68409d78694",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls Below $76,000 as Traders Cut CLARITY Act Odds Hours Before Senate Vote",
+    "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-76000-clarity-act-odds-senate-vote-sep-15-2026",
+    "published_at": "Tue, 15 Sep 2026 15:58:40 GMT",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a9c544a1812a",
+    "source": "The Defiant",
+    "title": "CoinEx to Close Exchange on Ninth Anniversary",
+    "url": "https://thedefiant.io/news/cefi/coinex-to-close-exchange-on-ninth-anniversary",
+    "published_at": "Tue, 15 Sep 2026 15:55:59 GMT",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_900d2d7941d9",
+    "source": "The Defiant",
+    "title": "Will crypto get clarity? Senate votes today",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/will-crypto-get-clarity-senate-votes-today",
+    "published_at": "Tue, 15 Sep 2026 13:00:00 GMT",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b3e34d143d5",
+    "source": "CryptoSlate",
+    "title": "DeFi governance gap allows one wallet to request 98% of Ampleforth treasury’s USDC balance",
+    "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance/",
+    "published_at": "Tue, 15 Sep 2026 16:30:02 +0000",
+    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091517",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,528,441,238 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-15T17:44:27.724635+00:00",
+    "used": false
   }
 ]
