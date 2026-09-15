@@ -1560,7 +1560,8 @@
     "url": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed",
     "published_at": "Tue, 15 Sep 2026 19:56:20 GMT",
     "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T19:56:20+00:00"
   },
   {
     "id": "rss_8ddd01aa534c",
@@ -1569,7 +1570,8 @@
     "url": "https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue",
     "published_at": "Tue, 15 Sep 2026 18:56:26 GMT",
     "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T18:56:26+00:00"
   },
   {
     "id": "rss_3e8477c015c8",
@@ -1578,7 +1580,8 @@
     "url": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
     "published_at": "Tue, 15 Sep 2026 19:20:33 +0000",
     "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T19:20:33+00:00"
   },
   {
     "id": "rss_256024455b58",
@@ -1587,7 +1590,8 @@
     "url": "https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
     "published_at": "Tue, 15 Sep 2026 18:15:37 +0000",
     "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T18:15:37+00:00"
   },
   {
     "id": "rss_0b2f483250b6",
@@ -1605,6 +1609,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-15T21:10:26.828140+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-15T21:10:26.828140+00:00"
   }
 ]
