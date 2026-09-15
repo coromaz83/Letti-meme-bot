@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_af7e1cf4c7c2",
-    "source": "The Defiant",
-    "title": "Compound Opens Institutional-Only Lending Market",
-    "url": "https://thedefiant.io/news/defi/compound-institutional-market-launch",
-    "published_at": "Tue, 08 Sep 2026 17:33:14 GMT",
-    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T17:33:14+00:00"
-  },
-  {
-    "id": "rss_a0f9bfb05e73",
-    "source": "Decrypt",
-    "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-    "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-    "published_at": "Tue, 08 Sep 2026 18:16:04 +0000",
-    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T18:16:04+00:00"
-  },
-  {
-    "id": "rss_5c22564eb279",
-    "source": "Decrypt",
-    "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
-    "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
-    "published_at": "Tue, 08 Sep 2026 17:10:51 +0000",
-    "fetched_at": "2026-09-08T19:33:11.764577+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T17:10:51+00:00"
-  },
-  {
-    "id": "llama_2026090819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,626,356,387 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-08T19:33:15.591142+00:00",
-    "used": false,
-    "_sort_date": "2026-09-08T19:33:15.591142+00:00"
-  },
-  {
     "id": "rss_c6d5c3424fdc",
     "source": "The Defiant",
     "title": "Polkadot Leads A Rotation Into Old Layer-1s As Hike Odds Widen",
@@ -1592,5 +1552,59 @@
     "fetched_at": "2026-09-15T17:44:27.724635+00:00",
     "used": false,
     "_sort_date": "2026-09-15T17:44:27.724635+00:00"
+  },
+  {
+    "id": "rss_61b7367d3994",
+    "source": "The Defiant",
+    "title": "Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed",
+    "url": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed",
+    "published_at": "Tue, 15 Sep 2026 19:56:20 GMT",
+    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ddd01aa534c",
+    "source": "The Defiant",
+    "title": "0x Says Uniswap v4 Hooks Were A Mistake, Hayden Adams Says \"Skill Issue\"",
+    "url": "https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue",
+    "published_at": "Tue, 15 Sep 2026 18:56:26 GMT",
+    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3e8477c015c8",
+    "source": "CryptoSlate",
+    "title": "Trump ethics fight sinks CLARITY Act in dramatic Senate defeat",
+    "url": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
+    "published_at": "Tue, 15 Sep 2026 19:20:33 +0000",
+    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_256024455b58",
+    "source": "CryptoSlate",
+    "title": "Did crypto’s $20 Billion DeFi surge just get stolen by price inflation?",
+    "url": "https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
+    "published_at": "Tue, 15 Sep 2026 18:15:37 +0000",
+    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0b2f483250b6",
+    "source": "Bankless",
+    "title": "Visa Taps Onchain Credit for Stablecoin Card Settlement",
+    "url": "https://www.bankless.com/read/news/visa-taps-onchain-credit-for-stablecoin-card-settlement",
+    "published_at": "Tue, 08 Sep 2026 10:59:00 -0400",
+    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091521",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,499,826,212 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-15T21:10:26.828140+00:00",
+    "used": false
   }
 ]
