@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_04cb02fe7931",
-    "source": "The Defiant",
-    "title": "Report Links $2.08M in LAPTOP Sales to Wintermute-Tagged Wallet",
-    "url": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
-    "published_at": "Wed, 09 Sep 2026 19:24:00 GMT",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T19:24:00+00:00"
-  },
-  {
-    "id": "rss_59f09570233f",
-    "source": "The Defiant",
-    "title": "Block Seeks OCC Charter for Uninsured Bitcoin and Stablecoin Custody Bank",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
-    "published_at": "Wed, 09 Sep 2026 16:58:22 GMT",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:58:22+00:00"
-  },
-  {
-    "id": "rss_9fe6b023a7fd",
-    "source": "The Defiant",
-    "title": "Circle to Acquire Tazapay in $400 Million All-Stock Payments Deal",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-to-acquire-tazapay-in-400-million-all-stock-payments-deal",
-    "published_at": "Wed, 09 Sep 2026 16:57:42 GMT",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:57:42+00:00"
-  },
-  {
-    "id": "rss_b327ea594c6a",
-    "source": "The Defiant",
-    "title": "Bitcoin Gives Back Its Overnight Gain As Brent Tops $100",
-    "url": "https://thedefiant.io/converge/markets/bitcoin-gives-back-overnight-gain-brent-tops-100-sep-9-2026",
-    "published_at": "Wed, 09 Sep 2026 16:55:20 GMT",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:55:20+00:00"
-  },
-  {
-    "id": "rss_39f72dea0bbf",
-    "source": "CryptoSlate",
-    "title": "How Tether’s $45 million crackdown drove Southeast Asian scam compounds into an ‘unfreezable’ decentralized stablecoin",
-    "url": "https://cryptoslate.com/how-tethers-45-million-crackdown-drove-southeast-asian-scam-compounds-into-an-unfreezable-decentralized-stablecoin/",
-    "published_at": "Wed, 09 Sep 2026 17:20:12 +0000",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T17:20:12+00:00"
-  },
-  {
-    "id": "rss_105f27ff1a6e",
-    "source": "Bankless",
-    "title": "Vitalik Pitches EIP-8288 as Ethereum's Next Big Cryptography Unlock",
-    "url": "https://www.bankless.com/read/news/vitalik-pitches-eip-8288-as-ethereums-next-big-cryptography-unlock",
-    "published_at": "Wed, 09 Sep 2026 13:39:36 -0400",
-    "fetched_at": "2026-09-09T19:40:05.779846+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T13:39:36-04:00"
-  },
-  {
-    "id": "llama_2026090919",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,670,969,798 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-09T19:40:09.813794+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T19:40:09.813794+00:00"
-  },
-  {
     "id": "rss_530c03f5e8ce",
     "source": "The Defiant",
     "title": "Pump.fun Lets Creators Launch Coins Priced In Tokenized Stocks",
@@ -1624,6 +1554,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T18:47:57.627456+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_31a207ce9f13",
+    "source": "The Defiant",
+    "title": "The Next Bull Run Could Be One Big Airdrop Away",
+    "url": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
+    "published_at": "Wed, 16 Sep 2026 19:54:38 GMT",
+    "fetched_at": "2026-09-16T22:01:58.182884+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eb986da6e3d3",
+    "source": "The Defiant",
+    "title": "SEC and CFTC Chairmen Say They Will Write Crypto Rules Without CLARITY Act",
+    "url": "https://thedefiant.io/news/regulation/sec-and-cftc-chairmen-say-they-will-write-crypto-rules-without-clarity-act",
+    "published_at": "Wed, 16 Sep 2026 19:05:19 GMT",
+    "fetched_at": "2026-09-16T22:01:58.182884+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091622",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,523,924,018 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-16T22:02:04.080277+00:00",
     "used": false
   }
 ]
