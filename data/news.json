@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-09-09T12:16:28.902592+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3e0c04f3d712",
-    "source": "CoinDesk",
-    "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
-    "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-    "published_at": "Wed, 09 Sep 2026 07:20:51 +0000",
-    "fetched_at": "2026-09-09T12:16:28.902592+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T07:20:51+00:00"
-  },
-  {
-    "id": "llama_2026090912",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,665,525,732 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-09T12:16:32.590002+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T12:16:32.590002+00:00"
-  },
-  {
     "id": "rss_0c7db4768cce",
     "source": "CoinDesk",
     "title": "Tether pushes into private credit with $400 million fund with Fasanara",
@@ -1609,5 +1580,77 @@
     "fetched_at": "2026-09-16T09:48:54.965943+00:00",
     "used": false,
     "_sort_date": "2026-09-16T09:48:54.965943+00:00"
+  },
+  {
+    "id": "rss_b02593acda77",
+    "source": "CoinDesk",
+    "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+    "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+    "published_at": "Wed, 16 Sep 2026 14:35:43 +0000",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0ea30c598819",
+    "source": "CoinDesk",
+    "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+    "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+    "published_at": "Wed, 16 Sep 2026 11:00:00 +0000",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4f7b1de96c73",
+    "source": "CoinDesk",
+    "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+    "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+    "published_at": "Wed, 16 Sep 2026 09:57:12 +0000",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_60cb2060e0eb",
+    "source": "The Defiant",
+    "title": "Kraken Parent Plans Permissioned Hyperliquid Perps for US Traders",
+    "url": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
+    "published_at": "Wed, 16 Sep 2026 13:09:34 GMT",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_14f35eae67a8",
+    "source": "The Defiant",
+    "title": "Aave Labs Plans A Tokenized-Asset Credit Market On Avalanche With Tether's USA₮",
+    "url": "https://thedefiant.io/news/defi/aave-avalanche-rwa-hub-usat-tokenized-collateral",
+    "published_at": "Wed, 16 Sep 2026 12:42:22 GMT",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_642e93c24641",
+    "source": "The Defiant",
+    "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa Producing Blocks",
+    "url": "https://thedefiant.io/converge/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
+    "published_at": "Wed, 16 Sep 2026 10:30:41 GMT",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ccd75ba69d9b",
+    "source": "CryptoSlate",
+    "title": "Malicious Uniswap v4 hooks are baiting DeFi traders with fake swap quotes",
+    "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes/",
+    "published_at": "Wed, 16 Sep 2026 11:10:27 +0000",
+    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091614",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,509,811,760 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-16T14:46:36.694636+00:00",
+    "used": false
   }
 ]
