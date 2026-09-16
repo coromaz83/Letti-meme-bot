@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_6248f3e21c1d",
-    "source": "Bankless",
-    "title": "Ripe Brings Old School DeFi Farming to Robinhood Chain",
-    "url": "https://www.bankless.com/read/ripe-brings-old-school-defi-farming-to-robinhood-chain",
-    "published_at": "Tue, 01 Sep 2026 15:04:42 -0400",
-    "fetched_at": "2026-09-09T01:09:30.271737+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026090901",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,657,802,104 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-09T01:09:34.586503+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026090906",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,668,695,162 🟢 +0.00% (24h)",
@@ -1587,6 +1569,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-15T23:38:22.050894+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_58bae247a193",
+    "source": "Bankless",
+    "title": "ETH Is Lining Up for Trillions",
+    "url": "https://www.bankless.com/read/eth-is-lining-up-for-trillions",
+    "published_at": "Tue, 08 Sep 2026 15:32:48 -0400",
+    "fetched_at": "2026-09-16T04:33:40.358388+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091604",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,468,089,786 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-16T04:33:43.405180+00:00",
     "used": false
   }
 ]
