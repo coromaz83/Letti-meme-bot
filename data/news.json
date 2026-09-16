@@ -1588,7 +1588,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
     "published_at": "Wed, 16 Sep 2026 14:35:43 +0000",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T14:35:43+00:00"
   },
   {
     "id": "rss_0ea30c598819",
@@ -1597,7 +1598,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
     "published_at": "Wed, 16 Sep 2026 11:00:00 +0000",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T11:00:00+00:00"
   },
   {
     "id": "rss_4f7b1de96c73",
@@ -1606,7 +1608,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
     "published_at": "Wed, 16 Sep 2026 09:57:12 +0000",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T09:57:12+00:00"
   },
   {
     "id": "rss_60cb2060e0eb",
@@ -1615,7 +1618,8 @@
     "url": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
     "published_at": "Wed, 16 Sep 2026 13:09:34 GMT",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T13:09:34+00:00"
   },
   {
     "id": "rss_14f35eae67a8",
@@ -1624,7 +1628,8 @@
     "url": "https://thedefiant.io/news/defi/aave-avalanche-rwa-hub-usat-tokenized-collateral",
     "published_at": "Wed, 16 Sep 2026 12:42:22 GMT",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T12:42:22+00:00"
   },
   {
     "id": "rss_642e93c24641",
@@ -1633,7 +1638,8 @@
     "url": "https://thedefiant.io/converge/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
     "published_at": "Wed, 16 Sep 2026 10:30:41 GMT",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T10:30:41+00:00"
   },
   {
     "id": "rss_ccd75ba69d9b",
@@ -1642,7 +1648,8 @@
     "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes/",
     "published_at": "Wed, 16 Sep 2026 11:10:27 +0000",
     "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T11:10:27+00:00"
   },
   {
     "id": "llama_2026091614",
@@ -1651,6 +1658,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T14:46:36.694636+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T14:46:36.694636+00:00"
   }
 ]
