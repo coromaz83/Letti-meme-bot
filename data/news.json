@@ -1527,7 +1527,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-joins-dtcc-s-fund-serv-processing-network",
     "published_at": "Wed, 16 Sep 2026 18:39:19 GMT",
     "fetched_at": "2026-09-16T18:47:50.493651+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T18:39:19+00:00"
   },
   {
     "id": "rss_0d501543967f",
@@ -1536,7 +1537,8 @@
     "url": "https://thedefiant.io/news/regulation/crypto-industry-points-to-sec-and-cftc-after-clarity-setback",
     "published_at": "Wed, 16 Sep 2026 14:39:12 GMT",
     "fetched_at": "2026-09-16T18:47:50.493651+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T14:39:12+00:00"
   },
   {
     "id": "rss_9ab0c27038d7",
@@ -1545,7 +1547,8 @@
     "url": "https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch/",
     "published_at": "Wed, 16 Sep 2026 16:35:31 +0000",
     "fetched_at": "2026-09-16T18:47:50.493651+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T16:35:31+00:00"
   },
   {
     "id": "llama_2026091618",
@@ -1554,7 +1557,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T18:47:57.627456+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T18:47:57.627456+00:00"
   },
   {
     "id": "rss_31a207ce9f13",
@@ -1563,7 +1567,8 @@
     "url": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
     "published_at": "Wed, 16 Sep 2026 19:54:38 GMT",
     "fetched_at": "2026-09-16T22:01:58.182884+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T19:54:38+00:00"
   },
   {
     "id": "rss_eb986da6e3d3",
@@ -1572,7 +1577,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-and-cftc-chairmen-say-they-will-write-crypto-rules-without-clarity-act",
     "published_at": "Wed, 16 Sep 2026 19:05:19 GMT",
     "fetched_at": "2026-09-16T22:01:58.182884+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T19:05:19+00:00"
   },
   {
     "id": "llama_2026091622",
@@ -1581,6 +1587,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T22:02:04.080277+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T22:02:04.080277+00:00"
   }
 ]
