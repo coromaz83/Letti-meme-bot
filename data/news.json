@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_0c7db4768cce",
-    "source": "CoinDesk",
-    "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-    "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-    "published_at": "Wed, 09 Sep 2026 15:51:25 +0000",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T15:51:25+00:00"
-  },
-  {
-    "id": "rss_99e1a8761e9e",
-    "source": "CoinDesk",
-    "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-    "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-    "published_at": "Wed, 09 Sep 2026 15:30:00 +0000",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T15:30:00+00:00"
-  },
-  {
-    "id": "rss_49f0342c5a7e",
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-    "published_at": "Wed, 09 Sep 2026 14:58:07 +0000",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T14:58:07+00:00"
-  },
-  {
-    "id": "rss_a7fd0cd19bf6",
-    "source": "The Defiant",
-    "title": "Arbitrum Watchdog Seeks Permanent Bans For Three Grant Recipients",
-    "url": "https://thedefiant.io/news/defi/arbitrum-watchdog-seeks-permanent-bans-three-grant-recipients",
-    "published_at": "Wed, 09 Sep 2026 16:25:49 GMT",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:25:49+00:00"
-  },
-  {
-    "id": "rss_2e8c468a05ad",
-    "source": "The Defiant",
-    "title": "Hunter Biden's LAPTOP Falls 99% In Three Hours To TRUMP's Valuation",
-    "url": "https://thedefiant.io/news/tokens/hunter-biden-laptop-falls-99-percent-three-hours-trump-valuation",
-    "published_at": "Wed, 09 Sep 2026 15:45:48 GMT",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T15:45:48+00:00"
-  },
-  {
-    "id": "rss_df8637965e96",
-    "source": "The Defiant",
-    "title": "Consensys Software Inc. Splits In Two, Rebrands As MetaMask",
-    "url": "https://thedefiant.io/news/defi/consensys-software-inc-splits-in-two-rebrands-as-metamask",
-    "published_at": "Wed, 09 Sep 2026 15:00:08 GMT",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T15:00:08+00:00"
-  },
-  {
-    "id": "rss_b6f8cf7bc70e",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s institutional staking boom is growing, but Lido’s share is shrinking",
-    "url": "https://cryptoslate.com/ethereums-institutional-staking-boom-is-growing-but-lidos-share-is-shrinking/",
-    "published_at": "Wed, 09 Sep 2026 16:05:54 +0000",
-    "fetched_at": "2026-09-09T16:51:16.552333+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:05:54+00:00"
-  },
-  {
-    "id": "llama_2026090916",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,663,204,373 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-09T16:51:21.197756+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T16:51:21.197756+00:00"
-  },
-  {
     "id": "rss_04cb02fe7931",
     "source": "The Defiant",
     "title": "Report Links $2.08M in LAPTOP Sales to Wintermute-Tagged Wallet",
@@ -1660,5 +1580,50 @@
     "fetched_at": "2026-09-16T14:46:36.694636+00:00",
     "used": false,
     "_sort_date": "2026-09-16T14:46:36.694636+00:00"
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-09-16T18:47:50.493651+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e8efc2b2d629",
+    "source": "The Defiant",
+    "title": "Ondo’s Oasis Pro Markets Joins DTCC’s Fund/SERV Processing Network",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-s-oasis-pro-markets-joins-dtcc-s-fund-serv-processing-network",
+    "published_at": "Wed, 16 Sep 2026 18:39:19 GMT",
+    "fetched_at": "2026-09-16T18:47:50.493651+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0d501543967f",
+    "source": "The Defiant",
+    "title": "Crypto Industry Points to SEC and CFTC After CLARITY Setback",
+    "url": "https://thedefiant.io/news/regulation/crypto-industry-points-to-sec-and-cftc-after-clarity-setback",
+    "published_at": "Wed, 16 Sep 2026 14:39:12 GMT",
+    "fetched_at": "2026-09-16T18:47:50.493651+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9ab0c27038d7",
+    "source": "CryptoSlate",
+    "title": "Solana treasury giant DeFi Development opens $300M CHAD offering backed by a massive 13% dividend catch",
+    "url": "https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch/",
+    "published_at": "Wed, 16 Sep 2026 16:35:31 +0000",
+    "fetched_at": "2026-09-16T18:47:50.493651+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091618",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,493,834,618 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-16T18:47:57.627456+00:00",
+    "used": false
   }
 ]
