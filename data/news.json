@@ -1577,7 +1577,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T04:33:43.405180+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T04:33:43.405180+00:00"
   },
   {
     "id": "rss_cc2d55577fbd",
@@ -1586,7 +1587,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
     "published_at": "Wed, 16 Sep 2026 08:07:59 +0000",
     "fetched_at": "2026-09-16T09:48:50.572257+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T08:07:59+00:00"
   },
   {
     "id": "rss_113fb423fac6",
@@ -1595,7 +1597,8 @@
     "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
     "published_at": "Wed, 16 Sep 2026 09:01:03 +0000",
     "fetched_at": "2026-09-16T09:48:50.572257+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T09:01:03+00:00"
   },
   {
     "id": "llama_2026091609",
@@ -1604,6 +1607,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-16T09:48:54.965943+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-16T09:48:54.965943+00:00"
   }
 ]
