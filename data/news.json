@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_e1fd1d1c4a09",
-    "source": "The Defiant",
-    "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
-    "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-    "published_at": "Thu, 10 Sep 2026 18:38:47 GMT",
-    "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T18:38:47+00:00"
-  },
-  {
-    "id": "rss_0017637ec520",
-    "source": "The Defiant",
-    "title": "Valinor Launches Tokenized BDC Fund On Superstate",
-    "url": "https://thedefiant.io/news/defi/valinor-launches-tokenized-bdc-fund-on-superstate",
-    "published_at": "Thu, 10 Sep 2026 18:23:27 GMT",
-    "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T18:23:27+00:00"
-  },
-  {
-    "id": "rss_de7ef6973281",
-    "source": "The Defiant",
-    "title": "MoneyGram's Stablecoin Visa Card Goes Live In Colombia",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-stablecoin-visa-card-goes-live-in-colombia",
-    "published_at": "Thu, 10 Sep 2026 17:46:09 GMT",
-    "fetched_at": "2026-09-10T18:38:45.281368+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T17:46:09+00:00"
-  },
-  {
-    "id": "llama_2026091018",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,556,417,071 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-10T18:38:49.075424+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T18:38:49.075424+00:00"
-  },
-  {
     "id": "rss_5a19995c4e5a",
     "source": "CoinDesk",
     "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
@@ -1499,5 +1459,41 @@
     "fetched_at": "2026-09-17T16:47:27.419268+00:00",
     "used": false,
     "_sort_date": "2026-09-17T16:47:27.419268+00:00"
+  },
+  {
+    "id": "rss_8544db46e59b",
+    "source": "The Defiant",
+    "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
+    "url": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
+    "published_at": "Thu, 17 Sep 2026 20:09:10 GMT",
+    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94fc04f215d9",
+    "source": "The Defiant",
+    "title": "Solana's Historic Governance Vote — While Robinhood Invades Its Meme Coin Turf",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/solana-s-historic-governance-vote-while-robinhood-invades-its-meme-coin-turf",
+    "published_at": "Thu, 17 Sep 2026 19:32:39 GMT",
+    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_588755381da1",
+    "source": "Decrypt",
+    "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
+    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+    "published_at": "Thu, 17 Sep 2026 19:01:05 +0000",
+    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091720",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,591,657,276 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-17T20:09:12.856497+00:00",
+    "used": false
   }
 ]
