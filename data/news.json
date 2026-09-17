@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_5df8cc33ae51",
-    "source": "CoinDesk",
-    "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-    "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-    "published_at": "Thu, 10 Sep 2026 13:00:00 +0000",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T13:00:00+00:00"
-  },
-  {
-    "id": "rss_3741786da8a5",
-    "source": "The Defiant",
-    "title": "Latitude Raises $35 Million For Local Stablecoin Off-Ramps",
-    "url": "https://thedefiant.io/converge/defi/latitude-35-million-series-a-stablecoin-local-rails",
-    "published_at": "Thu, 10 Sep 2026 14:20:39 GMT",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T14:20:39+00:00"
-  },
-  {
-    "id": "rss_67bddcd98ffd",
-    "source": "The Defiant",
-    "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
-    "url": "https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot",
-    "published_at": "Thu, 10 Sep 2026 14:14:04 GMT",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T14:14:04+00:00"
-  },
-  {
-    "id": "rss_93fea7bc0bec",
-    "source": "The Defiant",
-    "title": "Tether And Fasanara Seed A $400 Million Private Credit Fund",
-    "url": "https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund",
-    "published_at": "Thu, 10 Sep 2026 14:11:50 GMT",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T14:11:50+00:00"
-  },
-  {
-    "id": "rss_8555aca21a89",
-    "source": "The Defiant",
-    "title": "Nasdaq Invests $100 Million in Kraken Parent Payward",
-    "url": "https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward",
-    "published_at": "Thu, 10 Sep 2026 14:08:58 GMT",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T14:08:58+00:00"
-  },
-  {
-    "id": "rss_a9c7ee4f27d4",
-    "source": "Decrypt",
-    "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-    "url": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-    "published_at": "Thu, 10 Sep 2026 13:04:27 +0000",
-    "fetched_at": "2026-09-10T15:06:47.168618+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T13:04:27+00:00"
-  },
-  {
-    "id": "llama_2026091015",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,551,322,998 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-10T15:06:57.378705+00:00",
-    "used": false,
-    "_sort_date": "2026-09-10T15:06:57.378705+00:00"
-  },
-  {
     "id": "rss_e1fd1d1c4a09",
     "source": "The Defiant",
     "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
@@ -1509,5 +1439,59 @@
     "fetched_at": "2026-09-17T11:32:35.484876+00:00",
     "used": false,
     "_sort_date": "2026-09-17T11:32:35.484876+00:00"
+  },
+  {
+    "id": "rss_8ab35bf8e5c9",
+    "source": "CoinDesk",
+    "title": "Crypto for Advisors: Beyond bitcoin and ether",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+    "published_at": "Thu, 17 Sep 2026 14:57:11 +0000",
+    "fetched_at": "2026-09-17T16:47:23.478914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_049021ba44c8",
+    "source": "CoinDesk",
+    "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+    "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+    "published_at": "Thu, 17 Sep 2026 12:37:21 +0000",
+    "fetched_at": "2026-09-17T16:47:23.478914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ecce8d888e28",
+    "source": "CoinDesk",
+    "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+    "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+    "published_at": "Thu, 17 Sep 2026 11:42:22 +0000",
+    "fetched_at": "2026-09-17T16:47:23.478914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fd4d82404284",
+    "source": "The Defiant",
+    "title": "Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents",
+    "url": "https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges",
+    "published_at": "Thu, 17 Sep 2026 16:47:25 GMT",
+    "fetched_at": "2026-09-17T16:47:23.478914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b450b95ceb8b",
+    "source": "The Defiant",
+    "title": "Tenka Announces Pre-Seed Round Led by Maven 11 to Build Market Infrastructure for Asset-Backed Finance",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
+    "published_at": "Thu, 17 Sep 2026 14:00:00 GMT",
+    "fetched_at": "2026-09-17T16:47:23.478914+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091716",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,585,958,571 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-17T16:47:27.419268+00:00",
+    "used": false
   }
 ]
