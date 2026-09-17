@@ -1447,7 +1447,8 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
     "published_at": "Thu, 17 Sep 2026 14:57:11 +0000",
     "fetched_at": "2026-09-17T16:47:23.478914+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T14:57:11+00:00"
   },
   {
     "id": "rss_049021ba44c8",
@@ -1456,7 +1457,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
     "published_at": "Thu, 17 Sep 2026 12:37:21 +0000",
     "fetched_at": "2026-09-17T16:47:23.478914+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T12:37:21+00:00"
   },
   {
     "id": "rss_ecce8d888e28",
@@ -1465,7 +1467,8 @@
     "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
     "published_at": "Thu, 17 Sep 2026 11:42:22 +0000",
     "fetched_at": "2026-09-17T16:47:23.478914+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T11:42:22+00:00"
   },
   {
     "id": "rss_fd4d82404284",
@@ -1474,7 +1477,8 @@
     "url": "https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges",
     "published_at": "Thu, 17 Sep 2026 16:47:25 GMT",
     "fetched_at": "2026-09-17T16:47:23.478914+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T16:47:25+00:00"
   },
   {
     "id": "rss_b450b95ceb8b",
@@ -1483,7 +1487,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
     "published_at": "Thu, 17 Sep 2026 14:00:00 GMT",
     "fetched_at": "2026-09-17T16:47:23.478914+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T14:00:00+00:00"
   },
   {
     "id": "llama_2026091716",
@@ -1492,6 +1497,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-17T16:47:27.419268+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T16:47:27.419268+00:00"
   }
 ]
