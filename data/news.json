@@ -1407,7 +1407,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
     "published_at": "Thu, 17 Sep 2026 20:09:10 GMT",
     "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T20:09:10+00:00"
   },
   {
     "id": "rss_94fc04f215d9",
@@ -1416,7 +1417,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/podcast/solana-s-historic-governance-vote-while-robinhood-invades-its-meme-coin-turf",
     "published_at": "Thu, 17 Sep 2026 19:32:39 GMT",
     "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T19:32:39+00:00"
   },
   {
     "id": "rss_588755381da1",
@@ -1425,7 +1427,8 @@
     "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
     "published_at": "Thu, 17 Sep 2026 19:01:05 +0000",
     "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T19:01:05+00:00"
   },
   {
     "id": "llama_2026091720",
@@ -1434,7 +1437,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-17T20:09:12.856497+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T20:09:12.856497+00:00"
   },
   {
     "id": "rss_e1fd1d1c4a09",
@@ -1443,7 +1447,8 @@
     "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
     "published_at": "Thu, 17 Sep 2026 23:00:49 GMT",
     "fetched_at": "2026-09-17T23:00:46.606044+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T23:00:49+00:00"
   },
   {
     "id": "llama_2026091723",
@@ -1452,6 +1457,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-17T23:00:51.536195+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-17T23:00:51.536195+00:00"
   }
 ]
