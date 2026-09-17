@@ -1,63 +1,5 @@
 [
   {
-    "id": "rss_530c03f5e8ce",
-    "source": "The Defiant",
-    "title": "Pump.fun Lets Creators Launch Coins Priced In Tokenized Stocks",
-    "url": "https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks",
-    "published_at": "Wed, 09 Sep 2026 21:15:45 GMT",
-    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T21:15:45+00:00"
-  },
-  {
-    "id": "rss_9deca8cd24aa",
-    "source": "The Defiant",
-    "title": "Zora Co-Founder Dee Goens Replaces Jacob Horne as CEO",
-    "url": "https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo",
-    "published_at": "Wed, 09 Sep 2026 20:38:02 GMT",
-    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T20:38:02+00:00"
-  },
-  {
-    "id": "rss_59c957bff039",
-    "source": "The Defiant",
-    "title": "Tenev Says Robinhood Stock Tokens Should Not Automatically Require Issuer Consent",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent",
-    "published_at": "Wed, 09 Sep 2026 20:36:11 GMT",
-    "fetched_at": "2026-09-09T22:25:56.036657+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T20:36:11+00:00"
-  },
-  {
-    "id": "llama_2026090922",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,625,645,412 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-09T22:26:01.231935+00:00",
-    "used": false,
-    "_sort_date": "2026-09-09T22:26:01.231935+00:00"
-  },
-  {
-    "id": "rss_235740a95c84",
-    "source": "The Defiant",
-    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-    "published_at": "Thu, 10 Sep 2026 00:30:28 GMT",
-    "fetched_at": "2026-09-10T00:30:25.921267+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091000",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,633,663,305 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-10T00:30:29.556929+00:00",
-    "used": false
-  },
-  {
     "id": "rss_1ef82d464b49",
     "source": "CoinDesk",
     "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
@@ -1589,5 +1531,23 @@
     "fetched_at": "2026-09-16T22:02:04.080277+00:00",
     "used": false,
     "_sort_date": "2026-09-16T22:02:04.080277+00:00"
+  },
+  {
+    "id": "rss_bd307731510f",
+    "source": "The Defiant",
+    "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
+    "url": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
+    "published_at": "Wed, 16 Sep 2026 22:33:10 GMT",
+    "fetched_at": "2026-09-17T00:49:52.175632+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091700",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,494,459,574 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-17T00:49:56.076635+00:00",
+    "used": false
   }
 ]
