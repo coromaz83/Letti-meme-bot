@@ -1504,7 +1504,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
     "published_at": "Fri, 18 Sep 2026 16:36:08 GMT",
     "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T16:36:08+00:00"
   },
   {
     "id": "rss_f37c63de8045",
@@ -1513,7 +1514,8 @@
     "url": "https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base",
     "published_at": "Fri, 18 Sep 2026 14:24:02 GMT",
     "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T14:24:02+00:00"
   },
   {
     "id": "rss_ba76c5cad57c",
@@ -1522,7 +1524,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves",
     "published_at": "Fri, 18 Sep 2026 13:38:51 GMT",
     "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T13:38:51+00:00"
   },
   {
     "id": "llama_2026091816",
@@ -1531,6 +1534,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-18T16:39:57.526415+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T16:39:57.526415+00:00"
   }
 ]
