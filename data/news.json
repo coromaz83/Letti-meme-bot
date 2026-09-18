@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_42dfa31ea2e9",
-    "source": "CryptoSlate",
-    "title": "BitMine’s staked ETH equals nearly 12% of Ethereum’s active stake, but who controls it?",
-    "url": "https://cryptoslate.com/bitmines-staked-eth-equals-nearly-12-of-ethereums-active-stake-but-who-controls-it/",
-    "published_at": "Fri, 11 Sep 2026 12:40:50 +0000",
-    "fetched_at": "2026-09-11T13:44:31.089729+00:00",
-    "used": false,
-    "_sort_date": "2026-09-11T12:40:50+00:00"
-  },
-  {
-    "id": "llama_2026091113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,534,986,460 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-11T13:44:35.347644+00:00",
-    "used": false,
-    "_sort_date": "2026-09-11T13:44:35.347644+00:00"
-  },
-  {
     "id": "rss_865568549b20",
     "source": "Cointelegraph Base",
     "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -1516,5 +1496,41 @@
     "fetched_at": "2026-09-18T12:11:33.706367+00:00",
     "used": false,
     "_sort_date": "2026-09-18T12:11:33.706367+00:00"
+  },
+  {
+    "id": "rss_cd27fe9dd540",
+    "source": "The Defiant",
+    "title": "Bitcoin Runs to $81,000 and NEAR Adds 32% as Tokenization Tokens Lead",
+    "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
+    "published_at": "Fri, 18 Sep 2026 16:36:08 GMT",
+    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f37c63de8045",
+    "source": "The Defiant",
+    "title": "Morpho Opens Borrowing Against Coinbase's Tokenized Stocks",
+    "url": "https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base",
+    "published_at": "Fri, 18 Sep 2026 14:24:02 GMT",
+    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ba76c5cad57c",
+    "source": "The Defiant",
+    "title": "WisdomTree Opens Tokenized Treasury Fund To MoonPay's 35 Million Accounts",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves",
+    "published_at": "Fri, 18 Sep 2026 13:38:51 GMT",
+    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091816",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,847,977,147 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-18T16:39:57.526415+00:00",
+    "used": false
   }
 ]
