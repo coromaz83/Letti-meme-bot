@@ -1455,7 +1455,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-18T01:24:36.706148+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T01:24:36.706148+00:00"
   },
   {
     "id": "rss_12f025f9b2d3",
@@ -1464,7 +1465,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
     "published_at": "Fri, 18 Sep 2026 05:23:29 +0000",
     "fetched_at": "2026-09-18T06:30:27.565769+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T05:23:29+00:00"
   },
   {
     "id": "rss_30587672aa71",
@@ -1473,7 +1475,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
     "published_at": "Fri, 18 Sep 2026 04:49:17 +0000",
     "fetched_at": "2026-09-18T06:30:27.565769+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T04:49:17+00:00"
   },
   {
     "id": "rss_5879b51d80ed",
@@ -1491,7 +1494,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-18T06:30:32.713716+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T06:30:32.713716+00:00"
   },
   {
     "id": "rss_e19d4262ea59",
@@ -1500,7 +1504,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
     "published_at": "Fri, 18 Sep 2026 10:33:05 +0000",
     "fetched_at": "2026-09-18T12:11:29.698488+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T10:33:05+00:00"
   },
   {
     "id": "llama_2026091812",
@@ -1509,6 +1514,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-18T12:11:33.706367+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-18T12:11:33.706367+00:00"
   }
 ]
