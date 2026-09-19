@@ -1465,7 +1465,8 @@
     "url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
     "published_at": "Sat, 19 Sep 2026 04:30:33 +0000",
     "fetched_at": "2026-09-19T04:55:57.932947+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T04:30:33+00:00"
   },
   {
     "id": "llama_2026091904",
@@ -1474,7 +1475,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-19T04:56:04.061449+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T04:56:04.061449+00:00"
   },
   {
     "id": "llama_2026091909",
@@ -1483,6 +1485,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-19T09:22:45.468558+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T09:22:45.468558+00:00"
   }
 ]
