@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026091201",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,573,566,997 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-12T01:26:42.132868+00:00",
-    "used": false,
-    "_sort_date": "2026-09-12T01:26:42.132868+00:00"
-  },
-  {
     "id": "llama_2026091206",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,587,562,808 🟢 +0.00% (24h)",
@@ -1476,6 +1466,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-19T00:06:52.112026+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2d211cc5f04f",
+    "source": "CryptoSlate",
+    "title": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
+    "url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
+    "published_at": "Sat, 19 Sep 2026 04:30:33 +0000",
+    "fetched_at": "2026-09-19T04:55:57.932947+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026091904",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,895,318,633 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-19T04:56:04.061449+00:00",
     "used": false
   }
 ]
