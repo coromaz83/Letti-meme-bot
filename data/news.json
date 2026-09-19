@@ -1465,7 +1465,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-19T19:16:21.623539+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T19:16:21.623539+00:00"
   },
   {
     "id": "rss_f650da84193c",
@@ -1474,7 +1475,8 @@
     "url": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
     "published_at": "Sat, 19 Sep 2026 21:02:29 +0000",
     "fetched_at": "2026-09-19T21:40:11.699443+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T21:02:29+00:00"
   },
   {
     "id": "llama_2026091921",
@@ -1483,6 +1485,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-19T21:40:16.215963+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-19T21:40:16.215963+00:00"
   }
 ]
