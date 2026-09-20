@@ -1466,7 +1466,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-20T05:17:55.399708+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-20T05:17:55.399708+00:00"
   },
   {
     "id": "rss_59350c097c02",
@@ -1484,6 +1485,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-20T10:01:58.558091+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-20T10:01:58.558091+00:00"
   }
 ]
