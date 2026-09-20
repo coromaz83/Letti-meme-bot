@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026091310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,578,798,166 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-13T10:32:51.170517+00:00",
-    "used": false,
-    "_sort_date": "2026-09-13T10:32:51.170517+00:00"
-  },
-  {
     "id": "rss_bb49e62ba74c",
     "source": "CryptoSlate",
     "title": "Why 90% of your DeFi trades are quietly being routed back to Wall Street market makers",
@@ -1487,5 +1477,23 @@
     "fetched_at": "2026-09-20T10:01:58.558091+00:00",
     "used": false,
     "_sort_date": "2026-09-20T10:01:58.558091+00:00"
+  },
+  {
+    "id": "rss_f89a05447405",
+    "source": "CoinDesk",
+    "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+    "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+    "published_at": "Sun, 20 Sep 2026 12:00:00 +0000",
+    "fetched_at": "2026-09-20T14:19:34.643381+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092014",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,846,746,324 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-20T14:19:38.844666+00:00",
+    "used": false
   }
 ]
