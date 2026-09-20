@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026091318",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,578,312,509 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-13T18:03:17.931785+00:00",
-    "used": false,
-    "_sort_date": "2026-09-13T18:03:17.931785+00:00"
-  },
-  {
     "id": "rss_e3fce2c954f9",
     "source": "CoinDesk",
     "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
@@ -1487,5 +1477,14 @@
     "fetched_at": "2026-09-20T17:37:26.806370+00:00",
     "used": false,
     "_sort_date": "2026-09-20T17:37:26.806370+00:00"
+  },
+  {
+    "id": "llama_2026092020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,917,004,904 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-20T20:40:34.840745+00:00",
+    "used": false
   }
 ]
