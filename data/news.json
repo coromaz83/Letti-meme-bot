@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_bb49e62ba74c",
-    "source": "CryptoSlate",
-    "title": "Why 90% of your DeFi trades are quietly being routed back to Wall Street market makers",
-    "url": "https://cryptoslate.com/why-90-of-your-defi-trades-are-quietly-being-routed-back-to-wall-street-market-makers/",
-    "published_at": "Sun, 13 Sep 2026 13:45:40 +0000",
-    "fetched_at": "2026-09-13T14:53:22.659953+00:00",
-    "used": false,
-    "_sort_date": "2026-09-13T13:45:40+00:00"
-  },
-  {
-    "id": "llama_2026091314",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,543,761,842 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-13T14:53:25.893426+00:00",
-    "used": false,
-    "_sort_date": "2026-09-13T14:53:25.893426+00:00"
-  },
-  {
     "id": "llama_2026091318",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,578,312,509 🟢 +0.00% (24h)",
@@ -1494,6 +1474,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-20T14:19:38.844666+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092017",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,888,775,965 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-20T17:37:26.806370+00:00",
     "used": false
   }
 ]
