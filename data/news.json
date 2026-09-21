@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026091407",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,610,894,825 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-14T07:49:24.912875+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T07:49:24.912875+00:00"
-  },
-  {
     "id": "rss_bdbd74155395",
     "source": "CoinDesk",
     "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
@@ -1455,6 +1445,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-21T07:04:00.703521+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d4460c0c24f8",
+    "source": "CoinDesk",
+    "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+    "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
+    "published_at": "Mon, 21 Sep 2026 13:11:15 +0000",
+    "fetched_at": "2026-09-21T14:28:58.039815+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092114",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,133,837,307 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-21T14:29:03.364487+00:00",
     "used": false
   }
 ]
