@@ -1445,7 +1445,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-21T07:04:00.703521+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-21T07:04:00.703521+00:00"
   },
   {
     "id": "rss_d4460c0c24f8",
@@ -1454,7 +1455,8 @@
     "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
     "published_at": "Mon, 21 Sep 2026 13:11:15 +0000",
     "fetched_at": "2026-09-21T14:28:58.039815+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-21T13:11:15+00:00"
   },
   {
     "id": "llama_2026092114",
@@ -1463,6 +1465,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-21T14:29:03.364487+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-21T14:29:03.364487+00:00"
   }
 ]
