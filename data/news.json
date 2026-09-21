@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_bdbd74155395",
-    "source": "CoinDesk",
-    "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-    "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-    "published_at": "Mon, 14 Sep 2026 14:27:48 +0000",
-    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T14:27:48+00:00"
-  },
-  {
-    "id": "rss_7f79bc7d3458",
-    "source": "CoinDesk",
-    "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-    "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-    "published_at": "Mon, 14 Sep 2026 12:58:42 +0000",
-    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T12:58:42+00:00"
-  },
-  {
-    "id": "rss_bc5d32d05aa7",
-    "source": "CoinDesk",
-    "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-    "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
-    "published_at": "Mon, 14 Sep 2026 12:07:19 +0000",
-    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T12:07:19+00:00"
-  },
-  {
-    "id": "rss_55807e28d2ba",
-    "source": "CryptoSlate",
-    "title": "BlackRock’s staking Ethereum ETF pays yield but investors still prefer its $9 billion ETHA fund",
-    "url": "https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund/",
-    "published_at": "Mon, 14 Sep 2026 14:50:53 +0000",
-    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T14:50:53+00:00"
-  },
-  {
-    "id": "rss_908cfc82365c",
-    "source": "Decrypt",
-    "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
-    "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
-    "published_at": "Mon, 14 Sep 2026 14:37:21 +0000",
-    "fetched_at": "2026-09-14T14:57:24.771346+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T14:37:21+00:00"
-  },
-  {
-    "id": "llama_2026091414",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,627,256,425 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-14T14:57:28.811127+00:00",
-    "used": false,
-    "_sort_date": "2026-09-14T14:57:28.811127+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -1467,5 +1407,104 @@
     "fetched_at": "2026-09-21T14:29:03.364487+00:00",
     "used": false,
     "_sort_date": "2026-09-21T14:29:03.364487+00:00"
+  },
+  {
+    "id": "rss_16a9f60fccf2",
+    "source": "The Defiant",
+    "title": "One Size Dominates Kalshi's ETH Perp Volume",
+    "url": "https://thedefiant.io/news/cefi/one-size-dominates-kalshi-eth-perp-volume",
+    "published_at": "Mon, 21 Sep 2026 19:00:00 GMT",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5c8ac9033a24",
+    "source": "The Defiant",
+    "title": "Fairshake Plans $30 Million Ad Blitz Against Sherrod Brown in Ohio",
+    "url": "https://thedefiant.io/news/regulation/fairshake-plans-30-million-ad-blitz-against-sherrod-brown-in-ohio",
+    "published_at": "Mon, 21 Sep 2026 18:30:07 GMT",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8a6fa6fe724b",
+    "source": "The Defiant",
+    "title": "World Liberty Opens WLFI Vote on 180-Day Governance Rewards",
+    "url": "https://thedefiant.io/news/defi/world-liberty-opens-wlfi-vote-on-180-day-governance-rewards",
+    "published_at": "Mon, 21 Sep 2026 18:26:13 GMT",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cbf01b195406",
+    "source": "The Defiant",
+    "title": "Bitcoin Reaches Its Highest Level Since January as Crude Sinks 8%",
+    "url": "https://thedefiant.io/news/markets/bitcoin-highest-since-january-crude-sinks-sep-21-2026",
+    "published_at": "Mon, 21 Sep 2026 15:40:09 GMT",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8a6ca22923e6",
+    "source": "CryptoSlate",
+    "title": "Will proposed faster block times really fix Ethereum’s biggest market losses?",
+    "url": "https://cryptoslate.com/why-faster-block-times-wont-fix-ethereums-biggest-market-losses/",
+    "published_at": "Mon, 21 Sep 2026 16:40:40 +0000",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_44078a4f0f03",
+    "source": "CryptoSlate",
+    "title": "Why truly decentralized DeFi needs no legal exemption according to SEC Commissioner Hester Peirce",
+    "url": "https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce/",
+    "published_at": "Mon, 21 Sep 2026 14:35:31 +0000",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_464984e3725c",
+    "source": "Decrypt",
+    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+    "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+    "published_at": "Mon, 21 Sep 2026 19:26:49 +0000",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ccbd73ce41c",
+    "source": "Decrypt",
+    "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+    "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
+    "published_at": "Mon, 21 Sep 2026 15:00:49 +0000",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c7bdc0c90d3d",
+    "source": "Bankless",
+    "title": "🏴 Robinhood's Onchain Endgame",
+    "url": "https://www.bankless.com/read/robinhood-s-onchain-endgame",
+    "published_at": "Mon, 21 Sep 2026 15:13:51 -0400",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_71652a34bd58",
+    "source": "Bankless",
+    "title": "Inside Robinhood's Onchain Endgame",
+    "url": "https://www.bankless.com/read/inside-robinhood-s-onchain-endgame",
+    "published_at": "Mon, 21 Sep 2026 14:10:21 -0400",
+    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092119",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,200,190,431 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-21T19:42:44.185908+00:00",
+    "used": false
   }
 ]
