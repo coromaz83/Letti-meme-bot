@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_3014ea823801",
-    "source": "CryptoSlate",
-    "title": "Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case",
-    "url": "https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case/",
-    "published_at": "Tue, 15 Sep 2026 23:00:36 +0000",
-    "fetched_at": "2026-09-15T23:38:19.339270+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3ed231016a7f",
-    "source": "Decrypt",
-    "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-    "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-    "published_at": "Tue, 15 Sep 2026 21:10:06 +0000",
-    "fetched_at": "2026-09-15T23:38:19.339270+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,487,025,643 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-15T23:38:22.050894+00:00",
-    "used": false
-  },
-  {
     "id": "rss_58bae247a193",
     "source": "Bankless",
     "title": "ETH Is Lining Up for Trillions",
@@ -1399,5 +1372,14 @@
     "fetched_at": "2026-09-22T21:10:55.703331+00:00",
     "used": false,
     "_sort_date": "2026-09-22T21:10:55.703331+00:00"
+  },
+  {
+    "id": "llama_2026092223",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,256,172,049 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-22T23:45:25.332599+00:00",
+    "used": false
   }
 ]
