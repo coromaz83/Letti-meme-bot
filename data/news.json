@@ -1313,7 +1313,8 @@
     "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
     "fetched_at": "2026-09-22T07:37:19.584174+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T04:03:00+00:00"
   },
   {
     "id": "llama_2026092207",
@@ -1322,7 +1323,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-22T07:37:24.443684+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T07:37:24.443684+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -1376,7 +1378,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
     "published_at": "Tue, 22 Sep 2026 12:32:15 +0000",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T12:32:15+00:00"
   },
   {
     "id": "rss_b34e844156f6",
@@ -1385,7 +1388,8 @@
     "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
     "published_at": "Tue, 22 Sep 2026 12:05:55 +0000",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T12:05:55+00:00"
   },
   {
     "id": "rss_985e8217085e",
@@ -1394,7 +1398,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/kamui-finance-rwa-vaults-live-onchain",
     "published_at": "Tue, 22 Sep 2026 13:00:00 GMT",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T13:00:00+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -1403,7 +1408,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T13:19:57.739506+00:00"
   },
   {
     "id": "rss_caaba242a222",
@@ -1412,7 +1418,8 @@
     "url": "https://cryptoslate.com/coinbase-pushes-beyond-crypto-with-retail-access-to-2-2-billion-oura-ipo/",
     "published_at": "Tue, 22 Sep 2026 11:30:08 +0000",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T11:30:08+00:00"
   },
   {
     "id": "rss_02d2032a56d4",
@@ -1421,7 +1428,8 @@
     "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
     "published_at": "Tue, 22 Sep 2026 09:47:47 +0000",
     "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T09:47:47+00:00"
   },
   {
     "id": "llama_2026092213",
@@ -1430,6 +1438,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-22T13:20:02.385728+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T13:20:02.385728+00:00"
   }
 ]
