@@ -1,144 +1,5 @@
 [
   {
-    "id": "rss_df1e8ba47c60",
-    "source": "CoinDesk",
-    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-    "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-    "published_at": "Tue, 15 Sep 2026 13:43:50 +0000",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T13:43:50+00:00"
-  },
-  {
-    "id": "rss_9239d452001d",
-    "source": "The Defiant",
-    "title": "MEV Bot Front-Runs $7.8 Million rsETH Exploit on Ethereum",
-    "url": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
-    "published_at": "Tue, 15 Sep 2026 16:03:00 GMT",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T16:03:00+00:00"
-  },
-  {
-    "id": "rss_3c5c4a64cf72",
-    "source": "The Defiant",
-    "title": "Kamino Names Michael Weisz CEO for US and Institutional Expansion",
-    "url": "https://thedefiant.io/news/people/kamino-names-michael-weisz-ceo-for-us-and-institutional-expansion",
-    "published_at": "Tue, 15 Sep 2026 15:59:53 GMT",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T15:59:53+00:00"
-  },
-  {
-    "id": "rss_d68409d78694",
-    "source": "The Defiant",
-    "title": "Bitcoin Falls Below $76,000 as Traders Cut CLARITY Act Odds Hours Before Senate Vote",
-    "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-76000-clarity-act-odds-senate-vote-sep-15-2026",
-    "published_at": "Tue, 15 Sep 2026 15:58:40 GMT",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T15:58:40+00:00"
-  },
-  {
-    "id": "rss_a9c544a1812a",
-    "source": "The Defiant",
-    "title": "CoinEx to Close Exchange on Ninth Anniversary",
-    "url": "https://thedefiant.io/news/cefi/coinex-to-close-exchange-on-ninth-anniversary",
-    "published_at": "Tue, 15 Sep 2026 15:55:59 GMT",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T15:55:59+00:00"
-  },
-  {
-    "id": "rss_900d2d7941d9",
-    "source": "The Defiant",
-    "title": "Will crypto get clarity? Senate votes today",
-    "url": "https://thedefiant.io/podcasts-and-videos/podcast/will-crypto-get-clarity-senate-votes-today",
-    "published_at": "Tue, 15 Sep 2026 13:00:00 GMT",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T13:00:00+00:00"
-  },
-  {
-    "id": "rss_9b3e34d143d5",
-    "source": "CryptoSlate",
-    "title": "DeFi governance gap allows one wallet to request 98% of Ampleforth treasury’s USDC balance",
-    "url": "https://cryptoslate.com/defi-governance-gap-allows-one-wallet-to-request-98-of-ampleforth-treasurys-usdc-balance/",
-    "published_at": "Tue, 15 Sep 2026 16:30:02 +0000",
-    "fetched_at": "2026-09-15T17:44:23.572743+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T16:30:02+00:00"
-  },
-  {
-    "id": "llama_2026091517",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,528,441,238 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-15T17:44:27.724635+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T17:44:27.724635+00:00"
-  },
-  {
-    "id": "rss_61b7367d3994",
-    "source": "The Defiant",
-    "title": "Senate Blocks CLARITY Act 49-50 With No Democratic Votes to Proceed",
-    "url": "https://thedefiant.io/news/regulation/senate-blocks-clarity-act-49-50-with-no-democratic-votes-to-proceed",
-    "published_at": "Tue, 15 Sep 2026 19:56:20 GMT",
-    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T19:56:20+00:00"
-  },
-  {
-    "id": "rss_8ddd01aa534c",
-    "source": "The Defiant",
-    "title": "0x Says Uniswap v4 Hooks Were A Mistake, Hayden Adams Says \"Skill Issue\"",
-    "url": "https://thedefiant.io/news/defi/0x-says-uniswap-v4-hooks-were-a-mistake-hayden-adams-says-skill-issue",
-    "published_at": "Tue, 15 Sep 2026 18:56:26 GMT",
-    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T18:56:26+00:00"
-  },
-  {
-    "id": "rss_3e8477c015c8",
-    "source": "CryptoSlate",
-    "title": "Trump ethics fight sinks CLARITY Act in dramatic Senate defeat",
-    "url": "https://cryptoslate.com/trump-ethics-fight-sinks-clarity-act-in-dramatic-senate-defeat/",
-    "published_at": "Tue, 15 Sep 2026 19:20:33 +0000",
-    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T19:20:33+00:00"
-  },
-  {
-    "id": "rss_256024455b58",
-    "source": "CryptoSlate",
-    "title": "Did crypto’s $20 Billion DeFi surge just get stolen by price inflation?",
-    "url": "https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation/",
-    "published_at": "Tue, 15 Sep 2026 18:15:37 +0000",
-    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T18:15:37+00:00"
-  },
-  {
-    "id": "rss_0b2f483250b6",
-    "source": "Bankless",
-    "title": "Visa Taps Onchain Credit for Stablecoin Card Settlement",
-    "url": "https://www.bankless.com/read/news/visa-taps-onchain-credit-for-stablecoin-card-settlement",
-    "published_at": "Tue, 08 Sep 2026 10:59:00 -0400",
-    "fetched_at": "2026-09-15T21:10:21.926849+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091521",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,499,826,212 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-15T21:10:26.828140+00:00",
-    "used": false,
-    "_sort_date": "2026-09-15T21:10:26.828140+00:00"
-  },
-  {
     "id": "rss_3014ea823801",
     "source": "CryptoSlate",
     "title": "Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case",
@@ -1441,5 +1302,95 @@
     "fetched_at": "2026-09-22T17:43:52.902184+00:00",
     "used": false,
     "_sort_date": "2026-09-22T17:43:52.902184+00:00"
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1a6987090805",
+    "source": "The Defiant",
+    "title": "Bitcoin Cash Runs 27% on CME Futures Listing as Bitcoin Gives Up the Day",
+    "url": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
+    "published_at": "Tue, 22 Sep 2026 20:42:46 GMT",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1f0fbc60313",
+    "source": "The Defiant",
+    "title": "a16z And DeFi Education Fund Ask SEC To Put DEXs Outside Exchange Registration",
+    "url": "https://thedefiant.io/news/regulation/a16z-defi-education-fund-sec-dex-exchange-registration-safe-harbor",
+    "published_at": "Tue, 22 Sep 2026 20:15:06 GMT",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dfeef8eda248",
+    "source": "Decrypt",
+    "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+    "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+    "published_at": "Tue, 22 Sep 2026 20:46:03 +0000",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_714a1ffb5d71",
+    "source": "Decrypt",
+    "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
+    "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
+    "published_at": "Tue, 22 Sep 2026 20:01:03 +0000",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dec5715006b1",
+    "source": "Bankless",
+    "title": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
+    "url": "https://www.bankless.com/read/news/coinbase-rolls-out-fixed-rate-bitcoin-loans-via-morpho-midnight",
+    "published_at": "Tue, 22 Sep 2026 14:36:14 -0400",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d69dd8042c9b",
+    "source": "Bankless",
+    "title": "Prediction Market Trueo Is Leaping from Base to Ethereum",
+    "url": "https://www.bankless.com/read/news/prediction-market-trueo-is-leaping-from-base-to-ethereum",
+    "published_at": "Tue, 22 Sep 2026 14:03:29 -0400",
+    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092221",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,266,838,833 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-22T21:10:55.703331+00:00",
+    "used": false
   }
 ]
