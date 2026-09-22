@@ -1323,5 +1323,113 @@
     "published_at": "",
     "fetched_at": "2026-09-22T07:37:24.443684+00:00",
     "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3a86da63fcf",
+    "source": "Cointelegraph Base",
+    "title": "Travala lets AI agents book hotels with USDC on Base",
+    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb1f3e4f40b0",
+    "source": "Cointelegraph Base",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd2b56f1e18b",
+    "source": "Cointelegraph Base",
+    "title": "Base launches new tool to connect crypto wallets to AI agents",
+    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4bc8efdb1eee",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+    "published_at": "Tue, 22 Sep 2026 12:32:15 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b34e844156f6",
+    "source": "CoinDesk",
+    "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+    "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+    "published_at": "Tue, 22 Sep 2026 12:05:55 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_985e8217085e",
+    "source": "The Defiant",
+    "title": "Kamui Finance Brings Three Institutional Real-World Asset Vaults Live Onchain, Integrated With DigiFT, Centrifuge, Midas and Ondo",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/kamui-finance-rwa-vaults-live-onchain",
+    "published_at": "Tue, 22 Sep 2026 13:00:00 GMT",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_caaba242a222",
+    "source": "CryptoSlate",
+    "title": "Coinbase pushes beyond crypto with retail access to $2.2 billion Oura IPO",
+    "url": "https://cryptoslate.com/coinbase-pushes-beyond-crypto-with-retail-access-to-2-2-billion-oura-ipo/",
+    "published_at": "Tue, 22 Sep 2026 11:30:08 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_02d2032a56d4",
+    "source": "Decrypt",
+    "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
+    "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
+    "published_at": "Tue, 22 Sep 2026 09:47:47 +0000",
+    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092213",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,222,099,584 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-22T13:20:02.385728+00:00",
+    "used": false
   }
 ]
