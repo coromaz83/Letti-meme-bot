@@ -1359,7 +1359,8 @@
     "url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
     "published_at": "Tue, 22 Sep 2026 17:27:08 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T17:27:08+00:00"
   },
   {
     "id": "rss_d4629bca4666",
@@ -1368,7 +1369,8 @@
     "url": "https://thedefiant.io/news/cefi/kalshi-denies-faking-its-crypto-volume",
     "published_at": "Tue, 22 Sep 2026 17:00:00 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T17:00:00+00:00"
   },
   {
     "id": "rss_ad79acd664bd",
@@ -1377,7 +1379,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/near-com-adds-ondo-tokenized-stocks-confidential-execution",
     "published_at": "Tue, 22 Sep 2026 16:25:46 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T16:25:46+00:00"
   },
   {
     "id": "rss_058788ded6a9",
@@ -1386,7 +1389,8 @@
     "url": "https://thedefiant.io/news/defi/kinetiq-opens-elysium-testnet-for-hyperliquid-focused-defi-apps",
     "published_at": "Tue, 22 Sep 2026 15:32:05 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T15:32:05+00:00"
   },
   {
     "id": "rss_0a16fbaa8032",
@@ -1395,7 +1399,8 @@
     "url": "https://thedefiant.io/news/markets/cme-group-to-list-bitcoin-cash-and-uniswap-futures-oct-19",
     "published_at": "Tue, 22 Sep 2026 15:23:56 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T15:23:56+00:00"
   },
   {
     "id": "rss_a4c956cafd31",
@@ -1404,7 +1409,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-100-million-circle-stake-five-year-usdc-deal",
     "published_at": "Tue, 22 Sep 2026 15:04:23 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T15:04:23+00:00"
   },
   {
     "id": "rss_861f4659be45",
@@ -1413,7 +1419,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-owned-bvnk-adds-stellar-rail-for-stablecoin-payments",
     "published_at": "Tue, 22 Sep 2026 14:10:30 GMT",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T14:10:30+00:00"
   },
   {
     "id": "rss_ca64d01a9bdb",
@@ -1422,7 +1429,8 @@
     "url": "https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/",
     "published_at": "Tue, 22 Sep 2026 14:50:59 +0000",
     "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T14:50:59+00:00"
   },
   {
     "id": "llama_2026092217",
@@ -1431,6 +1439,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-22T17:43:52.902184+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-22T17:43:52.902184+00:00"
   }
 ]
