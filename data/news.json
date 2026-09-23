@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_31a207ce9f13",
-    "source": "The Defiant",
-    "title": "The Next Bull Run Could Be One Big Airdrop Away",
-    "url": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
-    "published_at": "Wed, 16 Sep 2026 19:54:38 GMT",
-    "fetched_at": "2026-09-16T22:01:58.182884+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T19:54:38+00:00"
-  },
-  {
-    "id": "rss_eb986da6e3d3",
-    "source": "The Defiant",
-    "title": "SEC and CFTC Chairmen Say They Will Write Crypto Rules Without CLARITY Act",
-    "url": "https://thedefiant.io/news/regulation/sec-and-cftc-chairmen-say-they-will-write-crypto-rules-without-clarity-act",
-    "published_at": "Wed, 16 Sep 2026 19:05:19 GMT",
-    "fetched_at": "2026-09-16T22:01:58.182884+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T19:05:19+00:00"
-  },
-  {
-    "id": "llama_2026091622",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,523,924,018 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-16T22:02:04.080277+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T22:02:04.080277+00:00"
-  },
-  {
     "id": "rss_bd307731510f",
     "source": "The Defiant",
     "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
@@ -1349,6 +1319,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-23T18:57:30.672815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6c8aa35c14b6",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower",
+    "url": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
+    "published_at": "Wed, 23 Sep 2026 21:20:51 GMT",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9995d6c6710e",
+    "source": "The Defiant",
+    "title": "Zcash Clears $1,600 After 21Shares Launches European ETP",
+    "url": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
+    "published_at": "Wed, 23 Sep 2026 19:55:11 GMT",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d73fbd92d7f9",
+    "source": "The Defiant",
+    "title": "Cosmos Hub Restarts; 1.23 Million ATOM Moved From Neutron Attacker Wallet",
+    "url": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
+    "published_at": "Wed, 23 Sep 2026 19:54:30 GMT",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8d4cdd2fe8bf",
+    "source": "The Defiant",
+    "title": "KB Securities, Securitize and Optimism Sign Exploratory Korea Tokenization MOU",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou",
+    "published_at": "Wed, 23 Sep 2026 19:10:14 GMT",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2b3ec8f1ea46",
+    "source": "The Defiant",
+    "title": "MoonPay Agrees to Buy North Capital, Adding Securities Infrastructure",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure",
+    "published_at": "Wed, 23 Sep 2026 19:06:18 GMT",
+    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092322",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,150,587,735 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-23T22:12:13.467179+00:00",
     "used": false
   }
 ]
