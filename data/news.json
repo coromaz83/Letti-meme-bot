@@ -1,54 +1,5 @@
 [
   {
-    "id": "rss_58bae247a193",
-    "source": "Bankless",
-    "title": "ETH Is Lining Up for Trillions",
-    "url": "https://www.bankless.com/read/eth-is-lining-up-for-trillions",
-    "published_at": "Tue, 08 Sep 2026 15:32:48 -0400",
-    "fetched_at": "2026-09-16T04:33:40.358388+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091604",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,468,089,786 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-16T04:33:43.405180+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T04:33:43.405180+00:00"
-  },
-  {
-    "id": "rss_cc2d55577fbd",
-    "source": "CoinDesk",
-    "title": "Ethereum, Base give up on common wallet standard after months of talks",
-    "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-    "published_at": "Wed, 16 Sep 2026 08:07:59 +0000",
-    "fetched_at": "2026-09-16T09:48:50.572257+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T08:07:59+00:00"
-  },
-  {
-    "id": "rss_113fb423fac6",
-    "source": "Decrypt",
-    "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-    "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-    "published_at": "Wed, 16 Sep 2026 09:01:03 +0000",
-    "fetched_at": "2026-09-16T09:48:50.572257+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T09:01:03+00:00"
-  },
-  {
-    "id": "llama_2026091609",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,490,692,900 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-16T09:48:54.965943+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T09:48:54.965943+00:00"
-  },
-  {
     "id": "rss_b02593acda77",
     "source": "CoinDesk",
     "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
@@ -1389,6 +1340,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-23T04:30:36.839034+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ead066055a55",
+    "source": "CoinDesk",
+    "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+    "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+    "published_at": "Wed, 23 Sep 2026 07:49:23 +0000",
+    "fetched_at": "2026-09-23T09:51:21.507678+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_45116d1556b6",
+    "source": "CryptoSlate",
+    "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
+    "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead/",
+    "published_at": "Wed, 23 Sep 2026 05:40:04 +0000",
+    "fetched_at": "2026-09-23T09:51:21.507678+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092309",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,292,572,851 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-23T09:51:26.452059+00:00",
     "used": false
   }
 ]
