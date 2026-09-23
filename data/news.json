@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_b02593acda77",
-    "source": "CoinDesk",
-    "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-    "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-    "published_at": "Wed, 16 Sep 2026 14:35:43 +0000",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T14:35:43+00:00"
-  },
-  {
-    "id": "rss_0ea30c598819",
-    "source": "CoinDesk",
-    "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-    "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-    "published_at": "Wed, 16 Sep 2026 11:00:00 +0000",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T11:00:00+00:00"
-  },
-  {
-    "id": "rss_4f7b1de96c73",
-    "source": "CoinDesk",
-    "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-    "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-    "published_at": "Wed, 16 Sep 2026 09:57:12 +0000",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T09:57:12+00:00"
-  },
-  {
-    "id": "rss_60cb2060e0eb",
-    "source": "The Defiant",
-    "title": "Kraken Parent Plans Permissioned Hyperliquid Perps for US Traders",
-    "url": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
-    "published_at": "Wed, 16 Sep 2026 13:09:34 GMT",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T13:09:34+00:00"
-  },
-  {
-    "id": "rss_14f35eae67a8",
-    "source": "The Defiant",
-    "title": "Aave Labs Plans A Tokenized-Asset Credit Market On Avalanche With Tether's USA₮",
-    "url": "https://thedefiant.io/news/defi/aave-avalanche-rwa-hub-usat-tokenized-collateral",
-    "published_at": "Wed, 16 Sep 2026 12:42:22 GMT",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T12:42:22+00:00"
-  },
-  {
-    "id": "rss_642e93c24641",
-    "source": "The Defiant",
-    "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa Producing Blocks",
-    "url": "https://thedefiant.io/converge/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
-    "published_at": "Wed, 16 Sep 2026 10:30:41 GMT",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T10:30:41+00:00"
-  },
-  {
-    "id": "rss_ccd75ba69d9b",
-    "source": "CryptoSlate",
-    "title": "Malicious Uniswap v4 hooks are baiting DeFi traders with fake swap quotes",
-    "url": "https://cryptoslate.com/malicious-uniswap-v4-hooks-are-baiting-defi-traders-with-fake-swap-quotes/",
-    "published_at": "Wed, 16 Sep 2026 11:10:27 +0000",
-    "fetched_at": "2026-09-16T14:46:31.695258+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T11:10:27+00:00"
-  },
-  {
-    "id": "llama_2026091614",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,509,811,760 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-16T14:46:36.694636+00:00",
-    "used": false,
-    "_sort_date": "2026-09-16T14:46:36.694636+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -1372,5 +1292,77 @@
     "fetched_at": "2026-09-23T09:51:26.452059+00:00",
     "used": false,
     "_sort_date": "2026-09-23T09:51:26.452059+00:00"
+  },
+  {
+    "id": "rss_65a943b7e2ac",
+    "source": "CoinDesk",
+    "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
+    "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
+    "published_at": "Wed, 23 Sep 2026 09:57:24 +0000",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b0a9f75290cc",
+    "source": "The Defiant",
+    "title": "Six Canadian Banks Outline First Phase of Tokenized Deposit Project",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
+    "published_at": "Wed, 23 Sep 2026 14:24:44 GMT",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a14d09c5b3e0",
+    "source": "The Defiant",
+    "title": "Brazil Tops Redesigned Crypto Adoption Index as Latin America Defies Global Slump",
+    "url": "https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump",
+    "published_at": "Wed, 23 Sep 2026 14:16:04 GMT",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3eb388e80d54",
+    "source": "The Defiant",
+    "title": "Ondo Opens In-Kind Minting for Tokenized US Stocks",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-in-kind-minting-for-tokenized-us-stocks",
+    "published_at": "Wed, 23 Sep 2026 14:00:55 GMT",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ded660df5940",
+    "source": "The Defiant",
+    "title": "Galaxy Adds $100 Million of sUSDS to Treasury, Approves It as Loan Collateral",
+    "url": "https://thedefiant.io/news/defi/galaxy-adds-100-million-of-susds-to-treasury-approves-it-as-loan-collateral",
+    "published_at": "Wed, 23 Sep 2026 13:58:43 GMT",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_271d697011e9",
+    "source": "The Defiant",
+    "title": "Blockchain.com and NYSE Explore 24/7 Tokenized Stock Trading",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/blockchain-com-and-nyse-explore-24-7-tokenized-stock-trading",
+    "published_at": "Wed, 23 Sep 2026 13:55:04 GMT",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_085dec4c6ca2",
+    "source": "CryptoSlate",
+    "title": "Coinbase traced $1.1 million crypto trail behind AI phishing service EvilTokens",
+    "url": "https://cryptoslate.com/coinbase-traced-1-1-million-crypto-trail-behind-ai-phishing-service-eviltokens/",
+    "published_at": "Wed, 23 Sep 2026 10:20:37 +0000",
+    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092314",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,238,539,491 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-23T14:51:10.964781+00:00",
+    "used": false
   }
 ]
