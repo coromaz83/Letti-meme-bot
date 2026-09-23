@@ -1301,7 +1301,8 @@
     "url": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/",
     "published_at": "Wed, 23 Sep 2026 17:40:08 +0000",
     "fetched_at": "2026-09-23T18:57:25.380104+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T17:40:08+00:00"
   },
   {
     "id": "rss_304023ce2018",
@@ -1310,7 +1311,8 @@
     "url": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
     "published_at": "Wed, 23 Sep 2026 18:15:06 +0000",
     "fetched_at": "2026-09-23T18:57:25.380104+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T18:15:06+00:00"
   },
   {
     "id": "llama_2026092318",
@@ -1319,7 +1321,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-23T18:57:30.672815+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T18:57:30.672815+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -1337,7 +1340,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
     "published_at": "Wed, 23 Sep 2026 21:20:51 GMT",
     "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T21:20:51+00:00"
   },
   {
     "id": "rss_9995d6c6710e",
@@ -1346,7 +1350,8 @@
     "url": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
     "published_at": "Wed, 23 Sep 2026 19:55:11 GMT",
     "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T19:55:11+00:00"
   },
   {
     "id": "rss_d73fbd92d7f9",
@@ -1355,7 +1360,8 @@
     "url": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
     "published_at": "Wed, 23 Sep 2026 19:54:30 GMT",
     "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T19:54:30+00:00"
   },
   {
     "id": "rss_8d4cdd2fe8bf",
@@ -1364,7 +1370,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou",
     "published_at": "Wed, 23 Sep 2026 19:10:14 GMT",
     "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T19:10:14+00:00"
   },
   {
     "id": "rss_2b3ec8f1ea46",
@@ -1373,7 +1380,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure",
     "published_at": "Wed, 23 Sep 2026 19:06:18 GMT",
     "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T19:06:18+00:00"
   },
   {
     "id": "llama_2026092322",
@@ -1382,6 +1390,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-23T22:12:13.467179+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-23T22:12:13.467179+00:00"
   }
 ]
