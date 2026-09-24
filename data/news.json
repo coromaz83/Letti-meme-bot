@@ -1456,7 +1456,8 @@
     "url": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
     "published_at": "Thu, 24 Sep 2026 19:57:06 GMT",
     "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T19:57:06+00:00"
   },
   {
     "id": "rss_db5bf485ee19",
@@ -1465,7 +1466,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/gnosis-pay-sets-dec-20-card-shutdown-as-it-shifts-to-b2b",
     "published_at": "Thu, 24 Sep 2026 19:48:55 GMT",
     "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T19:48:55+00:00"
   },
   {
     "id": "rss_1e6f655f0536",
@@ -1474,7 +1476,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
     "published_at": "Thu, 24 Sep 2026 17:54:33 GMT",
     "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:54:33+00:00"
   },
   {
     "id": "rss_a247e509de30",
@@ -1483,7 +1486,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ark-launches-tokenized-venture-fund-on-ethereum-with-500-minimum",
     "published_at": "Thu, 24 Sep 2026 17:23:07 GMT",
     "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:23:07+00:00"
   },
   {
     "id": "rss_f85c10816d45",
@@ -1492,7 +1496,8 @@
     "url": "https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/",
     "published_at": "Thu, 24 Sep 2026 20:00:28 +0000",
     "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T20:00:28+00:00"
   },
   {
     "id": "llama_2026092420",
@@ -1501,6 +1506,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T20:44:38.660686+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T20:44:38.660686+00:00"
   }
 ]
