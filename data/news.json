@@ -1392,5 +1392,32 @@
     "fetched_at": "2026-09-23T22:12:13.467179+00:00",
     "used": false,
     "_sort_date": "2026-09-23T22:12:13.467179+00:00"
+  },
+  {
+    "id": "rss_7a5505f83e23",
+    "source": "The Defiant",
+    "title": "Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption",
+    "published_at": "Wed, 23 Sep 2026 14:30:00 GMT",
+    "fetched_at": "2026-09-24T00:48:19.397900+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a790275fea11",
+    "source": "Decrypt",
+    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
+    "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+    "published_at": "Wed, 23 Sep 2026 22:56:03 +0000",
+    "fetched_at": "2026-09-24T00:48:19.397900+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092400",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,168,207,594 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-24T00:48:27.360146+00:00",
+    "used": false
   }
 ]
