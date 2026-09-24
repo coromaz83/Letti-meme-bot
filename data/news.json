@@ -1326,7 +1326,8 @@
     "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
     "published_at": "Thu, 24 Sep 2026 11:33:57 +0000",
     "fetched_at": "2026-09-24T12:07:06.969099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T11:33:57+00:00"
   },
   {
     "id": "rss_235740a95c84",
@@ -1335,7 +1336,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
     "published_at": "Thu, 24 Sep 2026 12:07:09 GMT",
     "fetched_at": "2026-09-24T12:07:06.969099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T12:07:09+00:00"
   },
   {
     "id": "rss_33821a5cc5f9",
@@ -1344,7 +1346,8 @@
     "url": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
     "published_at": "Thu, 24 Sep 2026 09:00:46 +0000",
     "fetched_at": "2026-09-24T12:07:06.969099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T09:00:46+00:00"
   },
   {
     "id": "llama_2026092412",
@@ -1353,7 +1356,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T12:07:11.499862+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T12:07:11.499862+00:00"
   },
   {
     "id": "rss_37fea5f41c92",
@@ -1362,7 +1366,8 @@
     "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
     "published_at": "Thu, 24 Sep 2026 17:29:45 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:29:45+00:00"
   },
   {
     "id": "rss_4cc5483bf4b3",
@@ -1371,7 +1376,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-oliver-wyman-see-tokenized-assets-reaching-2-3-trillion-by-2030",
     "published_at": "Thu, 24 Sep 2026 17:19:11 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:19:11+00:00"
   },
   {
     "id": "rss_c859f024bbce",
@@ -1380,7 +1386,8 @@
     "url": "https://thedefiant.io/news/markets/cross-border-stablecoin-flows-jump-77-5-but-remain-concentrated",
     "published_at": "Thu, 24 Sep 2026 17:09:01 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:09:01+00:00"
   },
   {
     "id": "rss_1069b6cee270",
@@ -1389,7 +1396,8 @@
     "url": "https://thedefiant.io/news/hacks/payy-halts-network-after-1-92-million-usdc-drain",
     "published_at": "Thu, 24 Sep 2026 16:53:16 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T16:53:16+00:00"
   },
   {
     "id": "rss_a5ff11ee4ab7",
@@ -1398,7 +1406,8 @@
     "url": "https://thedefiant.io/news/regulation/new-york-sues-polymarket-us-unlicensed-gambling",
     "published_at": "Thu, 24 Sep 2026 16:19:07 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T16:19:07+00:00"
   },
   {
     "id": "rss_34fead5b7ba4",
@@ -1407,7 +1416,8 @@
     "url": "https://thedefiant.io/news/markets/ondo-blackrock-portfolios-altcoin-bid-bitcoin-84000-sep-24-2026",
     "published_at": "Thu, 24 Sep 2026 15:53:35 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:53:35+00:00"
   },
   {
     "id": "rss_0f4533c9c1f5",
@@ -1416,7 +1426,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-s-peirce-urges-zero-knowledge-proofs-to-reduce-kyc-data-collection",
     "published_at": "Thu, 24 Sep 2026 15:45:48 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:45:48+00:00"
   },
   {
     "id": "rss_c801f1704e46",
@@ -1425,7 +1436,8 @@
     "url": "https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody",
     "published_at": "Thu, 24 Sep 2026 15:43:31 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:43:31+00:00"
   },
   {
     "id": "rss_d3ae45fe2a66",
@@ -1434,7 +1446,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/only-four-of-top-20-crypto-treasury-firms-trade-above-holdings-value-dwf",
     "published_at": "Thu, 24 Sep 2026 15:30:11 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:30:11+00:00"
   },
   {
     "id": "rss_29912e09c6b6",
@@ -1443,7 +1456,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies",
     "published_at": "Thu, 24 Sep 2026 15:23:43 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:23:43+00:00"
   },
   {
     "id": "rss_7fe39d169578",
@@ -1452,7 +1466,8 @@
     "url": "https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions",
     "published_at": "Thu, 24 Sep 2026 15:18:46 GMT",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:18:46+00:00"
   },
   {
     "id": "rss_9a28b81d5ba9",
@@ -1461,7 +1476,8 @@
     "url": "https://cryptoslate.com/coinbases-fixed-rate-bitcoin-loans-can-put-healthy-collateral-at-risk-after-maturity/",
     "published_at": "Thu, 24 Sep 2026 15:30:59 +0000",
     "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T15:30:59+00:00"
   },
   {
     "id": "llama_2026092417",
@@ -1470,6 +1486,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T17:29:47.701229+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-24T17:29:47.701229+00:00"
   }
 ]
