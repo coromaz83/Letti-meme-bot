@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_8544db46e59b",
-    "source": "The Defiant",
-    "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
-    "url": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-    "published_at": "Thu, 17 Sep 2026 20:09:10 GMT",
-    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T20:09:10+00:00"
-  },
-  {
-    "id": "rss_94fc04f215d9",
-    "source": "The Defiant",
-    "title": "Solana's Historic Governance Vote — While Robinhood Invades Its Meme Coin Turf",
-    "url": "https://thedefiant.io/podcasts-and-videos/podcast/solana-s-historic-governance-vote-while-robinhood-invades-its-meme-coin-turf",
-    "published_at": "Thu, 17 Sep 2026 19:32:39 GMT",
-    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T19:32:39+00:00"
-  },
-  {
-    "id": "rss_588755381da1",
-    "source": "Decrypt",
-    "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
-    "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-    "published_at": "Thu, 17 Sep 2026 19:01:05 +0000",
-    "fetched_at": "2026-09-17T20:09:08.567911+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T19:01:05+00:00"
-  },
-  {
-    "id": "llama_2026091720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,591,657,276 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-17T20:09:12.856497+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T20:09:12.856497+00:00"
-  },
-  {
     "id": "rss_e1fd1d1c4a09",
     "source": "The Defiant",
     "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
@@ -1488,5 +1448,59 @@
     "fetched_at": "2026-09-24T17:29:47.701229+00:00",
     "used": false,
     "_sort_date": "2026-09-24T17:29:47.701229+00:00"
+  },
+  {
+    "id": "rss_97eb1f0c25d9",
+    "source": "The Defiant",
+    "title": "Kamino Opens GPU-loan-linked sUSDai Collateral Market on Solana",
+    "url": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
+    "published_at": "Thu, 24 Sep 2026 19:57:06 GMT",
+    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db5bf485ee19",
+    "source": "The Defiant",
+    "title": "Gnosis Pay Sets Dec. 20 Card Shutdown as It Shifts to B2B",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/gnosis-pay-sets-dec-20-card-shutdown-as-it-shifts-to-b2b",
+    "published_at": "Thu, 24 Sep 2026 19:48:55 GMT",
+    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e6f655f0536",
+    "source": "The Defiant",
+    "title": "IBM Connects Digital Asset Haven to Swift Ledger in Beta",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
+    "published_at": "Thu, 24 Sep 2026 17:54:33 GMT",
+    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a247e509de30",
+    "source": "The Defiant",
+    "title": "ARK Launches Tokenized Venture Fund on Ethereum With $500 Minimum",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ark-launches-tokenized-venture-fund-on-ethereum-with-500-minimum",
+    "published_at": "Thu, 24 Sep 2026 17:23:07 GMT",
+    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f85c10816d45",
+    "source": "CryptoSlate",
+    "title": "Man sentenced to 12 years for $16M Coinbase customer support scam",
+    "url": "https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/",
+    "published_at": "Thu, 24 Sep 2026 20:00:28 +0000",
+    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092420",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,187,702,980 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-24T20:44:38.660686+00:00",
+    "used": false
   }
 ]
