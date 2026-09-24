@@ -1,53 +1,5 @@
 [
   {
-    "id": "rss_bd307731510f",
-    "source": "The Defiant",
-    "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
-    "url": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
-    "published_at": "Wed, 16 Sep 2026 22:33:10 GMT",
-    "fetched_at": "2026-09-17T00:49:52.175632+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091700",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,494,459,574 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-17T00:49:56.076635+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_235740a95c84",
-    "source": "The Defiant",
-    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-    "published_at": "Thu, 17 Sep 2026 05:58:55 GMT",
-    "fetched_at": "2026-09-17T05:58:52.537815+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T05:58:55+00:00"
-  },
-  {
-    "id": "rss_1791d4e07598",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s client diversity picture fractures under incompatible estimates",
-    "url": "https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/",
-    "published_at": "Thu, 17 Sep 2026 03:30:37 +0000",
-    "fetched_at": "2026-09-17T05:58:52.537815+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T03:30:37+00:00"
-  },
-  {
-    "id": "llama_2026091705",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,544,585,465 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-17T05:58:56.501295+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T05:58:56.501295+00:00"
-  },
-  {
     "id": "rss_37fea5f41c92",
     "source": "The Defiant",
     "title": "SEC Crypto Custody Rewrite Enters White House Review",
@@ -1418,6 +1370,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T00:48:27.360146+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0121206d5d3b",
+    "source": "The Defiant",
+    "title": "Trump Administration Weighs Overseas Stablecoin Push: Report",
+    "url": "https://thedefiant.io/converge/regulation/trump-administration-weighs-overseas-stablecoin-push-report",
+    "published_at": "Thu, 24 Sep 2026 02:57:21 GMT",
+    "fetched_at": "2026-09-24T06:01:25.694277+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f685fa37d1f",
+    "source": "The Defiant",
+    "title": "Variational Sets Q4 VAR Launch With 32% Airdrop",
+    "url": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
+    "published_at": "Thu, 24 Sep 2026 02:44:47 GMT",
+    "fetched_at": "2026-09-24T06:01:25.694277+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092406",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,166,344,265 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-24T06:01:33.948797+00:00",
     "used": false
   }
 ]
