@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_37fea5f41c92",
-    "source": "The Defiant",
-    "title": "SEC Crypto Custody Rewrite Enters White House Review",
-    "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-    "published_at": "Thu, 17 Sep 2026 11:32:33 GMT",
-    "fetched_at": "2026-09-17T11:32:30.485239+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T11:32:33+00:00"
-  },
-  {
-    "id": "llama_2026091711",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,565,741,130 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-17T11:32:35.484876+00:00",
-    "used": false,
-    "_sort_date": "2026-09-17T11:32:35.484876+00:00"
-  },
-  {
     "id": "rss_8ab35bf8e5c9",
     "source": "CoinDesk",
     "title": "Crypto for Advisors: Beyond bitcoin and ether",
@@ -1397,6 +1377,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T06:01:33.948797+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0db3bc858d29",
+    "source": "CoinDesk",
+    "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+    "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+    "published_at": "Thu, 24 Sep 2026 11:33:57 +0000",
+    "fetched_at": "2026-09-24T12:07:06.969099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_235740a95c84",
+    "source": "The Defiant",
+    "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+    "published_at": "Thu, 24 Sep 2026 12:07:09 GMT",
+    "fetched_at": "2026-09-24T12:07:06.969099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_33821a5cc5f9",
+    "source": "Decrypt",
+    "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+    "url": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
+    "published_at": "Thu, 24 Sep 2026 09:00:46 +0000",
+    "fetched_at": "2026-09-24T12:07:06.969099+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092412",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,094,808,466 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-24T12:07:11.499862+00:00",
     "used": false
   }
 ]
