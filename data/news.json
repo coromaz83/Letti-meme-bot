@@ -1494,7 +1494,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
     "published_at": "Fri, 25 Sep 2026 14:41:53 +0000",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:41:53+00:00"
   },
   {
     "id": "rss_d1aa532feb65",
@@ -1503,7 +1504,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
     "published_at": "Fri, 25 Sep 2026 14:32:48 +0000",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:32:48+00:00"
   },
   {
     "id": "rss_e77108ff162c",
@@ -1512,7 +1514,8 @@
     "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
     "published_at": "Fri, 25 Sep 2026 09:13:01 +0000",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T09:13:01+00:00"
   },
   {
     "id": "rss_2d2121ee1d08",
@@ -1521,7 +1524,8 @@
     "url": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
     "published_at": "Fri, 25 Sep 2026 14:59:16 GMT",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:59:16+00:00"
   },
   {
     "id": "rss_7e77d88034af",
@@ -1530,7 +1534,8 @@
     "url": "https://thedefiant.io/news/defi/aave-adds-coinbase-stock-tokens-as-collateral-on-base",
     "published_at": "Fri, 25 Sep 2026 14:44:07 GMT",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:44:07+00:00"
   },
   {
     "id": "rss_6427f01de8f8",
@@ -1539,7 +1544,8 @@
     "url": "https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass",
     "published_at": "Fri, 25 Sep 2026 14:42:01 GMT",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:42:01+00:00"
   },
   {
     "id": "rss_a8f3880de889",
@@ -1548,7 +1554,8 @@
     "url": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
     "published_at": "Fri, 25 Sep 2026 14:20:39 GMT",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T14:20:39+00:00"
   },
   {
     "id": "rss_b80b245bad6a",
@@ -1557,7 +1564,8 @@
     "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
     "published_at": "Fri, 25 Sep 2026 12:01:15 +0000",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T12:01:15+00:00"
   },
   {
     "id": "rss_fb9ce23972fe",
@@ -1566,7 +1574,8 @@
     "url": "https://www.bankless.com/read/news/ethena-expands-usde-backing-into-equity-perpetuals",
     "published_at": "Fri, 25 Sep 2026 09:51:23 -0400",
     "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T09:51:23-04:00"
   },
   {
     "id": "llama_2026092515",
@@ -1575,6 +1584,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T15:28:21.972163+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T15:28:21.972163+00:00"
   }
 ]
