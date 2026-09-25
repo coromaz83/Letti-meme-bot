@@ -1,42 +1,5 @@
 [
   {
-    "id": "rss_6892430ee96b",
-    "source": "The Defiant",
-    "title": "X Adds US 'Trade' Button to Cashtags With Coinbase, Kraken and Gemini",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/x-adds-us-trade-button-to-cashtags-with-coinbase-kraken-and-gemini",
-    "published_at": "Thu, 17 Sep 2026 19:16:27 GMT",
-    "fetched_at": "2026-09-18T01:24:33.149857+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e3c4c4ad8868",
-    "source": "The Defiant",
-    "title": "World Rolls Out Money App as Key Features Remain Country-Limited",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/world-rolls-out-money-app-as-key-features-remain-country-limited",
-    "published_at": "Thu, 17 Sep 2026 19:14:00 GMT",
-    "fetched_at": "2026-09-18T01:24:33.149857+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_818c311f652c",
-    "source": "The Defiant",
-    "title": "S&P Global to Acquire OpenZeppelin in Onchain Risk Push",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push",
-    "published_at": "Thu, 17 Sep 2026 17:25:00 GMT",
-    "fetched_at": "2026-09-18T01:24:33.149857+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091801",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,578,930,408 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-18T01:24:36.706148+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T01:24:36.706148+00:00"
-  },
-  {
     "id": "rss_12f025f9b2d3",
     "source": "CoinDesk",
     "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
@@ -1523,6 +1486,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-24T23:49:50.761219+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_84b019eddeee",
+    "source": "The Defiant",
+    "title": "Block Adds Bitcoin Lightning to x402 Standard",
+    "url": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
+    "published_at": "Fri, 25 Sep 2026 02:55:22 GMT",
+    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5bcaeadf37af",
+    "source": "The Defiant",
+    "title": "Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens",
+    "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
+    "published_at": "Fri, 25 Sep 2026 02:26:19 GMT",
+    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8547c26172bb",
+    "source": "The Defiant",
+    "title": "Tokenized-Stock Holder Count Reaches 4.3 Million, Led by BNB Chain",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stock-holder-count-reaches-4-3-million-led-by-bnb-chain",
+    "published_at": "Fri, 25 Sep 2026 01:28:29 GMT",
+    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eb7b95884b2a",
+    "source": "The Defiant",
+    "title": "KelpDAO Files BC Civil Claim Against LayerZero",
+    "url": "https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says",
+    "published_at": "Thu, 24 Sep 2026 23:54:59 GMT",
+    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092504",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,194,690,186 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-25T04:39:07.334962+00:00",
     "used": false
   }
 ]
