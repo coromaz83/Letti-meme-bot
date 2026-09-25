@@ -1456,7 +1456,8 @@
     "url": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
     "published_at": "Fri, 25 Sep 2026 02:55:22 GMT",
     "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T02:55:22+00:00"
   },
   {
     "id": "rss_5bcaeadf37af",
@@ -1465,7 +1466,8 @@
     "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
     "published_at": "Fri, 25 Sep 2026 02:26:19 GMT",
     "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T02:26:19+00:00"
   },
   {
     "id": "rss_8547c26172bb",
@@ -1492,7 +1494,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T04:39:07.334962+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T04:39:07.334962+00:00"
   },
   {
     "id": "llama_2026092510",
@@ -1501,6 +1504,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T10:06:48.078779+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T10:06:48.078779+00:00"
   }
 ]
