@@ -1,113 +1,5 @@
 [
   {
-    "id": "rss_15415371bf89",
-    "source": "The Defiant",
-    "title": "Neutrl Opens NUSD Redemptions at 51 Cents as Strata Junior Tranche Faces Wipeout",
-    "url": "https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout",
-    "published_at": "Fri, 18 Sep 2026 17:26:22 GMT",
-    "fetched_at": "2026-09-18T19:30:06.169877+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5d8086fc9d66",
-    "source": "The Defiant",
-    "title": "Coinbase Seeks CFTC Approval for US Single-Stock Perpetual Futures",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-seeks-cftc-approval-for-us-single-stock-perpetual-futures",
-    "published_at": "Fri, 18 Sep 2026 17:01:54 GMT",
-    "fetched_at": "2026-09-18T19:30:06.169877+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bbb73f008f18",
-    "source": "The Defiant",
-    "title": "Fake AI Bot Tutorials Tricked 224 Victims Into Deploying Their Own Drainers",
-    "url": "https://thedefiant.io/news/security/fake-ai-bot-tutorials-tricked-224-victims-into-deploying-their-own-drainers",
-    "published_at": "Fri, 18 Sep 2026 17:00:08 GMT",
-    "fetched_at": "2026-09-18T19:30:06.169877+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3662d493d71",
-    "source": "The Defiant",
-    "title": "Blockchain Dead Drop Attacks Jump 420% as State Hackers Expand",
-    "url": "https://thedefiant.io/news/security/blockchain-dead-drop-attacks-jump-420-as-state-hackers-expand",
-    "published_at": "Fri, 18 Sep 2026 16:59:38 GMT",
-    "fetched_at": "2026-09-18T19:30:06.169877+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,840,469,570 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-18T19:30:15.590787+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_865568549b20",
-    "source": "Cointelegraph Base",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f0da7ab5b1fc",
-    "source": "The Defiant",
-    "title": "Polygon Prepares Permissionless Burn of 100 Million POL",
-    "url": "https://thedefiant.io/news/tokens/polygon-prepares-permissionless-burn-of-100-million-pol",
-    "published_at": "Fri, 18 Sep 2026 20:25:25 GMT",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d7669b52915f",
-    "source": "The Defiant",
-    "title": "CFTC Files Crypto Market Rulemaking With White House at Prerule Stage",
-    "url": "https://thedefiant.io/news/regulation/cftc-files-crypto-market-rulemaking-with-white-house-at-prerule-stage",
-    "published_at": "Fri, 18 Sep 2026 20:22:13 GMT",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d05bd6b800e8",
-    "source": "Decrypt",
-    "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-    "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
-    "published_at": "Fri, 18 Sep 2026 21:01:30 +0000",
-    "fetched_at": "2026-09-18T21:49:10.158074+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091821",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,868,312,588 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-18T21:49:15.696145+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026091900",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,897,005,319 🟢 +0.00% (24h)",
@@ -1599,6 +1491,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T19:29:37.724750+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cf94b3b0b26d",
+    "source": "The Defiant",
+    "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
+    "url": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
+    "published_at": "Fri, 25 Sep 2026 20:50:59 GMT",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_49ba24c45fdd",
+    "source": "The Defiant",
+    "title": "Duelbits Co-Founder Reports $7 Million Hack as Casino Stays Offline",
+    "url": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
+    "published_at": "Fri, 25 Sep 2026 20:26:09 GMT",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7103f16e41ad",
+    "source": "The Defiant",
+    "title": "Circle CFO Jeremy Fox-Geen to Step Down by Year-End",
+    "url": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
+    "published_at": "Fri, 25 Sep 2026 20:16:15 GMT",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0060a85a64eb",
+    "source": "The Defiant",
+    "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+    "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
+    "published_at": "Fri, 25 Sep 2026 20:14:02 GMT",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e9fdaed5f2b",
+    "source": "Decrypt",
+    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+    "published_at": "Fri, 25 Sep 2026 21:25:35 +0000",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f79ed6dac81d",
+    "source": "Bankless",
+    "title": "🏴 Ethereum's New AI Swarm",
+    "url": "https://www.bankless.com/read/ethereum-s-new-ai-swarm",
+    "published_at": "Fri, 25 Sep 2026 17:46:36 -0400",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57cbac3922a7",
+    "source": "Bankless",
+    "title": "Inside IMD, Ethereum's New AI Swarm Experiment",
+    "url": "https://www.bankless.com/read/inside-imd-ethereum-s-new-ai-swarm-experiment",
+    "published_at": "Fri, 25 Sep 2026 16:24:29 -0400",
+    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092522",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,220,220,643 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-25T22:45:45.260196+00:00",
     "used": false
   }
 ]
