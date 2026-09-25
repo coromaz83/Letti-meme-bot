@@ -1,44 +1,5 @@
 [
   {
-    "id": "rss_12f025f9b2d3",
-    "source": "CoinDesk",
-    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-    "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-    "published_at": "Fri, 18 Sep 2026 05:23:29 +0000",
-    "fetched_at": "2026-09-18T06:30:27.565769+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T05:23:29+00:00"
-  },
-  {
-    "id": "rss_30587672aa71",
-    "source": "CoinDesk",
-    "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
-    "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-    "published_at": "Fri, 18 Sep 2026 04:49:17 +0000",
-    "fetched_at": "2026-09-18T06:30:27.565769+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T04:49:17+00:00"
-  },
-  {
-    "id": "rss_5879b51d80ed",
-    "source": "The Defiant",
-    "title": "Polymarket Hires Ex-Zora CEO for Onchain Product Push",
-    "url": "https://thedefiant.io/news/defi/polymarket-hires-ex-zora-ceo-for-onchain-product-push",
-    "published_at": "Thu, 17 Sep 2026 20:19:00 GMT",
-    "fetched_at": "2026-09-18T06:30:27.565769+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026091806",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,630,334,684 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-18T06:30:32.713716+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T06:30:32.713716+00:00"
-  },
-  {
     "id": "rss_e19d4262ea59",
     "source": "CoinDesk",
     "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
@@ -1531,6 +1492,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T04:39:07.334962+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092510",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,171,847,025 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-25T10:06:48.078779+00:00",
     "used": false
   }
 ]
