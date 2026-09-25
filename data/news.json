@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_cd27fe9dd540",
-    "source": "The Defiant",
-    "title": "Bitcoin Runs to $81,000 and NEAR Adds 32% as Tokenization Tokens Lead",
-    "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
-    "published_at": "Fri, 18 Sep 2026 16:36:08 GMT",
-    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T16:36:08+00:00"
-  },
-  {
-    "id": "rss_f37c63de8045",
-    "source": "The Defiant",
-    "title": "Morpho Opens Borrowing Against Coinbase's Tokenized Stocks",
-    "url": "https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base",
-    "published_at": "Fri, 18 Sep 2026 14:24:02 GMT",
-    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T14:24:02+00:00"
-  },
-  {
-    "id": "rss_ba76c5cad57c",
-    "source": "The Defiant",
-    "title": "WisdomTree Opens Tokenized Treasury Fund To MoonPay's 35 Million Accounts",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves",
-    "published_at": "Fri, 18 Sep 2026 13:38:51 GMT",
-    "fetched_at": "2026-09-18T16:39:52.389790+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T13:38:51+00:00"
-  },
-  {
-    "id": "llama_2026091816",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,847,977,147 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-18T16:39:57.526415+00:00",
-    "used": false,
-    "_sort_date": "2026-09-18T16:39:57.526415+00:00"
-  },
-  {
     "id": "rss_15415371bf89",
     "source": "The Defiant",
     "title": "Neutrl Opens NUSD Redemptions at 51 Cents as Strata Junior Tranche Faces Wipeout",
@@ -1586,5 +1546,59 @@
     "fetched_at": "2026-09-25T15:28:21.972163+00:00",
     "used": false,
     "_sort_date": "2026-09-25T15:28:21.972163+00:00"
+  },
+  {
+    "id": "rss_8ac245ce1610",
+    "source": "The Defiant",
+    "title": "Bitget Raises Hack Estimate To $387.5 Million As Token Accounting Widens",
+    "url": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
+    "published_at": "Fri, 25 Sep 2026 16:55:57 GMT",
+    "fetched_at": "2026-09-25T19:29:31.083703+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_705adcddfbfb",
+    "source": "The Defiant",
+    "title": "Legacy Magic Eden Approvals Exploited as White Hats Rescue NFTs",
+    "url": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
+    "published_at": "Fri, 25 Sep 2026 16:12:07 GMT",
+    "fetched_at": "2026-09-25T19:29:31.083703+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03cb66f59a70",
+    "source": "The Defiant",
+    "title": "Tether Says EQIBank Exposure Is Below 0.034% of Group Assets",
+    "url": "https://thedefiant.io/news/cefi/tether-says-eqibank-exposure-is-below-0-034-of-group-assets",
+    "published_at": "Fri, 25 Sep 2026 15:44:25 GMT",
+    "fetched_at": "2026-09-25T19:29:31.083703+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_566ccbc96dd9",
+    "source": "Decrypt",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "published_at": "Fri, 25 Sep 2026 18:42:51 +0000",
+    "fetched_at": "2026-09-25T19:29:31.083703+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2bc62c1414d0",
+    "source": "Decrypt",
+    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+    "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+    "published_at": "Fri, 25 Sep 2026 16:17:19 +0000",
+    "fetched_at": "2026-09-25T19:29:31.083703+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092519",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,240,424,328 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-25T19:29:37.724750+00:00",
+    "used": false
   }
 ]
