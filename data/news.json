@@ -1446,7 +1446,8 @@
     "url": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
     "published_at": "Fri, 25 Sep 2026 16:55:57 GMT",
     "fetched_at": "2026-09-25T19:29:31.083703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T16:55:57+00:00"
   },
   {
     "id": "rss_705adcddfbfb",
@@ -1455,7 +1456,8 @@
     "url": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
     "published_at": "Fri, 25 Sep 2026 16:12:07 GMT",
     "fetched_at": "2026-09-25T19:29:31.083703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T16:12:07+00:00"
   },
   {
     "id": "rss_03cb66f59a70",
@@ -1464,7 +1466,8 @@
     "url": "https://thedefiant.io/news/cefi/tether-says-eqibank-exposure-is-below-0-034-of-group-assets",
     "published_at": "Fri, 25 Sep 2026 15:44:25 GMT",
     "fetched_at": "2026-09-25T19:29:31.083703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T15:44:25+00:00"
   },
   {
     "id": "rss_566ccbc96dd9",
@@ -1473,7 +1476,8 @@
     "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
     "published_at": "Fri, 25 Sep 2026 18:42:51 +0000",
     "fetched_at": "2026-09-25T19:29:31.083703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T18:42:51+00:00"
   },
   {
     "id": "rss_2bc62c1414d0",
@@ -1482,7 +1486,8 @@
     "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
     "published_at": "Fri, 25 Sep 2026 16:17:19 +0000",
     "fetched_at": "2026-09-25T19:29:31.083703+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T16:17:19+00:00"
   },
   {
     "id": "llama_2026092519",
@@ -1491,7 +1496,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T19:29:37.724750+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T19:29:37.724750+00:00"
   },
   {
     "id": "rss_cf94b3b0b26d",
@@ -1500,7 +1506,8 @@
     "url": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
     "published_at": "Fri, 25 Sep 2026 20:50:59 GMT",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T20:50:59+00:00"
   },
   {
     "id": "rss_49ba24c45fdd",
@@ -1509,7 +1516,8 @@
     "url": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
     "published_at": "Fri, 25 Sep 2026 20:26:09 GMT",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T20:26:09+00:00"
   },
   {
     "id": "rss_7103f16e41ad",
@@ -1518,7 +1526,8 @@
     "url": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
     "published_at": "Fri, 25 Sep 2026 20:16:15 GMT",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T20:16:15+00:00"
   },
   {
     "id": "rss_0060a85a64eb",
@@ -1527,7 +1536,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
     "published_at": "Fri, 25 Sep 2026 20:14:02 GMT",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T20:14:02+00:00"
   },
   {
     "id": "rss_1e9fdaed5f2b",
@@ -1536,7 +1546,8 @@
     "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
     "published_at": "Fri, 25 Sep 2026 21:25:35 +0000",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T21:25:35+00:00"
   },
   {
     "id": "rss_f79ed6dac81d",
@@ -1545,7 +1556,8 @@
     "url": "https://www.bankless.com/read/ethereum-s-new-ai-swarm",
     "published_at": "Fri, 25 Sep 2026 17:46:36 -0400",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T17:46:36-04:00"
   },
   {
     "id": "rss_57cbac3922a7",
@@ -1554,7 +1566,8 @@
     "url": "https://www.bankless.com/read/inside-imd-ethereum-s-new-ai-swarm-experiment",
     "published_at": "Fri, 25 Sep 2026 16:24:29 -0400",
     "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T16:24:29-04:00"
   },
   {
     "id": "llama_2026092522",
@@ -1563,6 +1576,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-25T22:45:45.260196+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-25T22:45:45.260196+00:00"
   }
 ]
