@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026091909",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,889,746,878 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-19T09:22:45.468558+00:00",
-    "used": false,
-    "_sort_date": "2026-09-19T09:22:45.468558+00:00"
-  },
-  {
     "id": "llama_2026091913",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,905,387,575 🟢 +0.00% (24h)",
@@ -1611,6 +1601,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-26T06:33:49.558637+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3a6da45bf53d",
+    "source": "CryptoSlate",
+    "title": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+    "url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+    "published_at": "Sat, 26 Sep 2026 07:30:29 +0000",
+    "fetched_at": "2026-09-26T12:09:59.705124+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092612",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,273,968,440 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-26T12:10:03.272371+00:00",
     "used": false
   }
 ]
