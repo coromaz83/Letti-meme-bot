@@ -1,25 +1,5 @@
 [
   {
-    "id": "llama_2026091916",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,928,784,569 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-19T16:44:13.552386+00:00",
-    "used": false,
-    "_sort_date": "2026-09-19T16:44:13.552386+00:00"
-  },
-  {
-    "id": "llama_2026091919",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,930,548,260 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-19T19:16:21.623539+00:00",
-    "used": false,
-    "_sort_date": "2026-09-19T19:16:21.623539+00:00"
-  },
-  {
     "id": "rss_f650da84193c",
     "source": "CryptoSlate",
     "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
@@ -1653,5 +1633,41 @@
     "fetched_at": "2026-09-26T16:39:50.604316+00:00",
     "used": false,
     "_sort_date": "2026-09-26T16:39:50.604316+00:00"
+  },
+  {
+    "id": "rss_c28fc5aea5f4",
+    "source": "The Defiant",
+    "title": "CleanSpark Closes $2.276 Billion Debt Deal for Sandersville Data Center",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/cleanspark-closes-2-276-billion-debt-deal-for-sandersville-data-center",
+    "published_at": "Sat, 26 Sep 2026 17:01:29 GMT",
+    "fetched_at": "2026-09-26T19:39:56.346997+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b15daa8fa42a",
+    "source": "The Defiant",
+    "title": "StarkWare Challenge Cuts Quantum-Safe Bitcoin Compute Estimate by 79%",
+    "url": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79",
+    "published_at": "Sat, 26 Sep 2026 16:54:17 GMT",
+    "fetched_at": "2026-09-26T19:39:56.346997+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_04a74f6ac111",
+    "source": "CryptoSlate",
+    "title": "Washington has $114 billion reasons to want Tether around",
+    "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/",
+    "published_at": "Sat, 26 Sep 2026 16:45:55 +0000",
+    "fetched_at": "2026-09-26T19:39:56.346997+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092619",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,270,679,505 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-26T19:40:01.857805+00:00",
+    "used": false
   }
 ]
