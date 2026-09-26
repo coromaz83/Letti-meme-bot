@@ -1591,7 +1591,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-26T06:33:49.558637+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T06:33:49.558637+00:00"
   },
   {
     "id": "rss_3a6da45bf53d",
@@ -1600,7 +1601,8 @@
     "url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
     "published_at": "Sat, 26 Sep 2026 07:30:29 +0000",
     "fetched_at": "2026-09-26T12:09:59.705124+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T07:30:29+00:00"
   },
   {
     "id": "llama_2026092612",
@@ -1609,7 +1611,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-26T12:10:03.272371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T12:10:03.272371+00:00"
   },
   {
     "id": "rss_ec87e3b4167b",
@@ -1618,7 +1621,8 @@
     "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
     "published_at": "Sat, 26 Sep 2026 13:00:00 +0000",
     "fetched_at": "2026-09-26T16:39:46.091047+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T13:00:00+00:00"
   },
   {
     "id": "rss_010978e84796",
@@ -1627,7 +1631,8 @@
     "url": "https://thedefiant.io/news/defi/morpho-blames-ai-marketing-tool-for-deleted-post-saying-its-own-curator-business-model-is-broken",
     "published_at": "Sat, 26 Sep 2026 15:50:36 GMT",
     "fetched_at": "2026-09-26T16:39:46.091047+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T15:50:36+00:00"
   },
   {
     "id": "rss_e1b9b7c9666f",
@@ -1636,7 +1641,8 @@
     "url": "https://thedefiant.io/news/blockchains/solana-s-alpenglow-goes-live-on-devnet-ahead-of-mainnet-migration",
     "published_at": "Sat, 26 Sep 2026 14:37:38 GMT",
     "fetched_at": "2026-09-26T16:39:46.091047+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T14:37:38+00:00"
   },
   {
     "id": "llama_2026092616",
@@ -1645,6 +1651,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-26T16:39:50.604316+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-26T16:39:50.604316+00:00"
   }
 ]
