@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026092023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,906,093,174 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-20T23:08:28.951981+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026092101",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,922,884,202 🟢 +0.00% (24h)",
@@ -1688,5 +1679,23 @@
     "fetched_at": "2026-09-27T21:14:18.041644+00:00",
     "used": false,
     "_sort_date": "2026-09-27T21:14:18.041644+00:00"
+  },
+  {
+    "id": "rss_c9720d5c57f6",
+    "source": "CryptoSlate",
+    "title": "An $84 million US asset seizure just sparked a massive question for Tether",
+    "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether/",
+    "published_at": "Sun, 27 Sep 2026 21:15:14 +0000",
+    "fetched_at": "2026-09-27T23:54:11.351058+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092723",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,279,317,265 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-27T23:54:16.431338+00:00",
+    "used": false
   }
 ]
