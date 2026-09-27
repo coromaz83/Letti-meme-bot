@@ -1637,7 +1637,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-27T07:01:25.461342+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T07:01:25.461342+00:00"
   },
   {
     "id": "rss_78bd77b76a41",
@@ -1646,7 +1647,8 @@
     "url": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
     "published_at": "Sun, 27 Sep 2026 13:00:50 +0000",
     "fetched_at": "2026-09-27T13:14:13.900130+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T13:00:50+00:00"
   },
   {
     "id": "llama_2026092713",
@@ -1655,6 +1657,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-27T13:14:22.391940+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T13:14:22.391940+00:00"
   }
 ]
