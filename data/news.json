@@ -1646,7 +1646,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
     "published_at": "Sun, 27 Sep 2026 14:29:13 +0000",
     "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T14:29:13+00:00"
   },
   {
     "id": "rss_52b56eb47105",
@@ -1655,7 +1656,8 @@
     "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
     "published_at": "Sun, 27 Sep 2026 14:45:19 GMT",
     "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T14:45:19+00:00"
   },
   {
     "id": "rss_cd06277347a7",
@@ -1664,7 +1666,8 @@
     "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
     "published_at": "Sun, 27 Sep 2026 14:44:40 GMT",
     "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T14:44:40+00:00"
   },
   {
     "id": "rss_7d9814bb2586",
@@ -1673,7 +1676,8 @@
     "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
     "published_at": "Sun, 27 Sep 2026 16:00:54 +0000",
     "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T16:00:54+00:00"
   },
   {
     "id": "llama_2026092717",
@@ -1682,6 +1686,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-27T17:54:38.283638+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-27T17:54:38.283638+00:00"
   }
 ]
