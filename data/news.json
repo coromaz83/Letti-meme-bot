@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_f89a05447405",
-    "source": "CoinDesk",
-    "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-    "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-    "published_at": "Sun, 20 Sep 2026 12:00:00 +0000",
-    "fetched_at": "2026-09-20T14:19:34.643381+00:00",
-    "used": false,
-    "_sort_date": "2026-09-20T12:00:00+00:00"
-  },
-  {
-    "id": "llama_2026092014",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,846,746,324 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-20T14:19:38.844666+00:00",
-    "used": false,
-    "_sort_date": "2026-09-20T14:19:38.844666+00:00"
-  },
-  {
-    "id": "llama_2026092017",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,888,775,965 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-20T17:37:26.806370+00:00",
-    "used": false,
-    "_sort_date": "2026-09-20T17:37:26.806370+00:00"
-  },
-  {
     "id": "llama_2026092020",
     "source": "DeFiLlama",
     "title": "Base TVL: $5,917,004,904 🟢 +0.00% (24h)",
@@ -1659,5 +1629,59 @@
     "fetched_at": "2026-09-27T13:14:22.391940+00:00",
     "used": false,
     "_sort_date": "2026-09-27T13:14:22.391940+00:00"
+  },
+  {
+    "id": "rss_59350c097c02",
+    "source": "Cointelegraph Base",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_999100e730e1",
+    "source": "CoinDesk",
+    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+    "published_at": "Sun, 27 Sep 2026 14:29:13 +0000",
+    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_52b56eb47105",
+    "source": "The Defiant",
+    "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
+    "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
+    "published_at": "Sun, 27 Sep 2026 14:45:19 GMT",
+    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cd06277347a7",
+    "source": "The Defiant",
+    "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
+    "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
+    "published_at": "Sun, 27 Sep 2026 14:44:40 GMT",
+    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7d9814bb2586",
+    "source": "CryptoSlate",
+    "title": "SEC staff’s staking-token split spotlights the exit risks behind staked ETH tokens",
+    "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
+    "published_at": "Sun, 27 Sep 2026 16:00:54 +0000",
+    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092717",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,278,834,857 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-27T17:54:38.283638+00:00",
+    "used": false
   }
 ]
