@@ -1695,7 +1695,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-near-etf-clears-listing-and-registration-hurdles",
     "published_at": "Mon, 28 Sep 2026 11:41:53 GMT",
     "fetched_at": "2026-09-28T11:55:35.269234+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T11:41:53+00:00"
   },
   {
     "id": "rss_b409ab532436",
@@ -1704,7 +1705,8 @@
     "url": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
     "published_at": "Mon, 28 Sep 2026 11:30:01 +0000",
     "fetched_at": "2026-09-28T11:55:35.269234+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T11:30:01+00:00"
   },
   {
     "id": "llama_2026092811",
@@ -1713,6 +1715,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-28T11:55:57.989179+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T11:55:57.989179+00:00"
   }
 ]
