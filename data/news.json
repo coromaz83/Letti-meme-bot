@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_d4460c0c24f8",
-    "source": "CoinDesk",
-    "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-    "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-    "published_at": "Mon, 21 Sep 2026 13:11:15 +0000",
-    "fetched_at": "2026-09-21T14:28:58.039815+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T13:11:15+00:00"
-  },
-  {
-    "id": "llama_2026092114",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,133,837,307 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-21T14:29:03.364487+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T14:29:03.364487+00:00"
-  },
-  {
     "id": "rss_16a9f60fccf2",
     "source": "The Defiant",
     "title": "One Size Dominates Kalshi's ETH Perp Volume",
@@ -1717,5 +1697,149 @@
     "fetched_at": "2026-09-28T11:55:57.989179+00:00",
     "used": false,
     "_sort_date": "2026-09-28T11:55:57.989179+00:00"
+  },
+  {
+    "id": "rss_84d973985e9b",
+    "source": "CoinDesk",
+    "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+    "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+    "published_at": "Mon, 28 Sep 2026 16:16:40 +0000",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8835d31c37a5",
+    "source": "The Defiant",
+    "title": "Chainlink Launches CCIP 2.0 With Custom Verifiers and Faster Transfers",
+    "url": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
+    "published_at": "Mon, 28 Sep 2026 18:57:03 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0005cdea019",
+    "source": "The Defiant",
+    "title": "Polygon Plans Two-Month Boost to 7.7% Gross POL Staking Rate",
+    "url": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
+    "published_at": "Mon, 28 Sep 2026 18:03:06 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_05f87d5aaf73",
+    "source": "The Defiant",
+    "title": "Compound Foundation Denies V2 Reserve Misuse Allegation",
+    "url": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
+    "published_at": "Mon, 28 Sep 2026 18:00:52 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_00d05d9d7100",
+    "source": "The Defiant",
+    "title": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT",
+    "url": "https://thedefiant.io/news/regulation/tether-says-it-helped-freeze-nearly-550-million-in-iran-linked-usdt",
+    "published_at": "Mon, 28 Sep 2026 17:46:20 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3420ba28b29c",
+    "source": "The Defiant",
+    "title": "Dune Flags Yield Shortfall at Tokenized Money Funds",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dune-flags-yield-shortfall-at-tokenized-money-funds",
+    "published_at": "Mon, 28 Sep 2026 16:30:43 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_72d315beef07",
+    "source": "The Defiant",
+    "title": "Ondo Perps Adds Spot Trading for 12 Tokenized Stocks and ETFs",
+    "url": "https://thedefiant.io/news/defi/ondo-perps-adds-spot-trading-for-12-tokenized-stocks-and-etfs",
+    "published_at": "Mon, 28 Sep 2026 16:07:37 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8dc9c7a342be",
+    "source": "The Defiant",
+    "title": "Citi Taps Coinbase for Corporate Stablecoin Payments: WSJ",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/citi-taps-coinbase-for-corporate-stablecoin-payments-wsj",
+    "published_at": "Mon, 28 Sep 2026 12:29:31 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab6f6c3cfab5",
+    "source": "The Defiant",
+    "title": "Bitget Reopens Bitcoin Withdrawals After $387.5 Million Breach",
+    "url": "https://thedefiant.io/news/hacks/bitget-reopens-bitcoin-withdrawals-after-387-5-million-breach",
+    "published_at": "Mon, 28 Sep 2026 12:16:58 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_afe7d4b4a4fa",
+    "source": "The Defiant",
+    "title": "Bitcoin ETFs Draw Nearly $3 Billion in Seven Sessions as 2026 Flows Turn Positive",
+    "url": "https://thedefiant.io/news/markets/bitcoin-etfs-draw-nearly-3-billion-in-seven-sessions-as-2026-flows-turn-positive",
+    "published_at": "Mon, 28 Sep 2026 12:15:14 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cf312402e820",
+    "source": "The Defiant",
+    "title": "Fake GIWA Layer 2 Bridge Drained of 766 ETH",
+    "url": "https://thedefiant.io/news/security/fake-giwa-layer-2-bridge-drained-of-766-eth",
+    "published_at": "Mon, 28 Sep 2026 12:14:29 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fc3ad67c9c21",
+    "source": "The Defiant",
+    "title": "Franklin Templeton Fund Shares Become Bybit Trading Collateral",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-bybit-benji-tokenized-collateral-bycustody",
+    "published_at": "Mon, 28 Sep 2026 12:11:51 GMT",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ea462cb0b7a",
+    "source": "CryptoSlate",
+    "title": "USDT grew on Ethereum through 2024, but smart contract holdings stalled, BIS data show",
+    "url": "https://cryptoslate.com/usdt-growth-does-not-prove-more-defi-demand-on-ethereum-or-tron-bis-data-show/",
+    "published_at": "Mon, 28 Sep 2026 17:30:09 +0000",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c75cac81833",
+    "source": "Decrypt",
+    "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+    "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+    "published_at": "Mon, 28 Sep 2026 16:29:42 +0000",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b8f29b192a5b",
+    "source": "Decrypt",
+    "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+    "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
+    "published_at": "Mon, 28 Sep 2026 13:27:40 +0000",
+    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092819",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,276,988,378 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-28T19:34:45.826670+00:00",
+    "used": false
   }
 ]
