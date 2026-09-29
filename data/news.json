@@ -1,102 +1,5 @@
 [
   {
-    "id": "rss_cdd30d1e6541",
-    "source": "Cointelegraph Base",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1a6987090805",
-    "source": "The Defiant",
-    "title": "Bitcoin Cash Runs 27% on CME Futures Listing as Bitcoin Gives Up the Day",
-    "url": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
-    "published_at": "Tue, 22 Sep 2026 20:42:46 GMT",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T20:42:46+00:00"
-  },
-  {
-    "id": "rss_a1f0fbc60313",
-    "source": "The Defiant",
-    "title": "a16z And DeFi Education Fund Ask SEC To Put DEXs Outside Exchange Registration",
-    "url": "https://thedefiant.io/news/regulation/a16z-defi-education-fund-sec-dex-exchange-registration-safe-harbor",
-    "published_at": "Tue, 22 Sep 2026 20:15:06 GMT",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T20:15:06+00:00"
-  },
-  {
-    "id": "rss_dfeef8eda248",
-    "source": "Decrypt",
-    "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-    "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-    "published_at": "Tue, 22 Sep 2026 20:46:03 +0000",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T20:46:03+00:00"
-  },
-  {
-    "id": "rss_714a1ffb5d71",
-    "source": "Decrypt",
-    "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-    "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-    "published_at": "Tue, 22 Sep 2026 20:01:03 +0000",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T20:01:03+00:00"
-  },
-  {
-    "id": "rss_dec5715006b1",
-    "source": "Bankless",
-    "title": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
-    "url": "https://www.bankless.com/read/news/coinbase-rolls-out-fixed-rate-bitcoin-loans-via-morpho-midnight",
-    "published_at": "Tue, 22 Sep 2026 14:36:14 -0400",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T14:36:14-04:00"
-  },
-  {
-    "id": "rss_d69dd8042c9b",
-    "source": "Bankless",
-    "title": "Prediction Market Trueo Is Leaping from Base to Ethereum",
-    "url": "https://www.bankless.com/read/news/prediction-market-trueo-is-leaping-from-base-to-ethereum",
-    "published_at": "Tue, 22 Sep 2026 14:03:29 -0400",
-    "fetched_at": "2026-09-22T21:10:44.441532+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T14:03:29-04:00"
-  },
-  {
-    "id": "llama_2026092221",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,266,838,833 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-22T21:10:55.703331+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T21:10:55.703331+00:00"
-  },
-  {
     "id": "llama_2026092223",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,256,172,049 🟢 +0.00% (24h)",
@@ -1686,6 +1589,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-29T18:49:30.109004+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3a86da63fcf",
+    "source": "Cointelegraph Base",
+    "title": "Travala lets AI agents book hotels with USDC on Base",
+    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb1f3e4f40b0",
+    "source": "Cointelegraph Base",
+    "title": "Agentic payment activity tops 100M transactions on Base",
+    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd2b56f1e18b",
+    "source": "Cointelegraph Base",
+    "title": "Base launches new tool to connect crypto wallets to AI agents",
+    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ddc4112444f4",
+    "source": "The Defiant",
+    "title": "BlackRock Sees Stablecoins Powering AI Agent Payments",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments",
+    "published_at": "Tue, 29 Sep 2026 20:15:04 GMT",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aaae06e0cbf0",
+    "source": "The Defiant",
+    "title": "SEC Sues Cryptoaiml and TSAI Over Alleged $15 Million AI Trading Scams",
+    "url": "https://thedefiant.io/news/regulation/sec-sues-cryptoaiml-and-tsai-over-alleged-15-million-ai-trading-scams",
+    "published_at": "Tue, 29 Sep 2026 20:05:34 GMT",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1b6ebe13187d",
+    "source": "The Defiant",
+    "title": "Balancer Sets Shutdown Dates After BAL Holders Approve Wind-Down",
+    "url": "https://thedefiant.io/news/defi/balancer-sets-shutdown-dates-after-bal-holders-approve-wind-down",
+    "published_at": "Tue, 29 Sep 2026 19:13:04 GMT",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_df872dffe620",
+    "source": "The Defiant",
+    "title": "Balancer Holders Approve Wind-Down, Reject Official Fork",
+    "url": "https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork",
+    "published_at": "Tue, 29 Sep 2026 19:08:31 GMT",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa8a44025aed",
+    "source": "Decrypt",
+    "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+    "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+    "published_at": "Tue, 29 Sep 2026 21:46:03 +0000",
+    "fetched_at": "2026-09-29T22:54:52.227298+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092922",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,263,143,303 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-29T22:55:15.158246+00:00",
     "used": false
   }
 ]
