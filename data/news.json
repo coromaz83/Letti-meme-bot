@@ -1535,7 +1535,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
     "published_at": "Mon, 28 Sep 2026 16:16:40 +0000",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T16:16:40+00:00"
   },
   {
     "id": "rss_8835d31c37a5",
@@ -1544,7 +1545,8 @@
     "url": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
     "published_at": "Mon, 28 Sep 2026 18:57:03 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T18:57:03+00:00"
   },
   {
     "id": "rss_a0005cdea019",
@@ -1553,7 +1555,8 @@
     "url": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
     "published_at": "Mon, 28 Sep 2026 18:03:06 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T18:03:06+00:00"
   },
   {
     "id": "rss_05f87d5aaf73",
@@ -1562,7 +1565,8 @@
     "url": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
     "published_at": "Mon, 28 Sep 2026 18:00:52 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T18:00:52+00:00"
   },
   {
     "id": "rss_00d05d9d7100",
@@ -1571,7 +1575,8 @@
     "url": "https://thedefiant.io/news/regulation/tether-says-it-helped-freeze-nearly-550-million-in-iran-linked-usdt",
     "published_at": "Mon, 28 Sep 2026 17:46:20 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T17:46:20+00:00"
   },
   {
     "id": "rss_3420ba28b29c",
@@ -1580,7 +1585,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dune-flags-yield-shortfall-at-tokenized-money-funds",
     "published_at": "Mon, 28 Sep 2026 16:30:43 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T16:30:43+00:00"
   },
   {
     "id": "rss_72d315beef07",
@@ -1589,7 +1595,8 @@
     "url": "https://thedefiant.io/news/defi/ondo-perps-adds-spot-trading-for-12-tokenized-stocks-and-etfs",
     "published_at": "Mon, 28 Sep 2026 16:07:37 GMT",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T16:07:37+00:00"
   },
   {
     "id": "rss_8dc9c7a342be",
@@ -1643,7 +1650,8 @@
     "url": "https://cryptoslate.com/usdt-growth-does-not-prove-more-defi-demand-on-ethereum-or-tron-bis-data-show/",
     "published_at": "Mon, 28 Sep 2026 17:30:09 +0000",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T17:30:09+00:00"
   },
   {
     "id": "rss_2c75cac81833",
@@ -1652,7 +1660,8 @@
     "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
     "published_at": "Mon, 28 Sep 2026 16:29:42 +0000",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T16:29:42+00:00"
   },
   {
     "id": "rss_b8f29b192a5b",
@@ -1661,7 +1670,8 @@
     "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
     "published_at": "Mon, 28 Sep 2026 13:27:40 +0000",
     "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T13:27:40+00:00"
   },
   {
     "id": "llama_2026092819",
@@ -1670,7 +1680,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-28T19:34:45.826670+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T19:34:45.826670+00:00"
   },
   {
     "id": "rss_b215138d1096",
@@ -1679,7 +1690,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
     "published_at": "Mon, 28 Sep 2026 20:50:00 GMT",
     "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T20:50:00+00:00"
   },
   {
     "id": "rss_f49779f6b0aa",
@@ -1688,7 +1700,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles",
     "published_at": "Mon, 28 Sep 2026 20:48:38 GMT",
     "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T20:48:38+00:00"
   },
   {
     "id": "rss_e5f1f1f0af75",
@@ -1697,7 +1710,8 @@
     "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight/",
     "published_at": "Mon, 28 Sep 2026 20:30:08 +0000",
     "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T20:30:08+00:00"
   },
   {
     "id": "rss_6e571cfceccb",
@@ -1706,7 +1720,8 @@
     "url": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
     "published_at": "Mon, 28 Sep 2026 19:35:25 +0000",
     "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T19:35:25+00:00"
   },
   {
     "id": "rss_f0106015efc2",
@@ -1715,7 +1730,8 @@
     "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
     "published_at": "Mon, 28 Sep 2026 20:36:03 +0000",
     "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-28T20:36:03+00:00"
   },
   {
     "id": "llama_2026092900",
@@ -1724,6 +1740,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-29T00:18:48.787191+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T00:18:48.787191+00:00"
   }
 ]
