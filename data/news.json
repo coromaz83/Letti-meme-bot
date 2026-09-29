@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-09-22T01:46:13.604926+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092201",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,241,377,536 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-22T01:46:18.570361+00:00",
-    "used": false
-  },
-  {
     "id": "rss_03c1cbf97587",
     "source": "Cointelegraph Base",
     "title": "Trueo prediction market moves from Base to Ethereum",
@@ -1742,5 +1724,32 @@
     "fetched_at": "2026-09-29T00:18:48.787191+00:00",
     "used": false,
     "_sort_date": "2026-09-29T00:18:48.787191+00:00"
+  },
+  {
+    "id": "rss_3e452a5b938b",
+    "source": "The Defiant",
+    "title": "Coinbase Wins CFTC Approval for In-House Derivatives Clearing",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing",
+    "published_at": "Tue, 29 Sep 2026 01:23:54 GMT",
+    "fetched_at": "2026-09-29T06:03:23.893588+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_48f18d75bff5",
+    "source": "CryptoSlate",
+    "title": "Coinbase powers Citi’s new stablecoin rails, and corporate banking faces a major shift",
+    "url": "https://cryptoslate.com/coinbase-powers-citis-new-stablecoin-rails-and-corporate-banking-faces-a-major-shift/",
+    "published_at": "Tue, 29 Sep 2026 06:00:50 +0000",
+    "fetched_at": "2026-09-29T06:03:23.893588+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092906",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,224,202,828 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-29T06:03:27.982970+00:00",
+    "used": false
   }
 ]
