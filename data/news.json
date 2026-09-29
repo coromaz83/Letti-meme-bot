@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-09-22T07:37:19.584174+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T04:03:00+00:00"
-  },
-  {
-    "id": "llama_2026092207",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,195,841,807 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-22T07:37:24.443684+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T07:37:24.443684+00:00"
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -1750,6 +1730,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-29T06:03:27.982970+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e6836345b8f",
+    "source": "CoinDesk",
+    "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+    "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+    "published_at": "Tue, 29 Sep 2026 10:28:51 +0000",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_67766fe867e1",
+    "source": "The Defiant",
+    "title": "Ethlabs Says CCIP 2.0 Cuts Ethereum Confirmation Wait to Seconds",
+    "url": "https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds",
+    "published_at": "Tue, 29 Sep 2026 06:26:21 GMT",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fc47c2b935e8",
+    "source": "CryptoSlate",
+    "title": "BitMine nears 5% Ethereum threshold, yet stock valuation rules dictate its next move",
+    "url": "https://cryptoslate.com/bitmine-nears-5-ethereum-as-treasury-premiums-fade-its-next-capital-choice-is-harder/",
+    "published_at": "Tue, 29 Sep 2026 11:20:31 +0000",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9520effc5a65",
+    "source": "Decrypt",
+    "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+    "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+    "published_at": "Tue, 29 Sep 2026 12:05:18 +0000",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8bfeb039ec48",
+    "source": "Decrypt",
+    "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+    "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+    "published_at": "Tue, 29 Sep 2026 09:38:57 +0000",
+    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092913",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,296,192,561 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-29T13:15:22.322501+00:00",
     "used": false
   }
 ]
