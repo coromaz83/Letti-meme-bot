@@ -1,219 +1,5 @@
 [
   {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3a86da63fcf",
-    "source": "Cointelegraph Base",
-    "title": "Travala lets AI agents book hotels with USDC on Base",
-    "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 05 Jun 2026 19:55:27 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cb1f3e4f40b0",
-    "source": "Cointelegraph Base",
-    "title": "Agentic payment activity tops 100M transactions on Base",
-    "url": "https://cointelegraph.com/news/agentic-payment-activity-surpasses-100m-transactions-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 03 Jun 2026 16:54:33 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dd2b56f1e18b",
-    "source": "Cointelegraph Base",
-    "title": "Base launches new tool to connect crypto wallets to AI agents",
-    "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 27 May 2026 03:49:13 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4bc8efdb1eee",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-    "published_at": "Tue, 22 Sep 2026 12:32:15 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T12:32:15+00:00"
-  },
-  {
-    "id": "rss_b34e844156f6",
-    "source": "CoinDesk",
-    "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-    "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-    "published_at": "Tue, 22 Sep 2026 12:05:55 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T12:05:55+00:00"
-  },
-  {
-    "id": "rss_985e8217085e",
-    "source": "The Defiant",
-    "title": "Kamui Finance Brings Three Institutional Real-World Asset Vaults Live Onchain, Integrated With DigiFT, Centrifuge, Midas and Ondo",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/kamui-finance-rwa-vaults-live-onchain",
-    "published_at": "Tue, 22 Sep 2026 13:00:00 GMT",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T13:00:00+00:00"
-  },
-  {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T13:19:57.739506+00:00"
-  },
-  {
-    "id": "rss_caaba242a222",
-    "source": "CryptoSlate",
-    "title": "Coinbase pushes beyond crypto with retail access to $2.2 billion Oura IPO",
-    "url": "https://cryptoslate.com/coinbase-pushes-beyond-crypto-with-retail-access-to-2-2-billion-oura-ipo/",
-    "published_at": "Tue, 22 Sep 2026 11:30:08 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T11:30:08+00:00"
-  },
-  {
-    "id": "rss_02d2032a56d4",
-    "source": "Decrypt",
-    "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
-    "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-    "published_at": "Tue, 22 Sep 2026 09:47:47 +0000",
-    "fetched_at": "2026-09-22T13:19:57.739506+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T09:47:47+00:00"
-  },
-  {
-    "id": "llama_2026092213",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,222,099,584 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-22T13:20:02.385728+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T13:20:02.385728+00:00"
-  },
-  {
-    "id": "rss_c86aebcac072",
-    "source": "CoinDesk",
-    "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
-    "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
-    "published_at": "Tue, 22 Sep 2026 05:26:00 +0000",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d5f3ed4521a5",
-    "source": "The Defiant",
-    "title": "Vitalik Buterin Backs Trueo's Ethereum Move As TRUE Jumps 900%",
-    "url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
-    "published_at": "Tue, 22 Sep 2026 17:27:08 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T17:27:08+00:00"
-  },
-  {
-    "id": "rss_d4629bca4666",
-    "source": "The Defiant",
-    "title": "Kalshi Denies Faking Its Crypto Volume",
-    "url": "https://thedefiant.io/news/cefi/kalshi-denies-faking-its-crypto-volume",
-    "published_at": "Tue, 22 Sep 2026 17:00:00 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T17:00:00+00:00"
-  },
-  {
-    "id": "rss_ad79acd664bd",
-    "source": "The Defiant",
-    "title": "Near Adds Ondo’s Tokenized Stocks With Confidential Execution",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/near-com-adds-ondo-tokenized-stocks-confidential-execution",
-    "published_at": "Tue, 22 Sep 2026 16:25:46 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T16:25:46+00:00"
-  },
-  {
-    "id": "rss_058788ded6a9",
-    "source": "The Defiant",
-    "title": "Kinetiq Opens Elysium Testnet for Hyperliquid-Focused DeFi Apps",
-    "url": "https://thedefiant.io/news/defi/kinetiq-opens-elysium-testnet-for-hyperliquid-focused-defi-apps",
-    "published_at": "Tue, 22 Sep 2026 15:32:05 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T15:32:05+00:00"
-  },
-  {
-    "id": "rss_0a16fbaa8032",
-    "source": "The Defiant",
-    "title": "CME Group to List Bitcoin Cash and Uniswap Futures Oct. 19",
-    "url": "https://thedefiant.io/news/markets/cme-group-to-list-bitcoin-cash-and-uniswap-futures-oct-19",
-    "published_at": "Tue, 22 Sep 2026 15:23:56 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T15:23:56+00:00"
-  },
-  {
-    "id": "rss_a4c956cafd31",
-    "source": "The Defiant",
-    "title": "Binance Takes $100 Million Circle Stake And Renews The USDC Deal Circle Pays For",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-100-million-circle-stake-five-year-usdc-deal",
-    "published_at": "Tue, 22 Sep 2026 15:04:23 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T15:04:23+00:00"
-  },
-  {
-    "id": "rss_861f4659be45",
-    "source": "The Defiant",
-    "title": "Mastercard-Owned BVNK Adds Stellar Rail for Stablecoin Payments",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-owned-bvnk-adds-stellar-rail-for-stablecoin-payments",
-    "published_at": "Tue, 22 Sep 2026 14:10:30 GMT",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T14:10:30+00:00"
-  },
-  {
-    "id": "rss_ca64d01a9bdb",
-    "source": "CryptoSlate",
-    "title": "Coinbase targets stock futures but CFTC standstill blocks launch",
-    "url": "https://cryptoslate.com/coinbase-targets-stock-futures-but-cftc-standstill-blocks-launch/",
-    "published_at": "Tue, 22 Sep 2026 14:50:59 +0000",
-    "fetched_at": "2026-09-22T17:43:48.025835+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T14:50:59+00:00"
-  },
-  {
-    "id": "llama_2026092217",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,219,529,891 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-22T17:43:52.902184+00:00",
-    "used": false,
-    "_sort_date": "2026-09-22T17:43:52.902184+00:00"
-  },
-  {
     "id": "rss_cdd30d1e6541",
     "source": "Cointelegraph Base",
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -1802,5 +1588,104 @@
     "fetched_at": "2026-09-29T13:15:22.322501+00:00",
     "used": false,
     "_sort_date": "2026-09-29T13:15:22.322501+00:00"
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4efd52bff44a",
+    "source": "CoinDesk",
+    "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+    "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+    "published_at": "Tue, 29 Sep 2026 16:00:00 +0000",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_187d40fade16",
+    "source": "The Defiant",
+    "title": "New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption",
+    "published_at": "Tue, 29 Sep 2026 17:20:23 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d6c37ab42a9c",
+    "source": "The Defiant",
+    "title": "House Oversight Expands Prediction-Market Probe to Hyperliquid",
+    "url": "https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid",
+    "published_at": "Tue, 29 Sep 2026 15:31:30 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7fb80aeca3c8",
+    "source": "The Defiant",
+    "title": "Coinbase Adds HYPE and ZEC as Collateral for Loans of Up to $100,000",
+    "url": "https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000",
+    "published_at": "Tue, 29 Sep 2026 15:15:13 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9751ed53cfb1",
+    "source": "The Defiant",
+    "title": "Sentora Seeks Aave V4 Markets With 50% Revenue Share for DAO",
+    "url": "https://thedefiant.io/news/defi/sentora-seeks-aave-v4-markets-with-50-revenue-share-for-dao",
+    "published_at": "Tue, 29 Sep 2026 14:10:13 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_194b2231bc24",
+    "source": "The Defiant",
+    "title": "Modveon Unveils El Salvador’s Sivar App for Dollar Transfers on Base",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/modveon-unveils-el-salvador-s-sivar-app-for-dollar-transfers-on-base",
+    "published_at": "Tue, 29 Sep 2026 14:04:53 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_54cc24693ccf",
+    "source": "The Defiant",
+    "title": "NEAR Intents Says It Froze $503,000 in Bitget Hack Funds",
+    "url": "https://thedefiant.io/news/hacks/near-intents-says-it-froze-503-000-in-bitget-hack-funds",
+    "published_at": "Tue, 29 Sep 2026 14:03:44 GMT",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6fca6130624",
+    "source": "CryptoSlate",
+    "title": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate",
+    "url": "https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/",
+    "published_at": "Tue, 29 Sep 2026 17:30:12 +0000",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_49e8e4d000a2",
+    "source": "Bankless",
+    "title": "Coinbase Completes U.S. Derivatives Stack With CFTC Approval",
+    "url": "https://www.bankless.com/read/news/coinbase-completes-u-s-derivatives-stack-with-cftc-approval",
+    "published_at": "Tue, 29 Sep 2026 09:59:17 -0400",
+    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092918",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,240,092,206 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-29T18:49:30.109004+00:00",
+    "used": false
   }
 ]
