@@ -1,175 +1,5 @@
 [
   {
-    "id": "rss_16a9f60fccf2",
-    "source": "The Defiant",
-    "title": "One Size Dominates Kalshi's ETH Perp Volume",
-    "url": "https://thedefiant.io/news/cefi/one-size-dominates-kalshi-eth-perp-volume",
-    "published_at": "Mon, 21 Sep 2026 19:00:00 GMT",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T19:00:00+00:00"
-  },
-  {
-    "id": "rss_5c8ac9033a24",
-    "source": "The Defiant",
-    "title": "Fairshake Plans $30 Million Ad Blitz Against Sherrod Brown in Ohio",
-    "url": "https://thedefiant.io/news/regulation/fairshake-plans-30-million-ad-blitz-against-sherrod-brown-in-ohio",
-    "published_at": "Mon, 21 Sep 2026 18:30:07 GMT",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T18:30:07+00:00"
-  },
-  {
-    "id": "rss_8a6fa6fe724b",
-    "source": "The Defiant",
-    "title": "World Liberty Opens WLFI Vote on 180-Day Governance Rewards",
-    "url": "https://thedefiant.io/news/defi/world-liberty-opens-wlfi-vote-on-180-day-governance-rewards",
-    "published_at": "Mon, 21 Sep 2026 18:26:13 GMT",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T18:26:13+00:00"
-  },
-  {
-    "id": "rss_cbf01b195406",
-    "source": "The Defiant",
-    "title": "Bitcoin Reaches Its Highest Level Since January as Crude Sinks 8%",
-    "url": "https://thedefiant.io/news/markets/bitcoin-highest-since-january-crude-sinks-sep-21-2026",
-    "published_at": "Mon, 21 Sep 2026 15:40:09 GMT",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T15:40:09+00:00"
-  },
-  {
-    "id": "rss_8a6ca22923e6",
-    "source": "CryptoSlate",
-    "title": "Will proposed faster block times really fix Ethereum’s biggest market losses?",
-    "url": "https://cryptoslate.com/why-faster-block-times-wont-fix-ethereums-biggest-market-losses/",
-    "published_at": "Mon, 21 Sep 2026 16:40:40 +0000",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T16:40:40+00:00"
-  },
-  {
-    "id": "rss_44078a4f0f03",
-    "source": "CryptoSlate",
-    "title": "Why truly decentralized DeFi needs no legal exemption according to SEC Commissioner Hester Peirce",
-    "url": "https://cryptoslate.com/why-truly-decentralized-defi-needs-no-legal-exemption-according-to-sec-commissioner-hester-peirce/",
-    "published_at": "Mon, 21 Sep 2026 14:35:31 +0000",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T14:35:31+00:00"
-  },
-  {
-    "id": "rss_464984e3725c",
-    "source": "Decrypt",
-    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-    "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-    "published_at": "Mon, 21 Sep 2026 19:26:49 +0000",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T19:26:49+00:00"
-  },
-  {
-    "id": "rss_3ccbd73ce41c",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-    "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-    "published_at": "Mon, 21 Sep 2026 15:00:49 +0000",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T15:00:49+00:00"
-  },
-  {
-    "id": "rss_c7bdc0c90d3d",
-    "source": "Bankless",
-    "title": "🏴 Robinhood's Onchain Endgame",
-    "url": "https://www.bankless.com/read/robinhood-s-onchain-endgame",
-    "published_at": "Mon, 21 Sep 2026 15:13:51 -0400",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T15:13:51-04:00"
-  },
-  {
-    "id": "rss_71652a34bd58",
-    "source": "Bankless",
-    "title": "Inside Robinhood's Onchain Endgame",
-    "url": "https://www.bankless.com/read/inside-robinhood-s-onchain-endgame",
-    "published_at": "Mon, 21 Sep 2026 14:10:21 -0400",
-    "fetched_at": "2026-09-21T19:42:39.274118+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T14:10:21-04:00"
-  },
-  {
-    "id": "llama_2026092119",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,200,190,431 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-21T19:42:44.185908+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T19:42:44.185908+00:00"
-  },
-  {
-    "id": "rss_0e7705b12b32",
-    "source": "The Defiant",
-    "title": "ZetaChain Votes to Wind Down Layer 1 and Move ZETA to Solana",
-    "url": "https://thedefiant.io/news/blockchains/zetachain-votes-to-wind-down-layer-1-and-move-zeta-to-solana",
-    "published_at": "Mon, 21 Sep 2026 21:10:43 GMT",
-    "fetched_at": "2026-09-21T23:09:35.942121+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T21:10:43+00:00"
-  },
-  {
-    "id": "rss_39eb8e97e0f7",
-    "source": "The Defiant",
-    "title": "Coinbase Opens IPO Allocations to US Retail Investors With Oura",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-opens-ipo-allocations-to-us-retail-investors-with-oura",
-    "published_at": "Mon, 21 Sep 2026 21:01:35 GMT",
-    "fetched_at": "2026-09-21T23:09:35.942121+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T21:01:35+00:00"
-  },
-  {
-    "id": "rss_549e17b8d1ef",
-    "source": "The Defiant",
-    "title": "OCC Gives Catena Preliminary Conditional Approval for National Trust Bank",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/occ-gives-catena-preliminary-conditional-approval-for-national-trust-bank",
-    "published_at": "Mon, 21 Sep 2026 21:00:08 GMT",
-    "fetched_at": "2026-09-21T23:09:35.942121+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T21:00:08+00:00"
-  },
-  {
-    "id": "rss_d5d5edd45fd2",
-    "source": "The Defiant",
-    "title": "Circle Opens Bitcoin-Backed USDC Borrowing To Mint Clients, Routed Through Morpho",
-    "url": "https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho",
-    "published_at": "Mon, 21 Sep 2026 20:30:00 GMT",
-    "fetched_at": "2026-09-21T23:09:35.942121+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T20:30:00+00:00"
-  },
-  {
-    "id": "rss_23bc4d3d60c2",
-    "source": "CryptoSlate",
-    "title": "L2 growth and $120 billion in staking hide Ethereum’s supply reality",
-    "url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
-    "published_at": "Mon, 21 Sep 2026 22:40:20 +0000",
-    "fetched_at": "2026-09-21T23:09:35.942121+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T22:40:20+00:00"
-  },
-  {
-    "id": "llama_2026092123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,258,024,016 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-21T23:09:41.646404+00:00",
-    "used": false,
-    "_sort_date": "2026-09-21T23:09:41.646404+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -1840,6 +1670,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-28T19:34:45.826670+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b215138d1096",
+    "source": "The Defiant",
+    "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
+    "url": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
+    "published_at": "Mon, 28 Sep 2026 20:50:00 GMT",
+    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f49779f6b0aa",
+    "source": "The Defiant",
+    "title": "Coinbase Teases Pokémon Card Packs Backed by Physical Collectibles",
+    "url": "https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles",
+    "published_at": "Mon, 28 Sep 2026 20:48:38 GMT",
+    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5f1f1f0af75",
+    "source": "CryptoSlate",
+    "title": "Lido’s 1,500 ETH reserve target could slow stETH withdrawals in a crunch",
+    "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight/",
+    "published_at": "Mon, 28 Sep 2026 20:30:08 +0000",
+    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6e571cfceccb",
+    "source": "CryptoSlate",
+    "title": "Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait",
+    "url": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
+    "published_at": "Mon, 28 Sep 2026 19:35:25 +0000",
+    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0106015efc2",
+    "source": "Decrypt",
+    "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+    "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "published_at": "Mon, 28 Sep 2026 20:36:03 +0000",
+    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026092900",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,247,768,740 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-29T00:18:48.787191+00:00",
     "used": false
   }
 ]
