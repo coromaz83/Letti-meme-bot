@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_b2af0dd8bf20",
-    "source": "CryptoSlate",
-    "title": "$1 billion in trading volume masks hidden liquidity risks for Coinbase stock token holders",
-    "url": "https://cryptoslate.com/coinbase-stock-tokens-passed-1-billion-in-reported-trades-but-their-exit-depth-remains-unproven/",
-    "published_at": "Wed, 23 Sep 2026 17:40:08 +0000",
-    "fetched_at": "2026-09-23T18:57:25.380104+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T17:40:08+00:00"
-  },
-  {
-    "id": "rss_304023ce2018",
-    "source": "Decrypt",
-    "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
-    "url": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
-    "published_at": "Wed, 23 Sep 2026 18:15:06 +0000",
-    "fetched_at": "2026-09-23T18:57:25.380104+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T18:15:06+00:00"
-  },
-  {
-    "id": "llama_2026092318",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,145,223,736 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-23T18:57:30.672815+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T18:57:30.672815+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -1790,5 +1760,140 @@
     "fetched_at": "2026-09-30T15:12:05.219260+00:00",
     "used": false,
     "_sort_date": "2026-09-30T15:12:05.219260+00:00"
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d89c1abd0d3e",
+    "source": "CoinDesk",
+    "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+    "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+    "published_at": "Wed, 30 Sep 2026 15:34:50 +0000",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6ebadf6f87a3",
+    "source": "CoinDesk",
+    "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
+    "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+    "published_at": "Wed, 30 Sep 2026 15:19:36 +0000",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_71f062e1832e",
+    "source": "CoinDesk",
+    "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
+    "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
+    "published_at": "Wed, 30 Sep 2026 10:18:34 +0000",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ed03173a17ba",
+    "source": "The Defiant",
+    "title": "Uniswap Labs Plans OUSD Rewards Hook for Liquidity Providers",
+    "url": "https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers",
+    "published_at": "Wed, 30 Sep 2026 19:53:45 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1c8eff5377a",
+    "source": "The Defiant",
+    "title": "Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules",
+    "url": "https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules",
+    "published_at": "Wed, 30 Sep 2026 19:29:57 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_60c160c67940",
+    "source": "The Defiant",
+    "title": "UK FCA Opens Crypto Authorization Window Ahead of 2027 Regime",
+    "url": "https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime",
+    "published_at": "Wed, 30 Sep 2026 19:27:02 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_51a5c15086dc",
+    "source": "The Defiant",
+    "title": "Base Ships Cobalt With Conditional Transactions And A Seize Function",
+    "url": "https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function",
+    "published_at": "Wed, 30 Sep 2026 19:00:14 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f641b674b973",
+    "source": "The Defiant",
+    "title": "Arc Packages USDC Funding and Morpho Lending for Apps",
+    "url": "https://thedefiant.io/news/defi/arc-packages-usdc-funding-and-morpho-lending-for-apps",
+    "published_at": "Wed, 30 Sep 2026 18:51:12 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_74fa03858f12",
+    "source": "The Defiant",
+    "title": "Chainlink Unveils Fulcrum for Cross-Chain Institutional Repo",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-unveils-fulcrum-for-cross-chain-institutional-repo",
+    "published_at": "Wed, 30 Sep 2026 18:24:37 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a42f511df670",
+    "source": "The Defiant",
+    "title": "Open USD Launches as Stripe's Default Stablecoin",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin",
+    "published_at": "Wed, 30 Sep 2026 18:00:39 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c50366992f1c",
+    "source": "The Defiant",
+    "title": "Lloyds and Visa Settle $750,000 in USDC in Cross-Border Pilot",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/lloyds-and-visa-settle-750-000-in-usdc-in-cross-border-pilot",
+    "published_at": "Wed, 30 Sep 2026 17:54:48 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d76a7f982029",
+    "source": "The Defiant",
+    "title": "Aave V4 TVL Climbs 82% in September as Arc Reaches $181 Million",
+    "url": "https://thedefiant.io/news/defi/aave-v4-tvl-climbs-82-in-september-as-arc-reaches-181-million",
+    "published_at": "Wed, 30 Sep 2026 17:47:03 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eda7fa5730d5",
+    "source": "The Defiant",
+    "title": "ESMA Proposes MiCA Rules for DeFi Gateways, Staking and Lending",
+    "url": "https://thedefiant.io/converge/regulation/esma-proposes-mica-rules-for-defi-gateways-staking-and-lending",
+    "published_at": "Wed, 30 Sep 2026 17:27:11 GMT",
+    "fetched_at": "2026-09-30T20:15:27.806606+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026093020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,289,375,193 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-30T20:15:35.933221+00:00",
+    "used": false
   }
 ]
