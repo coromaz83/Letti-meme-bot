@@ -1508,7 +1508,8 @@
     "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
     "published_at": "Tue, 29 Sep 2026 16:00:00 +0000",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T16:00:00+00:00"
   },
   {
     "id": "rss_187d40fade16",
@@ -1517,7 +1518,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption",
     "published_at": "Tue, 29 Sep 2026 17:20:23 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T17:20:23+00:00"
   },
   {
     "id": "rss_d6c37ab42a9c",
@@ -1526,7 +1528,8 @@
     "url": "https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid",
     "published_at": "Tue, 29 Sep 2026 15:31:30 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T15:31:30+00:00"
   },
   {
     "id": "rss_7fb80aeca3c8",
@@ -1535,7 +1538,8 @@
     "url": "https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000",
     "published_at": "Tue, 29 Sep 2026 15:15:13 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T15:15:13+00:00"
   },
   {
     "id": "rss_9751ed53cfb1",
@@ -1544,7 +1548,8 @@
     "url": "https://thedefiant.io/news/defi/sentora-seeks-aave-v4-markets-with-50-revenue-share-for-dao",
     "published_at": "Tue, 29 Sep 2026 14:10:13 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T14:10:13+00:00"
   },
   {
     "id": "rss_194b2231bc24",
@@ -1553,7 +1558,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/modveon-unveils-el-salvador-s-sivar-app-for-dollar-transfers-on-base",
     "published_at": "Tue, 29 Sep 2026 14:04:53 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T14:04:53+00:00"
   },
   {
     "id": "rss_54cc24693ccf",
@@ -1562,7 +1568,8 @@
     "url": "https://thedefiant.io/news/hacks/near-intents-says-it-froze-503-000-in-bitget-hack-funds",
     "published_at": "Tue, 29 Sep 2026 14:03:44 GMT",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T14:03:44+00:00"
   },
   {
     "id": "rss_f6fca6130624",
@@ -1571,7 +1578,8 @@
     "url": "https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/",
     "published_at": "Tue, 29 Sep 2026 17:30:12 +0000",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T17:30:12+00:00"
   },
   {
     "id": "rss_49e8e4d000a2",
@@ -1580,7 +1588,8 @@
     "url": "https://www.bankless.com/read/news/coinbase-completes-u-s-derivatives-stack-with-cftc-approval",
     "published_at": "Tue, 29 Sep 2026 09:59:17 -0400",
     "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T09:59:17-04:00"
   },
   {
     "id": "llama_2026092918",
@@ -1589,7 +1598,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-29T18:49:30.109004+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T18:49:30.109004+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -1643,7 +1653,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments",
     "published_at": "Tue, 29 Sep 2026 20:15:04 GMT",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T20:15:04+00:00"
   },
   {
     "id": "rss_aaae06e0cbf0",
@@ -1652,7 +1663,8 @@
     "url": "https://thedefiant.io/news/regulation/sec-sues-cryptoaiml-and-tsai-over-alleged-15-million-ai-trading-scams",
     "published_at": "Tue, 29 Sep 2026 20:05:34 GMT",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T20:05:34+00:00"
   },
   {
     "id": "rss_1b6ebe13187d",
@@ -1661,7 +1673,8 @@
     "url": "https://thedefiant.io/news/defi/balancer-sets-shutdown-dates-after-bal-holders-approve-wind-down",
     "published_at": "Tue, 29 Sep 2026 19:13:04 GMT",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T19:13:04+00:00"
   },
   {
     "id": "rss_df872dffe620",
@@ -1670,7 +1683,8 @@
     "url": "https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork",
     "published_at": "Tue, 29 Sep 2026 19:08:31 GMT",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T19:08:31+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -1679,7 +1693,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T22:54:52.227298+00:00"
   },
   {
     "id": "rss_fa8a44025aed",
@@ -1688,7 +1703,8 @@
     "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
     "published_at": "Tue, 29 Sep 2026 21:46:03 +0000",
     "fetched_at": "2026-09-29T22:54:52.227298+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T21:46:03+00:00"
   },
   {
     "id": "llama_2026092922",
@@ -1697,6 +1713,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-29T22:55:15.158246+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-29T22:55:15.158246+00:00"
   }
 ]
