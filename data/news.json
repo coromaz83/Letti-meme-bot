@@ -1,115 +1,5 @@
 [
   {
-    "id": "rss_ead066055a55",
-    "source": "CoinDesk",
-    "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-    "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
-    "published_at": "Wed, 23 Sep 2026 07:49:23 +0000",
-    "fetched_at": "2026-09-23T09:51:21.507678+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T07:49:23+00:00"
-  },
-  {
-    "id": "rss_45116d1556b6",
-    "source": "CryptoSlate",
-    "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
-    "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead/",
-    "published_at": "Wed, 23 Sep 2026 05:40:04 +0000",
-    "fetched_at": "2026-09-23T09:51:21.507678+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T05:40:04+00:00"
-  },
-  {
-    "id": "llama_2026092309",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,292,572,851 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-23T09:51:26.452059+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T09:51:26.452059+00:00"
-  },
-  {
-    "id": "rss_65a943b7e2ac",
-    "source": "CoinDesk",
-    "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-    "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-    "published_at": "Wed, 23 Sep 2026 09:57:24 +0000",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T09:57:24+00:00"
-  },
-  {
-    "id": "rss_b0a9f75290cc",
-    "source": "The Defiant",
-    "title": "Six Canadian Banks Outline First Phase of Tokenized Deposit Project",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
-    "published_at": "Wed, 23 Sep 2026 14:24:44 GMT",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T14:24:44+00:00"
-  },
-  {
-    "id": "rss_a14d09c5b3e0",
-    "source": "The Defiant",
-    "title": "Brazil Tops Redesigned Crypto Adoption Index as Latin America Defies Global Slump",
-    "url": "https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump",
-    "published_at": "Wed, 23 Sep 2026 14:16:04 GMT",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T14:16:04+00:00"
-  },
-  {
-    "id": "rss_3eb388e80d54",
-    "source": "The Defiant",
-    "title": "Ondo Opens In-Kind Minting for Tokenized US Stocks",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-in-kind-minting-for-tokenized-us-stocks",
-    "published_at": "Wed, 23 Sep 2026 14:00:55 GMT",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T14:00:55+00:00"
-  },
-  {
-    "id": "rss_ded660df5940",
-    "source": "The Defiant",
-    "title": "Galaxy Adds $100 Million of sUSDS to Treasury, Approves It as Loan Collateral",
-    "url": "https://thedefiant.io/news/defi/galaxy-adds-100-million-of-susds-to-treasury-approves-it-as-loan-collateral",
-    "published_at": "Wed, 23 Sep 2026 13:58:43 GMT",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T13:58:43+00:00"
-  },
-  {
-    "id": "rss_271d697011e9",
-    "source": "The Defiant",
-    "title": "Blockchain.com and NYSE Explore 24/7 Tokenized Stock Trading",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/blockchain-com-and-nyse-explore-24-7-tokenized-stock-trading",
-    "published_at": "Wed, 23 Sep 2026 13:55:04 GMT",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T13:55:04+00:00"
-  },
-  {
-    "id": "rss_085dec4c6ca2",
-    "source": "CryptoSlate",
-    "title": "Coinbase traced $1.1 million crypto trail behind AI phishing service EvilTokens",
-    "url": "https://cryptoslate.com/coinbase-traced-1-1-million-crypto-trail-behind-ai-phishing-service-eviltokens/",
-    "published_at": "Wed, 23 Sep 2026 10:20:37 +0000",
-    "fetched_at": "2026-09-23T14:51:04.842189+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T10:20:37+00:00"
-  },
-  {
-    "id": "llama_2026092314",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,238,539,491 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-23T14:51:10.964781+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T14:51:10.964781+00:00"
-  },
-  {
     "id": "rss_b2af0dd8bf20",
     "source": "CryptoSlate",
     "title": "$1 billion in trading volume masks hidden liquidity risks for Coinbase stock token holders",
@@ -1803,6 +1693,87 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-30T08:22:38.980710+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a14b08198b61",
+    "source": "The Defiant",
+    "title": "Most Tokenized Cash Never Trades, Dune Finds",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dune-report-most-tokenized-cash-never-trades",
+    "published_at": "Wed, 30 Sep 2026 15:04:44 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_210d3e2a7b93",
+    "source": "The Defiant",
+    "title": "Ostium Recovery Plan Repays 3,321 Wallets In Full, Leaves 345 To Choose",
+    "url": "https://thedefiant.io/news/hacks/ostium-recovery-plan-repays-3321-wallets-in-full-leaves-345-to-choose",
+    "published_at": "Wed, 30 Sep 2026 15:00:00 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e554859239ea",
+    "source": "The Defiant",
+    "title": "Gate: Same-Name Error Triggers Liquidations in Perp Market",
+    "url": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment",
+    "published_at": "Wed, 30 Sep 2026 10:27:01 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23dc3fbe1450",
+    "source": "The Defiant",
+    "title": "Stable Announces Visa Direct Integration for Bank and Mobile Wallet Payouts",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stable-announces-visa-direct-integration-for-bank-and-mobile-wallet-payouts",
+    "published_at": "Wed, 30 Sep 2026 10:10:10 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4fe99f209b5c",
+    "source": "The Defiant",
+    "title": "HSBC Names Hong Kong Stablecoin 'RedCoin' Ahead of Retail Rollout",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout",
+    "published_at": "Wed, 30 Sep 2026 10:04:27 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23f33ddae9ca",
+    "source": "The Defiant",
+    "title": "Standard Chartered Initiates ENA Coverage With $2 Target",
+    "url": "https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target",
+    "published_at": "Wed, 30 Sep 2026 09:50:00 GMT",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b301f7f1aef",
+    "source": "CryptoSlate",
+    "title": "Coinbase just completed its US derivatives stack but its biggest bet still sits outside it",
+    "url": "https://cryptoslate.com/coinbase-just-completed-its-us-derivatives-stack-but-its-biggest-bet-still-sits-outside-it/",
+    "published_at": "Wed, 30 Sep 2026 11:20:43 +0000",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b82e53e3173",
+    "source": "Decrypt",
+    "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
+    "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
+    "published_at": "Wed, 30 Sep 2026 10:32:01 +0000",
+    "fetched_at": "2026-09-30T15:11:43.744446+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026093015",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,362,006,255 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-09-30T15:12:05.219260+00:00",
     "used": false
   }
 ]
