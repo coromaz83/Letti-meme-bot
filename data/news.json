@@ -1639,7 +1639,8 @@
     "url": "https://thedefiant.io/news/cefi/kalshi-files-to-end-volume-incentive-program",
     "published_at": "Wed, 30 Sep 2026 07:34:13 GMT",
     "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T07:34:13+00:00"
   },
   {
     "id": "rss_a84730441200",
@@ -1648,7 +1649,8 @@
     "url": "https://thedefiant.io/news/defi/lighter-token-drops-after-robinhood-perps-plan",
     "published_at": "Wed, 30 Sep 2026 06:38:11 GMT",
     "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T06:38:11+00:00"
   },
   {
     "id": "rss_5bc31c1e7bb6",
@@ -1657,7 +1659,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-sets-up-lab-to-test-stablecoins-and-defi",
     "published_at": "Wed, 30 Sep 2026 06:35:52 GMT",
     "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T06:35:52+00:00"
   },
   {
     "id": "rss_0ccf19076f9c",
@@ -1666,7 +1669,8 @@
     "url": "https://thedefiant.io/converge/cefi/robinhood-unveils-in-app-ai-agents-for-crypto-and-stock-trading",
     "published_at": "Wed, 30 Sep 2026 06:35:23 GMT",
     "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T06:35:23+00:00"
   },
   {
     "id": "rss_13587f5ee23b",
@@ -1675,7 +1679,8 @@
     "url": "https://thedefiant.io/news/cefi/kalshi-in-advanced-talks-for-1b-raise-at-40b-valuation-reuters",
     "published_at": "Wed, 30 Sep 2026 06:34:34 GMT",
     "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T06:34:34+00:00"
   },
   {
     "id": "rss_c5e494fa47cb",
@@ -1693,7 +1698,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-30T08:22:38.980710+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T08:22:38.980710+00:00"
   },
   {
     "id": "rss_a14b08198b61",
@@ -1702,7 +1708,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dune-report-most-tokenized-cash-never-trades",
     "published_at": "Wed, 30 Sep 2026 15:04:44 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T15:04:44+00:00"
   },
   {
     "id": "rss_210d3e2a7b93",
@@ -1711,7 +1718,8 @@
     "url": "https://thedefiant.io/news/hacks/ostium-recovery-plan-repays-3321-wallets-in-full-leaves-345-to-choose",
     "published_at": "Wed, 30 Sep 2026 15:00:00 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T15:00:00+00:00"
   },
   {
     "id": "rss_e554859239ea",
@@ -1720,7 +1728,8 @@
     "url": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment",
     "published_at": "Wed, 30 Sep 2026 10:27:01 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T10:27:01+00:00"
   },
   {
     "id": "rss_23dc3fbe1450",
@@ -1729,7 +1738,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/stable-announces-visa-direct-integration-for-bank-and-mobile-wallet-payouts",
     "published_at": "Wed, 30 Sep 2026 10:10:10 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T10:10:10+00:00"
   },
   {
     "id": "rss_4fe99f209b5c",
@@ -1738,7 +1748,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-names-hong-kong-stablecoin-redcoin-ahead-of-retail-rollout",
     "published_at": "Wed, 30 Sep 2026 10:04:27 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T10:04:27+00:00"
   },
   {
     "id": "rss_23f33ddae9ca",
@@ -1747,7 +1758,8 @@
     "url": "https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target",
     "published_at": "Wed, 30 Sep 2026 09:50:00 GMT",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T09:50:00+00:00"
   },
   {
     "id": "rss_6b301f7f1aef",
@@ -1756,7 +1768,8 @@
     "url": "https://cryptoslate.com/coinbase-just-completed-its-us-derivatives-stack-but-its-biggest-bet-still-sits-outside-it/",
     "published_at": "Wed, 30 Sep 2026 11:20:43 +0000",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T11:20:43+00:00"
   },
   {
     "id": "rss_4b82e53e3173",
@@ -1765,7 +1778,8 @@
     "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
     "published_at": "Wed, 30 Sep 2026 10:32:01 +0000",
     "fetched_at": "2026-09-30T15:11:43.744446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T10:32:01+00:00"
   },
   {
     "id": "llama_2026093015",
@@ -1774,6 +1788,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-30T15:12:05.219260+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T15:12:05.219260+00:00"
   }
 ]
