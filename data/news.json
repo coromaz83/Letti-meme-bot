@@ -1699,7 +1699,8 @@
     "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T19:00:00+00:00"
   },
   {
     "id": "rss_d89c1abd0d3e",
@@ -1708,7 +1709,8 @@
     "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
     "published_at": "Wed, 30 Sep 2026 15:34:50 +0000",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T15:34:50+00:00"
   },
   {
     "id": "rss_6ebadf6f87a3",
@@ -1717,7 +1719,8 @@
     "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
     "published_at": "Wed, 30 Sep 2026 15:19:36 +0000",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T15:19:36+00:00"
   },
   {
     "id": "rss_71f062e1832e",
@@ -1735,7 +1738,8 @@
     "url": "https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers",
     "published_at": "Wed, 30 Sep 2026 19:53:45 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T19:53:45+00:00"
   },
   {
     "id": "rss_a1c8eff5377a",
@@ -1744,7 +1748,8 @@
     "url": "https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules",
     "published_at": "Wed, 30 Sep 2026 19:29:57 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T19:29:57+00:00"
   },
   {
     "id": "rss_60c160c67940",
@@ -1753,7 +1758,8 @@
     "url": "https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime",
     "published_at": "Wed, 30 Sep 2026 19:27:02 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T19:27:02+00:00"
   },
   {
     "id": "rss_51a5c15086dc",
@@ -1762,7 +1768,8 @@
     "url": "https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function",
     "published_at": "Wed, 30 Sep 2026 19:00:14 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T19:00:14+00:00"
   },
   {
     "id": "rss_f641b674b973",
@@ -1771,7 +1778,8 @@
     "url": "https://thedefiant.io/news/defi/arc-packages-usdc-funding-and-morpho-lending-for-apps",
     "published_at": "Wed, 30 Sep 2026 18:51:12 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T18:51:12+00:00"
   },
   {
     "id": "rss_74fa03858f12",
@@ -1780,7 +1788,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-unveils-fulcrum-for-cross-chain-institutional-repo",
     "published_at": "Wed, 30 Sep 2026 18:24:37 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T18:24:37+00:00"
   },
   {
     "id": "rss_a42f511df670",
@@ -1789,7 +1798,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin",
     "published_at": "Wed, 30 Sep 2026 18:00:39 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T18:00:39+00:00"
   },
   {
     "id": "rss_c50366992f1c",
@@ -1798,7 +1808,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/lloyds-and-visa-settle-750-000-in-usdc-in-cross-border-pilot",
     "published_at": "Wed, 30 Sep 2026 17:54:48 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T17:54:48+00:00"
   },
   {
     "id": "rss_d76a7f982029",
@@ -1807,7 +1818,8 @@
     "url": "https://thedefiant.io/news/defi/aave-v4-tvl-climbs-82-in-september-as-arc-reaches-181-million",
     "published_at": "Wed, 30 Sep 2026 17:47:03 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T17:47:03+00:00"
   },
   {
     "id": "rss_eda7fa5730d5",
@@ -1816,7 +1828,8 @@
     "url": "https://thedefiant.io/converge/regulation/esma-proposes-mica-rules-for-defi-gateways-staking-and-lending",
     "published_at": "Wed, 30 Sep 2026 17:27:11 GMT",
     "fetched_at": "2026-09-30T20:15:27.806606+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T17:27:11+00:00"
   },
   {
     "id": "llama_2026093020",
@@ -1825,7 +1838,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-30T20:15:35.933221+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T20:15:35.933221+00:00"
   },
   {
     "id": "rss_db24faec32d6",
@@ -1834,7 +1848,8 @@
     "url": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
     "published_at": "Thu, 01 Oct 2026 00:00:43 GMT",
     "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T00:00:43+00:00"
   },
   {
     "id": "rss_7ccb1189851a",
@@ -1843,7 +1858,8 @@
     "url": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
     "published_at": "Wed, 30 Sep 2026 21:29:30 GMT",
     "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T21:29:30+00:00"
   },
   {
     "id": "rss_4a5e8d587865",
@@ -1852,7 +1868,8 @@
     "url": "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/",
     "published_at": "Wed, 30 Sep 2026 21:30:01 +0000",
     "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T21:30:01+00:00"
   },
   {
     "id": "rss_24197e685943",
@@ -1861,7 +1878,8 @@
     "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
     "published_at": "Wed, 30 Sep 2026 20:31:04 +0000",
     "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-09-30T20:31:04+00:00"
   },
   {
     "id": "llama_2026100100",
@@ -1870,6 +1888,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-01T00:07:35.978849+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T00:07:35.978849+00:00"
   }
 ]
