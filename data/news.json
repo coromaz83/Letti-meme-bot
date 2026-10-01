@@ -1,74 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6c8aa35c14b6",
-    "source": "The Defiant",
-    "title": "Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower",
-    "url": "https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026",
-    "published_at": "Wed, 23 Sep 2026 21:20:51 GMT",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T21:20:51+00:00"
-  },
-  {
-    "id": "rss_9995d6c6710e",
-    "source": "The Defiant",
-    "title": "Zcash Clears $1,600 After 21Shares Launches European ETP",
-    "url": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
-    "published_at": "Wed, 23 Sep 2026 19:55:11 GMT",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T19:55:11+00:00"
-  },
-  {
-    "id": "rss_d73fbd92d7f9",
-    "source": "The Defiant",
-    "title": "Cosmos Hub Restarts; 1.23 Million ATOM Moved From Neutron Attacker Wallet",
-    "url": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
-    "published_at": "Wed, 23 Sep 2026 19:54:30 GMT",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T19:54:30+00:00"
-  },
-  {
-    "id": "rss_8d4cdd2fe8bf",
-    "source": "The Defiant",
-    "title": "KB Securities, Securitize and Optimism Sign Exploratory Korea Tokenization MOU",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou",
-    "published_at": "Wed, 23 Sep 2026 19:10:14 GMT",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T19:10:14+00:00"
-  },
-  {
-    "id": "rss_2b3ec8f1ea46",
-    "source": "The Defiant",
-    "title": "MoonPay Agrees to Buy North Capital, Adding Securities Infrastructure",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure",
-    "published_at": "Wed, 23 Sep 2026 19:06:18 GMT",
-    "fetched_at": "2026-09-23T22:12:10.201501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T19:06:18+00:00"
-  },
-  {
-    "id": "llama_2026092322",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,150,587,735 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-23T22:12:13.467179+00:00",
-    "used": false,
-    "_sort_date": "2026-09-23T22:12:13.467179+00:00"
-  },
-  {
     "id": "rss_7a5505f83e23",
     "source": "The Defiant",
     "title": "Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?",
@@ -1894,6 +1825,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-09-30T20:15:35.933221+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db24faec32d6",
+    "source": "The Defiant",
+    "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
+    "url": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
+    "published_at": "Thu, 01 Oct 2026 00:00:43 GMT",
+    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ccb1189851a",
+    "source": "The Defiant",
+    "title": "OFAC Sanctions Tren de Aragua ATM Network, Lists Seven Tron Addresses",
+    "url": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
+    "published_at": "Wed, 30 Sep 2026 21:29:30 GMT",
+    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a5e8d587865",
+    "source": "CryptoSlate",
+    "title": "Standard Chartered says Ethena’s ENA could crush Bitcoin and Ethereum returns by 2028",
+    "url": "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/",
+    "published_at": "Wed, 30 Sep 2026 21:30:01 +0000",
+    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_24197e685943",
+    "source": "Decrypt",
+    "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+    "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+    "published_at": "Wed, 30 Sep 2026 20:31:04 +0000",
+    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100100",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,281,374,233 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-01T00:07:35.978849+00:00",
     "used": false
   }
 ]
