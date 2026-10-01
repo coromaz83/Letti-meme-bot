@@ -1,135 +1,5 @@
 [
   {
-    "id": "rss_37fea5f41c92",
-    "source": "The Defiant",
-    "title": "SEC Crypto Custody Rewrite Enters White House Review",
-    "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-    "published_at": "Thu, 24 Sep 2026 17:29:45 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:29:45+00:00"
-  },
-  {
-    "id": "rss_4cc5483bf4b3",
-    "source": "The Defiant",
-    "title": "Morgan Stanley, Oliver Wyman See Tokenized Assets Reaching $2.3 Trillion by 2030",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-oliver-wyman-see-tokenized-assets-reaching-2-3-trillion-by-2030",
-    "published_at": "Thu, 24 Sep 2026 17:19:11 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:19:11+00:00"
-  },
-  {
-    "id": "rss_c859f024bbce",
-    "source": "The Defiant",
-    "title": "Cross-Border Stablecoin Flows Jump 77.5% but Remain Concentrated",
-    "url": "https://thedefiant.io/news/markets/cross-border-stablecoin-flows-jump-77-5-but-remain-concentrated",
-    "published_at": "Thu, 24 Sep 2026 17:09:01 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:09:01+00:00"
-  },
-  {
-    "id": "rss_1069b6cee270",
-    "source": "The Defiant",
-    "title": "Payy Halts Network After $1.92 Million USDC Drain",
-    "url": "https://thedefiant.io/news/hacks/payy-halts-network-after-1-92-million-usdc-drain",
-    "published_at": "Thu, 24 Sep 2026 16:53:16 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T16:53:16+00:00"
-  },
-  {
-    "id": "rss_a5ff11ee4ab7",
-    "source": "The Defiant",
-    "title": "New York Sues Polymarket US Over Unlicensed Gambling",
-    "url": "https://thedefiant.io/news/regulation/new-york-sues-polymarket-us-unlicensed-gambling",
-    "published_at": "Thu, 24 Sep 2026 16:19:07 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T16:19:07+00:00"
-  },
-  {
-    "id": "rss_34fead5b7ba4",
-    "source": "The Defiant",
-    "title": "Ondo Leads An Overnight Altcoin Bid As Bitcoin Holds Near $84,000",
-    "url": "https://thedefiant.io/news/markets/ondo-blackrock-portfolios-altcoin-bid-bitcoin-84000-sep-24-2026",
-    "published_at": "Thu, 24 Sep 2026 15:53:35 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:53:35+00:00"
-  },
-  {
-    "id": "rss_0f4533c9c1f5",
-    "source": "The Defiant",
-    "title": "SEC’s Peirce Urges Zero-Knowledge Proofs to Reduce KYC Data Collection",
-    "url": "https://thedefiant.io/news/regulation/sec-s-peirce-urges-zero-knowledge-proofs-to-reduce-kyc-data-collection",
-    "published_at": "Thu, 24 Sep 2026 15:45:48 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:45:48+00:00"
-  },
-  {
-    "id": "rss_c801f1704e46",
-    "source": "The Defiant",
-    "title": "Bitget Moves Institutional Collateral To Sygnum's Off-Exchange Custody",
-    "url": "https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody",
-    "published_at": "Thu, 24 Sep 2026 15:43:31 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:43:31+00:00"
-  },
-  {
-    "id": "rss_d3ae45fe2a66",
-    "source": "The Defiant",
-    "title": "Only Four of Top 20 Crypto Treasury Firms Trade Above Holdings Value: DWF",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/only-four-of-top-20-crypto-treasury-firms-trade-above-holdings-value-dwf",
-    "published_at": "Thu, 24 Sep 2026 15:30:11 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:30:11+00:00"
-  },
-  {
-    "id": "rss_29912e09c6b6",
-    "source": "The Defiant",
-    "title": "Ondo Launches Tokenized Portfolios Built on BlackRock Strategies",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies",
-    "published_at": "Thu, 24 Sep 2026 15:23:43 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:23:43+00:00"
-  },
-  {
-    "id": "rss_7fe39d169578",
-    "source": "The Defiant",
-    "title": "Arbitrum Replaces Timeboost With Per-Transaction Priority Auctions",
-    "url": "https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions",
-    "published_at": "Thu, 24 Sep 2026 15:18:46 GMT",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:18:46+00:00"
-  },
-  {
-    "id": "rss_9a28b81d5ba9",
-    "source": "CryptoSlate",
-    "title": "Coinbase’s fixed-rate Bitcoin loans can put healthy collateral at risk after maturity",
-    "url": "https://cryptoslate.com/coinbases-fixed-rate-bitcoin-loans-can-put-healthy-collateral-at-risk-after-maturity/",
-    "published_at": "Thu, 24 Sep 2026 15:30:59 +0000",
-    "fetched_at": "2026-09-24T17:29:41.764955+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T15:30:59+00:00"
-  },
-  {
-    "id": "llama_2026092417",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,140,621,524 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-24T17:29:47.701229+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:29:47.701229+00:00"
-  },
-  {
     "id": "rss_97eb1f0c25d9",
     "source": "The Defiant",
     "title": "Kamino Opens GPU-loan-linked sUSDai Collateral Market on Solana",
@@ -1954,5 +1824,86 @@
     "fetched_at": "2026-10-01T13:48:47.768521+00:00",
     "used": false,
     "_sort_date": "2026-10-01T13:48:47.768521+00:00"
+  },
+  {
+    "id": "rss_aaf4ce8ed07c",
+    "source": "The Defiant",
+    "title": "US Sanctions A7 Network, Proposes Ban on Sub-Agent Payments",
+    "url": "https://thedefiant.io/converge/regulation/us-sanctions-a7-network-proposes-ban-on-sub-agent-payments",
+    "published_at": "Thu, 01 Oct 2026 18:02:30 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_daad90f456e7",
+    "source": "The Defiant",
+    "title": "Stablecoin Treasury Growth Partly Offsets China’s Retreat, SF Fed Study Finds",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stablecoin-treasury-growth-partly-offsets-china-s-retreat-sf-fed-study-finds",
+    "published_at": "Thu, 01 Oct 2026 17:42:51 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8b0d649e6cd6",
+    "source": "The Defiant",
+    "title": "OpenZeppelin and T-REX Network Introduce new Framework for Regulated Token Eligibility and Recovery",
+    "url": "https://thedefiant.io/converge/infrastructure/onchainid-v3-adds-modular-smart-accounts-for-regulated-tokens",
+    "published_at": "Thu, 01 Oct 2026 17:26:03 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_21bec018b09f",
+    "source": "The Defiant",
+    "title": "Onchain Perps Close Execution Gap With CEXs, Castle Labs Says",
+    "url": "https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges",
+    "published_at": "Thu, 01 Oct 2026 17:17:53 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8541146087fe",
+    "source": "The Defiant",
+    "title": "Drift Opens DFX Claims With Recovery Pool Covering About 1% of Losses",
+    "url": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
+    "published_at": "Thu, 01 Oct 2026 16:14:14 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_033fdb547cbf",
+    "source": "The Defiant",
+    "title": "World Liberty Launches WLFI Staking, Plans $1.25M USD1 Pool",
+    "url": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
+    "published_at": "Thu, 01 Oct 2026 14:16:01 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f019be7aa0f1",
+    "source": "The Defiant",
+    "title": "Blockworks Opens Its Full Dataset To AI Agents",
+    "url": "https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server",
+    "published_at": "Thu, 01 Oct 2026 14:00:10 GMT",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa837cf892b1",
+    "source": "Bankless",
+    "title": "Derive V3 Wants to Be the Engine of Onchain Options",
+    "url": "https://www.bankless.com/read/derive-v3-wants-to-be-the-engine-of-onchain-options",
+    "published_at": "Thu, 01 Oct 2026 15:23:23 -0400",
+    "fetched_at": "2026-10-01T19:24:26.056370+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100119",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,357,634,086 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-01T19:24:29.797194+00:00",
+    "used": false
   }
 ]
