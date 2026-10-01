@@ -1,59 +1,5 @@
 [
   {
-    "id": "rss_7a5505f83e23",
-    "source": "The Defiant",
-    "title": "Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?",
-    "url": "https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption",
-    "published_at": "Wed, 23 Sep 2026 14:30:00 GMT",
-    "fetched_at": "2026-09-24T00:48:19.397900+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a790275fea11",
-    "source": "Decrypt",
-    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-    "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "published_at": "Wed, 23 Sep 2026 22:56:03 +0000",
-    "fetched_at": "2026-09-24T00:48:19.397900+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092400",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,168,207,594 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-24T00:48:27.360146+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0121206d5d3b",
-    "source": "The Defiant",
-    "title": "Trump Administration Weighs Overseas Stablecoin Push: Report",
-    "url": "https://thedefiant.io/converge/regulation/trump-administration-weighs-overseas-stablecoin-push-report",
-    "published_at": "Thu, 24 Sep 2026 02:57:21 GMT",
-    "fetched_at": "2026-09-24T06:01:25.694277+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2f685fa37d1f",
-    "source": "The Defiant",
-    "title": "Variational Sets Q4 VAR Launch With 32% Airdrop",
-    "url": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
-    "published_at": "Thu, 24 Sep 2026 02:44:47 GMT",
-    "fetched_at": "2026-09-24T06:01:25.694277+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092406",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,166,344,265 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-24T06:01:33.948797+00:00",
-    "used": false
-  },
-  {
     "id": "rss_0db3bc858d29",
     "source": "CoinDesk",
     "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
@@ -1890,5 +1836,50 @@
     "fetched_at": "2026-10-01T00:07:35.978849+00:00",
     "used": false,
     "_sort_date": "2026-10-01T00:07:35.978849+00:00"
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_780bcaee61a2",
+    "source": "CoinDesk",
+    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+    "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+    "published_at": "Thu, 01 Oct 2026 04:58:52 +0000",
+    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7151cb252905",
+    "source": "The Defiant",
+    "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
+    "url": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
+    "published_at": "Thu, 01 Oct 2026 03:19:58 GMT",
+    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e83c8ed9a351",
+    "source": "CryptoSlate",
+    "title": "Three hidden flaws in Uniswap’s StablePair hook drain LP returns",
+    "url": "https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/",
+    "published_at": "Thu, 01 Oct 2026 05:10:32 +0000",
+    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100106",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,298,174,980 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-01T06:26:10.739818+00:00",
+    "used": false
   }
 ]
