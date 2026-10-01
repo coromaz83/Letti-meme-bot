@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_97eb1f0c25d9",
-    "source": "The Defiant",
-    "title": "Kamino Opens GPU-loan-linked sUSDai Collateral Market on Solana",
-    "url": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
-    "published_at": "Thu, 24 Sep 2026 19:57:06 GMT",
-    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T19:57:06+00:00"
-  },
-  {
-    "id": "rss_db5bf485ee19",
-    "source": "The Defiant",
-    "title": "Gnosis Pay Sets Dec. 20 Card Shutdown as It Shifts to B2B",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/gnosis-pay-sets-dec-20-card-shutdown-as-it-shifts-to-b2b",
-    "published_at": "Thu, 24 Sep 2026 19:48:55 GMT",
-    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T19:48:55+00:00"
-  },
-  {
-    "id": "rss_1e6f655f0536",
-    "source": "The Defiant",
-    "title": "IBM Connects Digital Asset Haven to Swift Ledger in Beta",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
-    "published_at": "Thu, 24 Sep 2026 17:54:33 GMT",
-    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:54:33+00:00"
-  },
-  {
-    "id": "rss_a247e509de30",
-    "source": "The Defiant",
-    "title": "ARK Launches Tokenized Venture Fund on Ethereum With $500 Minimum",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ark-launches-tokenized-venture-fund-on-ethereum-with-500-minimum",
-    "published_at": "Thu, 24 Sep 2026 17:23:07 GMT",
-    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T17:23:07+00:00"
-  },
-  {
-    "id": "rss_f85c10816d45",
-    "source": "CryptoSlate",
-    "title": "Man sentenced to 12 years for $16M Coinbase customer support scam",
-    "url": "https://cryptoslate.com/man-sentenced-to-12-years-for-16m-coinbase-customer-support-scam/",
-    "published_at": "Thu, 24 Sep 2026 20:00:28 +0000",
-    "fetched_at": "2026-09-24T20:44:33.506160+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T20:00:28+00:00"
-  },
-  {
-    "id": "llama_2026092420",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,187,702,980 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-24T20:44:38.660686+00:00",
-    "used": false,
-    "_sort_date": "2026-09-24T20:44:38.660686+00:00"
-  },
-  {
     "id": "rss_ef2b37eeede4",
     "source": "The Defiant",
     "title": "Paxos Labs Launches PAXGy, Adding Lending Yield to Tokenized Gold",
@@ -1904,6 +1844,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-01T19:24:29.797194+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8253cc62bece",
+    "source": "The Defiant",
+    "title": "SEC Proposes Crypto Self-Custody Route for Investment Advisers",
+    "url": "https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers",
+    "published_at": "Thu, 01 Oct 2026 20:16:47 GMT",
+    "fetched_at": "2026-10-01T23:22:52.220479+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,350,338,224 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-01T23:22:56.287498+00:00",
     "used": false
   }
 ]
