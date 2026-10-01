@@ -1813,7 +1813,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published_at": "Thu, 01 Oct 2026 04:58:52 +0000",
     "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T04:58:52+00:00"
   },
   {
     "id": "rss_7151cb252905",
@@ -1831,7 +1832,8 @@
     "url": "https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/",
     "published_at": "Thu, 01 Oct 2026 05:10:32 +0000",
     "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T05:10:32+00:00"
   },
   {
     "id": "llama_2026100106",
@@ -1840,7 +1842,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-01T06:26:10.739818+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T06:26:10.739818+00:00"
   },
   {
     "id": "rss_b05b22df968b",
@@ -1849,7 +1852,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
     "published_at": "Thu, 01 Oct 2026 07:06:30 +0000",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T07:06:30+00:00"
   },
   {
     "id": "rss_53a0c01b0cc5",
@@ -1858,7 +1862,8 @@
     "url": "https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss",
     "published_at": "Thu, 01 Oct 2026 13:41:34 GMT",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T13:41:34+00:00"
   },
   {
     "id": "rss_c05cf6cae42c",
@@ -1867,7 +1872,8 @@
     "url": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
     "published_at": "Thu, 01 Oct 2026 09:41:48 GMT",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T09:41:48+00:00"
   },
   {
     "id": "rss_c70156a66390",
@@ -1876,7 +1882,8 @@
     "url": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
     "published_at": "Thu, 01 Oct 2026 08:36:54 GMT",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T08:36:54+00:00"
   },
   {
     "id": "rss_b61dce8e2fa7",
@@ -1885,7 +1892,8 @@
     "url": "https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses",
     "published_at": "Thu, 01 Oct 2026 08:13:39 GMT",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T08:13:39+00:00"
   },
   {
     "id": "rss_a25a537a32e2",
@@ -1894,7 +1902,8 @@
     "url": "https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt",
     "published_at": "Thu, 01 Oct 2026 07:46:38 GMT",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T07:46:38+00:00"
   },
   {
     "id": "rss_26b3258e22c8",
@@ -1903,7 +1912,8 @@
     "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
     "published_at": "Thu, 01 Oct 2026 13:40:02 +0000",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T13:40:02+00:00"
   },
   {
     "id": "rss_a474795993cd",
@@ -1912,7 +1922,8 @@
     "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
     "published_at": "Thu, 01 Oct 2026 11:20:17 +0000",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T11:20:17+00:00"
   },
   {
     "id": "rss_c57a725673b5",
@@ -1921,7 +1932,8 @@
     "url": "https://cryptoslate.com/bases-cobalt-upgrade-adds-another-rule-to-affect-token-balances/",
     "published_at": "Thu, 01 Oct 2026 07:30:48 +0000",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T07:30:48+00:00"
   },
   {
     "id": "rss_7de5d5f1b9c1",
@@ -1930,7 +1942,8 @@
     "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
     "published_at": "Thu, 01 Oct 2026 12:23:15 +0000",
     "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T12:23:15+00:00"
   },
   {
     "id": "llama_2026100113",
@@ -1939,6 +1952,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-01T13:48:47.768521+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-01T13:48:47.768521+00:00"
   }
 ]
