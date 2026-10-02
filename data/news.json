@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_ef2b37eeede4",
-    "source": "The Defiant",
-    "title": "Paxos Labs Launches PAXGy, Adding Lending Yield to Tokenized Gold",
-    "url": "https://thedefiant.io/news/tokens/paxos-labs-launches-paxgy-adding-lending-yield-to-tokenized-gold",
-    "published_at": "Thu, 24 Sep 2026 23:05:56 GMT",
-    "fetched_at": "2026-09-24T23:49:46.499657+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cb44a71a7eb3",
-    "source": "The Defiant",
-    "title": "Bitget Suspends Withdrawals, Says $351.6 Million Affected In Hot Wallet Breach",
-    "url": "https://thedefiant.io/news/cefi/bitget-disables-withdrawals-165-million-one-address-four-chains",
-    "published_at": "Thu, 24 Sep 2026 21:42:42 GMT",
-    "fetched_at": "2026-09-24T23:49:46.499657+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_84beda25783b",
-    "source": "The Defiant",
-    "title": "Morpho Founder's Vault Classification Draws Pushback From Aave's Kulechov",
-    "url": "https://thedefiant.io/news/defi/morpho-founder-vault-classification-draws-pushback-from-aave-kulechov",
-    "published_at": "Thu, 24 Sep 2026 21:28:41 GMT",
-    "fetched_at": "2026-09-24T23:49:46.499657+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092423",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,189,635,197 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-24T23:49:50.761219+00:00",
-    "used": false
-  },
-  {
     "id": "rss_84b019eddeee",
     "source": "The Defiant",
     "title": "Block Adds Bitcoin Lightning to x402 Standard",
@@ -1874,5 +1838,32 @@
     "fetched_at": "2026-10-01T23:22:56.287498+00:00",
     "used": false,
     "_sort_date": "2026-10-01T23:22:56.287498+00:00"
+  },
+  {
+    "id": "rss_19f2ba12d480",
+    "source": "The Defiant",
+    "title": "Fiserv Launches Roughrider Coin Settlement on Solana",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/fiserv-launches-roughrider-coin-settlement-on-solana",
+    "published_at": "Fri, 02 Oct 2026 02:19:06 GMT",
+    "fetched_at": "2026-10-02T02:30:50.744553+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aa474e87db6c",
+    "source": "The Defiant",
+    "title": "Shevchenko Gives NEAR Intents Attacker 48 Hours",
+    "url": "https://thedefiant.io/news/hacks/shevchenko-gives-near-intents-attacker-48-hours",
+    "published_at": "Fri, 02 Oct 2026 02:02:36 GMT",
+    "fetched_at": "2026-10-02T02:30:50.744553+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100202",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,348,194,070 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-02T02:30:55.245978+00:00",
+    "used": false
   }
 ]
