@@ -1,53 +1,5 @@
 [
   {
-    "id": "rss_84b019eddeee",
-    "source": "The Defiant",
-    "title": "Block Adds Bitcoin Lightning to x402 Standard",
-    "url": "https://thedefiant.io/news/infrastructure/block-adds-bitcoin-lightning-to-x402-standard",
-    "published_at": "Fri, 25 Sep 2026 02:55:22 GMT",
-    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T02:55:22+00:00"
-  },
-  {
-    "id": "rss_5bcaeadf37af",
-    "source": "The Defiant",
-    "title": "Ethereum Draft Proposes Compliance Controls for Confidential RWA Tokens",
-    "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-proposes-compliance-controls-for-confidential-rwa-tokens",
-    "published_at": "Fri, 25 Sep 2026 02:26:19 GMT",
-    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T02:26:19+00:00"
-  },
-  {
-    "id": "rss_8547c26172bb",
-    "source": "The Defiant",
-    "title": "Tokenized-Stock Holder Count Reaches 4.3 Million, Led by BNB Chain",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-stock-holder-count-reaches-4-3-million-led-by-bnb-chain",
-    "published_at": "Fri, 25 Sep 2026 01:28:29 GMT",
-    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_eb7b95884b2a",
-    "source": "The Defiant",
-    "title": "KelpDAO Files BC Civil Claim Against LayerZero",
-    "url": "https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says",
-    "published_at": "Thu, 24 Sep 2026 23:54:59 GMT",
-    "fetched_at": "2026-09-25T04:39:02.676221+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092504",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,194,690,186 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-25T04:39:07.334962+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T04:39:07.334962+00:00"
-  },
-  {
     "id": "llama_2026092510",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,171,847,025 🟢 +0.00% (24h)",
@@ -1864,6 +1816,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-02T02:30:55.245978+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7035ccb80ffb",
+    "source": "CoinDesk",
+    "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+    "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+    "published_at": "Fri, 02 Oct 2026 08:28:19 +0000",
+    "fetched_at": "2026-10-02T09:36:29.900567+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fdee46ec1113",
+    "source": "The Defiant",
+    "title": "SMBC Nikko and Nethermind Plan Compliance Hooks for Uniswap Pools",
+    "url": "https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools",
+    "published_at": "Fri, 02 Oct 2026 08:20:45 GMT",
+    "fetched_at": "2026-10-02T09:36:29.900567+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9528157abf51",
+    "source": "The Defiant",
+    "title": "Kinetiq Ends kPoints With Paid Claim as KNTQ Drops 23%",
+    "url": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-with-paid-claim-as-kntq-drops-23",
+    "published_at": "Fri, 02 Oct 2026 04:19:41 GMT",
+    "fetched_at": "2026-10-02T09:36:29.900567+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100209",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,428,223,263 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-02T09:36:34.197485+00:00",
     "used": false
   }
 ]
