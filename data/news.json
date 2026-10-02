@@ -1,115 +1,5 @@
 [
   {
-    "id": "llama_2026092510",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,171,847,025 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-25T10:06:48.078779+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T10:06:48.078779+00:00"
-  },
-  {
-    "id": "rss_cce1273263fe",
-    "source": "CoinDesk",
-    "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-    "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-    "published_at": "Fri, 25 Sep 2026 14:41:53 +0000",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:41:53+00:00"
-  },
-  {
-    "id": "rss_d1aa532feb65",
-    "source": "CoinDesk",
-    "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-    "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-    "published_at": "Fri, 25 Sep 2026 14:32:48 +0000",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:32:48+00:00"
-  },
-  {
-    "id": "rss_e77108ff162c",
-    "source": "CoinDesk",
-    "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-    "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-    "published_at": "Fri, 25 Sep 2026 09:13:01 +0000",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T09:13:01+00:00"
-  },
-  {
-    "id": "rss_2d2121ee1d08",
-    "source": "The Defiant",
-    "title": "Ethena Starts Equity-Basis Rollout for USDe With Binance",
-    "url": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
-    "published_at": "Fri, 25 Sep 2026 14:59:16 GMT",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:59:16+00:00"
-  },
-  {
-    "id": "rss_7e77d88034af",
-    "source": "The Defiant",
-    "title": "Aave Adds Coinbase Stock Tokens as Collateral on Base",
-    "url": "https://thedefiant.io/news/defi/aave-adds-coinbase-stock-tokens-as-collateral-on-base",
-    "published_at": "Fri, 25 Sep 2026 14:44:07 GMT",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:44:07+00:00"
-  },
-  {
-    "id": "rss_6427f01de8f8",
-    "source": "The Defiant",
-    "title": "Binance-Owned CoinMarketCap Acquires CoinGlass",
-    "url": "https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass",
-    "published_at": "Fri, 25 Sep 2026 14:42:01 GMT",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:42:01+00:00"
-  },
-  {
-    "id": "rss_a8f3880de889",
-    "source": "The Defiant",
-    "title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
-    "url": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
-    "published_at": "Fri, 25 Sep 2026 14:20:39 GMT",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T14:20:39+00:00"
-  },
-  {
-    "id": "rss_b80b245bad6a",
-    "source": "Decrypt",
-    "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-    "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-    "published_at": "Fri, 25 Sep 2026 12:01:15 +0000",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T12:01:15+00:00"
-  },
-  {
-    "id": "rss_fb9ce23972fe",
-    "source": "Bankless",
-    "title": "Ethena Expands USDe Backing Into Equity Perpetuals",
-    "url": "https://www.bankless.com/read/news/ethena-expands-usde-backing-into-equity-perpetuals",
-    "published_at": "Fri, 25 Sep 2026 09:51:23 -0400",
-    "fetched_at": "2026-09-25T15:28:14.465576+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T09:51:23-04:00"
-  },
-  {
-    "id": "llama_2026092515",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,231,552,467 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-25T15:28:21.972163+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T15:28:21.972163+00:00"
-  },
-  {
     "id": "rss_8ac245ce1610",
     "source": "The Defiant",
     "title": "Bitget Raises Hack Estimate To $387.5 Million As Token Accounting Widens",
@@ -1857,5 +1747,86 @@
     "fetched_at": "2026-10-02T09:36:34.197485+00:00",
     "used": false,
     "_sort_date": "2026-10-02T09:36:34.197485+00:00"
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec5dfaab4faf",
+    "source": "The Defiant",
+    "title": "Circle Urges EU to Replace Stablecoin Bank-Deposit Mandates",
+    "url": "https://thedefiant.io/converge/regulation/circle-urges-eu-to-replace-stablecoin-bank-deposit-mandates",
+    "published_at": "Fri, 02 Oct 2026 16:10:56 GMT",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f38ce7d152e9",
+    "source": "The Defiant",
+    "title": "Chainalysis Links $387 Million Bitget Hack to North Korea",
+    "url": "https://thedefiant.io/news/hacks/chainalysis-links-387-million-bitget-hack-to-north-korea",
+    "published_at": "Fri, 02 Oct 2026 16:10:41 GMT",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_885669d31756",
+    "source": "The Defiant",
+    "title": "NEAR Intents GM Says $3.8 Million in Hack Funds Returned in Full",
+    "url": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
+    "published_at": "Fri, 02 Oct 2026 16:07:28 GMT",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_15fe4c580672",
+    "source": "The Defiant",
+    "title": "Blast to Shut Down Layer 2, Citing Unsustainable Costs",
+    "url": "https://thedefiant.io/news/blockchains/blast-to-shut-down-layer-2-citing-unsustainable-costs",
+    "published_at": "Fri, 02 Oct 2026 14:56:40 GMT",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db72522ef14b",
+    "source": "The Defiant",
+    "title": "Visa Says Business Programs Drive About 17% of Stablecoin Card Volume",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-says-business-programs-drive-about-17-of-stablecoin-card-volume",
+    "published_at": "Fri, 02 Oct 2026 14:08:01 GMT",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0912ca1cacd3",
+    "source": "CryptoSlate",
+    "title": "Cardano’s DeFi has shrunk by more than half and RealFi is betting credit can revive it",
+    "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it/",
+    "published_at": "Fri, 02 Oct 2026 13:40:24 +0000",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_603229afd847",
+    "source": "CryptoSlate",
+    "title": "Coinbase completes Deribit switch, ending International Exchange trading",
+    "url": "https://cryptoslate.com/coinbase-completes-deribit-switch-ending-international-exchange-trading/",
+    "published_at": "Fri, 02 Oct 2026 09:50:28 +0000",
+    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100216",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,481,175,591 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-02T16:11:52.785110+00:00",
+    "used": false
   }
 ]
