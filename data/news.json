@@ -1,85 +1,5 @@
 [
   {
-    "id": "rss_cf94b3b0b26d",
-    "source": "The Defiant",
-    "title": "EBA Floats Stablecoin Lending Restrictions for EU Crypto Firms",
-    "url": "https://thedefiant.io/news/regulation/eba-floats-stablecoin-lending-restrictions-for-eu-crypto-firms",
-    "published_at": "Fri, 25 Sep 2026 20:50:59 GMT",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T20:50:59+00:00"
-  },
-  {
-    "id": "rss_49ba24c45fdd",
-    "source": "The Defiant",
-    "title": "Duelbits Co-Founder Reports $7 Million Hack as Casino Stays Offline",
-    "url": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
-    "published_at": "Fri, 25 Sep 2026 20:26:09 GMT",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T20:26:09+00:00"
-  },
-  {
-    "id": "rss_7103f16e41ad",
-    "source": "The Defiant",
-    "title": "Circle CFO Jeremy Fox-Geen to Step Down by Year-End",
-    "url": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
-    "published_at": "Fri, 25 Sep 2026 20:16:15 GMT",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T20:16:15+00:00"
-  },
-  {
-    "id": "rss_0060a85a64eb",
-    "source": "The Defiant",
-    "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
-    "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
-    "published_at": "Fri, 25 Sep 2026 20:14:02 GMT",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T20:14:02+00:00"
-  },
-  {
-    "id": "rss_1e9fdaed5f2b",
-    "source": "Decrypt",
-    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-    "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-    "published_at": "Fri, 25 Sep 2026 21:25:35 +0000",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T21:25:35+00:00"
-  },
-  {
-    "id": "rss_f79ed6dac81d",
-    "source": "Bankless",
-    "title": "🏴 Ethereum's New AI Swarm",
-    "url": "https://www.bankless.com/read/ethereum-s-new-ai-swarm",
-    "published_at": "Fri, 25 Sep 2026 17:46:36 -0400",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T17:46:36-04:00"
-  },
-  {
-    "id": "rss_57cbac3922a7",
-    "source": "Bankless",
-    "title": "Inside IMD, Ethereum's New AI Swarm Experiment",
-    "url": "https://www.bankless.com/read/inside-imd-ethereum-s-new-ai-swarm-experiment",
-    "published_at": "Fri, 25 Sep 2026 16:24:29 -0400",
-    "fetched_at": "2026-09-25T22:45:35.364285+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T16:24:29-04:00"
-  },
-  {
-    "id": "llama_2026092522",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,220,220,643 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-25T22:45:45.260196+00:00",
-    "used": false,
-    "_sort_date": "2026-09-25T22:45:45.260196+00:00"
-  },
-  {
     "id": "rss_865568549b20",
     "source": "Cointelegraph Base",
     "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -1885,5 +1805,59 @@
     "fetched_at": "2026-10-02T20:53:42.395715+00:00",
     "used": false,
     "_sort_date": "2026-10-02T20:53:42.395715+00:00"
+  },
+  {
+    "id": "rss_6418f32751e0",
+    "source": "The Defiant",
+    "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
+    "url": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
+    "published_at": "Fri, 02 Oct 2026 23:10:02 GMT",
+    "fetched_at": "2026-10-03T00:21:05.022218+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78b71237cd5a",
+    "source": "The Defiant",
+    "title": "Arbitrum Pauses New Stylus Activations in Emergency Security Action",
+    "url": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
+    "published_at": "Fri, 02 Oct 2026 21:46:54 GMT",
+    "fetched_at": "2026-10-03T00:21:05.022218+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7a360010e598",
+    "source": "The Defiant",
+    "title": "ICBA Sues OCC Over Crypto Trust Charters",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters",
+    "published_at": "Fri, 02 Oct 2026 21:45:44 GMT",
+    "fetched_at": "2026-10-03T00:21:05.022218+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2bba0129620c",
+    "source": "Bankless",
+    "title": "Blast L2 Winds Down, Sets Oct. 26th Withdrawal Deadline",
+    "url": "https://www.bankless.com/read/news/blast-l2-winds-down-sets-oct-26th-withdrawal-deadline",
+    "published_at": "Fri, 02 Oct 2026 13:41:50 -0400",
+    "fetched_at": "2026-10-03T00:21:05.022218+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a041b9d32a15",
+    "source": "Bankless",
+    "title": "Ethereum Foundation Launches zkAPI for Private AI Payments",
+    "url": "https://www.bankless.com/read/news/ethereum-foundation-launches-zkapi-for-private-ai-payments",
+    "published_at": "Fri, 02 Oct 2026 13:08:53 -0400",
+    "fetched_at": "2026-10-03T00:21:05.022218+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100300",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,340,280,615 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-03T00:21:09.485529+00:00",
+    "used": false
   }
 ]
