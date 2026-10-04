@@ -1710,7 +1710,8 @@
     "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
     "published_at": "Sun, 04 Oct 2026 14:20:32 +0000",
     "fetched_at": "2026-10-04T18:18:30.072288+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-04T14:20:32+00:00"
   },
   {
     "id": "llama_2026100418",
@@ -1719,6 +1720,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-04T18:18:35.103529+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-04T18:18:35.103529+00:00"
   }
 ]
