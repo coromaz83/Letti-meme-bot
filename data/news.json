@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_78bd77b76a41",
-    "source": "CryptoSlate",
-    "title": "Ethereum is not instant, but collateral could make it feel that way",
-    "url": "https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/",
-    "published_at": "Sun, 27 Sep 2026 13:00:50 +0000",
-    "fetched_at": "2026-09-27T13:14:13.900130+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T13:00:50+00:00"
-  },
-  {
-    "id": "llama_2026092713",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,307,139,679 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-27T13:14:22.391940+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T13:14:22.391940+00:00"
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -1769,6 +1749,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-04T08:18:56.886783+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100414",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,396,426,944 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-04T14:18:42.444960+00:00",
     "used": false
   }
 ]
