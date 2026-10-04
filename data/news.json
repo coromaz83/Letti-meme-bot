@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026092707",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,275,294,100 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-27T07:01:25.461342+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T07:01:25.461342+00:00"
-  },
-  {
     "id": "rss_78bd77b76a41",
     "source": "CryptoSlate",
     "title": "Ethereum is not instant, but collateral could make it feel that way",
@@ -1770,6 +1760,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-04T01:56:10.452350+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100408",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,383,749,630 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-04T08:18:56.886783+00:00",
     "used": false
   }
 ]
