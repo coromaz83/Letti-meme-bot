@@ -1,64 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_999100e730e1",
-    "source": "CoinDesk",
-    "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-    "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-    "published_at": "Sun, 27 Sep 2026 14:29:13 +0000",
-    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T14:29:13+00:00"
-  },
-  {
-    "id": "rss_52b56eb47105",
-    "source": "The Defiant",
-    "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
-    "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
-    "published_at": "Sun, 27 Sep 2026 14:45:19 GMT",
-    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T14:45:19+00:00"
-  },
-  {
-    "id": "rss_cd06277347a7",
-    "source": "The Defiant",
-    "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
-    "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
-    "published_at": "Sun, 27 Sep 2026 14:44:40 GMT",
-    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T14:44:40+00:00"
-  },
-  {
-    "id": "rss_7d9814bb2586",
-    "source": "CryptoSlate",
-    "title": "SEC staff’s staking-token split spotlights the exit risks behind staked ETH tokens",
-    "url": "https://cryptoslate.com/sec-staffs-staking-token-split-spotlights-the-exit-risks-behind-cbeth-and-steth/",
-    "published_at": "Sun, 27 Sep 2026 16:00:54 +0000",
-    "fetched_at": "2026-09-27T17:54:33.404148+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T16:00:54+00:00"
-  },
-  {
-    "id": "llama_2026092717",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,278,834,857 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-27T17:54:38.283638+00:00",
-    "used": false,
-    "_sort_date": "2026-09-27T17:54:38.283638+00:00"
-  },
-  {
     "id": "llama_2026092721",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,292,612,328 🟢 +0.00% (24h)",
@@ -1761,5 +1702,23 @@
     "fetched_at": "2026-10-04T14:18:42.444960+00:00",
     "used": false,
     "_sort_date": "2026-10-04T14:18:42.444960+00:00"
+  },
+  {
+    "id": "rss_755be3a70acf",
+    "source": "CryptoSlate",
+    "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+    "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+    "published_at": "Sun, 04 Oct 2026 14:20:32 +0000",
+    "fetched_at": "2026-10-04T18:18:30.072288+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100418",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,401,480,496 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-04T18:18:35.103529+00:00",
+    "used": false
   }
 ]
