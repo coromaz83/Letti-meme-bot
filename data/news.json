@@ -1700,7 +1700,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
     "published_at": "Mon, 05 Oct 2026 06:40:29 +0000",
     "fetched_at": "2026-10-05T06:48:28.532520+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T06:40:29+00:00"
   },
   {
     "id": "rss_f0f0449c6f1b",
@@ -1718,7 +1719,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-05T06:48:33.177633+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T06:48:33.177633+00:00"
   },
   {
     "id": "rss_9c1640824113",
@@ -1727,7 +1729,8 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published_at": "Mon, 05 Oct 2026 11:14:35 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T11:14:35+00:00"
   },
   {
     "id": "rss_d2bb992f4b0e",
@@ -1736,7 +1739,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
     "published_at": "Mon, 05 Oct 2026 09:37:13 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T09:37:13+00:00"
   },
   {
     "id": "rss_b023f65f177d",
@@ -1745,7 +1749,8 @@
     "url": "https://thedefiant.io/news/regulation/treasury-drops-crypto-wallet-surveillance-rules",
     "published_at": "Mon, 05 Oct 2026 15:27:55 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T15:27:55+00:00"
   },
   {
     "id": "rss_cd6199d3e080",
@@ -1754,7 +1759,8 @@
     "url": "https://thedefiant.io/news/defi/xverse-draper-associates-strategic-round-bitcoin-neobank",
     "published_at": "Mon, 05 Oct 2026 14:25:06 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:25:06+00:00"
   },
   {
     "id": "rss_67ede0fc03fc",
@@ -1763,7 +1769,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-tokenized-securities-venue-sec-innovation-exemption-63-stocks",
     "published_at": "Mon, 05 Oct 2026 14:22:30 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:22:30+00:00"
   },
   {
     "id": "rss_0c64947b7573",
@@ -1772,7 +1779,8 @@
     "url": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
     "published_at": "Mon, 05 Oct 2026 14:21:17 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:21:17+00:00"
   },
   {
     "id": "rss_f0274c4019ce",
@@ -1781,7 +1789,8 @@
     "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
     "published_at": "Mon, 05 Oct 2026 14:20:50 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:20:50+00:00"
   },
   {
     "id": "rss_bbdf80793268",
@@ -1790,7 +1799,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
     "published_at": "Mon, 05 Oct 2026 13:49:34 GMT",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T13:49:34+00:00"
   },
   {
     "id": "rss_754556acefdd",
@@ -1799,7 +1809,8 @@
     "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
     "published_at": "Mon, 05 Oct 2026 15:30:48 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T15:30:48+00:00"
   },
   {
     "id": "rss_81d70156e42f",
@@ -1808,7 +1819,8 @@
     "url": "https://cryptoslate.com/coinbase-ai-support-tests-weeks-minutes/",
     "published_at": "Mon, 05 Oct 2026 14:30:35 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:30:35+00:00"
   },
   {
     "id": "rss_197ae21e0f19",
@@ -1817,7 +1829,8 @@
     "url": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/",
     "published_at": "Mon, 05 Oct 2026 13:30:01 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T13:30:01+00:00"
   },
   {
     "id": "rss_095531200ced",
@@ -1826,7 +1839,8 @@
     "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
     "published_at": "Mon, 05 Oct 2026 09:10:23 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T09:10:23+00:00"
   },
   {
     "id": "rss_dde0eadb67a0",
@@ -1835,7 +1849,8 @@
     "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
     "published_at": "Mon, 05 Oct 2026 14:54:17 +0000",
     "fetched_at": "2026-10-05T15:49:57.498439+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T14:54:17+00:00"
   },
   {
     "id": "llama_2026100515",
@@ -1844,6 +1859,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-05T15:50:01.697592+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T15:50:01.697592+00:00"
   }
 ]
