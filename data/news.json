@@ -1,160 +1,5 @@
 [
   {
-    "id": "rss_84d973985e9b",
-    "source": "CoinDesk",
-    "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-    "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
-    "published_at": "Mon, 28 Sep 2026 16:16:40 +0000",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T16:16:40+00:00"
-  },
-  {
-    "id": "rss_8835d31c37a5",
-    "source": "The Defiant",
-    "title": "Chainlink Launches CCIP 2.0 With Custom Verifiers and Faster Transfers",
-    "url": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
-    "published_at": "Mon, 28 Sep 2026 18:57:03 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T18:57:03+00:00"
-  },
-  {
-    "id": "rss_a0005cdea019",
-    "source": "The Defiant",
-    "title": "Polygon Plans Two-Month Boost to 7.7% Gross POL Staking Rate",
-    "url": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
-    "published_at": "Mon, 28 Sep 2026 18:03:06 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T18:03:06+00:00"
-  },
-  {
-    "id": "rss_05f87d5aaf73",
-    "source": "The Defiant",
-    "title": "Compound Foundation Denies V2 Reserve Misuse Allegation",
-    "url": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
-    "published_at": "Mon, 28 Sep 2026 18:00:52 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T18:00:52+00:00"
-  },
-  {
-    "id": "rss_00d05d9d7100",
-    "source": "The Defiant",
-    "title": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT",
-    "url": "https://thedefiant.io/news/regulation/tether-says-it-helped-freeze-nearly-550-million-in-iran-linked-usdt",
-    "published_at": "Mon, 28 Sep 2026 17:46:20 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T17:46:20+00:00"
-  },
-  {
-    "id": "rss_3420ba28b29c",
-    "source": "The Defiant",
-    "title": "Dune Flags Yield Shortfall at Tokenized Money Funds",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dune-flags-yield-shortfall-at-tokenized-money-funds",
-    "published_at": "Mon, 28 Sep 2026 16:30:43 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T16:30:43+00:00"
-  },
-  {
-    "id": "rss_72d315beef07",
-    "source": "The Defiant",
-    "title": "Ondo Perps Adds Spot Trading for 12 Tokenized Stocks and ETFs",
-    "url": "https://thedefiant.io/news/defi/ondo-perps-adds-spot-trading-for-12-tokenized-stocks-and-etfs",
-    "published_at": "Mon, 28 Sep 2026 16:07:37 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T16:07:37+00:00"
-  },
-  {
-    "id": "rss_8dc9c7a342be",
-    "source": "The Defiant",
-    "title": "Citi Taps Coinbase for Corporate Stablecoin Payments: WSJ",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/citi-taps-coinbase-for-corporate-stablecoin-payments-wsj",
-    "published_at": "Mon, 28 Sep 2026 12:29:31 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ab6f6c3cfab5",
-    "source": "The Defiant",
-    "title": "Bitget Reopens Bitcoin Withdrawals After $387.5 Million Breach",
-    "url": "https://thedefiant.io/news/hacks/bitget-reopens-bitcoin-withdrawals-after-387-5-million-breach",
-    "published_at": "Mon, 28 Sep 2026 12:16:58 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_afe7d4b4a4fa",
-    "source": "The Defiant",
-    "title": "Bitcoin ETFs Draw Nearly $3 Billion in Seven Sessions as 2026 Flows Turn Positive",
-    "url": "https://thedefiant.io/news/markets/bitcoin-etfs-draw-nearly-3-billion-in-seven-sessions-as-2026-flows-turn-positive",
-    "published_at": "Mon, 28 Sep 2026 12:15:14 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cf312402e820",
-    "source": "The Defiant",
-    "title": "Fake GIWA Layer 2 Bridge Drained of 766 ETH",
-    "url": "https://thedefiant.io/news/security/fake-giwa-layer-2-bridge-drained-of-766-eth",
-    "published_at": "Mon, 28 Sep 2026 12:14:29 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fc3ad67c9c21",
-    "source": "The Defiant",
-    "title": "Franklin Templeton Fund Shares Become Bybit Trading Collateral",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-bybit-benji-tokenized-collateral-bycustody",
-    "published_at": "Mon, 28 Sep 2026 12:11:51 GMT",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8ea462cb0b7a",
-    "source": "CryptoSlate",
-    "title": "USDT grew on Ethereum through 2024, but smart contract holdings stalled, BIS data show",
-    "url": "https://cryptoslate.com/usdt-growth-does-not-prove-more-defi-demand-on-ethereum-or-tron-bis-data-show/",
-    "published_at": "Mon, 28 Sep 2026 17:30:09 +0000",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T17:30:09+00:00"
-  },
-  {
-    "id": "rss_2c75cac81833",
-    "source": "Decrypt",
-    "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-    "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
-    "published_at": "Mon, 28 Sep 2026 16:29:42 +0000",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T16:29:42+00:00"
-  },
-  {
-    "id": "rss_b8f29b192a5b",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-    "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
-    "published_at": "Mon, 28 Sep 2026 13:27:40 +0000",
-    "fetched_at": "2026-09-28T19:34:42.262694+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T13:27:40+00:00"
-  },
-  {
-    "id": "llama_2026092819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,276,988,378 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-28T19:34:45.826670+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T19:34:45.826670+00:00"
-  },
-  {
     "id": "rss_b215138d1096",
     "source": "The Defiant",
     "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
@@ -1861,5 +1706,158 @@
     "fetched_at": "2026-10-05T15:50:01.697592+00:00",
     "used": false,
     "_sort_date": "2026-10-05T15:50:01.697592+00:00"
+  },
+  {
+    "id": "rss_570c53cc7ef9",
+    "source": "CoinDesk",
+    "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+    "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+    "published_at": "Mon, 05 Oct 2026 17:18:14 +0000",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_afd0334a4509",
+    "source": "The Defiant",
+    "title": "CFTC Staff Clears Fast Track for Stock-Index Perpetual Conversions",
+    "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
+    "published_at": "Mon, 05 Oct 2026 20:32:07 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab32e2fc9ace",
+    "source": "The Defiant",
+    "title": "Aave Raises Core GHO Borrow Rate to 4.5% Amid Thin Redemption Reserves",
+    "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
+    "published_at": "Mon, 05 Oct 2026 20:26:10 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b8dee34a56ff",
+    "source": "The Defiant",
+    "title": "ZachXBT Says He Fronted $349,700 to Infiltrate Alleged Laundering Ring",
+    "url": "https://thedefiant.io/news/security/zachxbt-says-he-fronted-349-700-to-infiltrate-alleged-laundering-ring",
+    "published_at": "Mon, 05 Oct 2026 20:23:19 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_21d06bde8179",
+    "source": "The Defiant",
+    "title": "Aave Activates LlamaRisk Agents for Pendle Collateral on Plasma",
+    "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
+    "published_at": "Mon, 05 Oct 2026 19:46:22 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0b7e9a5a58c4",
+    "source": "The Defiant",
+    "title": "Ethereum Exit Queue Eases to 767,000 ETH After MetaMask Validator Exits",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
+    "published_at": "Mon, 05 Oct 2026 19:17:44 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c2439ec23a4",
+    "source": "The Defiant",
+    "title": "Flying Tulip’s NFT Options Market Tops $5 Million in Volume, Cronje Says",
+    "url": "https://thedefiant.io/news/defi/flying-tulip-s-nft-options-market-tops-5-million-in-volume-cronje-says",
+    "published_at": "Mon, 05 Oct 2026 18:59:48 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0d06dd0bd81b",
+    "source": "The Defiant",
+    "title": "Base Vault Drained of About $6 Million in Aave Deposit Tokens",
+    "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
+    "published_at": "Mon, 05 Oct 2026 18:44:11 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f5880734c6f",
+    "source": "The Defiant",
+    "title": "Compound Votes on Giving Governance Power to Cancel Treasury Operations",
+    "url": "https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations",
+    "published_at": "Mon, 05 Oct 2026 18:34:55 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d799b789941e",
+    "source": "The Defiant",
+    "title": "Anchorage Digital Cuts 17% of Staff, The Information Reports",
+    "url": "https://thedefiant.io/converge/people/anchorage-digital-cuts-17-of-staff-the-information-reports",
+    "published_at": "Mon, 05 Oct 2026 18:31:26 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3607775e137",
+    "source": "The Defiant",
+    "title": "ZachXBT Posed as a Client to Infiltrate Chinese Syndicate Laundering Bybit Hack Funds",
+    "url": "https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds",
+    "published_at": "Mon, 05 Oct 2026 18:30:00 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc9eab1e5070",
+    "source": "The Defiant",
+    "title": "OKX-ICE Plans Tokenized Stock Trading Through a Uniswap v4 Hook",
+    "url": "https://thedefiant.io/news/defi/okx-ice-plans-tokenized-stock-trading-through-a-uniswap-v4-hook",
+    "published_at": "Mon, 05 Oct 2026 18:22:23 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03b1d55703be",
+    "source": "The Defiant",
+    "title": "SEC Clears 3x Bitcoin and Ether ETPs for Cboe Listing",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sec-clears-3x-bitcoin-and-ether-etps-for-cboe-listing",
+    "published_at": "Mon, 05 Oct 2026 18:21:46 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d650229bf6d2",
+    "source": "The Defiant",
+    "title": "CFTC Seeks Comment on Crypto Rulebook That Leaves Spot Exchanges to the States",
+    "url": "https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026",
+    "published_at": "Mon, 05 Oct 2026 17:23:56 GMT",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_46f022de06b5",
+    "source": "Decrypt",
+    "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+    "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+    "published_at": "Mon, 05 Oct 2026 21:48:03 +0000",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e7acce0480f",
+    "source": "Decrypt",
+    "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+    "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+    "published_at": "Mon, 05 Oct 2026 18:12:28 +0000",
+    "fetched_at": "2026-10-05T22:29:22.040207+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100522",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,446,775,679 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-05T22:29:26.994455+00:00",
+    "used": false
   }
 ]
