@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_03e7efbe4b3a",
-    "source": "The Defiant",
-    "title": "Bitwise NEAR ETF Clears Listing and Registration Hurdles",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-near-etf-clears-listing-and-registration-hurdles",
-    "published_at": "Mon, 28 Sep 2026 11:41:53 GMT",
-    "fetched_at": "2026-09-28T11:55:35.269234+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T11:41:53+00:00"
-  },
-  {
-    "id": "rss_b409ab532436",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s next scaling leap may come from making everyone stop doing the same work",
-    "url": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
-    "published_at": "Mon, 28 Sep 2026 11:30:01 +0000",
-    "fetched_at": "2026-09-28T11:55:35.269234+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T11:30:01+00:00"
-  },
-  {
-    "id": "llama_2026092811",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,164,592,535 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-28T11:55:57.989179+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T11:55:57.989179+00:00"
-  },
-  {
     "id": "rss_84d973985e9b",
     "source": "CoinDesk",
     "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
@@ -1748,6 +1718,132 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-05T06:48:33.177633+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9c1640824113",
+    "source": "CoinDesk",
+    "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+    "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+    "published_at": "Mon, 05 Oct 2026 11:14:35 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d2bb992f4b0e",
+    "source": "CoinDesk",
+    "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+    "published_at": "Mon, 05 Oct 2026 09:37:13 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b023f65f177d",
+    "source": "The Defiant",
+    "title": "Treasury Drops Crypto Wallet Surveillance Rules",
+    "url": "https://thedefiant.io/news/regulation/treasury-drops-crypto-wallet-surveillance-rules",
+    "published_at": "Mon, 05 Oct 2026 15:27:55 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cd6199d3e080",
+    "source": "The Defiant",
+    "title": "Tim Draper's Firm Leads Strategic Round In Bitcoin Wallet Xverse",
+    "url": "https://thedefiant.io/news/defi/xverse-draper-associates-strategic-round-bitcoin-neobank",
+    "published_at": "Mon, 05 Oct 2026 14:25:06 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_67ede0fc03fc",
+    "source": "The Defiant",
+    "title": "OKX And NYSE Owner's Venture Files To Trade 63 Tokenized Stocks Onchain",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-tokenized-securities-venue-sec-innovation-exemption-63-stocks",
+    "published_at": "Mon, 05 Oct 2026 14:22:30 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0c64947b7573",
+    "source": "The Defiant",
+    "title": "Safe Investor Greenfield Files Swiss Regulatory Complaint Over Foundation Governance",
+    "url": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
+    "published_at": "Mon, 05 Oct 2026 14:21:17 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0274c4019ce",
+    "source": "The Defiant",
+    "title": "S&P Global Puts A Letter Grade On DeFi Lending Vaults",
+    "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
+    "published_at": "Mon, 05 Oct 2026 14:20:50 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bbdf80793268",
+    "source": "The Defiant",
+    "title": "Plume Opens Tokenized Vault Backed By Fidelity's Bond ETF",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
+    "published_at": "Mon, 05 Oct 2026 13:49:34 GMT",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_754556acefdd",
+    "source": "CryptoSlate",
+    "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
+    "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
+    "published_at": "Mon, 05 Oct 2026 15:30:48 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_81d70156e42f",
+    "source": "CryptoSlate",
+    "title": "Coinbase says it cut a 90-case AI support test from 1–2 weeks to 30–45 minutes",
+    "url": "https://cryptoslate.com/coinbase-ai-support-tests-weeks-minutes/",
+    "published_at": "Mon, 05 Oct 2026 14:30:35 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_197ae21e0f19",
+    "source": "CryptoSlate",
+    "title": "Bitcoin gets a 20-day window to see whether energy relief can move the Fed",
+    "url": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/",
+    "published_at": "Mon, 05 Oct 2026 13:30:01 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_095531200ced",
+    "source": "CryptoSlate",
+    "title": "Circle and Tether find common ground against MiCA’s bank reserve rules",
+    "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
+    "published_at": "Mon, 05 Oct 2026 09:10:23 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dde0eadb67a0",
+    "source": "Decrypt",
+    "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+    "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+    "published_at": "Mon, 05 Oct 2026 14:54:17 +0000",
+    "fetched_at": "2026-10-05T15:49:57.498439+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,441,087,893 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-05T15:50:01.697592+00:00",
     "used": false
   }
 ]
