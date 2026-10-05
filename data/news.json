@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_c9720d5c57f6",
-    "source": "CryptoSlate",
-    "title": "An $84 million US asset seizure just sparked a massive question for Tether",
-    "url": "https://cryptoslate.com/an-84-million-us-asset-seizure-just-sparked-a-massive-question-for-tether/",
-    "published_at": "Sun, 27 Sep 2026 21:15:14 +0000",
-    "fetched_at": "2026-09-27T23:54:11.351058+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026092723",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,279,317,265 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-27T23:54:16.431338+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026092805",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,221,293,347 🟢 +0.00% (24h)",
@@ -1731,5 +1713,23 @@
     "fetched_at": "2026-10-04T21:50:59.121999+00:00",
     "used": false,
     "_sort_date": "2026-10-04T21:50:59.121999+00:00"
+  },
+  {
+    "id": "rss_b26c78b66d67",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s past outflow charts can change when more exchange wallets are identified",
+    "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
+    "published_at": "Sun, 04 Oct 2026 22:05:40 +0000",
+    "fetched_at": "2026-10-05T00:41:16.681409+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100500",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,481,160,880 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-05T00:41:20.799207+00:00",
+    "used": false
   }
 ]
