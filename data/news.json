@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026092805",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,221,293,347 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-28T05:05:21.449871+00:00",
-    "used": false
-  },
-  {
     "id": "rss_03e7efbe4b3a",
     "source": "The Defiant",
     "title": "Bitwise NEAR ETF Clears Listing and Registration Hurdles",
@@ -1730,6 +1721,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-05T00:41:20.799207+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8041b43e350c",
+    "source": "CoinDesk",
+    "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+    "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+    "published_at": "Mon, 05 Oct 2026 06:40:29 +0000",
+    "fetched_at": "2026-10-05T06:48:28.532520+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f0f0449c6f1b",
+    "source": "CoinDesk",
+    "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+    "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+    "published_at": "Mon, 05 Oct 2026 03:50:29 +0000",
+    "fetched_at": "2026-10-05T06:48:28.532520+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100506",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,413,532,825 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-05T06:48:33.177633+00:00",
     "used": false
   }
 ]
