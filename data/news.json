@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_b215138d1096",
-    "source": "The Defiant",
-    "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
-    "url": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
-    "published_at": "Mon, 28 Sep 2026 20:50:00 GMT",
-    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T20:50:00+00:00"
-  },
-  {
-    "id": "rss_f49779f6b0aa",
-    "source": "The Defiant",
-    "title": "Coinbase Teases Pokémon Card Packs Backed by Physical Collectibles",
-    "url": "https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles",
-    "published_at": "Mon, 28 Sep 2026 20:48:38 GMT",
-    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T20:48:38+00:00"
-  },
-  {
-    "id": "rss_e5f1f1f0af75",
-    "source": "CryptoSlate",
-    "title": "Lido’s 1,500 ETH reserve target could slow stETH withdrawals in a crunch",
-    "url": "https://cryptoslate.com/lidos-new-reserve-power-could-reshape-steth-withdrawal-waits-when-the-buffer-is-tight/",
-    "published_at": "Mon, 28 Sep 2026 20:30:08 +0000",
-    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T20:30:08+00:00"
-  },
-  {
-    "id": "rss_6e571cfceccb",
-    "source": "CryptoSlate",
-    "title": "Bitget says Bitcoin withdrawals are open after $387M hack, but ETH and USDT must wait",
-    "url": "https://cryptoslate.com/bitget-says-bitcoin-withdrawals-open-after-hack/",
-    "published_at": "Mon, 28 Sep 2026 19:35:25 +0000",
-    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T19:35:25+00:00"
-  },
-  {
-    "id": "rss_f0106015efc2",
-    "source": "Decrypt",
-    "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-    "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-    "published_at": "Mon, 28 Sep 2026 20:36:03 +0000",
-    "fetched_at": "2026-09-29T00:18:42.610571+00:00",
-    "used": false,
-    "_sort_date": "2026-09-28T20:36:03+00:00"
-  },
-  {
-    "id": "llama_2026092900",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,247,768,740 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-29T00:18:48.787191+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T00:18:48.787191+00:00"
-  },
-  {
     "id": "rss_3e452a5b938b",
     "source": "The Defiant",
     "title": "Coinbase Wins CFTC Approval for In-House Derivatives Clearing",
@@ -1876,5 +1816,14 @@
     "fetched_at": "2026-10-05T22:29:26.994455+00:00",
     "used": false,
     "_sort_date": "2026-10-05T22:29:26.994455+00:00"
+  },
+  {
+    "id": "llama_2026100602",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,452,723,495 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-06T02:28:31.147974+00:00",
+    "used": false
   }
 ]
