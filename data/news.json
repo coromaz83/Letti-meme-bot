@@ -1,74 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9e6836345b8f",
-    "source": "CoinDesk",
-    "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-    "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
-    "published_at": "Tue, 29 Sep 2026 10:28:51 +0000",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T10:28:51+00:00"
-  },
-  {
-    "id": "rss_67766fe867e1",
-    "source": "The Defiant",
-    "title": "Ethlabs Says CCIP 2.0 Cuts Ethereum Confirmation Wait to Seconds",
-    "url": "https://thedefiant.io/news/infrastructure/ethlabs-says-ccip-2-0-cuts-ethereum-confirmation-wait-to-seconds",
-    "published_at": "Tue, 29 Sep 2026 06:26:21 GMT",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T06:26:21+00:00"
-  },
-  {
-    "id": "rss_fc47c2b935e8",
-    "source": "CryptoSlate",
-    "title": "BitMine nears 5% Ethereum threshold, yet stock valuation rules dictate its next move",
-    "url": "https://cryptoslate.com/bitmine-nears-5-ethereum-as-treasury-premiums-fade-its-next-capital-choice-is-harder/",
-    "published_at": "Tue, 29 Sep 2026 11:20:31 +0000",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T11:20:31+00:00"
-  },
-  {
-    "id": "rss_9520effc5a65",
-    "source": "Decrypt",
-    "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-    "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-    "published_at": "Tue, 29 Sep 2026 12:05:18 +0000",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T12:05:18+00:00"
-  },
-  {
-    "id": "rss_8bfeb039ec48",
-    "source": "Decrypt",
-    "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-    "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-    "published_at": "Tue, 29 Sep 2026 09:38:57 +0000",
-    "fetched_at": "2026-09-29T13:15:08.551340+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T09:38:57+00:00"
-  },
-  {
-    "id": "llama_2026092913",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,296,192,561 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-29T13:15:22.322501+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T13:15:22.322501+00:00"
-  },
-  {
     "id": "rss_03c1cbf97587",
     "source": "Cointelegraph Base",
     "title": "Trueo prediction market moves from Base to Ethereum",
@@ -1822,6 +1753,150 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-06T09:21:01.940337+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d4cee4112b6a",
+    "source": "The Defiant",
+    "title": "Agora’s OCC Approval Sets Up AUSD Move to a US Trust Bank",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
+    "published_at": "Tue, 06 Oct 2026 15:27:34 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c78b690b3efa",
+    "source": "The Defiant",
+    "title": "Ethereum’s Glamsterdam Upgrade Activates on Sepolia",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-s-glamsterdam-upgrade-activates-on-sepolia",
+    "published_at": "Tue, 06 Oct 2026 14:25:19 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2a9456e6e5cc",
+    "source": "The Defiant",
+    "title": "UK Names Six Banks to Lead First Digital Gilt Pilot",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/uk-names-six-banks-to-lead-first-digital-gilt-pilot",
+    "published_at": "Tue, 06 Oct 2026 14:21:22 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9c550256c129",
+    "source": "The Defiant",
+    "title": "Circle and SC Ventures Back OKX at $25 Billion Valuation",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-and-sc-ventures-back-okx-at-25-billion-valuation",
+    "published_at": "Tue, 06 Oct 2026 14:21:05 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e6f881ac3970",
+    "source": "The Defiant",
+    "title": "Rain Seeks US Trust Bank Charter for Stablecoin Issuance",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-seeks-us-trust-bank-charter-for-stablecoin-issuance",
+    "published_at": "Tue, 06 Oct 2026 14:19:57 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_62a53d54bc39",
+    "source": "The Defiant",
+    "title": "Ether.fi Announces Dollar Stablecoin Powered by Ethena",
+    "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+    "published_at": "Tue, 06 Oct 2026 14:19:00 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5a9e3f7bbaad",
+    "source": "The Defiant",
+    "title": "Bloomberg Terminal Adds 24/7 Hyperliquid Perpetuals Pricing",
+    "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
+    "published_at": "Tue, 06 Oct 2026 14:17:49 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78f6287a8a13",
+    "source": "The Defiant",
+    "title": "Arbitrum Adopts Paxos' USDG as Its Ecosystem Dollar",
+    "url": "https://thedefiant.io/news/defi/arbitrum-adopts-paxos-usdg-as-its-ecosystem-dollar",
+    "published_at": "Tue, 06 Oct 2026 13:00:00 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_79d906492d7c",
+    "source": "The Defiant",
+    "title": "Circle Adds Aave to Bitcoin-Backed Borrowing in Mint",
+    "url": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
+    "published_at": "Tue, 06 Oct 2026 10:13:22 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59b007ced28e",
+    "source": "The Defiant",
+    "title": "DOJ Presses Roman Storm Case as FinCEN Drops Mixer Proposal",
+    "url": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal",
+    "published_at": "Tue, 06 Oct 2026 09:21:07 GMT",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_daa97a2cc6ba",
+    "source": "CryptoSlate",
+    "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
+    "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
+    "published_at": "Tue, 06 Oct 2026 14:50:42 +0000",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4945b5eb0972",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s proposed 3x ETF could reach CME’s futures threshold with just $362 million",
+    "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+    "published_at": "Tue, 06 Oct 2026 12:30:49 +0000",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7df423cc6346",
+    "source": "CryptoSlate",
+    "title": "Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi",
+    "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
+    "published_at": "Tue, 06 Oct 2026 11:30:49 +0000",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_40a19ad4884b",
+    "source": "CryptoSlate",
+    "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
+    "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
+    "published_at": "Tue, 06 Oct 2026 10:00:57 +0000",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3b5046623681",
+    "source": "Decrypt",
+    "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
+    "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+    "published_at": "Tue, 06 Oct 2026 15:26:41 +0000",
+    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100616",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,484,135,491 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-06T16:12:10.952869+00:00",
     "used": false
   }
 ]
