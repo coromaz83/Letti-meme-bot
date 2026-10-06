@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_3e452a5b938b",
-    "source": "The Defiant",
-    "title": "Coinbase Wins CFTC Approval for In-House Derivatives Clearing",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-cftc-approval-for-in-house-derivatives-clearing",
-    "published_at": "Tue, 29 Sep 2026 01:23:54 GMT",
-    "fetched_at": "2026-09-29T06:03:23.893588+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_48f18d75bff5",
-    "source": "CryptoSlate",
-    "title": "Coinbase powers Citi’s new stablecoin rails, and corporate banking faces a major shift",
-    "url": "https://cryptoslate.com/coinbase-powers-citis-new-stablecoin-rails-and-corporate-banking-faces-a-major-shift/",
-    "published_at": "Tue, 29 Sep 2026 06:00:50 +0000",
-    "fetched_at": "2026-09-29T06:03:23.893588+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T06:00:50+00:00"
-  },
-  {
-    "id": "llama_2026092906",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,224,202,828 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-29T06:03:27.982970+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T06:03:27.982970+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -1824,6 +1795,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-06T02:28:31.147974+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7188b3ea5409",
+    "source": "CoinDesk",
+    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "published_at": "Tue, 06 Oct 2026 04:49:05 +0000",
+    "fetched_at": "2026-10-06T09:20:57.652522+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e9ff4084b271",
+    "source": "The Defiant",
+    "title": "Ondo Unveils Private-Market Notes Ahead of First AI Offering",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-unveils-private-market-notes-ahead-of-first-ai-offering",
+    "published_at": "Tue, 06 Oct 2026 08:24:37 GMT",
+    "fetched_at": "2026-10-06T09:20:57.652522+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100609",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,412,728,869 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-06T09:21:01.940337+00:00",
     "used": false
   }
 ]
