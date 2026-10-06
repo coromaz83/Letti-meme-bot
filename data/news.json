@@ -1,114 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4efd52bff44a",
-    "source": "CoinDesk",
-    "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-    "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-    "published_at": "Tue, 29 Sep 2026 16:00:00 +0000",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T16:00:00+00:00"
-  },
-  {
-    "id": "rss_187d40fade16",
-    "source": "The Defiant",
-    "title": "New Survey Shows American Banks Rapidly Embracing Blockchain to Offer Faster, Cheaper and Better Financial Services",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/uphold-american-banker-survey-us-banks-blockchain-adoption",
-    "published_at": "Tue, 29 Sep 2026 17:20:23 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T17:20:23+00:00"
-  },
-  {
-    "id": "rss_d6c37ab42a9c",
-    "source": "The Defiant",
-    "title": "House Oversight Expands Prediction-Market Probe to Hyperliquid",
-    "url": "https://thedefiant.io/news/regulation/house-oversight-expands-prediction-market-probe-to-hyperliquid",
-    "published_at": "Tue, 29 Sep 2026 15:31:30 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T15:31:30+00:00"
-  },
-  {
-    "id": "rss_7fb80aeca3c8",
-    "source": "The Defiant",
-    "title": "Coinbase Adds HYPE and ZEC as Collateral for Loans of Up to $100,000",
-    "url": "https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000",
-    "published_at": "Tue, 29 Sep 2026 15:15:13 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T15:15:13+00:00"
-  },
-  {
-    "id": "rss_9751ed53cfb1",
-    "source": "The Defiant",
-    "title": "Sentora Seeks Aave V4 Markets With 50% Revenue Share for DAO",
-    "url": "https://thedefiant.io/news/defi/sentora-seeks-aave-v4-markets-with-50-revenue-share-for-dao",
-    "published_at": "Tue, 29 Sep 2026 14:10:13 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T14:10:13+00:00"
-  },
-  {
-    "id": "rss_194b2231bc24",
-    "source": "The Defiant",
-    "title": "Modveon Unveils El Salvador’s Sivar App for Dollar Transfers on Base",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/modveon-unveils-el-salvador-s-sivar-app-for-dollar-transfers-on-base",
-    "published_at": "Tue, 29 Sep 2026 14:04:53 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T14:04:53+00:00"
-  },
-  {
-    "id": "rss_54cc24693ccf",
-    "source": "The Defiant",
-    "title": "NEAR Intents Says It Froze $503,000 in Bitget Hack Funds",
-    "url": "https://thedefiant.io/news/hacks/near-intents-says-it-froze-503-000-in-bitget-hack-funds",
-    "published_at": "Tue, 29 Sep 2026 14:03:44 GMT",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T14:03:44+00:00"
-  },
-  {
-    "id": "rss_f6fca6130624",
-    "source": "CryptoSlate",
-    "title": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate",
-    "url": "https://cryptoslate.com/tether-claims-550-million-in-iran-freezes-but-35-million-slipped-past-senate/",
-    "published_at": "Tue, 29 Sep 2026 17:30:12 +0000",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T17:30:12+00:00"
-  },
-  {
-    "id": "rss_49e8e4d000a2",
-    "source": "Bankless",
-    "title": "Coinbase Completes U.S. Derivatives Stack With CFTC Approval",
-    "url": "https://www.bankless.com/read/news/coinbase-completes-u-s-derivatives-stack-with-cftc-approval",
-    "published_at": "Tue, 29 Sep 2026 09:59:17 -0400",
-    "fetched_at": "2026-09-29T18:49:23.148498+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T09:59:17-04:00"
-  },
-  {
-    "id": "llama_2026092918",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,240,092,206 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-29T18:49:30.109004+00:00",
-    "used": false,
-    "_sort_date": "2026-09-29T18:49:30.109004+00:00"
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -1897,6 +1788,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-06T16:12:10.952869+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f9b3b9a2bbe",
+    "source": "The Defiant",
+    "title": "Coinbase Launches 15-Minute And Hourly Crypto Price Markets",
+    "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+    "published_at": "Tue, 06 Oct 2026 21:07:36 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4750158c1150",
+    "source": "The Defiant",
+    "title": "Abstract to Shut Down Ethereum Layer 2 on Dec. 15",
+    "url": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15",
+    "published_at": "Tue, 06 Oct 2026 20:35:24 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_20ab060f138b",
+    "source": "The Defiant",
+    "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
+    "url": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
+    "published_at": "Tue, 06 Oct 2026 19:19:43 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0db496d124a5",
+    "source": "The Defiant",
+    "title": "Winklevoss Files for Zcash ETF With 0.25% Fee",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee",
+    "published_at": "Tue, 06 Oct 2026 19:17:19 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_48ca0a09cbd5",
+    "source": "The Defiant",
+    "title": "Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
+    "published_at": "Tue, 06 Oct 2026 17:56:00 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_38da29448d8f",
+    "source": "The Defiant",
+    "title": "Anchorage Digital Buys Routable to Add Corporate Payment Rails",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+    "published_at": "Tue, 06 Oct 2026 17:54:45 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8d48141d76a2",
+    "source": "The Defiant",
+    "title": "Firelight Begins Writing DeFi Cover Backed By Staked XRP",
+    "url": "https://thedefiant.io/news/defi/firelight-begins-writing-defi-cover-backed-by-staked-xrp",
+    "published_at": "Tue, 06 Oct 2026 17:53:39 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_85154c5b268f",
+    "source": "The Defiant",
+    "title": "Tokenized Stocks Grew 395% in a Year While DeFi Use Stayed Under 3%",
+    "url": "https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps",
+    "published_at": "Tue, 06 Oct 2026 15:00:00 GMT",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db9248d2b543",
+    "source": "Decrypt",
+    "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+    "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+    "published_at": "Tue, 06 Oct 2026 20:28:53 +0000",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_616132a5b304",
+    "source": "Decrypt",
+    "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+    "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+    "published_at": "Tue, 06 Oct 2026 19:46:04 +0000",
+    "fetched_at": "2026-10-06T21:09:44.379265+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100621",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,430,322,785 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-06T21:09:47.875817+00:00",
     "used": false
   }
 ]
