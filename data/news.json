@@ -1714,7 +1714,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
     "published_at": "Mon, 05 Oct 2026 17:18:14 +0000",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T17:18:14+00:00"
   },
   {
     "id": "rss_afd0334a4509",
@@ -1723,7 +1724,8 @@
     "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
     "published_at": "Mon, 05 Oct 2026 20:32:07 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T20:32:07+00:00"
   },
   {
     "id": "rss_ab32e2fc9ace",
@@ -1732,7 +1734,8 @@
     "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
     "published_at": "Mon, 05 Oct 2026 20:26:10 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T20:26:10+00:00"
   },
   {
     "id": "rss_b8dee34a56ff",
@@ -1741,7 +1744,8 @@
     "url": "https://thedefiant.io/news/security/zachxbt-says-he-fronted-349-700-to-infiltrate-alleged-laundering-ring",
     "published_at": "Mon, 05 Oct 2026 20:23:19 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T20:23:19+00:00"
   },
   {
     "id": "rss_21d06bde8179",
@@ -1750,7 +1754,8 @@
     "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
     "published_at": "Mon, 05 Oct 2026 19:46:22 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T19:46:22+00:00"
   },
   {
     "id": "rss_0b7e9a5a58c4",
@@ -1759,7 +1764,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethereum-exit-queue-eases-to-767-000-eth-after-metamask-validator-exits",
     "published_at": "Mon, 05 Oct 2026 19:17:44 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T19:17:44+00:00"
   },
   {
     "id": "rss_2c2439ec23a4",
@@ -1768,7 +1774,8 @@
     "url": "https://thedefiant.io/news/defi/flying-tulip-s-nft-options-market-tops-5-million-in-volume-cronje-says",
     "published_at": "Mon, 05 Oct 2026 18:59:48 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:59:48+00:00"
   },
   {
     "id": "rss_0d06dd0bd81b",
@@ -1777,7 +1784,8 @@
     "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
     "published_at": "Mon, 05 Oct 2026 18:44:11 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:44:11+00:00"
   },
   {
     "id": "rss_9f5880734c6f",
@@ -1786,7 +1794,8 @@
     "url": "https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations",
     "published_at": "Mon, 05 Oct 2026 18:34:55 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:34:55+00:00"
   },
   {
     "id": "rss_d799b789941e",
@@ -1795,7 +1804,8 @@
     "url": "https://thedefiant.io/converge/people/anchorage-digital-cuts-17-of-staff-the-information-reports",
     "published_at": "Mon, 05 Oct 2026 18:31:26 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:31:26+00:00"
   },
   {
     "id": "rss_c3607775e137",
@@ -1804,7 +1814,8 @@
     "url": "https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds",
     "published_at": "Mon, 05 Oct 2026 18:30:00 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:30:00+00:00"
   },
   {
     "id": "rss_bc9eab1e5070",
@@ -1813,7 +1824,8 @@
     "url": "https://thedefiant.io/news/defi/okx-ice-plans-tokenized-stock-trading-through-a-uniswap-v4-hook",
     "published_at": "Mon, 05 Oct 2026 18:22:23 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:22:23+00:00"
   },
   {
     "id": "rss_03b1d55703be",
@@ -1822,7 +1834,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sec-clears-3x-bitcoin-and-ether-etps-for-cboe-listing",
     "published_at": "Mon, 05 Oct 2026 18:21:46 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:21:46+00:00"
   },
   {
     "id": "rss_d650229bf6d2",
@@ -1831,7 +1844,8 @@
     "url": "https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026",
     "published_at": "Mon, 05 Oct 2026 17:23:56 GMT",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T17:23:56+00:00"
   },
   {
     "id": "rss_46f022de06b5",
@@ -1840,7 +1854,8 @@
     "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
     "published_at": "Mon, 05 Oct 2026 21:48:03 +0000",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T21:48:03+00:00"
   },
   {
     "id": "rss_9e7acce0480f",
@@ -1849,7 +1864,8 @@
     "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
     "published_at": "Mon, 05 Oct 2026 18:12:28 +0000",
     "fetched_at": "2026-10-05T22:29:22.040207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T18:12:28+00:00"
   },
   {
     "id": "llama_2026100522",
@@ -1858,6 +1874,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-05T22:29:26.994455+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-05T22:29:26.994455+00:00"
   }
 ]
