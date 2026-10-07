@@ -1653,7 +1653,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
     "published_at": "Tue, 06 Oct 2026 15:27:34 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T15:27:34+00:00"
   },
   {
     "id": "rss_c78b690b3efa",
@@ -1662,7 +1663,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethereum-s-glamsterdam-upgrade-activates-on-sepolia",
     "published_at": "Tue, 06 Oct 2026 14:25:19 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:25:19+00:00"
   },
   {
     "id": "rss_2a9456e6e5cc",
@@ -1671,7 +1673,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/uk-names-six-banks-to-lead-first-digital-gilt-pilot",
     "published_at": "Tue, 06 Oct 2026 14:21:22 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:21:22+00:00"
   },
   {
     "id": "rss_9c550256c129",
@@ -1680,7 +1683,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-and-sc-ventures-back-okx-at-25-billion-valuation",
     "published_at": "Tue, 06 Oct 2026 14:21:05 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:21:05+00:00"
   },
   {
     "id": "rss_e6f881ac3970",
@@ -1689,7 +1693,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-seeks-us-trust-bank-charter-for-stablecoin-issuance",
     "published_at": "Tue, 06 Oct 2026 14:19:57 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:19:57+00:00"
   },
   {
     "id": "rss_62a53d54bc39",
@@ -1698,7 +1703,8 @@
     "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
     "published_at": "Tue, 06 Oct 2026 14:19:00 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:19:00+00:00"
   },
   {
     "id": "rss_5a9e3f7bbaad",
@@ -1707,7 +1713,8 @@
     "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
     "published_at": "Tue, 06 Oct 2026 14:17:49 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:17:49+00:00"
   },
   {
     "id": "rss_78f6287a8a13",
@@ -1716,7 +1723,8 @@
     "url": "https://thedefiant.io/news/defi/arbitrum-adopts-paxos-usdg-as-its-ecosystem-dollar",
     "published_at": "Tue, 06 Oct 2026 13:00:00 GMT",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T13:00:00+00:00"
   },
   {
     "id": "rss_79d906492d7c",
@@ -1743,7 +1751,8 @@
     "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
     "published_at": "Tue, 06 Oct 2026 14:50:42 +0000",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T14:50:42+00:00"
   },
   {
     "id": "rss_4945b5eb0972",
@@ -1752,7 +1761,8 @@
     "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
     "published_at": "Tue, 06 Oct 2026 12:30:49 +0000",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T12:30:49+00:00"
   },
   {
     "id": "rss_7df423cc6346",
@@ -1779,7 +1789,8 @@
     "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
     "published_at": "Tue, 06 Oct 2026 15:26:41 +0000",
     "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T15:26:41+00:00"
   },
   {
     "id": "llama_2026100616",
@@ -1788,7 +1799,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-06T16:12:10.952869+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T16:12:10.952869+00:00"
   },
   {
     "id": "rss_287140871b21",
@@ -1806,7 +1818,8 @@
     "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
     "published_at": "Tue, 06 Oct 2026 21:07:36 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T21:07:36+00:00"
   },
   {
     "id": "rss_4750158c1150",
@@ -1815,7 +1828,8 @@
     "url": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15",
     "published_at": "Tue, 06 Oct 2026 20:35:24 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T20:35:24+00:00"
   },
   {
     "id": "rss_20ab060f138b",
@@ -1824,7 +1838,8 @@
     "url": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
     "published_at": "Tue, 06 Oct 2026 19:19:43 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T19:19:43+00:00"
   },
   {
     "id": "rss_0db496d124a5",
@@ -1833,7 +1848,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee",
     "published_at": "Tue, 06 Oct 2026 19:17:19 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T19:17:19+00:00"
   },
   {
     "id": "rss_48ca0a09cbd5",
@@ -1842,7 +1858,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
     "published_at": "Tue, 06 Oct 2026 17:56:00 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T17:56:00+00:00"
   },
   {
     "id": "rss_38da29448d8f",
@@ -1851,7 +1868,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
     "published_at": "Tue, 06 Oct 2026 17:54:45 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T17:54:45+00:00"
   },
   {
     "id": "rss_8d48141d76a2",
@@ -1860,7 +1878,8 @@
     "url": "https://thedefiant.io/news/defi/firelight-begins-writing-defi-cover-backed-by-staked-xrp",
     "published_at": "Tue, 06 Oct 2026 17:53:39 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T17:53:39+00:00"
   },
   {
     "id": "rss_85154c5b268f",
@@ -1869,7 +1888,8 @@
     "url": "https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps",
     "published_at": "Tue, 06 Oct 2026 15:00:00 GMT",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T15:00:00+00:00"
   },
   {
     "id": "rss_db9248d2b543",
@@ -1878,7 +1898,8 @@
     "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
     "published_at": "Tue, 06 Oct 2026 20:28:53 +0000",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T20:28:53+00:00"
   },
   {
     "id": "rss_616132a5b304",
@@ -1887,7 +1908,8 @@
     "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
     "published_at": "Tue, 06 Oct 2026 19:46:04 +0000",
     "fetched_at": "2026-10-06T21:09:44.379265+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T19:46:04+00:00"
   },
   {
     "id": "llama_2026100621",
@@ -1896,6 +1918,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-06T21:09:47.875817+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-06T21:09:47.875817+00:00"
   }
 ]
