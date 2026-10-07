@@ -1762,7 +1762,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
     "published_at": "Wed, 07 Oct 2026 04:31:14 +0000",
     "fetched_at": "2026-10-07T07:08:16.690951+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T04:31:14+00:00"
   },
   {
     "id": "rss_e971bbd6366d",
@@ -1789,7 +1790,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-10-07T07:08:16.690951+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T07:08:16.690951+00:00"
   },
   {
     "id": "llama_2026100707",
@@ -1798,7 +1800,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-07T07:08:20.941728+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T07:08:20.941728+00:00"
   },
   {
     "id": "rss_cdd30d1e6541",
@@ -1834,7 +1837,8 @@
     "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
     "published_at": "Wed, 07 Oct 2026 14:27:37 +0000",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T14:27:37+00:00"
   },
   {
     "id": "rss_f52c54658252",
@@ -1843,7 +1847,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
     "published_at": "Wed, 07 Oct 2026 12:40:31 +0000",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T12:40:31+00:00"
   },
   {
     "id": "rss_212ecd4955a4",
@@ -1852,7 +1857,8 @@
     "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
     "published_at": "Wed, 07 Oct 2026 12:34:13 +0000",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T12:34:13+00:00"
   },
   {
     "id": "rss_0a8d9bdc959f",
@@ -1861,7 +1867,8 @@
     "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
     "published_at": "Wed, 07 Oct 2026 13:13:05 GMT",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T13:13:05+00:00"
   },
   {
     "id": "rss_24ae15b23abd",
@@ -1870,7 +1877,8 @@
     "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
     "published_at": "Wed, 07 Oct 2026 11:40:51 +0000",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T11:40:51+00:00"
   },
   {
     "id": "rss_f9b7af0e8015",
@@ -1879,7 +1887,8 @@
     "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
     "published_at": "Wed, 07 Oct 2026 10:20:52 +0000",
     "fetched_at": "2026-10-07T14:41:46.775406+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T10:20:52+00:00"
   },
   {
     "id": "llama_2026100714",
@@ -1888,6 +1897,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-07T14:41:50.951207+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T14:41:50.951207+00:00"
   }
 ]
