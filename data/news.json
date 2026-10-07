@@ -1,74 +1,5 @@
 [
   {
-    "id": "rss_76242fb697f2",
-    "source": "The Defiant",
-    "title": "Kalshi Files to End Volume Incentive Program",
-    "url": "https://thedefiant.io/news/cefi/kalshi-files-to-end-volume-incentive-program",
-    "published_at": "Wed, 30 Sep 2026 07:34:13 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T07:34:13+00:00"
-  },
-  {
-    "id": "rss_a84730441200",
-    "source": "The Defiant",
-    "title": "Lighter Token Drops After Robinhood Perps Plan",
-    "url": "https://thedefiant.io/news/defi/lighter-token-drops-after-robinhood-perps-plan",
-    "published_at": "Wed, 30 Sep 2026 06:38:11 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T06:38:11+00:00"
-  },
-  {
-    "id": "rss_5bc31c1e7bb6",
-    "source": "The Defiant",
-    "title": "Morgan Stanley Sets Up Lab to Test Stablecoins and DeFi",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-sets-up-lab-to-test-stablecoins-and-defi",
-    "published_at": "Wed, 30 Sep 2026 06:35:52 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T06:35:52+00:00"
-  },
-  {
-    "id": "rss_0ccf19076f9c",
-    "source": "The Defiant",
-    "title": "Robinhood Unveils In-App AI Agents for Crypto and Stock Trading",
-    "url": "https://thedefiant.io/converge/cefi/robinhood-unveils-in-app-ai-agents-for-crypto-and-stock-trading",
-    "published_at": "Wed, 30 Sep 2026 06:35:23 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T06:35:23+00:00"
-  },
-  {
-    "id": "rss_13587f5ee23b",
-    "source": "The Defiant",
-    "title": "Kalshi in Advanced Talks for $1B Raise at $40B Valuation: Reuters",
-    "url": "https://thedefiant.io/news/cefi/kalshi-in-advanced-talks-for-1b-raise-at-40b-valuation-reuters",
-    "published_at": "Wed, 30 Sep 2026 06:34:34 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T06:34:34+00:00"
-  },
-  {
-    "id": "rss_c5e494fa47cb",
-    "source": "The Defiant",
-    "title": "Abracadabra Proposes Winding Down MIM at Four Cents on the Dollar",
-    "url": "https://thedefiant.io/news/defi/abracadabra-proposes-winding-down-mim-at-four-cents-on-the-dollar",
-    "published_at": "Wed, 30 Sep 2026 02:13:52 GMT",
-    "fetched_at": "2026-09-30T08:22:34.015582+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026093008",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,240,298,713 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-09-30T08:22:38.980710+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T08:22:38.980710+00:00"
-  },
-  {
     "id": "rss_a14b08198b61",
     "source": "The Defiant",
     "title": "Most Tokenized Cash Never Trades, Dune Finds",
@@ -1867,6 +1798,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-07T07:08:20.941728+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c2275689a6ab",
+    "source": "CoinDesk",
+    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+    "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "published_at": "Wed, 07 Oct 2026 14:27:37 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f52c54658252",
+    "source": "CoinDesk",
+    "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+    "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+    "published_at": "Wed, 07 Oct 2026 12:40:31 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_212ecd4955a4",
+    "source": "CoinDesk",
+    "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+    "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+    "published_at": "Wed, 07 Oct 2026 12:34:13 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a8d9bdc959f",
+    "source": "The Defiant",
+    "title": "Moody's Rates Sky B3, Flagging Thin Capital Buffer",
+    "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
+    "published_at": "Wed, 07 Oct 2026 13:13:05 GMT",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_24ae15b23abd",
+    "source": "CryptoSlate",
+    "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
+    "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
+    "published_at": "Wed, 07 Oct 2026 11:40:51 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f9b7af0e8015",
+    "source": "CryptoSlate",
+    "title": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
+    "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
+    "published_at": "Wed, 07 Oct 2026 10:20:52 +0000",
+    "fetched_at": "2026-10-07T14:41:46.775406+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100714",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,267,287,553 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-07T14:41:50.951207+00:00",
     "used": false
   }
 ]
