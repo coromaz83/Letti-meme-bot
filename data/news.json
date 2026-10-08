@@ -1,53 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_780bcaee61a2",
-    "source": "CoinDesk",
-    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-    "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-    "published_at": "Thu, 01 Oct 2026 04:58:52 +0000",
-    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T04:58:52+00:00"
-  },
-  {
-    "id": "rss_7151cb252905",
-    "source": "The Defiant",
-    "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
-    "url": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
-    "published_at": "Thu, 01 Oct 2026 03:19:58 GMT",
-    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e83c8ed9a351",
-    "source": "CryptoSlate",
-    "title": "Three hidden flaws in Uniswap’s StablePair hook drain LP returns",
-    "url": "https://cryptoslate.com/three-hidden-flaws-in-uniswaps-stablepair-hook-drain-lp-returns/",
-    "published_at": "Thu, 01 Oct 2026 05:10:32 +0000",
-    "fetched_at": "2026-10-01T06:26:04.921460+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T05:10:32+00:00"
-  },
-  {
-    "id": "llama_2026100106",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,298,174,980 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-01T06:26:10.739818+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T06:26:10.739818+00:00"
-  },
-  {
     "id": "rss_b05b22df968b",
     "source": "CoinDesk",
     "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
@@ -1844,6 +1796,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-08T00:54:13.979567+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4c36630be677",
+    "source": "CoinDesk",
+    "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+    "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "published_at": "Thu, 08 Oct 2026 04:23:23 +0000",
+    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3537c5baf144",
+    "source": "The Defiant",
+    "title": "Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE",
+    "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+    "published_at": "Thu, 08 Oct 2026 03:38:56 GMT",
+    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2870afc8b7d4",
+    "source": "The Defiant",
+    "title": "Samsung Wallet to Add USDC on Sui in Late October",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
+    "published_at": "Thu, 08 Oct 2026 02:30:16 GMT",
+    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e56092d67db4",
+    "source": "The Defiant",
+    "title": "Justin Drake Urges 'Bunker Mode' Migration to Fresh Crypto Addresses",
+    "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+    "published_at": "Thu, 08 Oct 2026 02:22:39 GMT",
+    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100807",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,220,865,797 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-08T07:13:37.855238+00:00",
     "used": false
   }
 ]
