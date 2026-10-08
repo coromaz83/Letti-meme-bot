@@ -1695,7 +1695,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
     "published_at": "Thu, 08 Oct 2026 04:23:23 +0000",
     "fetched_at": "2026-10-08T07:13:33.250350+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T04:23:23+00:00"
   },
   {
     "id": "rss_3537c5baf144",
@@ -1731,7 +1732,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-08T07:13:37.855238+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T07:13:37.855238+00:00"
   },
   {
     "id": "rss_18d775190419",
@@ -1749,7 +1751,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
     "published_at": "Thu, 08 Oct 2026 11:47:16 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T11:47:16+00:00"
   },
   {
     "id": "rss_246a4272547d",
@@ -1758,7 +1761,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
     "published_at": "Thu, 08 Oct 2026 10:30:41 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T10:30:41+00:00"
   },
   {
     "id": "rss_e4720728653e",
@@ -1767,7 +1771,8 @@
     "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/",
     "published_at": "Thu, 08 Oct 2026 13:00:24 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T13:00:24+00:00"
   },
   {
     "id": "rss_d65b62f813cb",
@@ -1776,7 +1781,8 @@
     "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
     "published_at": "Thu, 08 Oct 2026 10:50:37 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T10:50:37+00:00"
   },
   {
     "id": "rss_6649760ccb6b",
@@ -1785,7 +1791,8 @@
     "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
     "published_at": "Thu, 08 Oct 2026 08:40:15 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T08:40:15+00:00"
   },
   {
     "id": "rss_483ff5914416",
@@ -1794,7 +1801,8 @@
     "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
     "published_at": "Thu, 08 Oct 2026 11:48:13 +0000",
     "fetched_at": "2026-10-08T14:50:57.274622+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T11:48:13+00:00"
   },
   {
     "id": "llama_2026100814",
@@ -1803,6 +1811,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-08T14:51:04.303859+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T14:51:04.303859+00:00"
   }
 ]
