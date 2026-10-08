@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_db24faec32d6",
-    "source": "The Defiant",
-    "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
-    "url": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
-    "published_at": "Thu, 01 Oct 2026 00:00:43 GMT",
-    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T00:00:43+00:00"
-  },
-  {
-    "id": "rss_7ccb1189851a",
-    "source": "The Defiant",
-    "title": "OFAC Sanctions Tren de Aragua ATM Network, Lists Seven Tron Addresses",
-    "url": "https://thedefiant.io/news/regulation/ofac-sanctions-tren-de-aragua-atm-network-lists-seven-tron-addresses",
-    "published_at": "Wed, 30 Sep 2026 21:29:30 GMT",
-    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T21:29:30+00:00"
-  },
-  {
-    "id": "rss_4a5e8d587865",
-    "source": "CryptoSlate",
-    "title": "Standard Chartered says Ethena’s ENA could crush Bitcoin and Ethereum returns by 2028",
-    "url": "https://cryptoslate.com/standard-chartered-says-ethenas-ena-could-crush-bitcoin-and-ethereum-returns-by-2028/",
-    "published_at": "Wed, 30 Sep 2026 21:30:01 +0000",
-    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T21:30:01+00:00"
-  },
-  {
-    "id": "rss_24197e685943",
-    "source": "Decrypt",
-    "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-    "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-    "published_at": "Wed, 30 Sep 2026 20:31:04 +0000",
-    "fetched_at": "2026-10-01T00:07:33.475143+00:00",
-    "used": false,
-    "_sort_date": "2026-09-30T20:31:04+00:00"
-  },
-  {
-    "id": "llama_2026100100",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,281,374,233 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-01T00:07:35.978849+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T00:07:35.978849+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -1850,5 +1800,50 @@
     "fetched_at": "2026-10-07T20:32:20.510596+00:00",
     "used": false,
     "_sort_date": "2026-10-07T20:32:20.510596+00:00"
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f8a1b13f53dc",
+    "source": "CryptoSlate",
+    "title": "US government moves $470 million in seized crypto to Coinbase wallets, raising Bitcoin sale questions",
+    "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+    "published_at": "Thu, 08 Oct 2026 00:00:12 +0000",
+    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e359ca5176c",
+    "source": "CryptoSlate",
+    "title": "OpenAI math breakthroughs raise ‘bunker mode’ alarm from Bitcoin researcher Justin Drake",
+    "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
+    "published_at": "Wed, 07 Oct 2026 22:24:45 +0000",
+    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8650330713c7",
+    "source": "Decrypt",
+    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+    "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+    "published_at": "Wed, 07 Oct 2026 21:16:03 +0000",
+    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100800",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,246,166,493 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-08T00:54:13.979567+00:00",
+    "used": false
   }
 ]
