@@ -1668,7 +1668,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
     "published_at": "Wed, 07 Oct 2026 20:24:56 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T20:24:56+00:00"
   },
   {
     "id": "rss_bc001158da97",
@@ -1677,7 +1678,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-holds-below-84000-cost-basis-level-nine-of-125-tokens-rise-oct-07-2026",
     "published_at": "Wed, 07 Oct 2026 17:24:18 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T17:24:18+00:00"
   },
   {
     "id": "rss_45a441a36102",
@@ -1686,7 +1688,8 @@
     "url": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
     "published_at": "Wed, 07 Oct 2026 16:57:34 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:57:34+00:00"
   },
   {
     "id": "rss_b396b352f644",
@@ -1695,7 +1698,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
     "published_at": "Wed, 07 Oct 2026 16:56:12 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:56:12+00:00"
   },
   {
     "id": "rss_417cd9790452",
@@ -1704,7 +1708,8 @@
     "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
     "published_at": "Wed, 07 Oct 2026 16:55:22 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:55:22+00:00"
   },
   {
     "id": "rss_e1f29074ee8a",
@@ -1713,7 +1718,8 @@
     "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
     "published_at": "Wed, 07 Oct 2026 16:54:42 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:54:42+00:00"
   },
   {
     "id": "rss_b8c8a6a17af4",
@@ -1722,7 +1728,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-will-stop-buying-eth-at-5-of-supply-tom-lee-says",
     "published_at": "Wed, 07 Oct 2026 16:42:59 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:42:59+00:00"
   },
   {
     "id": "rss_bf3baf90657e",
@@ -1731,7 +1738,8 @@
     "url": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
     "published_at": "Wed, 07 Oct 2026 16:42:19 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:42:19+00:00"
   },
   {
     "id": "rss_d2f38abddc26",
@@ -1740,7 +1748,8 @@
     "url": "https://thedefiant.io/news/blockchains/near-adds-robinhood-chain-to-its-multichain-app",
     "published_at": "Wed, 07 Oct 2026 16:36:16 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:36:16+00:00"
   },
   {
     "id": "rss_fa74a0d3a7a0",
@@ -1749,7 +1758,8 @@
     "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
     "published_at": "Wed, 07 Oct 2026 16:32:48 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:32:48+00:00"
   },
   {
     "id": "rss_94d259f56b2a",
@@ -1758,7 +1768,8 @@
     "url": "https://thedefiant.io/news/markets/coplan-stops-short-of-mentioning-a-polymarket-token-at-token2049",
     "published_at": "Wed, 07 Oct 2026 16:00:29 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T16:00:29+00:00"
   },
   {
     "id": "rss_aa0c0dd2d237",
@@ -1767,7 +1778,8 @@
     "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
     "published_at": "Wed, 07 Oct 2026 15:56:49 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T15:56:49+00:00"
   },
   {
     "id": "rss_ac4003891bb7",
@@ -1776,7 +1788,8 @@
     "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
     "published_at": "Wed, 07 Oct 2026 15:55:20 GMT",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T15:55:20+00:00"
   },
   {
     "id": "rss_8515ff9ca840",
@@ -1785,7 +1798,8 @@
     "url": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation/",
     "published_at": "Wed, 07 Oct 2026 18:40:43 +0000",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T18:40:43+00:00"
   },
   {
     "id": "rss_a04d7e7b6d6f",
@@ -1794,7 +1808,8 @@
     "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
     "published_at": "Wed, 07 Oct 2026 19:46:04 +0000",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T19:46:04+00:00"
   },
   {
     "id": "rss_7860af36e7aa",
@@ -1803,7 +1818,8 @@
     "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
     "published_at": "Wed, 07 Oct 2026 19:10:31 +0000",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T19:10:31+00:00"
   },
   {
     "id": "rss_bee529a53229",
@@ -1812,7 +1828,8 @@
     "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
     "published_at": "Wed, 07 Oct 2026 14:55:32 +0000",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T14:55:32+00:00"
   },
   {
     "id": "rss_f527084f7442",
@@ -1821,7 +1838,8 @@
     "url": "https://www.bankless.com/read/bigger-blocks-are-coming-to-ethereum",
     "published_at": "Wed, 07 Oct 2026 11:37:06 -0400",
     "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T11:37:06-04:00"
   },
   {
     "id": "llama_2026100720",
@@ -1830,6 +1848,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-07T20:32:20.510596+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-07T20:32:20.510596+00:00"
   }
 ]
