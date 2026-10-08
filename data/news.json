@@ -1,115 +1,5 @@
 [
   {
-    "id": "rss_b05b22df968b",
-    "source": "CoinDesk",
-    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "published_at": "Thu, 01 Oct 2026 07:06:30 +0000",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T07:06:30+00:00"
-  },
-  {
-    "id": "rss_53a0c01b0cc5",
-    "source": "The Defiant",
-    "title": "NEAR Intents Halts Services, Reports $3.8 Million Loss",
-    "url": "https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss",
-    "published_at": "Thu, 01 Oct 2026 13:41:34 GMT",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T13:41:34+00:00"
-  },
-  {
-    "id": "rss_c05cf6cae42c",
-    "source": "The Defiant",
-    "title": "Authors Pull Ethereum Staking Reward Burn From Hegotá",
-    "url": "https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot",
-    "published_at": "Thu, 01 Oct 2026 09:41:48 GMT",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T09:41:48+00:00"
-  },
-  {
-    "id": "rss_c70156a66390",
-    "source": "The Defiant",
-    "title": "Judge Dismisses LIBRA and M3M3 Class Action With Prejudice",
-    "url": "https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice",
-    "published_at": "Thu, 01 Oct 2026 08:36:54 GMT",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T08:36:54+00:00"
-  },
-  {
-    "id": "rss_b61dce8e2fa7",
-    "source": "The Defiant",
-    "title": "CertiK Tallies $766.4 Million in September Exploit and Phishing Losses",
-    "url": "https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses",
-    "published_at": "Thu, 01 Oct 2026 08:13:39 GMT",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T08:13:39+00:00"
-  },
-  {
-    "id": "rss_a25a537a32e2",
-    "source": "The Defiant",
-    "title": "Marinade Says Council Blocked DAO Takeover Attempt",
-    "url": "https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt",
-    "published_at": "Thu, 01 Oct 2026 07:46:38 GMT",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T07:46:38+00:00"
-  },
-  {
-    "id": "rss_26b3258e22c8",
-    "source": "CryptoSlate",
-    "title": "MetaMask security scare pushes Ethereum validator exits to a nine-month high",
-    "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
-    "published_at": "Thu, 01 Oct 2026 13:40:02 +0000",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T13:40:02+00:00"
-  },
-  {
-    "id": "rss_a474795993cd",
-    "source": "CryptoSlate",
-    "title": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
-    "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
-    "published_at": "Thu, 01 Oct 2026 11:20:17 +0000",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T11:20:17+00:00"
-  },
-  {
-    "id": "rss_c57a725673b5",
-    "source": "CryptoSlate",
-    "title": "Base’s Cobalt upgrade adds another rule to affect token balances",
-    "url": "https://cryptoslate.com/bases-cobalt-upgrade-adds-another-rule-to-affect-token-balances/",
-    "published_at": "Thu, 01 Oct 2026 07:30:48 +0000",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T07:30:48+00:00"
-  },
-  {
-    "id": "rss_7de5d5f1b9c1",
-    "source": "Decrypt",
-    "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-    "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-    "published_at": "Thu, 01 Oct 2026 12:23:15 +0000",
-    "fetched_at": "2026-10-01T13:48:43.332924+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T12:23:15+00:00"
-  },
-  {
-    "id": "llama_2026100113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,307,947,297 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-01T13:48:47.768521+00:00",
-    "used": false,
-    "_sort_date": "2026-10-01T13:48:47.768521+00:00"
-  },
-  {
     "id": "rss_aaf4ce8ed07c",
     "source": "The Defiant",
     "title": "US Sanctions A7 Network, Proposes Ban on Sub-Agent Payments",
@@ -1841,6 +1731,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-08T07:13:37.855238+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e3163fb8bdc3",
+    "source": "CoinDesk",
+    "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
+    "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+    "published_at": "Thu, 08 Oct 2026 11:47:16 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_246a4272547d",
+    "source": "CoinDesk",
+    "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+    "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+    "published_at": "Thu, 08 Oct 2026 10:30:41 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e4720728653e",
+    "source": "CryptoSlate",
+    "title": "Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens",
+    "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/",
+    "published_at": "Thu, 08 Oct 2026 13:00:24 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d65b62f813cb",
+    "source": "CryptoSlate",
+    "title": "BitMine’s Ethereum buying spree could end in six weeks",
+    "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
+    "published_at": "Thu, 08 Oct 2026 10:50:37 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6649760ccb6b",
+    "source": "CryptoSlate",
+    "title": "Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security",
+    "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
+    "published_at": "Thu, 08 Oct 2026 08:40:15 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_483ff5914416",
+    "source": "Decrypt",
+    "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
+    "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+    "published_at": "Thu, 08 Oct 2026 11:48:13 +0000",
+    "fetched_at": "2026-10-08T14:50:57.274622+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100814",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,145,836,691 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-08T14:51:04.303859+00:00",
     "used": false
   }
 ]
