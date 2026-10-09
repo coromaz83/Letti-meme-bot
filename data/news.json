@@ -1731,7 +1731,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
     "published_at": "Thu, 08 Oct 2026 19:46:15 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T19:46:15+00:00"
   },
   {
     "id": "rss_48e94c9ead51",
@@ -1740,7 +1741,8 @@
     "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
     "published_at": "Thu, 08 Oct 2026 19:26:12 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T19:26:12+00:00"
   },
   {
     "id": "rss_c5e57121c644",
@@ -1749,7 +1751,8 @@
     "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
     "published_at": "Thu, 08 Oct 2026 18:23:35 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T18:23:35+00:00"
   },
   {
     "id": "rss_c8e848e6e87c",
@@ -1758,7 +1761,8 @@
     "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
     "published_at": "Thu, 08 Oct 2026 16:20:53 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T16:20:53+00:00"
   },
   {
     "id": "rss_49311537b9c1",
@@ -1767,7 +1771,8 @@
     "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
     "published_at": "Thu, 08 Oct 2026 15:38:13 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:38:13+00:00"
   },
   {
     "id": "rss_b251219aea1f",
@@ -1776,7 +1781,8 @@
     "url": "https://thedefiant.io/news/defi/wallet-shifts-150-million-usdt-from-aave-to-spark-savings",
     "published_at": "Thu, 08 Oct 2026 15:26:51 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:26:51+00:00"
   },
   {
     "id": "rss_c935f3f6444d",
@@ -1785,7 +1791,8 @@
     "url": "https://thedefiant.io/news/security/glassnode-co-founder-counts-6-26-million-btc-with-exposed-public-keys",
     "published_at": "Thu, 08 Oct 2026 15:11:08 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:11:08+00:00"
   },
   {
     "id": "rss_f0fee8a997f0",
@@ -1794,7 +1801,8 @@
     "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
     "published_at": "Thu, 08 Oct 2026 15:10:30 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:10:30+00:00"
   },
   {
     "id": "rss_860bd0ce3c44",
@@ -1803,7 +1811,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
     "published_at": "Thu, 08 Oct 2026 15:10:15 GMT",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:10:15+00:00"
   },
   {
     "id": "rss_2fb0c0bb74f3",
@@ -1812,7 +1821,8 @@
     "url": "https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/",
     "published_at": "Thu, 08 Oct 2026 15:40:34 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:40:34+00:00"
   },
   {
     "id": "rss_1223bad12fb9",
@@ -1821,7 +1831,8 @@
     "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
     "published_at": "Thu, 08 Oct 2026 15:00:46 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:00:46+00:00"
   },
   {
     "id": "rss_99a509511559",
@@ -1830,7 +1841,8 @@
     "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
     "published_at": "Thu, 08 Oct 2026 20:16:03 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T20:16:03+00:00"
   },
   {
     "id": "rss_01b6bd61a581",
@@ -1839,7 +1851,8 @@
     "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
     "published_at": "Thu, 08 Oct 2026 18:16:05 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T18:16:05+00:00"
   },
   {
     "id": "rss_843c7d90cbb2",
@@ -1848,7 +1861,8 @@
     "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
     "published_at": "Thu, 08 Oct 2026 17:07:48 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T17:07:48+00:00"
   },
   {
     "id": "rss_b923db03678d",
@@ -1857,7 +1871,8 @@
     "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
     "published_at": "Thu, 08 Oct 2026 15:10:49 +0000",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T15:10:49+00:00"
   },
   {
     "id": "rss_a67aa5b410ad",
@@ -1866,7 +1881,8 @@
     "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
     "published_at": "Thu, 08 Oct 2026 14:30:35 -0400",
     "fetched_at": "2026-10-08T20:38:06.106050+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T14:30:35-04:00"
   },
   {
     "id": "llama_2026100820",
@@ -1875,6 +1891,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-08T20:38:11.180893+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-08T20:38:11.180893+00:00"
   }
 ]
