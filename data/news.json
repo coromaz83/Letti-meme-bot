@@ -1,93 +1,5 @@
 [
   {
-    "id": "rss_ebd7c912e55e",
-    "source": "Cointelegraph Base",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ec5dfaab4faf",
-    "source": "The Defiant",
-    "title": "Circle Urges EU to Replace Stablecoin Bank-Deposit Mandates",
-    "url": "https://thedefiant.io/converge/regulation/circle-urges-eu-to-replace-stablecoin-bank-deposit-mandates",
-    "published_at": "Fri, 02 Oct 2026 16:10:56 GMT",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:10:56+00:00"
-  },
-  {
-    "id": "rss_f38ce7d152e9",
-    "source": "The Defiant",
-    "title": "Chainalysis Links $387 Million Bitget Hack to North Korea",
-    "url": "https://thedefiant.io/news/hacks/chainalysis-links-387-million-bitget-hack-to-north-korea",
-    "published_at": "Fri, 02 Oct 2026 16:10:41 GMT",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:10:41+00:00"
-  },
-  {
-    "id": "rss_885669d31756",
-    "source": "The Defiant",
-    "title": "NEAR Intents GM Says $3.8 Million in Hack Funds Returned in Full",
-    "url": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
-    "published_at": "Fri, 02 Oct 2026 16:07:28 GMT",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:07:28+00:00"
-  },
-  {
-    "id": "rss_15fe4c580672",
-    "source": "The Defiant",
-    "title": "Blast to Shut Down Layer 2, Citing Unsustainable Costs",
-    "url": "https://thedefiant.io/news/blockchains/blast-to-shut-down-layer-2-citing-unsustainable-costs",
-    "published_at": "Fri, 02 Oct 2026 14:56:40 GMT",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T14:56:40+00:00"
-  },
-  {
-    "id": "rss_db72522ef14b",
-    "source": "The Defiant",
-    "title": "Visa Says Business Programs Drive About 17% of Stablecoin Card Volume",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-says-business-programs-drive-about-17-of-stablecoin-card-volume",
-    "published_at": "Fri, 02 Oct 2026 14:08:01 GMT",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T14:08:01+00:00"
-  },
-  {
-    "id": "rss_0912ca1cacd3",
-    "source": "CryptoSlate",
-    "title": "Cardano’s DeFi has shrunk by more than half and RealFi is betting credit can revive it",
-    "url": "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it/",
-    "published_at": "Fri, 02 Oct 2026 13:40:24 +0000",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T13:40:24+00:00"
-  },
-  {
-    "id": "rss_603229afd847",
-    "source": "CryptoSlate",
-    "title": "Coinbase completes Deribit switch, ending International Exchange trading",
-    "url": "https://cryptoslate.com/coinbase-completes-deribit-switch-ending-international-exchange-trading/",
-    "published_at": "Fri, 02 Oct 2026 09:50:28 +0000",
-    "fetched_at": "2026-10-02T16:11:48.306739+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100216",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,481,175,591 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-02T16:11:52.785110+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:11:52.785110+00:00"
-  },
-  {
     "id": "rss_7317e901c0b7",
     "source": "CoinDesk",
     "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
@@ -2052,5 +1964,104 @@
     "fetched_at": "2026-10-09T15:12:42.661727+00:00",
     "used": false,
     "_sort_date": "2026-10-09T15:12:42.661727+00:00"
+  },
+  {
+    "id": "rss_a17e6c51e360",
+    "source": "The Defiant",
+    "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
+    "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+    "published_at": "Fri, 09 Oct 2026 19:58:15 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d0735ff01b09",
+    "source": "The Defiant",
+    "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
+    "published_at": "Fri, 09 Oct 2026 18:48:09 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_697538a9717c",
+    "source": "The Defiant",
+    "title": "Telegram Rolls Out Money Wallet for Gram Transfers and Collectibles",
+    "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+    "published_at": "Fri, 09 Oct 2026 16:23:22 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c81a312fbe49",
+    "source": "The Defiant",
+    "title": "Ostium Proposes Equity Stakes For Hacked Liquidity Providers",
+    "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
+    "published_at": "Fri, 09 Oct 2026 16:00:00 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_15417c3e17b5",
+    "source": "The Defiant",
+    "title": "Tether Freezes USDT Linked to Ledger User Thefts, MistTrack Says",
+    "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+    "published_at": "Fri, 09 Oct 2026 15:29:41 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_044f9012880f",
+    "source": "The Defiant",
+    "title": "Tether Unfreezes Four THORChain Vaults Three Hours After Blacklisting 1.45 Million USDT",
+    "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
+    "published_at": "Fri, 09 Oct 2026 15:27:48 GMT",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdb058e08660",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s proposed safety checks could still let a bad trade through",
+    "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit/",
+    "published_at": "Fri, 09 Oct 2026 18:00:42 +0000",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_54cc3a80402c",
+    "source": "CryptoSlate",
+    "title": "Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6%",
+    "url": "https://cryptoslate.com/ethereums-binance-futures-book-grew-2-3-in-eth-while-its-dollar-value-fell/",
+    "published_at": "Fri, 09 Oct 2026 17:00:01 +0000",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3dc1d438f431",
+    "source": "Decrypt",
+    "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+    "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+    "published_at": "Fri, 09 Oct 2026 18:46:03 +0000",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4e9ef86bb71b",
+    "source": "Decrypt",
+    "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+    "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+    "published_at": "Fri, 09 Oct 2026 16:36:03 +0000",
+    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026100920",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,145,538,962 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-09T20:17:22.697637+00:00",
+    "used": false
   }
 ]
