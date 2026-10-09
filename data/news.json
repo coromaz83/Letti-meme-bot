@@ -1931,7 +1931,8 @@
     "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
     "published_at": "Fri, 09 Oct 2026 06:51:32 +0000",
     "fetched_at": "2026-10-09T07:56:16.411712+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T06:51:32+00:00"
   },
   {
     "id": "rss_88b594684412",
@@ -1940,7 +1941,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
     "published_at": "Fri, 09 Oct 2026 04:04:36 +0000",
     "fetched_at": "2026-10-09T07:56:16.411712+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T04:04:36+00:00"
   },
   {
     "id": "rss_1f882d77d524",
@@ -1949,7 +1951,8 @@
     "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
     "published_at": "Fri, 09 Oct 2026 04:52:51 GMT",
     "fetched_at": "2026-10-09T07:56:16.411712+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T04:52:51+00:00"
   },
   {
     "id": "rss_e76bc7dcae98",
@@ -1967,7 +1970,8 @@
     "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
     "published_at": "Fri, 09 Oct 2026 06:30:02 +0000",
     "fetched_at": "2026-10-09T07:56:16.411712+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T06:30:02+00:00"
   },
   {
     "id": "llama_2026100907",
@@ -1976,7 +1980,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-09T07:56:20.076657+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T07:56:20.076657+00:00"
   },
   {
     "id": "rss_4028130e9f57",
@@ -1985,7 +1990,8 @@
     "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
     "published_at": "Fri, 09 Oct 2026 10:16:55 +0000",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T10:16:55+00:00"
   },
   {
     "id": "rss_b7d89084d3cd",
@@ -1994,7 +2000,8 @@
     "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
     "published_at": "Fri, 09 Oct 2026 14:27:18 GMT",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T14:27:18+00:00"
   },
   {
     "id": "rss_2138cb33df47",
@@ -2003,7 +2010,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
     "published_at": "Fri, 09 Oct 2026 14:23:01 GMT",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T14:23:01+00:00"
   },
   {
     "id": "rss_3221421b1500",
@@ -2012,7 +2020,8 @@
     "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
     "published_at": "Fri, 09 Oct 2026 13:43:35 GMT",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T13:43:35+00:00"
   },
   {
     "id": "rss_3d3fd5d8013a",
@@ -2021,7 +2030,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
     "published_at": "Fri, 09 Oct 2026 13:38:38 GMT",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T13:38:38+00:00"
   },
   {
     "id": "rss_b9218efeb173",
@@ -2030,7 +2040,8 @@
     "url": "https://cryptoslate.com/coinbase-streams-150000-singapore-trading-cup-and-crowns-its-first-champion/",
     "published_at": "Fri, 09 Oct 2026 08:30:11 +0000",
     "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T08:30:11+00:00"
   },
   {
     "id": "llama_2026100915",
@@ -2039,6 +2050,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-09T15:12:42.661727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T15:12:42.661727+00:00"
   }
 ]
