@@ -1862,7 +1862,8 @@
     "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
     "published_at": "Fri, 09 Oct 2026 19:58:15 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T19:58:15+00:00"
   },
   {
     "id": "rss_d0735ff01b09",
@@ -1871,7 +1872,8 @@
     "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
     "published_at": "Fri, 09 Oct 2026 18:48:09 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T18:48:09+00:00"
   },
   {
     "id": "rss_697538a9717c",
@@ -1880,7 +1882,8 @@
     "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
     "published_at": "Fri, 09 Oct 2026 16:23:22 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T16:23:22+00:00"
   },
   {
     "id": "rss_c81a312fbe49",
@@ -1889,7 +1892,8 @@
     "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
     "published_at": "Fri, 09 Oct 2026 16:00:00 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T16:00:00+00:00"
   },
   {
     "id": "rss_15417c3e17b5",
@@ -1898,7 +1902,8 @@
     "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
     "published_at": "Fri, 09 Oct 2026 15:29:41 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T15:29:41+00:00"
   },
   {
     "id": "rss_044f9012880f",
@@ -1907,7 +1912,8 @@
     "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
     "published_at": "Fri, 09 Oct 2026 15:27:48 GMT",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T15:27:48+00:00"
   },
   {
     "id": "rss_cdb058e08660",
@@ -1916,7 +1922,8 @@
     "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit/",
     "published_at": "Fri, 09 Oct 2026 18:00:42 +0000",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T18:00:42+00:00"
   },
   {
     "id": "rss_54cc3a80402c",
@@ -1925,7 +1932,8 @@
     "url": "https://cryptoslate.com/ethereums-binance-futures-book-grew-2-3-in-eth-while-its-dollar-value-fell/",
     "published_at": "Fri, 09 Oct 2026 17:00:01 +0000",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T17:00:01+00:00"
   },
   {
     "id": "rss_3dc1d438f431",
@@ -1934,7 +1942,8 @@
     "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
     "published_at": "Fri, 09 Oct 2026 18:46:03 +0000",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T18:46:03+00:00"
   },
   {
     "id": "rss_4e9ef86bb71b",
@@ -1943,7 +1952,8 @@
     "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
     "published_at": "Fri, 09 Oct 2026 16:36:03 +0000",
     "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T16:36:03+00:00"
   },
   {
     "id": "llama_2026100920",
@@ -1952,7 +1962,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-09T20:17:22.697637+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T20:17:22.697637+00:00"
   },
   {
     "id": "rss_ebd7c912e55e",
@@ -1970,7 +1981,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
     "published_at": "Fri, 09 Oct 2026 22:03:36 GMT",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T22:03:36+00:00"
   },
   {
     "id": "rss_01986d8284d4",
@@ -1979,7 +1991,8 @@
     "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
     "published_at": "Fri, 09 Oct 2026 21:57:10 GMT",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T21:57:10+00:00"
   },
   {
     "id": "rss_7b28f91b4c86",
@@ -1988,7 +2001,8 @@
     "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
     "published_at": "Fri, 09 Oct 2026 21:37:43 GMT",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T21:37:43+00:00"
   },
   {
     "id": "rss_ae65649b56b4",
@@ -1997,7 +2011,8 @@
     "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
     "published_at": "Fri, 09 Oct 2026 20:25:14 GMT",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T20:25:14+00:00"
   },
   {
     "id": "rss_372eb233bd6f",
@@ -2006,7 +2021,8 @@
     "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
     "published_at": "Fri, 09 Oct 2026 23:30:53 +0000",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T23:30:53+00:00"
   },
   {
     "id": "rss_d93f58becdc7",
@@ -2015,7 +2031,8 @@
     "url": "https://cryptoslate.com/eth-fee-burns-cover-just-2-of-new-coins-printed-in-2026/",
     "published_at": "Fri, 09 Oct 2026 22:20:23 +0000",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T22:20:23+00:00"
   },
   {
     "id": "rss_719d747b97e7",
@@ -2024,7 +2041,8 @@
     "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
     "published_at": "Fri, 09 Oct 2026 21:10:39 +0000",
     "fetched_at": "2026-10-10T00:16:13.296821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-09T21:10:39+00:00"
   },
   {
     "id": "llama_2026101000",
@@ -2033,6 +2051,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-10T00:16:17.218093+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T00:16:17.218093+00:00"
   }
 ]
