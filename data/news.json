@@ -1,115 +1,5 @@
 [
   {
-    "id": "rss_7317e901c0b7",
-    "source": "CoinDesk",
-    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-    "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-    "published_at": "Fri, 02 Oct 2026 17:15:35 +0000",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T17:15:35+00:00"
-  },
-  {
-    "id": "rss_05750d38649d",
-    "source": "The Defiant",
-    "title": "Ethereum Foundation Introduces zkAPI for Private API Payments",
-    "url": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
-    "published_at": "Fri, 02 Oct 2026 18:44:44 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T18:44:44+00:00"
-  },
-  {
-    "id": "rss_4c9aa6948789",
-    "source": "The Defiant",
-    "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
-    "url": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
-    "published_at": "Fri, 02 Oct 2026 17:17:20 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T17:17:20+00:00"
-  },
-  {
-    "id": "rss_6b5e0ea71d8d",
-    "source": "The Defiant",
-    "title": "Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval",
-    "url": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval",
-    "published_at": "Fri, 02 Oct 2026 16:57:35 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:57:35+00:00"
-  },
-  {
-    "id": "rss_e417ad9a5dfc",
-    "source": "The Defiant",
-    "title": "Ripple and CSD BR Partner to Mirror Brazil's BTG Fund Records on XRP Ledger",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-and-csd-br-partner-to-mirror-btg-fund-records-on-xrp-ledger",
-    "published_at": "Fri, 02 Oct 2026 16:42:06 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:42:06+00:00"
-  },
-  {
-    "id": "rss_37092d6c563d",
-    "source": "The Defiant",
-    "title": "Centrifuge Confirms Three Tokenized Funds Are Live on Arc",
-    "url": "https://thedefiant.io/news/defi/centrifuge-confirms-three-tokenized-funds-are-live-on-arc",
-    "published_at": "Fri, 02 Oct 2026 16:41:15 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:41:15+00:00"
-  },
-  {
-    "id": "rss_d60378f6325e",
-    "source": "The Defiant",
-    "title": "Aave Labs Proposes Foundation to Bring Brand and IP Under DAO Oversight",
-    "url": "https://thedefiant.io/news/defi/aave-labs-proposes-foundation-to-bring-brand-and-ip-under-dao-oversight",
-    "published_at": "Fri, 02 Oct 2026 16:32:44 GMT",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T16:32:44+00:00"
-  },
-  {
-    "id": "rss_bf15faf98e79",
-    "source": "CryptoSlate",
-    "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
-    "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
-    "published_at": "Fri, 02 Oct 2026 19:10:35 +0000",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T19:10:35+00:00"
-  },
-  {
-    "id": "rss_89d7c006eba3",
-    "source": "Decrypt",
-    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-    "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-    "published_at": "Fri, 02 Oct 2026 20:16:04 +0000",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T20:16:04+00:00"
-  },
-  {
-    "id": "rss_16881e226267",
-    "source": "Decrypt",
-    "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
-    "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
-    "published_at": "Fri, 02 Oct 2026 17:47:06 +0000",
-    "fetched_at": "2026-10-02T20:53:39.365168+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T17:47:06+00:00"
-  },
-  {
-    "id": "llama_2026100220",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,308,028,215 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-02T20:53:42.395715+00:00",
-    "used": false,
-    "_sort_date": "2026-10-02T20:53:42.395715+00:00"
-  },
-  {
     "id": "rss_6418f32751e0",
     "source": "The Defiant",
     "title": "Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts",
@@ -2062,6 +1952,87 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-09T20:17:22.697637+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_05d284768f40",
+    "source": "The Defiant",
+    "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+    "published_at": "Fri, 09 Oct 2026 22:03:36 GMT",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_01986d8284d4",
+    "source": "The Defiant",
+    "title": "Kalshi Probes Bets on Trump’s Press Secretary Pick, WSJ Reports",
+    "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+    "published_at": "Fri, 09 Oct 2026 21:57:10 GMT",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7b28f91b4c86",
+    "source": "The Defiant",
+    "title": "Aero Sets Oct. 21 Merger Launch and Token Conversion Terms",
+    "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+    "published_at": "Fri, 09 Oct 2026 21:37:43 GMT",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ae65649b56b4",
+    "source": "The Defiant",
+    "title": "CFTC Proposes Explicit Swap Status for Event Contracts",
+    "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+    "published_at": "Fri, 09 Oct 2026 20:25:14 GMT",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_372eb233bd6f",
+    "source": "CryptoSlate",
+    "title": "Tether freezes $1.4M in TRON vaults and THORChain stalls",
+    "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+    "published_at": "Fri, 09 Oct 2026 23:30:53 +0000",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d93f58becdc7",
+    "source": "CryptoSlate",
+    "title": "ETH fee burns cover just 2% of new coins printed in 2026",
+    "url": "https://cryptoslate.com/eth-fee-burns-cover-just-2-of-new-coins-printed-in-2026/",
+    "published_at": "Fri, 09 Oct 2026 22:20:23 +0000",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_719d747b97e7",
+    "source": "CryptoSlate",
+    "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+    "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+    "published_at": "Fri, 09 Oct 2026 21:10:39 +0000",
+    "fetched_at": "2026-10-10T00:16:13.296821+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101000",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,159,181,923 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-10T00:16:17.218093+00:00",
     "used": false
   }
 ]
