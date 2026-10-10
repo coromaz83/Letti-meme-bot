@@ -1953,7 +1953,8 @@
     "url": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
     "published_at": "Sat, 10 Oct 2026 03:50:48 GMT",
     "fetched_at": "2026-10-10T06:17:48.226230+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T03:50:48+00:00"
   },
   {
     "id": "rss_dc23b17c2f9e",
@@ -1980,7 +1981,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-10T06:17:51.419064+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T06:17:51.419064+00:00"
   },
   {
     "id": "rss_8b501c69606f",
@@ -1989,7 +1991,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
     "published_at": "Sat, 10 Oct 2026 12:00:00 +0000",
     "fetched_at": "2026-10-10T12:57:47.403225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T12:00:00+00:00"
   },
   {
     "id": "rss_151342ab50ab",
@@ -1998,7 +2001,8 @@
     "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
     "published_at": "Sat, 10 Oct 2026 12:21:43 GMT",
     "fetched_at": "2026-10-10T12:57:47.403225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T12:21:43+00:00"
   },
   {
     "id": "rss_4b04581da41d",
@@ -2007,7 +2011,8 @@
     "url": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
     "published_at": "Sat, 10 Oct 2026 11:09:33 GMT",
     "fetched_at": "2026-10-10T12:57:47.403225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T11:09:33+00:00"
   },
   {
     "id": "rss_d7ce01b1615f",
@@ -2016,7 +2021,8 @@
     "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
     "published_at": "Sat, 10 Oct 2026 09:44:06 GMT",
     "fetched_at": "2026-10-10T12:57:47.403225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T09:44:06+00:00"
   },
   {
     "id": "rss_c4103ade967a",
@@ -2025,7 +2031,8 @@
     "url": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
     "published_at": "Sat, 10 Oct 2026 09:33:08 GMT",
     "fetched_at": "2026-10-10T12:57:47.403225+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T09:33:08+00:00"
   },
   {
     "id": "rss_2bba0129620c",
@@ -2052,6 +2059,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-10T12:57:51.468841+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T12:57:51.468841+00:00"
   }
 ]
