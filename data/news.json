@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-10-04T21:50:54.257400+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,416,948,125 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-04T21:50:59.121999+00:00",
-    "used": false,
-    "_sort_date": "2026-10-04T21:50:59.121999+00:00"
-  },
-  {
     "id": "rss_b26c78b66d67",
     "source": "CryptoSlate",
     "title": "Ethereum’s past outflow charts can change when more exchange wallets are identified",
@@ -2257,6 +2238,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T18:23:36.426586+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_223885e551fb",
+    "source": "The Defiant",
+    "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
+    "url": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
+    "published_at": "Sun, 11 Oct 2026 18:38:29 GMT",
+    "fetched_at": "2026-10-11T22:22:21.140917+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,251,772,959 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-11T22:22:25.310431+00:00",
     "used": false
   }
 ]
