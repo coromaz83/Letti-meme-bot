@@ -2078,7 +2078,8 @@
     "url": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
     "published_at": "Sat, 10 Oct 2026 17:38:07 GMT",
     "fetched_at": "2026-10-10T17:46:50.600328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T17:38:07+00:00"
   },
   {
     "id": "rss_9c1d03b914a1",
@@ -2087,7 +2088,8 @@
     "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
     "published_at": "Sat, 10 Oct 2026 17:15:58 GMT",
     "fetched_at": "2026-10-10T17:46:50.600328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T17:15:58+00:00"
   },
   {
     "id": "rss_e8cc9528efcf",
@@ -2096,7 +2098,8 @@
     "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
     "published_at": "Sat, 10 Oct 2026 16:43:44 GMT",
     "fetched_at": "2026-10-10T17:46:50.600328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T16:43:44+00:00"
   },
   {
     "id": "rss_109f309949a3",
@@ -2105,7 +2108,8 @@
     "url": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
     "published_at": "Sat, 10 Oct 2026 14:57:16 GMT",
     "fetched_at": "2026-10-10T17:46:50.600328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T14:57:16+00:00"
   },
   {
     "id": "rss_a2536ec2d51f",
@@ -2114,7 +2118,8 @@
     "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
     "published_at": "Sat, 10 Oct 2026 14:00:52 +0000",
     "fetched_at": "2026-10-10T17:46:50.600328+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T14:00:52+00:00"
   },
   {
     "id": "llama_2026101017",
@@ -2123,7 +2128,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-10T17:47:01.178084+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T17:47:01.178084+00:00"
   },
   {
     "id": "rss_c140b789fe6d",
@@ -2132,7 +2138,8 @@
     "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
     "published_at": "Sat, 10 Oct 2026 20:06:47 GMT",
     "fetched_at": "2026-10-10T21:29:53.984726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T20:06:47+00:00"
   },
   {
     "id": "rss_844249a678e3",
@@ -2141,7 +2148,8 @@
     "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
     "published_at": "Sat, 10 Oct 2026 18:00:18 +0000",
     "fetched_at": "2026-10-10T21:29:53.984726+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T18:00:18+00:00"
   },
   {
     "id": "llama_2026101021",
@@ -2150,6 +2158,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-10T21:29:58.029574+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-10T21:29:58.029574+00:00"
   }
 ]
