@@ -2176,7 +2176,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T06:18:23.524065+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T06:18:23.524065+00:00"
   },
   {
     "id": "rss_3a6e71475b74",
@@ -2185,7 +2186,8 @@
     "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
     "published_at": "Sun, 11 Oct 2026 09:38:29 GMT",
     "fetched_at": "2026-10-11T13:22:01.348082+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T09:38:29+00:00"
   },
   {
     "id": "llama_2026101113",
@@ -2194,6 +2196,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T13:22:08.209043+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T13:22:08.209043+00:00"
   }
 ]
