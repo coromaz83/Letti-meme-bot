@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026100401",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,369,363,853 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-04T01:56:10.452350+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026100408",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,383,749,630 🟢 +0.00% (24h)",
@@ -2168,6 +2159,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T00:25:37.478327+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a4969ed2f0a",
+    "source": "The Defiant",
+    "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
+    "url": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+    "published_at": "Sun, 11 Oct 2026 01:39:48 GMT",
+    "fetched_at": "2026-10-11T06:18:19.057828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7eda3985e4c0",
+    "source": "The Defiant",
+    "title": "Papertrade Faces Oracle-Manipulation Allegation as House Pool Shows $3.14 Million",
+    "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+    "published_at": "Sun, 11 Oct 2026 00:26:55 GMT",
+    "fetched_at": "2026-10-11T06:18:19.057828+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101106",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,194,111,086 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-11T06:18:23.524065+00:00",
     "used": false
   }
 ]
