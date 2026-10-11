@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026100322",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,368,387,400 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-03T22:22:08.384847+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026100401",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,369,363,853 🟢 +0.00% (24h)",
@@ -2160,5 +2151,23 @@
     "fetched_at": "2026-10-10T21:29:58.029574+00:00",
     "used": false,
     "_sort_date": "2026-10-10T21:29:58.029574+00:00"
+  },
+  {
+    "id": "rss_d64431caaa5e",
+    "source": "The Defiant",
+    "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+    "published_at": "Sat, 10 Oct 2026 22:58:19 GMT",
+    "fetched_at": "2026-10-11T00:25:33.028187+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101100",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,216,580,697 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-11T00:25:37.478327+00:00",
+    "used": false
   }
 ]
