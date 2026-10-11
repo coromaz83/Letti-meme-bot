@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026100408",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,383,749,630 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-04T08:18:56.886783+00:00",
-    "used": false,
-    "_sort_date": "2026-10-04T08:18:56.886783+00:00"
-  },
-  {
     "id": "llama_2026100414",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,396,426,944 🟢 +0.00% (24h)",
@@ -2186,6 +2176,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T06:18:23.524065+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3a6e71475b74",
+    "source": "The Defiant",
+    "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
+    "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+    "published_at": "Sun, 11 Oct 2026 09:38:29 GMT",
+    "fetched_at": "2026-10-11T13:22:01.348082+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101113",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,212,957,656 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-11T13:22:08.209043+00:00",
     "used": false
   }
 ]
