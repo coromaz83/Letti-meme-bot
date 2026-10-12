@@ -2157,7 +2157,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
     "published_at": "Sun, 11 Oct 2026 17:48:05 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T17:48:05+00:00"
   },
   {
     "id": "rss_714da0626d8c",
@@ -2166,7 +2167,8 @@
     "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
     "published_at": "Sun, 11 Oct 2026 17:18:19 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T17:18:19+00:00"
   },
   {
     "id": "rss_89da9f77722e",
@@ -2175,7 +2177,8 @@
     "url": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
     "published_at": "Sun, 11 Oct 2026 15:59:08 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T15:59:08+00:00"
   },
   {
     "id": "rss_734678008d8c",
@@ -2184,7 +2187,8 @@
     "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
     "published_at": "Sun, 11 Oct 2026 15:53:36 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T15:53:36+00:00"
   },
   {
     "id": "rss_2e88c387698b",
@@ -2193,7 +2197,8 @@
     "url": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
     "published_at": "Sun, 11 Oct 2026 15:04:33 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T15:04:33+00:00"
   },
   {
     "id": "rss_88e196adb179",
@@ -2202,7 +2207,8 @@
     "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
     "published_at": "Sun, 11 Oct 2026 14:08:37 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T14:08:37+00:00"
   },
   {
     "id": "rss_41b59e65dbe2",
@@ -2211,7 +2217,8 @@
     "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-679-million-in-weekly-reversal",
     "published_at": "Sun, 11 Oct 2026 13:22:15 GMT",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T13:22:15+00:00"
   },
   {
     "id": "rss_a927e211390c",
@@ -2220,7 +2227,8 @@
     "url": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
     "published_at": "Sun, 11 Oct 2026 14:00:41 +0000",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T14:00:41+00:00"
   },
   {
     "id": "rss_8362b21aa3db",
@@ -2229,7 +2237,8 @@
     "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
     "published_at": "Sun, 11 Oct 2026 16:01:03 +0000",
     "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T16:01:03+00:00"
   },
   {
     "id": "llama_2026101118",
@@ -2238,7 +2247,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T18:23:36.426586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T18:23:36.426586+00:00"
   },
   {
     "id": "rss_223885e551fb",
@@ -2247,7 +2257,8 @@
     "url": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
     "published_at": "Sun, 11 Oct 2026 18:38:29 GMT",
     "fetched_at": "2026-10-11T22:22:21.140917+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T18:38:29+00:00"
   },
   {
     "id": "llama_2026101122",
@@ -2256,6 +2267,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-11T22:22:25.310431+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-11T22:22:25.310431+00:00"
   }
 ]
