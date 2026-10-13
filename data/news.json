@@ -2241,7 +2241,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
     "published_at": "Tue, 13 Oct 2026 04:43:18 +0000",
     "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T04:43:18+00:00"
   },
   {
     "id": "rss_f723682c3bb4",
@@ -2250,7 +2251,8 @@
     "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
     "published_at": "Tue, 13 Oct 2026 09:15:07 GMT",
     "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T09:15:07+00:00"
   },
   {
     "id": "rss_33800d8aff3b",
@@ -2259,7 +2261,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
     "published_at": "Tue, 13 Oct 2026 08:16:44 GMT",
     "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T08:16:44+00:00"
   },
   {
     "id": "rss_7540b158029c",
@@ -2268,7 +2271,8 @@
     "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
     "published_at": "Tue, 13 Oct 2026 06:59:06 GMT",
     "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T06:59:06+00:00"
   },
   {
     "id": "rss_530f78422cde",
@@ -2277,7 +2281,8 @@
     "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
     "published_at": "Tue, 13 Oct 2026 06:46:55 GMT",
     "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T06:46:55+00:00"
   },
   {
     "id": "rss_e59453f95b2b",
@@ -2295,6 +2300,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-13T09:15:49.609074+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-13T09:15:49.609074+00:00"
   }
 ]
