@@ -1,188 +1,5 @@
 [
   {
-    "id": "rss_7188b3ea5409",
-    "source": "CoinDesk",
-    "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-    "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-    "published_at": "Tue, 06 Oct 2026 04:49:05 +0000",
-    "fetched_at": "2026-10-06T09:20:57.652522+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e9ff4084b271",
-    "source": "The Defiant",
-    "title": "Ondo Unveils Private-Market Notes Ahead of First AI Offering",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-unveils-private-market-notes-ahead-of-first-ai-offering",
-    "published_at": "Tue, 06 Oct 2026 08:24:37 GMT",
-    "fetched_at": "2026-10-06T09:20:57.652522+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100609",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,412,728,869 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-06T09:21:01.940337+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d4cee4112b6a",
-    "source": "The Defiant",
-    "title": "Agora’s OCC Approval Sets Up AUSD Move to a US Trust Bank",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
-    "published_at": "Tue, 06 Oct 2026 15:27:34 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T15:27:34+00:00"
-  },
-  {
-    "id": "rss_c78b690b3efa",
-    "source": "The Defiant",
-    "title": "Ethereum’s Glamsterdam Upgrade Activates on Sepolia",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-s-glamsterdam-upgrade-activates-on-sepolia",
-    "published_at": "Tue, 06 Oct 2026 14:25:19 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:25:19+00:00"
-  },
-  {
-    "id": "rss_2a9456e6e5cc",
-    "source": "The Defiant",
-    "title": "UK Names Six Banks to Lead First Digital Gilt Pilot",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/uk-names-six-banks-to-lead-first-digital-gilt-pilot",
-    "published_at": "Tue, 06 Oct 2026 14:21:22 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:21:22+00:00"
-  },
-  {
-    "id": "rss_9c550256c129",
-    "source": "The Defiant",
-    "title": "Circle and SC Ventures Back OKX at $25 Billion Valuation",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-and-sc-ventures-back-okx-at-25-billion-valuation",
-    "published_at": "Tue, 06 Oct 2026 14:21:05 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:21:05+00:00"
-  },
-  {
-    "id": "rss_e6f881ac3970",
-    "source": "The Defiant",
-    "title": "Rain Seeks US Trust Bank Charter for Stablecoin Issuance",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-seeks-us-trust-bank-charter-for-stablecoin-issuance",
-    "published_at": "Tue, 06 Oct 2026 14:19:57 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:19:57+00:00"
-  },
-  {
-    "id": "rss_62a53d54bc39",
-    "source": "The Defiant",
-    "title": "Ether.fi Announces Dollar Stablecoin Powered by Ethena",
-    "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
-    "published_at": "Tue, 06 Oct 2026 14:19:00 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:19:00+00:00"
-  },
-  {
-    "id": "rss_5a9e3f7bbaad",
-    "source": "The Defiant",
-    "title": "Bloomberg Terminal Adds 24/7 Hyperliquid Perpetuals Pricing",
-    "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
-    "published_at": "Tue, 06 Oct 2026 14:17:49 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:17:49+00:00"
-  },
-  {
-    "id": "rss_78f6287a8a13",
-    "source": "The Defiant",
-    "title": "Arbitrum Adopts Paxos' USDG as Its Ecosystem Dollar",
-    "url": "https://thedefiant.io/news/defi/arbitrum-adopts-paxos-usdg-as-its-ecosystem-dollar",
-    "published_at": "Tue, 06 Oct 2026 13:00:00 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T13:00:00+00:00"
-  },
-  {
-    "id": "rss_79d906492d7c",
-    "source": "The Defiant",
-    "title": "Circle Adds Aave to Bitcoin-Backed Borrowing in Mint",
-    "url": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
-    "published_at": "Tue, 06 Oct 2026 10:13:22 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_59b007ced28e",
-    "source": "The Defiant",
-    "title": "DOJ Presses Roman Storm Case as FinCEN Drops Mixer Proposal",
-    "url": "https://thedefiant.io/news/regulation/doj-presses-roman-storm-case-as-fincen-drops-mixer-proposal",
-    "published_at": "Tue, 06 Oct 2026 09:21:07 GMT",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_daa97a2cc6ba",
-    "source": "CryptoSlate",
-    "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
-    "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
-    "published_at": "Tue, 06 Oct 2026 14:50:42 +0000",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T14:50:42+00:00"
-  },
-  {
-    "id": "rss_4945b5eb0972",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s proposed 3x ETF could reach CME’s futures threshold with just $362 million",
-    "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
-    "published_at": "Tue, 06 Oct 2026 12:30:49 +0000",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T12:30:49+00:00"
-  },
-  {
-    "id": "rss_7df423cc6346",
-    "source": "CryptoSlate",
-    "title": "Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi",
-    "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
-    "published_at": "Tue, 06 Oct 2026 11:30:49 +0000",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_40a19ad4884b",
-    "source": "CryptoSlate",
-    "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
-    "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
-    "published_at": "Tue, 06 Oct 2026 10:00:57 +0000",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3b5046623681",
-    "source": "Decrypt",
-    "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-    "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-    "published_at": "Tue, 06 Oct 2026 15:26:41 +0000",
-    "fetched_at": "2026-10-06T16:12:06.669610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T15:26:41+00:00"
-  },
-  {
-    "id": "llama_2026100616",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,484,135,491 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-06T16:12:10.952869+00:00",
-    "used": false,
-    "_sort_date": "2026-10-06T16:12:10.952869+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -2302,5 +2119,140 @@
     "fetched_at": "2026-10-13T09:15:49.609074+00:00",
     "used": false,
     "_sort_date": "2026-10-13T09:15:49.609074+00:00"
+  },
+  {
+    "id": "rss_f89debb5b29d",
+    "source": "CoinDesk",
+    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+    "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+    "published_at": "Tue, 13 Oct 2026 11:56:04 +0000",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0e5be4b48c97",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+    "published_at": "Tue, 13 Oct 2026 11:06:39 +0000",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bb46828c2043",
+    "source": "The Defiant",
+    "title": "MNX Launches Futures on AI Lab IPOs and Revenue",
+    "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+    "published_at": "Tue, 13 Oct 2026 17:03:26 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_495e1e425b48",
+    "source": "The Defiant",
+    "title": "Mezo Sets Oct. 13 Bridge-Out Deadline for swBTC and USDe",
+    "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
+    "published_at": "Tue, 13 Oct 2026 16:44:38 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a47649904123",
+    "source": "The Defiant",
+    "title": "Zest Sets Oct. 23 Deadline to Exit aeUSDC on Stacks Market V1",
+    "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
+    "published_at": "Tue, 13 Oct 2026 15:10:56 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_11152275cd05",
+    "source": "The Defiant",
+    "title": "Anza Sets Oct. 21 for Solana’s Alpenglow Mainnet Upgrade",
+    "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
+    "published_at": "Tue, 13 Oct 2026 15:06:22 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f35bdc11c534",
+    "source": "The Defiant",
+    "title": "StarkWare Launches Shadow Accounts on Starknet",
+    "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+    "published_at": "Tue, 13 Oct 2026 14:42:17 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d37ce6ecdb2f",
+    "source": "The Defiant",
+    "title": "Interactive Brokers Launches Ethereum Staking Through Zerohash",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+    "published_at": "Tue, 13 Oct 2026 14:14:06 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bca2a96bd99f",
+    "source": "The Defiant",
+    "title": "Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents",
+    "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
+    "published_at": "Tue, 13 Oct 2026 13:51:05 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a713ba85a913",
+    "source": "The Defiant",
+    "title": "DRW and Marex Execute Bond-Index Swap on Canton",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
+    "published_at": "Tue, 13 Oct 2026 12:20:50 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eaa9424d814c",
+    "source": "The Defiant",
+    "title": "Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction",
+    "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+    "published_at": "Tue, 13 Oct 2026 12:10:08 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cd557fab7e5",
+    "source": "The Defiant",
+    "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+    "published_at": "Tue, 13 Oct 2026 10:06:10 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f4ae4881500c",
+    "source": "The Defiant",
+    "title": "Autheo’s THEO Plunges 92% After Suspected Bridge Exploit on Base",
+    "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+    "published_at": "Tue, 13 Oct 2026 09:17:57 GMT",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ecd713d397d0",
+    "source": "CryptoSlate",
+    "title": "More than half of Ethena’s USDe backing is allocated to lending",
+    "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
+    "published_at": "Tue, 13 Oct 2026 12:00:32 +0000",
+    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101317",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,193,360,193 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-13T17:05:12.550305+00:00",
+    "used": false
   }
 ]
