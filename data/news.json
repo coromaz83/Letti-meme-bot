@@ -2315,5 +2315,41 @@
     "published_at": "",
     "fetched_at": "2026-10-14T01:05:36.471272+00:00",
     "used": false
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_088b5680334f",
+    "source": "CoinDesk",
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "published_at": "Wed, 14 Oct 2026 05:44:51 +0000",
+    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_52158fb19fe6",
+    "source": "The Defiant",
+    "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "published_at": "Wed, 14 Oct 2026 06:12:46 GMT",
+    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101406",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,246,474,589 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-14T06:38:02.336184+00:00",
+    "used": false
   }
 ]
