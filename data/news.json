@@ -1,195 +1,5 @@
 [
   {
-    "id": "rss_b0d8fc77d9e2",
-    "source": "The Defiant",
-    "title": "Binance Adds JPMorgan and Eli Lilly bStocks as Margin Collateral",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
-    "published_at": "Wed, 07 Oct 2026 20:24:56 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T20:24:56+00:00"
-  },
-  {
-    "id": "rss_bc001158da97",
-    "source": "The Defiant",
-    "title": "Bitcoin Holds Below $84,000 Cost-Basis Level as Only Nine of 125 Top Tokens Rise",
-    "url": "https://thedefiant.io/news/markets/bitcoin-holds-below-84000-cost-basis-level-nine-of-125-tokens-rise-oct-07-2026",
-    "published_at": "Wed, 07 Oct 2026 17:24:18 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T17:24:18+00:00"
-  },
-  {
-    "id": "rss_45a441a36102",
-    "source": "The Defiant",
-    "title": "Trader Frogman Drained of $4 Million on the First Morning of TOKEN2049",
-    "url": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
-    "published_at": "Wed, 07 Oct 2026 16:57:34 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:57:34+00:00"
-  },
-  {
-    "id": "rss_b396b352f644",
-    "source": "The Defiant",
-    "title": "ZKsync Opens Prividium Core Code Under Apache 2.0",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
-    "published_at": "Wed, 07 Oct 2026 16:56:12 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:56:12+00:00"
-  },
-  {
-    "id": "rss_417cd9790452",
-    "source": "The Defiant",
-    "title": "GSR Commits $100 Million to Hare Vault Business",
-    "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
-    "published_at": "Wed, 07 Oct 2026 16:55:22 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:55:22+00:00"
-  },
-  {
-    "id": "rss_e1f29074ee8a",
-    "source": "The Defiant",
-    "title": "Injective’s Meridian Upgrade Expands Controls for Tokenized Assets",
-    "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
-    "published_at": "Wed, 07 Oct 2026 16:54:42 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:54:42+00:00"
-  },
-  {
-    "id": "rss_b8c8a6a17af4",
-    "source": "The Defiant",
-    "title": "BitMine Will Stop Buying ETH at 5% of Supply, Tom Lee Says",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-will-stop-buying-eth-at-5-of-supply-tom-lee-says",
-    "published_at": "Wed, 07 Oct 2026 16:42:59 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:42:59+00:00"
-  },
-  {
-    "id": "rss_bf3baf90657e",
-    "source": "The Defiant",
-    "title": "Hyperliquid Confirms Singapore Base but Says It Has No MAS License",
-    "url": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
-    "published_at": "Wed, 07 Oct 2026 16:42:19 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:42:19+00:00"
-  },
-  {
-    "id": "rss_d2f38abddc26",
-    "source": "The Defiant",
-    "title": "NEAR Adds Robinhood Chain to Its Multichain App",
-    "url": "https://thedefiant.io/news/blockchains/near-adds-robinhood-chain-to-its-multichain-app",
-    "published_at": "Wed, 07 Oct 2026 16:36:16 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:36:16+00:00"
-  },
-  {
-    "id": "rss_fa74a0d3a7a0",
-    "source": "The Defiant",
-    "title": "Cardano's Programmable Token Standard Goes Live With Issuer Controls",
-    "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
-    "published_at": "Wed, 07 Oct 2026 16:32:48 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:32:48+00:00"
-  },
-  {
-    "id": "rss_94d259f56b2a",
-    "source": "The Defiant",
-    "title": "Coplan Stops Short of Mentioning a Polymarket Token at TOKEN2049",
-    "url": "https://thedefiant.io/news/markets/coplan-stops-short-of-mentioning-a-polymarket-token-at-token2049",
-    "published_at": "Wed, 07 Oct 2026 16:00:29 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T16:00:29+00:00"
-  },
-  {
-    "id": "rss_aa0c0dd2d237",
-    "source": "The Defiant",
-    "title": "Lido Unveils Morpho-Based Lending Protocol for Staking Loops",
-    "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
-    "published_at": "Wed, 07 Oct 2026 15:56:49 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T15:56:49+00:00"
-  },
-  {
-    "id": "rss_ac4003891bb7",
-    "source": "The Defiant",
-    "title": "Ledger Launches Wrapped-Bitcoin Loans Through Morpho",
-    "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
-    "published_at": "Wed, 07 Oct 2026 15:55:20 GMT",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T15:55:20+00:00"
-  },
-  {
-    "id": "rss_8515ff9ca840",
-    "source": "CryptoSlate",
-    "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
-    "url": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation/",
-    "published_at": "Wed, 07 Oct 2026 18:40:43 +0000",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T18:40:43+00:00"
-  },
-  {
-    "id": "rss_a04d7e7b6d6f",
-    "source": "Decrypt",
-    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-    "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-    "published_at": "Wed, 07 Oct 2026 19:46:04 +0000",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T19:46:04+00:00"
-  },
-  {
-    "id": "rss_7860af36e7aa",
-    "source": "Decrypt",
-    "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-    "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
-    "published_at": "Wed, 07 Oct 2026 19:10:31 +0000",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T19:10:31+00:00"
-  },
-  {
-    "id": "rss_bee529a53229",
-    "source": "Decrypt",
-    "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-    "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-    "published_at": "Wed, 07 Oct 2026 14:55:32 +0000",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T14:55:32+00:00"
-  },
-  {
-    "id": "rss_f527084f7442",
-    "source": "Bankless",
-    "title": "Bigger Blocks Are Coming to Ethereum",
-    "url": "https://www.bankless.com/read/bigger-blocks-are-coming-to-ethereum",
-    "published_at": "Wed, 07 Oct 2026 11:37:06 -0400",
-    "fetched_at": "2026-10-07T20:32:16.570249+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T11:37:06-04:00"
-  },
-  {
-    "id": "llama_2026100720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,248,133,545 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-07T20:32:20.510596+00:00",
-    "used": false,
-    "_sort_date": "2026-10-07T20:32:20.510596+00:00"
-  },
-  {
     "id": "rss_d1c6bc429b29",
     "source": "Cointelegraph Base",
     "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
@@ -2446,5 +2256,86 @@
     "fetched_at": "2026-10-14T17:55:06.429244+00:00",
     "used": false,
     "_sort_date": "2026-10-14T17:55:06.429244+00:00"
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8777fbfa7c62",
+    "source": "The Defiant",
+    "title": "Tempo Takes Zones Privacy System Into Production With Deel",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
+    "published_at": "Wed, 14 Oct 2026 21:21:53 GMT",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ffe649719429",
+    "source": "The Defiant",
+    "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
+    "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+    "published_at": "Wed, 14 Oct 2026 21:20:09 GMT",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b97b93a070b8",
+    "source": "The Defiant",
+    "title": "Kraken Parent Payward Agrees to Buy Lithuania’s Saldo Bank",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-parent-payward-agrees-to-buy-lithuania-s-saldo-bank",
+    "published_at": "Wed, 14 Oct 2026 20:16:08 GMT",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2cd8940b9e9f",
+    "source": "The Defiant",
+    "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/markets/xlm-drops-4-lagging-bitcoin-and-ether",
+    "published_at": "Wed, 14 Oct 2026 20:08:16 GMT",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_524d776ea8bf",
+    "source": "The Defiant",
+    "title": "Specter Links ProveX’s January ETH Inflows to Earlier Heart-Linked Funds",
+    "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
+    "published_at": "Wed, 14 Oct 2026 19:11:18 GMT",
+    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101421",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,112,203,705 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-14T21:31:49.083377+00:00",
+    "used": false
   }
 ]
