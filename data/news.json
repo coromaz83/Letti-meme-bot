@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-10-07T00:58:00.769765+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6cc0ceb128f8",
-    "source": "The Defiant",
-    "title": "Kalshi Launches US 500 Perpetual Future With No Expiration",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
-    "published_at": "Tue, 06 Oct 2026 21:59:32 GMT",
-    "fetched_at": "2026-10-07T00:58:00.769765+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_49e8e4d000a2",
-    "source": "Bankless",
-    "title": "Coinbase Completes U.S. Derivatives Stack With CFTC Approval",
-    "url": "https://www.bankless.com/read/news/coinbase-completes-u-s-derivatives-stack-with-cftc-approval",
-    "published_at": "Tue, 29 Sep 2026 09:59:17 -0400",
-    "fetched_at": "2026-10-07T00:58:00.769765+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100700",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,432,029,104 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-07T00:58:06.527255+00:00",
-    "used": false
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -2315,5 +2279,41 @@
     "fetched_at": "2026-10-13T21:56:21.879051+00:00",
     "used": false,
     "_sort_date": "2026-10-13T21:56:21.879051+00:00"
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-10-14T01:05:26.621773+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bb1468bc9d8",
+    "source": "The Defiant",
+    "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
+    "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+    "published_at": "Tue, 13 Oct 2026 22:12:02 GMT",
+    "fetched_at": "2026-10-14T01:05:26.621773+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_19d45689bc94",
+    "source": "The Defiant",
+    "title": "Optimism’s OP Jumps 18%, Extending Four-Week Gain to 66%",
+    "url": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
+    "published_at": "Tue, 13 Oct 2026 21:58:39 GMT",
+    "fetched_at": "2026-10-14T01:05:26.621773+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101401",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,214,182,479 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-14T01:05:36.471272+00:00",
+    "used": false
   }
 ]
