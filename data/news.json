@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_d1c6bc429b29",
-    "source": "Cointelegraph Base",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
-    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f8a1b13f53dc",
-    "source": "CryptoSlate",
-    "title": "US government moves $470 million in seized crypto to Coinbase wallets, raising Bitcoin sale questions",
-    "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
-    "published_at": "Thu, 08 Oct 2026 00:00:12 +0000",
-    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1e359ca5176c",
-    "source": "CryptoSlate",
-    "title": "OpenAI math breakthroughs raise ‘bunker mode’ alarm from Bitcoin researcher Justin Drake",
-    "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
-    "published_at": "Wed, 07 Oct 2026 22:24:45 +0000",
-    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8650330713c7",
-    "source": "Decrypt",
-    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
-    "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
-    "published_at": "Wed, 07 Oct 2026 21:16:03 +0000",
-    "fetched_at": "2026-10-08T00:54:09.081946+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100800",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,246,166,493 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-08T00:54:13.979567+00:00",
-    "used": false
-  },
-  {
     "id": "rss_4c36630be677",
     "source": "CoinDesk",
     "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
@@ -2360,6 +2315,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T00:24:01.651459+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0dab81ba28a8",
+    "source": "CoinDesk",
+    "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+    "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "published_at": "Thu, 15 Oct 2026 04:25:15 +0000",
+    "fetched_at": "2026-10-15T05:03:43.823308+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5c198d71474d",
+    "source": "The Defiant",
+    "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
+    "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
+    "published_at": "Thu, 15 Oct 2026 02:53:59 GMT",
+    "fetched_at": "2026-10-15T05:03:43.823308+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_939ece9a950a",
+    "source": "The Defiant",
+    "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
+    "url": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
+    "published_at": "Thu, 15 Oct 2026 02:53:06 GMT",
+    "fetched_at": "2026-10-15T05:03:43.823308+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101505",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,060,420,613 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-15T05:03:48.300599+00:00",
     "used": false
   }
 ]
