@@ -2439,5 +2439,95 @@
     "fetched_at": "2026-10-15T15:17:19.249874+00:00",
     "used": false,
     "_sort_date": "2026-10-15T15:17:19.249874+00:00"
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ed2f58419e63",
+    "source": "The Defiant",
+    "title": "Ledger Was Hacked — Who Do You Trust With Your Keys Now?",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now",
+    "published_at": "Thu, 15 Oct 2026 18:14:31 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aca23dcf9700",
+    "source": "The Defiant",
+    "title": "IPX Exchange, the Agentic OS and Tokenized Exchange for IP, Closes $4M Seed Round at a $125M Valuation",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-exchange-closes-4m-seed-round-at-125m-valuation",
+    "published_at": "Thu, 15 Oct 2026 17:20:06 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6eaf57640b00",
+    "source": "The Defiant",
+    "title": "Ripple Prime Rolls Out Traditional-Asset Perps Linked to Trade.xyz, Bloomberg Reports",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-prime-rolls-out-traditional-asset-perps-linked-to-trade-xyz-bloomberg-reports",
+    "published_at": "Thu, 15 Oct 2026 17:18:56 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_855811955998",
+    "source": "The Defiant",
+    "title": "Russia Bars Self-Custody Withdrawals From Regulated Crypto Accounts",
+    "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
+    "published_at": "Thu, 15 Oct 2026 17:08:03 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5aa914569147",
+    "source": "The Defiant",
+    "title": "Schwab Completes Retail Bitcoin and Ether Rollout, Begins Crypto Transfers",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
+    "published_at": "Thu, 15 Oct 2026 16:30:41 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c8bd72f6b11d",
+    "source": "The Defiant",
+    "title": "Bitcoin Holds Above $81,000 as Producer Prices Post Largest Jump Since 2022",
+    "url": "https://thedefiant.io/news/markets/bitcoin-holds-above-81000-producer-prices-largest-jump-since-2022-oct-15-2026",
+    "published_at": "Thu, 15 Oct 2026 15:48:05 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_480b7f9c622f",
+    "source": "The Defiant",
+    "title": "Visa Direct Moves USDC Prefunding Into Production With Inyo Global",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
+    "published_at": "Thu, 15 Oct 2026 15:36:52 GMT",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc121f830f5c",
+    "source": "CryptoSlate",
+    "title": "Machi loses $269,000 on ETH, then opens another long seven minutes later",
+    "url": "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/",
+    "published_at": "Thu, 15 Oct 2026 18:00:37 +0000",
+    "fetched_at": "2026-10-15T19:20:43.543727+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101519",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,177,158,501 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-15T19:20:46.646903+00:00",
+    "used": false
   }
 ]
