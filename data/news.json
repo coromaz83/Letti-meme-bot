@@ -2343,5 +2343,23 @@
     "fetched_at": "2026-10-14T21:31:49.083377+00:00",
     "used": false,
     "_sort_date": "2026-10-14T21:31:49.083377+00:00"
+  },
+  {
+    "id": "rss_a0d7c606ada5",
+    "source": "The Defiant",
+    "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
+    "url": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
+    "published_at": "Wed, 14 Oct 2026 21:33:00 GMT",
+    "fetched_at": "2026-10-15T00:23:53.704588+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101500",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,095,985,570 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-15T00:24:01.651459+00:00",
+    "used": false
   }
 ]
