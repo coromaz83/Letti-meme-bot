@@ -2267,7 +2267,8 @@
     "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
     "published_at": "Thu, 15 Oct 2026 15:12:13 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T15:12:13+00:00"
   },
   {
     "id": "rss_8357edc4c181",
@@ -2276,7 +2277,8 @@
     "url": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
     "published_at": "Thu, 15 Oct 2026 14:37:31 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:37:31+00:00"
   },
   {
     "id": "rss_bdbd1691be10",
@@ -2285,7 +2287,8 @@
     "url": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
     "published_at": "Thu, 15 Oct 2026 14:34:52 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:34:52+00:00"
   },
   {
     "id": "rss_36967087ff2b",
@@ -2294,7 +2297,8 @@
     "url": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
     "published_at": "Thu, 15 Oct 2026 14:31:28 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:31:28+00:00"
   },
   {
     "id": "rss_a9a753c9e95e",
@@ -2303,7 +2307,8 @@
     "url": "https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain",
     "published_at": "Thu, 15 Oct 2026 14:25:08 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:25:08+00:00"
   },
   {
     "id": "rss_e0d083fd80cf",
@@ -2312,7 +2317,8 @@
     "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
     "published_at": "Thu, 15 Oct 2026 14:21:46 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:21:46+00:00"
   },
   {
     "id": "rss_1379a42837c9",
@@ -2321,7 +2327,8 @@
     "url": "https://thedefiant.io/news/markets/us-wholesale-inflation-accelerates-to-6-3-as-bitcoin-slips",
     "published_at": "Thu, 15 Oct 2026 13:53:19 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T13:53:19+00:00"
   },
   {
     "id": "rss_bb39b914ec9b",
@@ -2330,7 +2337,8 @@
     "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
     "published_at": "Thu, 15 Oct 2026 13:38:04 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T13:38:04+00:00"
   },
   {
     "id": "rss_a16c89fd000f",
@@ -2339,7 +2347,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards",
     "published_at": "Thu, 15 Oct 2026 13:09:51 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T13:09:51+00:00"
   },
   {
     "id": "rss_3cbc43d33c15",
@@ -2348,7 +2357,8 @@
     "url": "https://thedefiant.io/news/security/ledger-blames-organized-group-for-months-long-wallet-tampering-campaign",
     "published_at": "Thu, 15 Oct 2026 12:48:22 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T12:48:22+00:00"
   },
   {
     "id": "rss_d4fe7229f0ea",
@@ -2357,7 +2367,8 @@
     "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
     "published_at": "Thu, 15 Oct 2026 12:32:49 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T12:32:49+00:00"
   },
   {
     "id": "rss_0e702a2244a0",
@@ -2366,7 +2377,8 @@
     "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
     "published_at": "Thu, 15 Oct 2026 12:20:32 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T12:20:32+00:00"
   },
   {
     "id": "rss_fc6aece1d317",
@@ -2375,7 +2387,8 @@
     "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
     "published_at": "Thu, 15 Oct 2026 10:49:25 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T10:49:25+00:00"
   },
   {
     "id": "rss_120751fcb833",
@@ -2384,7 +2397,8 @@
     "url": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
     "published_at": "Thu, 15 Oct 2026 10:45:57 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T10:45:57+00:00"
   },
   {
     "id": "rss_1211c27a8c5d",
@@ -2393,7 +2407,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
     "published_at": "Thu, 15 Oct 2026 10:34:38 GMT",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T10:34:38+00:00"
   },
   {
     "id": "rss_7427326b1739",
@@ -2402,7 +2417,8 @@
     "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/",
     "published_at": "Thu, 15 Oct 2026 13:20:02 +0000",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T13:20:02+00:00"
   },
   {
     "id": "rss_af243abb820b",
@@ -2411,7 +2427,8 @@
     "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
     "published_at": "Thu, 15 Oct 2026 14:27:18 +0000",
     "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T14:27:18+00:00"
   },
   {
     "id": "llama_2026101515",
@@ -2420,6 +2437,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T15:17:19.249874+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T15:17:19.249874+00:00"
   }
 ]
