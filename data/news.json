@@ -2277,7 +2277,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "published_at": "Thu, 15 Oct 2026 04:25:15 +0000",
     "fetched_at": "2026-10-15T05:03:43.823308+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T04:25:15+00:00"
   },
   {
     "id": "rss_5c198d71474d",
@@ -2286,7 +2287,8 @@
     "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
     "published_at": "Thu, 15 Oct 2026 02:53:59 GMT",
     "fetched_at": "2026-10-15T05:03:43.823308+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T02:53:59+00:00"
   },
   {
     "id": "rss_939ece9a950a",
@@ -2295,7 +2297,8 @@
     "url": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
     "published_at": "Thu, 15 Oct 2026 02:53:06 GMT",
     "fetched_at": "2026-10-15T05:03:43.823308+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T02:53:06+00:00"
   },
   {
     "id": "llama_2026101505",
@@ -2304,7 +2307,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T05:03:48.300599+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T05:03:48.300599+00:00"
   },
   {
     "id": "rss_d1c6bc429b29",
@@ -2322,7 +2326,8 @@
     "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
     "published_at": "Thu, 15 Oct 2026 06:53:08 GMT",
     "fetched_at": "2026-10-15T10:14:36.064309+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T06:53:08+00:00"
   },
   {
     "id": "llama_2026101510",
@@ -2331,6 +2336,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T10:14:40.027663+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T10:14:40.027663+00:00"
   }
 ]
