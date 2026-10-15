@@ -2286,7 +2286,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now",
     "published_at": "Thu, 15 Oct 2026 18:14:31 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T18:14:31+00:00"
   },
   {
     "id": "rss_aca23dcf9700",
@@ -2295,7 +2296,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-exchange-closes-4m-seed-round-at-125m-valuation",
     "published_at": "Thu, 15 Oct 2026 17:20:06 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T17:20:06+00:00"
   },
   {
     "id": "rss_6eaf57640b00",
@@ -2304,7 +2306,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-prime-rolls-out-traditional-asset-perps-linked-to-trade-xyz-bloomberg-reports",
     "published_at": "Thu, 15 Oct 2026 17:18:56 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T17:18:56+00:00"
   },
   {
     "id": "rss_855811955998",
@@ -2313,7 +2316,8 @@
     "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
     "published_at": "Thu, 15 Oct 2026 17:08:03 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T17:08:03+00:00"
   },
   {
     "id": "rss_5aa914569147",
@@ -2322,7 +2326,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
     "published_at": "Thu, 15 Oct 2026 16:30:41 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T16:30:41+00:00"
   },
   {
     "id": "rss_c8bd72f6b11d",
@@ -2331,7 +2336,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-holds-above-81000-producer-prices-largest-jump-since-2022-oct-15-2026",
     "published_at": "Thu, 15 Oct 2026 15:48:05 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T15:48:05+00:00"
   },
   {
     "id": "rss_480b7f9c622f",
@@ -2340,7 +2346,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
     "published_at": "Thu, 15 Oct 2026 15:36:52 GMT",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T15:36:52+00:00"
   },
   {
     "id": "rss_cc121f830f5c",
@@ -2349,7 +2356,8 @@
     "url": "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/",
     "published_at": "Thu, 15 Oct 2026 18:00:37 +0000",
     "fetched_at": "2026-10-15T19:20:43.543727+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T18:00:37+00:00"
   },
   {
     "id": "llama_2026101519",
@@ -2358,7 +2366,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T19:20:46.646903+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T19:20:46.646903+00:00"
   },
   {
     "id": "rss_ba20a27dc7e8",
@@ -2367,7 +2376,8 @@
     "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
     "published_at": "Thu, 15 Oct 2026 21:18:33 GMT",
     "fetched_at": "2026-10-15T22:37:55.774049+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T21:18:33+00:00"
   },
   {
     "id": "llama_2026101522",
@@ -2376,6 +2386,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T22:37:59.289566+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-15T22:37:59.289566+00:00"
   }
 ]
