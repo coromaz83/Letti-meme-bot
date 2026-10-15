@@ -1,52 +1,5 @@
 [
   {
-    "id": "rss_4c36630be677",
-    "source": "CoinDesk",
-    "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-    "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-    "published_at": "Thu, 08 Oct 2026 04:23:23 +0000",
-    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
-    "used": false,
-    "_sort_date": "2026-10-08T04:23:23+00:00"
-  },
-  {
-    "id": "rss_3537c5baf144",
-    "source": "The Defiant",
-    "title": "Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE",
-    "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
-    "published_at": "Thu, 08 Oct 2026 03:38:56 GMT",
-    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2870afc8b7d4",
-    "source": "The Defiant",
-    "title": "Samsung Wallet to Add USDC on Sui in Late October",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
-    "published_at": "Thu, 08 Oct 2026 02:30:16 GMT",
-    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e56092d67db4",
-    "source": "The Defiant",
-    "title": "Justin Drake Urges 'Bunker Mode' Migration to Fresh Crypto Addresses",
-    "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
-    "published_at": "Thu, 08 Oct 2026 02:22:39 GMT",
-    "fetched_at": "2026-10-08T07:13:33.250350+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100807",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,220,865,797 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-08T07:13:37.855238+00:00",
-    "used": false,
-    "_sort_date": "2026-10-08T07:13:37.855238+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -2351,6 +2304,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-15T05:03:48.300599+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-10-15T10:14:36.064309+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ea12834810b3",
+    "source": "The Defiant",
+    "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
+    "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
+    "published_at": "Thu, 15 Oct 2026 06:53:08 GMT",
+    "fetched_at": "2026-10-15T10:14:36.064309+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101510",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,055,830,888 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-15T10:14:40.027663+00:00",
     "used": false
   }
 ]
