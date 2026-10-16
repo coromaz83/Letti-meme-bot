@@ -2283,7 +2283,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
     "published_at": "Fri, 16 Oct 2026 05:53:58 +0000",
     "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T05:53:58+00:00"
   },
   {
     "id": "rss_18e5b1feaa2d",
@@ -2292,7 +2293,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
     "published_at": "Fri, 16 Oct 2026 04:29:19 +0000",
     "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T04:29:19+00:00"
   },
   {
     "id": "rss_c82d6ee06c06",
@@ -2301,7 +2303,8 @@
     "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
     "published_at": "Fri, 16 Oct 2026 05:58:10 GMT",
     "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T05:58:10+00:00"
   },
   {
     "id": "rss_4bea6a95c6d8",
@@ -2310,7 +2313,8 @@
     "url": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
     "published_at": "Fri, 16 Oct 2026 04:29:25 GMT",
     "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T04:29:25+00:00"
   },
   {
     "id": "llama_2026101606",
@@ -2319,7 +2323,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-16T06:16:31.570335+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T06:16:31.570335+00:00"
   },
   {
     "id": "rss_cb6d46980208",
@@ -2328,7 +2333,8 @@
     "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
     "published_at": "Fri, 16 Oct 2026 11:15:00 +0000",
     "fetched_at": "2026-10-16T11:49:09.739446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T11:15:00+00:00"
   },
   {
     "id": "rss_564a783dba29",
@@ -2337,7 +2343,8 @@
     "url": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
     "published_at": "Fri, 16 Oct 2026 10:32:47 GMT",
     "fetched_at": "2026-10-16T11:49:09.739446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T10:32:47+00:00"
   },
   {
     "id": "rss_76af430eccd5",
@@ -2346,7 +2353,8 @@
     "url": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
     "published_at": "Fri, 16 Oct 2026 08:58:56 GMT",
     "fetched_at": "2026-10-16T11:49:09.739446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T08:58:56+00:00"
   },
   {
     "id": "rss_f4c2636ff80d",
@@ -2355,7 +2363,8 @@
     "url": "https://cryptoslate.com/native-bitcoin-collateral-on-aave-triggers-wbtc-pool-deficit/",
     "published_at": "Fri, 16 Oct 2026 08:30:32 +0000",
     "fetched_at": "2026-10-16T11:49:09.739446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T08:30:32+00:00"
   },
   {
     "id": "rss_5e2ffe7ca451",
@@ -2364,7 +2373,8 @@
     "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
     "published_at": "Fri, 16 Oct 2026 10:39:08 +0000",
     "fetched_at": "2026-10-16T11:49:09.739446+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T10:39:08+00:00"
   },
   {
     "id": "llama_2026101611",
@@ -2373,6 +2383,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-16T11:49:13.051821+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T11:49:13.051821+00:00"
   }
 ]
