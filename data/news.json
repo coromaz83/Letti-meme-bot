@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_4028130e9f57",
-    "source": "CoinDesk",
-    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-    "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-    "published_at": "Fri, 09 Oct 2026 10:16:55 +0000",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T10:16:55+00:00"
-  },
-  {
-    "id": "rss_b7d89084d3cd",
-    "source": "The Defiant",
-    "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
-    "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
-    "published_at": "Fri, 09 Oct 2026 14:27:18 GMT",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T14:27:18+00:00"
-  },
-  {
-    "id": "rss_2138cb33df47",
-    "source": "The Defiant",
-    "title": "Franklin Templeton and Animoca Plan Broader Asset Lineup for NUVA",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
-    "published_at": "Fri, 09 Oct 2026 14:23:01 GMT",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T14:23:01+00:00"
-  },
-  {
-    "id": "rss_3221421b1500",
-    "source": "The Defiant",
-    "title": "Ledger Asks CryptoBilis to Halt Sales Amid Reports of Lost Funds",
-    "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
-    "published_at": "Fri, 09 Oct 2026 13:43:35 GMT",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T13:43:35+00:00"
-  },
-  {
-    "id": "rss_3d3fd5d8013a",
-    "source": "The Defiant",
-    "title": "LiquidAcre Selects Uphold to Power Digital Asset Infrastructure and Future Tokenized Real Estate Offerings",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
-    "published_at": "Fri, 09 Oct 2026 13:38:38 GMT",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T13:38:38+00:00"
-  },
-  {
-    "id": "rss_b9218efeb173",
-    "source": "CryptoSlate",
-    "title": "Coinbase streams $150,000 Singapore trading cup and crowns its first champion",
-    "url": "https://cryptoslate.com/coinbase-streams-150000-singapore-trading-cup-and-crowns-its-first-champion/",
-    "published_at": "Fri, 09 Oct 2026 08:30:11 +0000",
-    "fetched_at": "2026-10-09T15:12:38.168915+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T08:30:11+00:00"
-  },
-  {
-    "id": "llama_2026100915",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,158,415,046 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-09T15:12:42.661727+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T15:12:42.661727+00:00"
-  },
-  {
     "id": "rss_a17e6c51e360",
     "source": "The Defiant",
     "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
@@ -2385,5 +2315,131 @@
     "fetched_at": "2026-10-16T11:49:13.051821+00:00",
     "used": false,
     "_sort_date": "2026-10-16T11:49:13.051821+00:00"
+  },
+  {
+    "id": "rss_3b6d40c396c2",
+    "source": "The Defiant",
+    "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+    "url": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+    "published_at": "Fri, 16 Oct 2026 16:28:04 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a4f5dbba639",
+    "source": "The Defiant",
+    "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
+    "published_at": "Fri, 16 Oct 2026 15:05:02 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_64db16036f34",
+    "source": "The Defiant",
+    "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
+    "published_at": "Fri, 16 Oct 2026 15:04:54 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_507a8bdd0c75",
+    "source": "The Defiant",
+    "title": "Binance.US Seeks Up to $100 Million at $1 Billion Valuation, Bloomberg Reports",
+    "url": "https://thedefiant.io/news/cefi/binance-us-seeks-up-to-100-million-at-1-billion-valuation-bloomberg-reports",
+    "published_at": "Fri, 16 Oct 2026 15:04:47 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69dcf9b1bc69",
+    "source": "The Defiant",
+    "title": "Network School Takes Over Farcaster With New Posting Rules",
+    "url": "https://thedefiant.io/news/nfts-and-web3/network-school-takes-over-farcaster-with-new-posting-rules",
+    "published_at": "Fri, 16 Oct 2026 15:02:44 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6dec505cf142",
+    "source": "The Defiant",
+    "title": "AMC CEO Says Company Won’t Consent to Robinhood Stock Tokens in US",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
+    "published_at": "Fri, 16 Oct 2026 15:01:49 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d4b2e02cc5b0",
+    "source": "The Defiant",
+    "title": "Unagi Puts Persona and Ultimate Champions Up for Sale in Liquidation",
+    "url": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
+    "published_at": "Fri, 16 Oct 2026 15:00:40 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f19498bb9b7",
+    "source": "The Defiant",
+    "title": "INJ Surges 27%, Outpacing NEAR and Sei",
+    "url": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
+    "published_at": "Fri, 16 Oct 2026 14:58:50 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8271b5d9f2ee",
+    "source": "The Defiant",
+    "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
+    "published_at": "Fri, 16 Oct 2026 14:57:56 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_419a3b2020bf",
+    "source": "The Defiant",
+    "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-equities-reached-3-8-billion-this-year-dwf-labs-says",
+    "published_at": "Fri, 16 Oct 2026 14:40:00 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_00991726d11f",
+    "source": "The Defiant",
+    "title": "Filecoin Plans to Shift Block Rewards Toward Paid Storage",
+    "url": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
+    "published_at": "Fri, 16 Oct 2026 14:35:48 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2ae1cc0552aa",
+    "source": "The Defiant",
+    "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
+    "url": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
+    "published_at": "Fri, 16 Oct 2026 14:32:00 GMT",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bd67962375d7",
+    "source": "CryptoSlate",
+    "title": "Institutions managing €800 billion ask what crypto tokens actually earn",
+    "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto/",
+    "published_at": "Fri, 16 Oct 2026 13:00:10 +0000",
+    "fetched_at": "2026-10-16T16:29:39.566150+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101616",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,130,716,932 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-16T16:29:43.310400+00:00",
+    "used": false
   }
 ]
