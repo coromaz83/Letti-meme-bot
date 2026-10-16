@@ -2334,5 +2334,50 @@
     "published_at": "",
     "fetched_at": "2026-10-16T01:08:36.460227+00:00",
     "used": false
+  },
+  {
+    "id": "rss_6dd46e2008fa",
+    "source": "CoinDesk",
+    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "published_at": "Fri, 16 Oct 2026 05:53:58 +0000",
+    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18e5b1feaa2d",
+    "source": "CoinDesk",
+    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+    "published_at": "Fri, 16 Oct 2026 04:29:19 +0000",
+    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c82d6ee06c06",
+    "source": "The Defiant",
+    "title": "Celestia’s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
+    "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
+    "published_at": "Fri, 16 Oct 2026 05:58:10 GMT",
+    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4bea6a95c6d8",
+    "source": "The Defiant",
+    "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
+    "url": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
+    "published_at": "Fri, 16 Oct 2026 04:29:25 GMT",
+    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101606",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,166,930,261 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-16T06:16:31.570335+00:00",
+    "used": false
   }
 ]
