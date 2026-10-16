@@ -1,115 +1,5 @@
 [
   {
-    "id": "rss_a17e6c51e360",
-    "source": "The Defiant",
-    "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
-    "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
-    "published_at": "Fri, 09 Oct 2026 19:58:15 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T19:58:15+00:00"
-  },
-  {
-    "id": "rss_d0735ff01b09",
-    "source": "The Defiant",
-    "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
-    "published_at": "Fri, 09 Oct 2026 18:48:09 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T18:48:09+00:00"
-  },
-  {
-    "id": "rss_697538a9717c",
-    "source": "The Defiant",
-    "title": "Telegram Rolls Out Money Wallet for Gram Transfers and Collectibles",
-    "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
-    "published_at": "Fri, 09 Oct 2026 16:23:22 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T16:23:22+00:00"
-  },
-  {
-    "id": "rss_c81a312fbe49",
-    "source": "The Defiant",
-    "title": "Ostium Proposes Equity Stakes For Hacked Liquidity Providers",
-    "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
-    "published_at": "Fri, 09 Oct 2026 16:00:00 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T16:00:00+00:00"
-  },
-  {
-    "id": "rss_15417c3e17b5",
-    "source": "The Defiant",
-    "title": "Tether Freezes USDT Linked to Ledger User Thefts, MistTrack Says",
-    "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
-    "published_at": "Fri, 09 Oct 2026 15:29:41 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T15:29:41+00:00"
-  },
-  {
-    "id": "rss_044f9012880f",
-    "source": "The Defiant",
-    "title": "Tether Unfreezes Four THORChain Vaults Three Hours After Blacklisting 1.45 Million USDT",
-    "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
-    "published_at": "Fri, 09 Oct 2026 15:27:48 GMT",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T15:27:48+00:00"
-  },
-  {
-    "id": "rss_cdb058e08660",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s proposed safety checks could still let a bad trade through",
-    "url": "https://cryptoslate.com/ethereums-proposed-safety-checks-still-depend-on-who-sets-the-loss-limit/",
-    "published_at": "Fri, 09 Oct 2026 18:00:42 +0000",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T18:00:42+00:00"
-  },
-  {
-    "id": "rss_54cc3a80402c",
-    "source": "CryptoSlate",
-    "title": "Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6%",
-    "url": "https://cryptoslate.com/ethereums-binance-futures-book-grew-2-3-in-eth-while-its-dollar-value-fell/",
-    "published_at": "Fri, 09 Oct 2026 17:00:01 +0000",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T17:00:01+00:00"
-  },
-  {
-    "id": "rss_3dc1d438f431",
-    "source": "Decrypt",
-    "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-    "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-    "published_at": "Fri, 09 Oct 2026 18:46:03 +0000",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T18:46:03+00:00"
-  },
-  {
-    "id": "rss_4e9ef86bb71b",
-    "source": "Decrypt",
-    "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-    "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-    "published_at": "Fri, 09 Oct 2026 16:36:03 +0000",
-    "fetched_at": "2026-10-09T20:17:19.841371+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T16:36:03+00:00"
-  },
-  {
-    "id": "llama_2026100920",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,145,538,962 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-09T20:17:22.697637+00:00",
-    "used": false,
-    "_sort_date": "2026-10-09T20:17:22.697637+00:00"
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -2517,6 +2407,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-16T19:40:37.678051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3da76934d1ec",
+    "source": "The Defiant",
+    "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+    "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+    "published_at": "Fri, 16 Oct 2026 21:32:28 GMT",
+    "fetched_at": "2026-10-16T22:44:08.156448+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101622",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,136,097,736 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-16T22:44:12.083397+00:00",
     "used": false
   }
 ]
