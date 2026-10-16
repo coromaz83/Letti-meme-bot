@@ -2353,7 +2353,8 @@
     "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
     "published_at": "Fri, 16 Oct 2026 18:32:37 GMT",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T18:32:37+00:00"
   },
   {
     "id": "rss_037a05eb720b",
@@ -2362,7 +2363,8 @@
     "url": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
     "published_at": "Fri, 16 Oct 2026 18:13:04 GMT",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T18:13:04+00:00"
   },
   {
     "id": "rss_2d5f65ba969f",
@@ -2371,7 +2373,8 @@
     "url": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
     "published_at": "Fri, 16 Oct 2026 17:33:25 GMT",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T17:33:25+00:00"
   },
   {
     "id": "rss_9ea9e7d10702",
@@ -2380,7 +2383,8 @@
     "url": "https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/",
     "published_at": "Fri, 16 Oct 2026 18:40:50 +0000",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T18:40:50+00:00"
   },
   {
     "id": "rss_811728ef9ed0",
@@ -2389,7 +2393,8 @@
     "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings/",
     "published_at": "Fri, 16 Oct 2026 17:20:21 +0000",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T17:20:21+00:00"
   },
   {
     "id": "rss_db3b16e63c88",
@@ -2398,7 +2403,8 @@
     "url": "https://www.bankless.com/read/news/openai-model-helped-itself-to-testnet-eth-to-finish-a-coding-task",
     "published_at": "Fri, 16 Oct 2026 15:13:41 -0400",
     "fetched_at": "2026-10-16T19:40:34.218605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T15:13:41-04:00"
   },
   {
     "id": "llama_2026101619",
@@ -2407,7 +2413,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-16T19:40:37.678051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T19:40:37.678051+00:00"
   },
   {
     "id": "rss_3da76934d1ec",
@@ -2416,7 +2423,8 @@
     "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
     "published_at": "Fri, 16 Oct 2026 21:32:28 GMT",
     "fetched_at": "2026-10-16T22:44:08.156448+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T21:32:28+00:00"
   },
   {
     "id": "llama_2026101622",
@@ -2425,6 +2433,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-16T22:44:12.083397+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-16T22:44:12.083397+00:00"
   }
 ]
