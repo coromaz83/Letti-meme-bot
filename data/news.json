@@ -2455,5 +2455,68 @@
     "fetched_at": "2026-10-16T16:29:43.310400+00:00",
     "used": false,
     "_sort_date": "2026-10-16T16:29:43.310400+00:00"
+  },
+  {
+    "id": "rss_3a3ceb5aeab7",
+    "source": "The Defiant",
+    "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
+    "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+    "published_at": "Fri, 16 Oct 2026 18:32:37 GMT",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_037a05eb720b",
+    "source": "The Defiant",
+    "title": "Karpelès Reports Ledger Implants in Devices From Two More Resellers",
+    "url": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
+    "published_at": "Fri, 16 Oct 2026 18:13:04 GMT",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2d5f65ba969f",
+    "source": "The Defiant",
+    "title": "STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan",
+    "url": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+    "published_at": "Fri, 16 Oct 2026 17:33:25 GMT",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9ea9e7d10702",
+    "source": "CryptoSlate",
+    "title": "OpenAI’s rogue crypto agent spent funds without permission, exposing risks to autonomous wallets",
+    "url": "https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/",
+    "published_at": "Fri, 16 Oct 2026 18:40:50 +0000",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_811728ef9ed0",
+    "source": "CryptoSlate",
+    "title": "Only 18% of Uniswap v3 positions under $1,000 beat holding after gas, study finds",
+    "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings/",
+    "published_at": "Fri, 16 Oct 2026 17:20:21 +0000",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db3b16e63c88",
+    "source": "Bankless",
+    "title": "OpenAI Model Helped Itself to Testnet ETH Without Permission",
+    "url": "https://www.bankless.com/read/news/openai-model-helped-itself-to-testnet-eth-to-finish-a-coding-task",
+    "published_at": "Fri, 16 Oct 2026 15:13:41 -0400",
+    "fetched_at": "2026-10-16T19:40:34.218605+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101619",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,103,999,516 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-16T19:40:37.678051+00:00",
+    "used": false
   }
 ]
