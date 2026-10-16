@@ -1,122 +1,5 @@
 [
   {
-    "id": "rss_82a413f928e5",
-    "source": "CoinDesk",
-    "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-    "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-    "published_at": "Thu, 08 Oct 2026 21:22:58 +0000",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_62999ee98982",
-    "source": "The Defiant",
-    "title": "Coinbase Cryptographer Calls Drake's 'Bunker Mode' Warning 'The Very Definition of FUD'",
-    "url": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud",
-    "published_at": "Thu, 08 Oct 2026 23:34:05 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ebcdde094713",
-    "source": "The Defiant",
-    "title": "Netflix’s FTX Love Story Trailer Draws Mockery on Crypto X",
-    "url": "https://thedefiant.io/news/people/netflix-ftx-love-story-trailer-draws-mockery-on-crypto-x",
-    "published_at": "Thu, 08 Oct 2026 21:25:20 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b88f39b322d2",
-    "source": "The Defiant",
-    "title": "Ondo Opens Trading in OpenAI-Linked Private-Market Note",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
-    "published_at": "Thu, 08 Oct 2026 21:05:54 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_74e1bfddd995",
-    "source": "The Defiant",
-    "title": "Polkadot Launches USDT-Backed dotUSD Under OpenGov",
-    "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
-    "published_at": "Thu, 08 Oct 2026 21:05:44 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_51c6770f1737",
-    "source": "The Defiant",
-    "title": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
-    "url": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
-    "published_at": "Thu, 08 Oct 2026 21:05:33 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a1a4c7c6fb8c",
-    "source": "The Defiant",
-    "title": "Abstract's ETH Withdrawals Depend on Operators Ahead of Dec. 15 Shutdown",
-    "url": "https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown",
-    "published_at": "Thu, 08 Oct 2026 21:02:07 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_99526ff7b705",
-    "source": "The Defiant",
-    "title": "Kyrgyzstan Winds Down Gold-Backed USDKG After UK Sanctions",
-    "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
-    "published_at": "Thu, 08 Oct 2026 21:01:55 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a143865500e3",
-    "source": "The Defiant",
-    "title": "Starknet Weighs Layer 1 Shift to Pursue Quantum Security by 2027",
-    "url": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
-    "published_at": "Thu, 08 Oct 2026 21:01:42 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bc7e830de0a0",
-    "source": "The Defiant",
-    "title": "Standard Chartered Plans Digital Asset Custody in Singapore",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-plans-digital-asset-custody-in-singapore",
-    "published_at": "Thu, 08 Oct 2026 21:01:23 GMT",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4e5d58eb4c37",
-    "source": "CryptoSlate",
-    "title": "XRPL’s $1.34 billion stablecoin base doesn’t tell us how much XRP users need",
-    "url": "https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need/",
-    "published_at": "Fri, 09 Oct 2026 01:00:56 +0000",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fa837cf892b1",
-    "source": "Bankless",
-    "title": "Derive V3 Wants to Be the Engine of Onchain Options",
-    "url": "https://www.bankless.com/read/derive-v3-wants-to-be-the-engine-of-onchain-options",
-    "published_at": "Thu, 01 Oct 2026 15:23:23 -0400",
-    "fetched_at": "2026-10-09T01:08:27.124805+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026100901",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,088,661,569 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-09T01:08:35.750083+00:00",
-    "used": false
-  },
-  {
     "id": "rss_996033a90711",
     "source": "CoinDesk",
     "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
@@ -2388,5 +2271,68 @@
     "fetched_at": "2026-10-15T22:37:59.289566+00:00",
     "used": false,
     "_sort_date": "2026-10-15T22:37:59.289566+00:00"
+  },
+  {
+    "id": "rss_27bb554c07b7",
+    "source": "The Defiant",
+    "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
+    "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
+    "published_at": "Fri, 16 Oct 2026 00:39:04 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_81c94dec2c7d",
+    "source": "The Defiant",
+    "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
+    "published_at": "Thu, 15 Oct 2026 23:58:41 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ca4198511146",
+    "source": "The Defiant",
+    "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
+    "published_at": "Thu, 15 Oct 2026 23:34:48 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5114ff0666d0",
+    "source": "The Defiant",
+    "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
+    "url": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
+    "published_at": "Thu, 15 Oct 2026 23:27:03 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_de314279f8d6",
+    "source": "The Defiant",
+    "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
+    "url": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
+    "published_at": "Thu, 15 Oct 2026 23:21:21 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ffcf9be287fb",
+    "source": "The Defiant",
+    "title": "bOSMO Bug Leaves Little Backing, Prompts Holder Compensation Plan",
+    "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
+    "published_at": "Thu, 15 Oct 2026 23:18:39 GMT",
+    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101601",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,172,240,495 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-16T01:08:36.460227+00:00",
+    "used": false
   }
 ]
