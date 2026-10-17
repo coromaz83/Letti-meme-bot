@@ -2325,7 +2325,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-17T01:13:24.025175+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T01:13:24.025175+00:00"
   },
   {
     "id": "rss_ebd7c912e55e",
@@ -2343,7 +2344,8 @@
     "url": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
     "published_at": "Sat, 17 Oct 2026 05:58:10 GMT",
     "fetched_at": "2026-10-17T06:02:25.727680+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T05:58:10+00:00"
   },
   {
     "id": "rss_4ea0412f8236",
@@ -2352,7 +2354,8 @@
     "url": "https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines",
     "published_at": "Sat, 17 Oct 2026 05:26:37 GMT",
     "fetched_at": "2026-10-17T06:02:25.727680+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T05:26:37+00:00"
   },
   {
     "id": "llama_2026101706",
@@ -2361,7 +2364,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-17T06:02:28.672450+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T06:02:28.672450+00:00"
   },
   {
     "id": "rss_e05c58966934",
@@ -2370,7 +2374,8 @@
     "url": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
     "published_at": "Sat, 17 Oct 2026 08:14:03 GMT",
     "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T08:14:03+00:00"
   },
   {
     "id": "rss_f49558e55c87",
@@ -2379,7 +2384,8 @@
     "url": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
     "published_at": "Sat, 17 Oct 2026 07:55:49 GMT",
     "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T07:55:49+00:00"
   },
   {
     "id": "rss_c75d560a34f1",
@@ -2388,7 +2394,8 @@
     "url": "https://thedefiant.io/converge/markets/strategy-slides-9-6-after-msci-decision-outpacing-bitcoin-s-drop",
     "published_at": "Sat, 17 Oct 2026 07:44:41 GMT",
     "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T07:44:41+00:00"
   },
   {
     "id": "rss_02f3ec09cfd3",
@@ -2397,7 +2404,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
     "published_at": "Sat, 17 Oct 2026 07:32:11 GMT",
     "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T07:32:11+00:00"
   },
   {
     "id": "llama_2026101711",
@@ -2406,6 +2414,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-17T11:05:46.885497+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T11:05:46.885497+00:00"
   }
 ]
