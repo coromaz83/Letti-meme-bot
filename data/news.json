@@ -2347,5 +2347,32 @@
     "published_at": "",
     "fetched_at": "2026-10-17T14:21:32.699062+00:00",
     "used": false
+  },
+  {
+    "id": "rss_7a241cb31bc2",
+    "source": "The Defiant",
+    "title": "Injective Activates Fixed Gas Costs for Exchange Transactions",
+    "url": "https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions",
+    "published_at": "Sat, 17 Oct 2026 17:12:35 GMT",
+    "fetched_at": "2026-10-17T17:29:01.239175+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_24cb9b8a7709",
+    "source": "CryptoSlate",
+    "title": "Ethereum sets October 26 for Hoodi’s 200 million gas test",
+    "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
+    "published_at": "Sat, 17 Oct 2026 17:00:52 +0000",
+    "fetched_at": "2026-10-17T17:29:01.239175+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101717",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,129,957,110 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-17T17:29:04.599615+00:00",
+    "used": false
   }
 ]
