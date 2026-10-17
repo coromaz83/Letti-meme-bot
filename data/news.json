@@ -2269,7 +2269,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-17T19:40:43.755607+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T19:40:43.755607+00:00"
   },
   {
     "id": "rss_865568549b20",
@@ -2305,7 +2306,8 @@
     "url": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
     "published_at": "Sat, 17 Oct 2026 19:42:21 GMT",
     "fetched_at": "2026-10-17T22:09:31.088988+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T19:42:21+00:00"
   },
   {
     "id": "llama_2026101722",
@@ -2314,6 +2316,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-17T22:09:33.928668+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-17T22:09:33.928668+00:00"
   }
 ]
