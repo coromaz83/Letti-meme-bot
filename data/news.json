@@ -2364,5 +2364,41 @@
     "published_at": "",
     "fetched_at": "2026-10-17T01:13:24.025175+00:00",
     "used": false
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-10-17T06:02:25.727680+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9bfa1e57c05f",
+    "source": "The Defiant",
+    "title": "Celestia’s TIA Jumps 23% in a Day, Extending Four-Week Rally",
+    "url": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
+    "published_at": "Sat, 17 Oct 2026 05:58:10 GMT",
+    "fetched_at": "2026-10-17T06:02:25.727680+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ea0412f8236",
+    "source": "The Defiant",
+    "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",
+    "url": "https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines",
+    "published_at": "Sat, 17 Oct 2026 05:26:37 GMT",
+    "fetched_at": "2026-10-17T06:02:25.727680+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101706",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,142,641,755 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-17T06:02:28.672450+00:00",
+    "used": false
   }
 ]
