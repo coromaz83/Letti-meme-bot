@@ -2308,5 +2308,41 @@
     "published_at": "",
     "fetched_at": "2026-10-18T13:53:43.736647+00:00",
     "used": false
+  },
+  {
+    "id": "rss_9c73cfdefc0f",
+    "source": "The Defiant",
+    "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
+    "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+    "published_at": "Sun, 18 Oct 2026 15:09:55 GMT",
+    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a927fa3e3a3b",
+    "source": "CryptoSlate",
+    "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
+    "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
+    "published_at": "Sun, 18 Oct 2026 15:00:36 +0000",
+    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d2c05f7543a1",
+    "source": "CryptoSlate",
+    "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+    "url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
+    "published_at": "Sun, 18 Oct 2026 14:00:41 +0000",
+    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101817",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,095,736,589 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-18T17:13:19.883873+00:00",
+    "used": false
   }
 ]
