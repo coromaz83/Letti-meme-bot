@@ -2289,7 +2289,8 @@
     "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
     "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
     "fetched_at": "2026-10-18T13:53:40.744761+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T12:00:00+00:00"
   },
   {
     "id": "rss_9e8b67af8a61",
@@ -2298,7 +2299,8 @@
     "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
     "published_at": "Sun, 18 Oct 2026 11:10:38 GMT",
     "fetched_at": "2026-10-18T13:53:40.744761+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T11:10:38+00:00"
   },
   {
     "id": "llama_2026101813",
@@ -2307,7 +2309,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-18T13:53:43.736647+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T13:53:43.736647+00:00"
   },
   {
     "id": "rss_9c73cfdefc0f",
@@ -2316,7 +2319,8 @@
     "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
     "published_at": "Sun, 18 Oct 2026 15:09:55 GMT",
     "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T15:09:55+00:00"
   },
   {
     "id": "rss_a927fa3e3a3b",
@@ -2325,7 +2329,8 @@
     "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
     "published_at": "Sun, 18 Oct 2026 15:00:36 +0000",
     "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T15:00:36+00:00"
   },
   {
     "id": "rss_d2c05f7543a1",
@@ -2334,7 +2339,8 @@
     "url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
     "published_at": "Sun, 18 Oct 2026 14:00:41 +0000",
     "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T14:00:41+00:00"
   },
   {
     "id": "llama_2026101817",
@@ -2343,6 +2349,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-18T17:13:19.883873+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-18T17:13:19.883873+00:00"
   }
 ]
