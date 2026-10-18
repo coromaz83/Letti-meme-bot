@@ -1,105 +1,5 @@
 [
   {
-    "id": "rss_fe98f2baee6e",
-    "source": "The Defiant",
-    "title": "Coinbase Completes Deribit Integration for Institutional Traders",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
-    "published_at": "Sun, 11 Oct 2026 17:48:05 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T17:48:05+00:00"
-  },
-  {
-    "id": "rss_714da0626d8c",
-    "source": "The Defiant",
-    "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
-    "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
-    "published_at": "Sun, 11 Oct 2026 17:18:19 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T17:18:19+00:00"
-  },
-  {
-    "id": "rss_89da9f77722e",
-    "source": "The Defiant",
-    "title": "Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage",
-    "url": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
-    "published_at": "Sun, 11 Oct 2026 15:59:08 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T15:59:08+00:00"
-  },
-  {
-    "id": "rss_734678008d8c",
-    "source": "The Defiant",
-    "title": "Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations",
-    "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
-    "published_at": "Sun, 11 Oct 2026 15:53:36 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T15:53:36+00:00"
-  },
-  {
-    "id": "rss_2e88c387698b",
-    "source": "The Defiant",
-    "title": "PeckShield Traces $3.89 Million in Ledger Theft Funds to Binance Deposits",
-    "url": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
-    "published_at": "Sun, 11 Oct 2026 15:04:33 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T15:04:33+00:00"
-  },
-  {
-    "id": "rss_88e196adb179",
-    "source": "The Defiant",
-    "title": "XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions",
-    "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
-    "published_at": "Sun, 11 Oct 2026 14:08:37 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T14:08:37+00:00"
-  },
-  {
-    "id": "rss_41b59e65dbe2",
-    "source": "The Defiant",
-    "title": "US Bitcoin ETFs Shed $679 Million in Weekly Reversal",
-    "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-679-million-in-weekly-reversal",
-    "published_at": "Sun, 11 Oct 2026 13:22:15 GMT",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T13:22:15+00:00"
-  },
-  {
-    "id": "rss_a927e211390c",
-    "source": "CryptoSlate",
-    "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
-    "url": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
-    "published_at": "Sun, 11 Oct 2026 14:00:41 +0000",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T14:00:41+00:00"
-  },
-  {
-    "id": "rss_8362b21aa3db",
-    "source": "Decrypt",
-    "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-    "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-    "published_at": "Sun, 11 Oct 2026 16:01:03 +0000",
-    "fetched_at": "2026-10-11T18:23:30.200621+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T16:01:03+00:00"
-  },
-  {
-    "id": "llama_2026101118",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,235,375,075 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-11T18:23:36.426586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T18:23:36.426586+00:00"
-  },
-  {
     "id": "rss_223885e551fb",
     "source": "The Defiant",
     "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
@@ -2351,5 +2251,14 @@
     "fetched_at": "2026-10-18T17:13:19.883873+00:00",
     "used": false,
     "_sort_date": "2026-10-18T17:13:19.883873+00:00"
+  },
+  {
+    "id": "llama_2026101819",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,079,502,580 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-18T19:34:36.876300+00:00",
+    "used": false
   }
 ]
