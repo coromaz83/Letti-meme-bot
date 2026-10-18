@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_3a6e71475b74",
-    "source": "The Defiant",
-    "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
-    "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
-    "published_at": "Sun, 11 Oct 2026 09:38:29 GMT",
-    "fetched_at": "2026-10-11T13:22:01.348082+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T09:38:29+00:00"
-  },
-  {
-    "id": "llama_2026101113",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,212,957,656 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-11T13:22:08.209043+00:00",
-    "used": false,
-    "_sort_date": "2026-10-11T13:22:08.209043+00:00"
-  },
-  {
     "id": "rss_fe98f2baee6e",
     "source": "The Defiant",
     "title": "Coinbase Completes Deribit Integration for Institutional Traders",
@@ -2301,5 +2281,32 @@
     "fetched_at": "2026-10-18T09:49:20.201905+00:00",
     "used": false,
     "_sort_date": "2026-10-18T09:49:20.201905+00:00"
+  },
+  {
+    "id": "rss_67558d9fdc6e",
+    "source": "CoinDesk",
+    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+    "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
+    "fetched_at": "2026-10-18T13:53:40.744761+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e8b67af8a61",
+    "source": "The Defiant",
+    "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
+    "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+    "published_at": "Sun, 18 Oct 2026 11:10:38 GMT",
+    "fetched_at": "2026-10-18T13:53:40.744761+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101813",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,144,622,623 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-18T13:53:43.736647+00:00",
+    "used": false
   }
 ]
