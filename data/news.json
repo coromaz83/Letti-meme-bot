@@ -1,185 +1,5 @@
 [
   {
-    "id": "rss_de8b0b4039e5",
-    "source": "CoinDesk",
-    "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-    "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-    "published_at": "Mon, 12 Oct 2026 15:27:09 +0000",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a5e350e723a8",
-    "source": "The Defiant",
-    "title": "Ontology Restarts Mainnet After Nearly 43-Hour Security Halt",
-    "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
-    "published_at": "Mon, 12 Oct 2026 16:50:16 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c0ebcd289123",
-    "source": "The Defiant",
-    "title": "Derive Proposes Treasury Funding for US-Regulated Derivatives Push",
-    "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
-    "published_at": "Mon, 12 Oct 2026 16:20:49 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dab6cb08134b",
-    "source": "The Defiant",
-    "title": "Sui Backs DATA With $30 Million as Network Plans to Retire Its Chain",
-    "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
-    "published_at": "Mon, 12 Oct 2026 15:48:21 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b81c068e88d2",
-    "source": "The Defiant",
-    "title": "Standard Chartered Launches RLUSD Custody Through Dubai Branch",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-rlusd-custody-through-dubai-branch",
-    "published_at": "Mon, 12 Oct 2026 15:40:46 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4be431e2c88d",
-    "source": "The Defiant",
-    "title": "THORChain Fees Rebound but Remain 84% Below September Surge",
-    "url": "https://thedefiant.io/news/defi/thorchain-fees-rebound-but-remain-84-below-september-surge",
-    "published_at": "Mon, 12 Oct 2026 15:40:30 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1bc8ac9181ad",
-    "source": "The Defiant",
-    "title": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
-    "published_at": "Mon, 12 Oct 2026 15:23:48 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2e27c2aad6bd",
-    "source": "The Defiant",
-    "title": "SkyAI Sells Half Its SOL Treasury, Plans $201 Million Cash Buyback",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
-    "published_at": "Mon, 12 Oct 2026 15:23:33 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_abadd3231771",
-    "source": "The Defiant",
-    "title": "Buyer Reports Second Tampered Ledger From MediaMarkt, Calls for Recall",
-    "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
-    "published_at": "Mon, 12 Oct 2026 15:21:38 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_30da2e151caa",
-    "source": "The Defiant",
-    "title": "USDGO Adds Solana Trading Liquidity Through Jupiter Lend and Fluid",
-    "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
-    "published_at": "Mon, 12 Oct 2026 14:13:33 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_45a9bb3dc04c",
-    "source": "The Defiant",
-    "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
-    "url": "https://thedefiant.io/news/security/onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
-    "published_at": "Mon, 12 Oct 2026 13:45:06 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f2981b0be839",
-    "source": "The Defiant",
-    "title": "Karpelès Flags Another Ledger Implant as Company Keeps CryptoBilis Warning",
-    "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
-    "published_at": "Mon, 12 Oct 2026 13:12:44 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ee379f52e3c9",
-    "source": "The Defiant",
-    "title": "Bitquery Says $10 Million Frozen in CryptoBilis-Linked Wallet Drains",
-    "url": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
-    "published_at": "Mon, 12 Oct 2026 12:25:19 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4a72756bf7b8",
-    "source": "The Defiant",
-    "title": "Bybit Launches USDC-Funded Trading in More Than 1,000 US Stocks and ETFs",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
-    "published_at": "Mon, 12 Oct 2026 11:50:49 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d83b26cbca8d",
-    "source": "The Defiant",
-    "title": "Papertrade Trader Losses Reach $32.4 Million Two Days After Launch",
-    "url": "https://thedefiant.io/news/defi/papertrade-trader-losses-reach-32-4-million-two-days-after-launch",
-    "published_at": "Mon, 12 Oct 2026 11:19:22 GMT",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_de5ea7940d10",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s rebound approaches the $85,000 zone where past buyers may sell",
-    "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs/",
-    "published_at": "Mon, 12 Oct 2026 14:20:51 +0000",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9291bdb67392",
-    "source": "CryptoSlate",
-    "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
-    "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
-    "published_at": "Mon, 12 Oct 2026 12:00:46 +0000",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_384a671f92af",
-    "source": "Decrypt",
-    "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-    "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
-    "published_at": "Mon, 12 Oct 2026 19:07:30 +0000",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9a4eb208e294",
-    "source": "Decrypt",
-    "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-    "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-    "published_at": "Mon, 12 Oct 2026 13:33:28 +0000",
-    "fetched_at": "2026-10-12T19:15:42.710844+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101219",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,163,847,235 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-12T19:15:53.301867+00:00",
-    "used": false
-  },
-  {
     "id": "rss_75aa62224238",
     "source": "The Defiant",
     "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
@@ -2395,6 +2215,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-19T17:41:48.982357+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1f2c607c1588",
+    "source": "CoinDesk",
+    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "published_at": "Mon, 19 Oct 2026 20:21:13 +0000",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_abf7d55c4b84",
+    "source": "The Defiant",
+    "title": "Sentora’s OUSD Lending Vault Holds $42.5 Million on Tempo",
+    "url": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
+    "published_at": "Mon, 19 Oct 2026 20:02:10 GMT",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_81c9b265a84b",
+    "source": "The Defiant",
+    "title": "France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
+    "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
+    "published_at": "Mon, 19 Oct 2026 19:12:04 GMT",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f90341d9f05b",
+    "source": "The Defiant",
+    "title": "Rain Says Western Union's Stablecard Is Live in 37 Markets",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-says-western-union-s-stablecard-is-live-in-37-markets",
+    "published_at": "Mon, 19 Oct 2026 18:09:42 GMT",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57f28da27e3c",
+    "source": "The Defiant",
+    "title": "Pump.fun Adds Pre-IPO Tokens to Its Launch Pairings",
+    "url": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
+    "published_at": "Mon, 19 Oct 2026 17:58:50 GMT",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7cfb56e7a05f",
+    "source": "Bankless",
+    "title": "Kinetiq's Elysium L2 Sets Nov. 9th Mainnet Launch",
+    "url": "https://www.bankless.com/read/news/kinetiqs-elysium-l2-sets-nov-9-mainnet-launch",
+    "published_at": "Mon, 19 Oct 2026 14:11:51 -0400",
+    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026101922",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,167,501,367 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-19T22:14:52.045207+00:00",
     "used": false
   }
 ]
