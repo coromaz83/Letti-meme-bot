@@ -2163,7 +2163,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-19T05:10:08.673387+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T05:10:08.673387+00:00"
   },
   {
     "id": "rss_59350c097c02",
@@ -2181,7 +2182,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
     "published_at": "Mon, 19 Oct 2026 10:26:33 +0000",
     "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T10:26:33+00:00"
   },
   {
     "id": "rss_5223b810d834",
@@ -2190,7 +2192,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
     "published_at": "Mon, 19 Oct 2026 10:03:47 +0000",
     "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T10:03:47+00:00"
   },
   {
     "id": "rss_c8ae68321614",
@@ -2199,7 +2202,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
     "published_at": "Mon, 19 Oct 2026 09:12:39 +0000",
     "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T09:12:39+00:00"
   },
   {
     "id": "rss_b8a9738a82ed",
@@ -2208,7 +2212,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
     "published_at": "Mon, 19 Oct 2026 07:53:33 GMT",
     "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T07:53:33+00:00"
   },
   {
     "id": "rss_818a8bc7ffa2",
@@ -2217,7 +2222,8 @@
     "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
     "published_at": "Mon, 19 Oct 2026 10:30:55 +0000",
     "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T10:30:55+00:00"
   },
   {
     "id": "llama_2026101911",
@@ -2226,6 +2232,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-19T11:08:54.923294+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-19T11:08:54.923294+00:00"
   }
 ]
