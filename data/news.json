@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_75aa62224238",
-    "source": "The Defiant",
-    "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
-    "url": "https://thedefiant.io/news/blockchains/robinhood-reports-15b-in-stock-token-trading-as-chain-passes-100-days",
-    "published_at": "Mon, 12 Oct 2026 20:36:46 GMT",
-    "fetched_at": "2026-10-13T01:34:58.524872+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5951ce127d9b",
-    "source": "The Defiant",
-    "title": "IMF Finds Most Tokenized Equity Trading Happens Outside Regular Hours",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
-    "published_at": "Mon, 12 Oct 2026 20:36:36 GMT",
-    "fetched_at": "2026-10-13T01:34:58.524872+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4d093d1f990a",
-    "source": "The Defiant",
-    "title": "Canton Records Over $155 Million in Q3 Fees, CertiK Says",
-    "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
-    "published_at": "Mon, 12 Oct 2026 20:36:19 GMT",
-    "fetched_at": "2026-10-13T01:34:58.524872+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a295ce886bcc",
-    "source": "The Defiant",
-    "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts",
-    "published_at": "Mon, 12 Oct 2026 20:35:49 GMT",
-    "fetched_at": "2026-10-13T01:34:58.524872+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101301",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,126,561,095 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-13T01:35:03.714145+00:00",
-    "used": false
-  },
-  {
     "id": "rss_419571ff4cd0",
     "source": "CoinDesk",
     "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
@@ -2347,6 +2302,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-20T01:11:23.885123+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_80f9a5e96158",
+    "source": "The Defiant",
+    "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
+    "published_at": "Tue, 20 Oct 2026 02:39:23 GMT",
+    "fetched_at": "2026-10-20T06:28:38.515554+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5c69c76d85c8",
+    "source": "The Defiant",
+    "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+    "url": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
+    "published_at": "Tue, 20 Oct 2026 01:47:17 GMT",
+    "fetched_at": "2026-10-20T06:28:38.515554+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102006",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,180,732,161 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-20T06:28:41.806557+00:00",
     "used": false
   }
 ]
