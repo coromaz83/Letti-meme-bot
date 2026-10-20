@@ -1,175 +1,5 @@
 [
   {
-    "id": "rss_9f5ef0805d2d",
-    "source": "The Defiant",
-    "title": "Collector Crypt Logs $151 Million in Monthly Pack Sales",
-    "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales",
-    "published_at": "Tue, 13 Oct 2026 21:25:41 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T21:25:41+00:00"
-  },
-  {
-    "id": "rss_3cb516793863",
-    "source": "The Defiant",
-    "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
-    "published_at": "Tue, 13 Oct 2026 20:47:14 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T20:47:14+00:00"
-  },
-  {
-    "id": "rss_c5425a10e7cf",
-    "source": "The Defiant",
-    "title": "FBI Reports $17 Billion Scam-Center Tally as West Africa Raids Net 28 Arrests",
-    "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
-    "published_at": "Tue, 13 Oct 2026 20:39:35 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T20:39:35+00:00"
-  },
-  {
-    "id": "rss_53321810b0ae",
-    "source": "The Defiant",
-    "title": "DOJ Announces Two Arrests in North Korean ‘Laptop Farm’ Crackdown",
-    "url": "https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown",
-    "published_at": "Tue, 13 Oct 2026 19:31:16 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:31:16+00:00"
-  },
-  {
-    "id": "rss_9dd7939cc577",
-    "source": "The Defiant",
-    "title": "Parlays Drive Kalshi’s $3.9 Billion Trading Days, Analysis Finds",
-    "url": "https://thedefiant.io/news/markets/parlays-drive-kalshi-s-3-9-billion-trading-days-analysis-finds",
-    "published_at": "Tue, 13 Oct 2026 19:29:33 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:29:33+00:00"
-  },
-  {
-    "id": "rss_6dc762601a7e",
-    "source": "The Defiant",
-    "title": "JUP Rises 51% in Four Weeks as Jupiter Fees Decline",
-    "url": "https://thedefiant.io/news/markets/jup-rises-51-in-four-weeks-as-jupiter-fees-decline",
-    "published_at": "Tue, 13 Oct 2026 19:26:27 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:26:27+00:00"
-  },
-  {
-    "id": "rss_ef6ece18782c",
-    "source": "The Defiant",
-    "title": "APT Gains 51% in Four Weeks, Outpacing Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/apt-gains-51-in-four-weeks-outpacing-bitcoin-and-ether",
-    "published_at": "Tue, 13 Oct 2026 19:24:15 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:24:15+00:00"
-  },
-  {
-    "id": "rss_d919fd11b988",
-    "source": "The Defiant",
-    "title": "Robinhood Opens Social Trading Feed to Eligible US Customers",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers",
-    "published_at": "Tue, 13 Oct 2026 19:10:25 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:10:25+00:00"
-  },
-  {
-    "id": "rss_c8ce10920d8c",
-    "source": "The Defiant",
-    "title": "MediaMarktSaturn Pulls Ledger Products Amid Tampering Reports",
-    "url": "https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports",
-    "published_at": "Tue, 13 Oct 2026 19:09:53 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:09:53+00:00"
-  },
-  {
-    "id": "rss_adf49f0d044a",
-    "source": "The Defiant",
-    "title": "Blockchain.com Seeks CFTC Licenses for US Derivatives and Prediction Markets",
-    "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
-    "published_at": "Tue, 13 Oct 2026 19:03:30 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:03:30+00:00"
-  },
-  {
-    "id": "rss_28de5f44422d",
-    "source": "The Defiant",
-    "title": "Base Introduces Earn & Borrow With Aave and Morpho",
-    "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
-    "published_at": "Tue, 13 Oct 2026 19:01:43 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:01:43+00:00"
-  },
-  {
-    "id": "rss_7e34001cf2da",
-    "source": "The Defiant",
-    "title": "cirBTC Borrowing on Morpho Tops $190 Million as Arc Liquidity Tightens",
-    "url": "https://thedefiant.io/news/defi/cirbtc-borrowing-on-morpho-tops-190-million-as-arc-liquidity-tightens",
-    "published_at": "Tue, 13 Oct 2026 18:42:26 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T18:42:26+00:00"
-  },
-  {
-    "id": "rss_32edfe39b31b",
-    "source": "The Defiant",
-    "title": "Avalanche Highlights KSD Links Ahead of Korea’s 2027 Tokenization Rollout",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/avalanche-highlights-ksd-links-ahead-of-korea-s-2027-tokenization-rollout",
-    "published_at": "Tue, 13 Oct 2026 18:40:46 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T18:40:46+00:00"
-  },
-  {
-    "id": "rss_3ff7d20002c2",
-    "source": "The Defiant",
-    "title": "UK Court Rules Chinese Law Governs Victims’ Claims to 61,000 Bitcoin",
-    "url": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
-    "published_at": "Tue, 13 Oct 2026 17:31:48 GMT",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T17:31:48+00:00"
-  },
-  {
-    "id": "rss_f3c0df1d32d0",
-    "source": "CryptoSlate",
-    "title": "Bitcoin defies $800 million crypto wipeout as South Korea’s AI stock market crashes",
-    "url": "https://cryptoslate.com/bitcoin-defies-800-million-crypto-wipeout-as-south-koreas-ai-stock-market-crashes/",
-    "published_at": "Tue, 13 Oct 2026 19:30:31 +0000",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T19:30:31+00:00"
-  },
-  {
-    "id": "rss_683114a47f99",
-    "source": "CryptoSlate",
-    "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders",
-    "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
-    "published_at": "Tue, 13 Oct 2026 18:20:02 +0000",
-    "fetched_at": "2026-10-13T21:56:17.143480+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T18:20:02+00:00"
-  },
-  {
-    "id": "llama_2026101321",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,217,306,483 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-13T21:56:21.879051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T21:56:21.879051+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -2448,5 +2278,23 @@
     "fetched_at": "2026-10-20T20:48:43.033899+00:00",
     "used": false,
     "_sort_date": "2026-10-20T20:48:43.033899+00:00"
+  },
+  {
+    "id": "rss_a4ca19b3037e",
+    "source": "The Defiant",
+    "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
+    "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+    "published_at": "Tue, 20 Oct 2026 21:38:18 GMT",
+    "fetched_at": "2026-10-20T23:45:24.205836+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102023",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,259,194,880 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-20T23:45:32.340325+00:00",
+    "used": false
   }
 ]
