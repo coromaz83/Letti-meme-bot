@@ -2398,5 +2398,50 @@
     "fetched_at": "2026-10-20T17:27:17.312373+00:00",
     "used": false,
     "_sort_date": "2026-10-20T17:27:17.312373+00:00"
+  },
+  {
+    "id": "rss_65074921ca1c",
+    "source": "The Defiant",
+    "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
+    "url": "https://thedefiant.io/news/defi/extended-plans-oct-22-settlement-move-from-starknet-to-arc",
+    "published_at": "Tue, 20 Oct 2026 19:10:40 GMT",
+    "fetched_at": "2026-10-20T20:48:40.199333+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eff0fe1ff2a4",
+    "source": "The Defiant",
+    "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+    "published_at": "Tue, 20 Oct 2026 17:45:11 GMT",
+    "fetched_at": "2026-10-20T20:48:40.199333+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_70580249f434",
+    "source": "The Defiant",
+    "title": "COMP Jumps 27%, Outpacing Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+    "published_at": "Tue, 20 Oct 2026 17:28:52 GMT",
+    "fetched_at": "2026-10-20T20:48:40.199333+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_efe2ae2b2e1b",
+    "source": "Decrypt",
+    "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+    "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+    "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
+    "fetched_at": "2026-10-20T20:48:40.199333+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,245,324,603 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-20T20:48:43.033899+00:00",
+    "used": false
   }
 ]
