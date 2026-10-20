@@ -1,74 +1,5 @@
 [
   {
-    "id": "rss_419571ff4cd0",
-    "source": "CoinDesk",
-    "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-    "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-    "published_at": "Tue, 13 Oct 2026 04:43:18 +0000",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T04:43:18+00:00"
-  },
-  {
-    "id": "rss_f723682c3bb4",
-    "source": "The Defiant",
-    "title": "Karpelès Says Airport-Bought Ledger Flex Contained Spy Implant",
-    "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
-    "published_at": "Tue, 13 Oct 2026 09:15:07 GMT",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T09:15:07+00:00"
-  },
-  {
-    "id": "rss_33800d8aff3b",
-    "source": "The Defiant",
-    "title": "21Shares Lists Anthropic Synthetic ETP on Vienna MTF",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
-    "published_at": "Tue, 13 Oct 2026 08:16:44 GMT",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T08:16:44+00:00"
-  },
-  {
-    "id": "rss_7540b158029c",
-    "source": "The Defiant",
-    "title": "Sanctioned A7 Announces USDT-to-SWIFT Payment Service",
-    "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
-    "published_at": "Tue, 13 Oct 2026 06:59:06 GMT",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T06:59:06+00:00"
-  },
-  {
-    "id": "rss_530f78422cde",
-    "source": "The Defiant",
-    "title": "Ledger Says CryptoBilis-Sold Wallet Implants Transmit Recovery Phrases Over LTE",
-    "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
-    "published_at": "Tue, 13 Oct 2026 06:46:55 GMT",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T06:46:55+00:00"
-  },
-  {
-    "id": "rss_e59453f95b2b",
-    "source": "The Defiant",
-    "title": "Crypto Trader ‘Realist’ Reports Knifepoint Robbery at UK Home",
-    "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
-    "published_at": "Tue, 13 Oct 2026 04:36:19 GMT",
-    "fetched_at": "2026-10-13T09:15:45.171997+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101309",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,251,799,744 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-13T09:15:49.609074+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T09:15:49.609074+00:00"
-  },
-  {
     "id": "rss_f89debb5b29d",
     "source": "CoinDesk",
     "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
@@ -2329,6 +2260,87 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-20T06:28:41.806557+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92d51fccc716",
+    "source": "The Defiant",
+    "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
+    "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
+    "published_at": "Tue, 20 Oct 2026 11:53:34 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eff2835d7846",
+    "source": "The Defiant",
+    "title": "Revolut Disruption Hits Payments and Crypto Services",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-disruption-hits-payments-and-crypto-services",
+    "published_at": "Tue, 20 Oct 2026 10:54:21 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03c96859052c",
+    "source": "The Defiant",
+    "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
+    "published_at": "Tue, 20 Oct 2026 10:09:57 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0119982ccc53",
+    "source": "The Defiant",
+    "title": "Drift-Linked Wallet Sends $54.8 Million in ETH to Tornado Cash",
+    "url": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
+    "published_at": "Tue, 20 Oct 2026 09:12:49 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5f6d8cf25ff",
+    "source": "The Defiant",
+    "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
+    "url": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
+    "published_at": "Tue, 20 Oct 2026 08:02:39 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c68b5fb71807",
+    "source": "The Defiant",
+    "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
+    "url": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
+    "published_at": "Tue, 20 Oct 2026 07:49:17 GMT",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d800307d05d",
+    "source": "CryptoSlate",
+    "title": "Bitcoin ETF comeback exposes a $630 million divide with Ethereum as BlackRock dominates",
+    "url": "https://cryptoslate.com/bitcoin-etf-comeback-exposes-a-630-million-divide-with-ethereum-as-blackrock-dominates/",
+    "published_at": "Tue, 20 Oct 2026 09:50:52 +0000",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a633e474da8a",
+    "source": "CryptoSlate",
+    "title": "JPMorgan drops JPM Coin on Ethereum with zero retail access",
+    "url": "https://cryptoslate.com/jpmorgan-drops-jpm-coin-on-ethereum-with-zero-retail-access/",
+    "published_at": "Tue, 20 Oct 2026 06:30:25 +0000",
+    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102012",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,157,770,418 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-20T12:02:08.139962+00:00",
     "used": false
   }
 ]
