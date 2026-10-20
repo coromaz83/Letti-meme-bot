@@ -1,150 +1,5 @@
 [
   {
-    "id": "rss_f89debb5b29d",
-    "source": "CoinDesk",
-    "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-    "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-    "published_at": "Tue, 13 Oct 2026 11:56:04 +0000",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0e5be4b48c97",
-    "source": "CoinDesk",
-    "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-    "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-    "published_at": "Tue, 13 Oct 2026 11:06:39 +0000",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bb46828c2043",
-    "source": "The Defiant",
-    "title": "MNX Launches Futures on AI Lab IPOs and Revenue",
-    "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
-    "published_at": "Tue, 13 Oct 2026 17:03:26 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T17:03:26+00:00"
-  },
-  {
-    "id": "rss_495e1e425b48",
-    "source": "The Defiant",
-    "title": "Mezo Sets Oct. 13 Bridge-Out Deadline for swBTC and USDe",
-    "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
-    "published_at": "Tue, 13 Oct 2026 16:44:38 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T16:44:38+00:00"
-  },
-  {
-    "id": "rss_a47649904123",
-    "source": "The Defiant",
-    "title": "Zest Sets Oct. 23 Deadline to Exit aeUSDC on Stacks Market V1",
-    "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
-    "published_at": "Tue, 13 Oct 2026 15:10:56 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T15:10:56+00:00"
-  },
-  {
-    "id": "rss_11152275cd05",
-    "source": "The Defiant",
-    "title": "Anza Sets Oct. 21 for Solana’s Alpenglow Mainnet Upgrade",
-    "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
-    "published_at": "Tue, 13 Oct 2026 15:06:22 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T15:06:22+00:00"
-  },
-  {
-    "id": "rss_f35bdc11c534",
-    "source": "The Defiant",
-    "title": "StarkWare Launches Shadow Accounts on Starknet",
-    "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
-    "published_at": "Tue, 13 Oct 2026 14:42:17 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T14:42:17+00:00"
-  },
-  {
-    "id": "rss_d37ce6ecdb2f",
-    "source": "The Defiant",
-    "title": "Interactive Brokers Launches Ethereum Staking Through Zerohash",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
-    "published_at": "Tue, 13 Oct 2026 14:14:06 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T14:14:06+00:00"
-  },
-  {
-    "id": "rss_bca2a96bd99f",
-    "source": "The Defiant",
-    "title": "Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents",
-    "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
-    "published_at": "Tue, 13 Oct 2026 13:51:05 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T13:51:05+00:00"
-  },
-  {
-    "id": "rss_a713ba85a913",
-    "source": "The Defiant",
-    "title": "DRW and Marex Execute Bond-Index Swap on Canton",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
-    "published_at": "Tue, 13 Oct 2026 12:20:50 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T12:20:50+00:00"
-  },
-  {
-    "id": "rss_eaa9424d814c",
-    "source": "The Defiant",
-    "title": "Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction",
-    "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
-    "published_at": "Tue, 13 Oct 2026 12:10:08 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T12:10:08+00:00"
-  },
-  {
-    "id": "rss_3cd557fab7e5",
-    "source": "The Defiant",
-    "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
-    "published_at": "Tue, 13 Oct 2026 10:06:10 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f4ae4881500c",
-    "source": "The Defiant",
-    "title": "Autheo’s THEO Plunges 92% After Suspected Bridge Exploit on Base",
-    "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
-    "published_at": "Tue, 13 Oct 2026 09:17:57 GMT",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ecd713d397d0",
-    "source": "CryptoSlate",
-    "title": "More than half of Ethena’s USDe backing is allocated to lending",
-    "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
-    "published_at": "Tue, 13 Oct 2026 12:00:32 +0000",
-    "fetched_at": "2026-10-13T17:05:06.466163+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101317",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,193,360,193 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-13T17:05:12.550305+00:00",
-    "used": false,
-    "_sort_date": "2026-10-13T17:05:12.550305+00:00"
-  },
-  {
     "id": "rss_9f5ef0805d2d",
     "source": "The Defiant",
     "title": "Collector Crypt Logs $151 Million in Monthly Pack Sales",
@@ -2353,5 +2208,176 @@
     "fetched_at": "2026-10-20T12:02:08.139962+00:00",
     "used": false,
     "_sort_date": "2026-10-20T12:02:08.139962+00:00"
+  },
+  {
+    "id": "rss_ec0369489b16",
+    "source": "Cointelegraph Base",
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1cb1d3e7060",
+    "source": "CoinDesk",
+    "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "published_at": "Tue, 20 Oct 2026 17:02:31 +0000",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_373b5d4b39e7",
+    "source": "CoinDesk",
+    "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+    "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+    "published_at": "Tue, 20 Oct 2026 13:35:08 +0000",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_73f2c10ff376",
+    "source": "The Defiant",
+    "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
+    "url": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
+    "published_at": "Tue, 20 Oct 2026 17:07:44 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0770f2ccd697",
+    "source": "The Defiant",
+    "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
+    "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+    "published_at": "Tue, 20 Oct 2026 16:24:01 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1bb040d695ea",
+    "source": "The Defiant",
+    "title": "Starknet Foundation Launches Bramble Wallet With STRK20 Shielding",
+    "url": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
+    "published_at": "Tue, 20 Oct 2026 15:55:09 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3b0cf44caea3",
+    "source": "The Defiant",
+    "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
+    "url": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
+    "published_at": "Tue, 20 Oct 2026 15:18:18 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fafedd96cd4c",
+    "source": "The Defiant",
+    "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
+    "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
+    "published_at": "Tue, 20 Oct 2026 15:11:45 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5a16da3c90c2",
+    "source": "The Defiant",
+    "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
+    "url": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
+    "published_at": "Tue, 20 Oct 2026 14:47:50 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_22ec24f8cfec",
+    "source": "The Defiant",
+    "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
+    "published_at": "Tue, 20 Oct 2026 14:19:56 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d4813ca6b69a",
+    "source": "The Defiant",
+    "title": "Blockchain.com Launches Options Trading on Seven Cryptoassets",
+    "url": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
+    "published_at": "Tue, 20 Oct 2026 13:56:56 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_beb975f6283e",
+    "source": "The Defiant",
+    "title": "MEXC to End Services for Users in Russia and Belarus",
+    "url": "https://thedefiant.io/news/cefi/mexc-to-end-services-for-users-in-russia-and-belarus",
+    "published_at": "Tue, 20 Oct 2026 13:32:03 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_54ac0924d219",
+    "source": "The Defiant",
+    "title": "Bitget to Buy Licensed Thai Exchange From Japan's GMO Internet",
+    "url": "https://thedefiant.io/news/cefi/bitget-to-buy-licensed-thai-exchange-from-japan-s-gmo-internet",
+    "published_at": "Tue, 20 Oct 2026 13:30:18 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_572fd232d890",
+    "source": "The Defiant",
+    "title": "Issuer Blacklists Recovered Nothing in 60 Crypto Exploits, Blockaid Finds",
+    "url": "https://thedefiant.io/news/security/issuer-blacklists-recovered-nothing-in-60-crypto-exploits-blockaid-finds",
+    "published_at": "Tue, 20 Oct 2026 13:22:35 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fc62619045b3",
+    "source": "The Defiant",
+    "title": "Walt Plans AI Perpetuals Trading Through Mira, ChatGPT and Claude",
+    "url": "https://thedefiant.io/news/defi/walt-plans-ai-perpetuals-trading-through-mira-chatgpt-and-claude",
+    "published_at": "Tue, 20 Oct 2026 13:22:00 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_20330c000274",
+    "source": "The Defiant",
+    "title": "Liquid Says Bitcoin Swaps Are Restored While Peg-Outs Stay Frozen",
+    "url": "https://thedefiant.io/news/security/liquid-says-bitcoin-swaps-are-restored-while-peg-outs-stay-frozen",
+    "published_at": "Tue, 20 Oct 2026 12:57:34 GMT",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1eed7af81c66",
+    "source": "Decrypt",
+    "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
+    "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
+    "published_at": "Tue, 20 Oct 2026 16:26:58 +0000",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ba82e2d3eec2",
+    "source": "Bankless",
+    "title": "Onchain Inference Markets Post Record Token Usage",
+    "url": "https://www.bankless.com/read/news/onchain-inference-markets-post-record-token-usage",
+    "published_at": "Tue, 20 Oct 2026 13:21:10 -0400",
+    "fetched_at": "2026-10-20T17:27:14.339494+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102017",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,219,766,671 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-20T17:27:17.312373+00:00",
+    "used": false
   }
 ]
