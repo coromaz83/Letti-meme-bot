@@ -2216,7 +2216,8 @@
     "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
     "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T12:30:00+00:00"
   },
   {
     "id": "rss_d1cb1d3e7060",
@@ -2225,7 +2226,8 @@
     "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
     "published_at": "Tue, 20 Oct 2026 17:02:31 +0000",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T17:02:31+00:00"
   },
   {
     "id": "rss_373b5d4b39e7",
@@ -2234,7 +2236,8 @@
     "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
     "published_at": "Tue, 20 Oct 2026 13:35:08 +0000",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:35:08+00:00"
   },
   {
     "id": "rss_73f2c10ff376",
@@ -2243,7 +2246,8 @@
     "url": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
     "published_at": "Tue, 20 Oct 2026 17:07:44 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T17:07:44+00:00"
   },
   {
     "id": "rss_0770f2ccd697",
@@ -2252,7 +2256,8 @@
     "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
     "published_at": "Tue, 20 Oct 2026 16:24:01 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T16:24:01+00:00"
   },
   {
     "id": "rss_1bb040d695ea",
@@ -2261,7 +2266,8 @@
     "url": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
     "published_at": "Tue, 20 Oct 2026 15:55:09 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T15:55:09+00:00"
   },
   {
     "id": "rss_3b0cf44caea3",
@@ -2270,7 +2276,8 @@
     "url": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
     "published_at": "Tue, 20 Oct 2026 15:18:18 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T15:18:18+00:00"
   },
   {
     "id": "rss_fafedd96cd4c",
@@ -2279,7 +2286,8 @@
     "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
     "published_at": "Tue, 20 Oct 2026 15:11:45 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T15:11:45+00:00"
   },
   {
     "id": "rss_5a16da3c90c2",
@@ -2288,7 +2296,8 @@
     "url": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
     "published_at": "Tue, 20 Oct 2026 14:47:50 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T14:47:50+00:00"
   },
   {
     "id": "rss_22ec24f8cfec",
@@ -2297,7 +2306,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
     "published_at": "Tue, 20 Oct 2026 14:19:56 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T14:19:56+00:00"
   },
   {
     "id": "rss_d4813ca6b69a",
@@ -2306,7 +2316,8 @@
     "url": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
     "published_at": "Tue, 20 Oct 2026 13:56:56 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:56:56+00:00"
   },
   {
     "id": "rss_beb975f6283e",
@@ -2315,7 +2326,8 @@
     "url": "https://thedefiant.io/news/cefi/mexc-to-end-services-for-users-in-russia-and-belarus",
     "published_at": "Tue, 20 Oct 2026 13:32:03 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:32:03+00:00"
   },
   {
     "id": "rss_54ac0924d219",
@@ -2324,7 +2336,8 @@
     "url": "https://thedefiant.io/news/cefi/bitget-to-buy-licensed-thai-exchange-from-japan-s-gmo-internet",
     "published_at": "Tue, 20 Oct 2026 13:30:18 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:30:18+00:00"
   },
   {
     "id": "rss_572fd232d890",
@@ -2333,7 +2346,8 @@
     "url": "https://thedefiant.io/news/security/issuer-blacklists-recovered-nothing-in-60-crypto-exploits-blockaid-finds",
     "published_at": "Tue, 20 Oct 2026 13:22:35 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:22:35+00:00"
   },
   {
     "id": "rss_fc62619045b3",
@@ -2342,7 +2356,8 @@
     "url": "https://thedefiant.io/news/defi/walt-plans-ai-perpetuals-trading-through-mira-chatgpt-and-claude",
     "published_at": "Tue, 20 Oct 2026 13:22:00 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:22:00+00:00"
   },
   {
     "id": "rss_20330c000274",
@@ -2351,7 +2366,8 @@
     "url": "https://thedefiant.io/news/security/liquid-says-bitcoin-swaps-are-restored-while-peg-outs-stay-frozen",
     "published_at": "Tue, 20 Oct 2026 12:57:34 GMT",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T12:57:34+00:00"
   },
   {
     "id": "rss_1eed7af81c66",
@@ -2360,7 +2376,8 @@
     "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
     "published_at": "Tue, 20 Oct 2026 16:26:58 +0000",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T16:26:58+00:00"
   },
   {
     "id": "rss_ba82e2d3eec2",
@@ -2369,7 +2386,8 @@
     "url": "https://www.bankless.com/read/news/onchain-inference-markets-post-record-token-usage",
     "published_at": "Tue, 20 Oct 2026 13:21:10 -0400",
     "fetched_at": "2026-10-20T17:27:14.339494+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T13:21:10-04:00"
   },
   {
     "id": "llama_2026102017",
@@ -2378,6 +2396,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-20T17:27:17.312373+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-20T17:27:17.312373+00:00"
   }
 ]
