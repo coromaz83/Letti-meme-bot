@@ -2279,7 +2279,8 @@
     "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
     "published_at": "Wed, 21 Oct 2026 14:21:15 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T14:21:15+00:00"
   },
   {
     "id": "rss_9425c5d7092f",
@@ -2288,7 +2289,8 @@
     "url": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
     "published_at": "Wed, 21 Oct 2026 13:46:22 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T13:46:22+00:00"
   },
   {
     "id": "rss_fe5751c51003",
@@ -2297,7 +2299,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
     "published_at": "Wed, 21 Oct 2026 13:35:28 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T13:35:28+00:00"
   },
   {
     "id": "rss_8cb9de0de57a",
@@ -2306,7 +2309,8 @@
     "url": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
     "published_at": "Wed, 21 Oct 2026 13:06:39 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T13:06:39+00:00"
   },
   {
     "id": "rss_038fc2ff562a",
@@ -2315,7 +2319,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
     "published_at": "Wed, 21 Oct 2026 12:13:07 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:13:07+00:00"
   },
   {
     "id": "rss_539e5cdd2b5c",
@@ -2324,7 +2329,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt",
     "published_at": "Wed, 21 Oct 2026 12:08:50 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:08:50+00:00"
   },
   {
     "id": "rss_0fb63e45cdb3",
@@ -2333,7 +2339,8 @@
     "url": "https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals",
     "published_at": "Wed, 21 Oct 2026 12:08:20 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:08:20+00:00"
   },
   {
     "id": "rss_27c2d445e1c3",
@@ -2342,7 +2349,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
     "published_at": "Wed, 21 Oct 2026 12:06:07 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:06:07+00:00"
   },
   {
     "id": "rss_0a4483b3ff78",
@@ -2351,7 +2359,8 @@
     "url": "https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees",
     "published_at": "Wed, 21 Oct 2026 12:03:47 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:03:47+00:00"
   },
   {
     "id": "rss_377f335d8ad9",
@@ -2360,7 +2369,8 @@
     "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
     "published_at": "Wed, 21 Oct 2026 12:03:07 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T12:03:07+00:00"
   },
   {
     "id": "rss_ecd92b4c5ca5",
@@ -2369,7 +2379,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-to-reprice-bstocks-collateral-while-us-stock-markets-are-closed",
     "published_at": "Wed, 21 Oct 2026 11:23:00 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T11:23:00+00:00"
   },
   {
     "id": "rss_eb0cf0f1d079",
@@ -2378,7 +2389,8 @@
     "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
     "published_at": "Wed, 21 Oct 2026 11:12:00 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T11:12:00+00:00"
   },
   {
     "id": "rss_a1f877848899",
@@ -2387,7 +2399,8 @@
     "url": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
     "published_at": "Wed, 21 Oct 2026 10:12:12 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T10:12:12+00:00"
   },
   {
     "id": "rss_4c033f2bceaf",
@@ -2396,7 +2409,8 @@
     "url": "https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares",
     "published_at": "Wed, 21 Oct 2026 09:33:59 GMT",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T09:33:59+00:00"
   },
   {
     "id": "rss_19b6c9f4d36c",
@@ -2405,7 +2419,8 @@
     "url": "https://cryptoslate.com/lidos-proposed-exits-could-unwind-eth-loans-before-borrowers-reach-liquidation/",
     "published_at": "Wed, 21 Oct 2026 11:50:55 +0000",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T11:50:55+00:00"
   },
   {
     "id": "rss_4ca445dc8f2a",
@@ -2414,7 +2429,8 @@
     "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
     "published_at": "Wed, 21 Oct 2026 14:24:25 +0000",
     "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T14:24:25+00:00"
   },
   {
     "id": "llama_2026102115",
@@ -2423,6 +2439,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T15:00:43.022534+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T15:00:43.022534+00:00"
   }
 ]
