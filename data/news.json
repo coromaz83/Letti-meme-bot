@@ -1,65 +1,5 @@
 [
   {
-    "id": "rss_84a929c43865",
-    "source": "CoinDesk",
-    "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-    "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "published_at": "Wed, 14 Oct 2026 08:10:07 +0000",
-    "fetched_at": "2026-10-14T12:48:39.229955+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T08:10:07+00:00"
-  },
-  {
-    "id": "rss_065c510137f4",
-    "source": "The Defiant",
-    "title": "L2 Capital Signs On To Tokenize $500 Million Of Pre-IPO AI Shares With Newton",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/l2-capital-newton-tokenize-500-million-pre-ipo-ai-shares",
-    "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "fetched_at": "2026-10-14T12:48:39.229955+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T12:00:00+00:00"
-  },
-  {
-    "id": "rss_3e1d43b8a3cf",
-    "source": "The Defiant",
-    "title": "Qivalis Secures Dutch E-Money License for Planned Euro Stablecoin",
-    "url": "https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin",
-    "published_at": "Wed, 14 Oct 2026 11:33:11 GMT",
-    "fetched_at": "2026-10-14T12:48:39.229955+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T11:33:11+00:00"
-  },
-  {
-    "id": "rss_b0f9e584606b",
-    "source": "The Defiant",
-    "title": "PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut",
-    "url": "https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut",
-    "published_at": "Wed, 14 Oct 2026 08:01:08 GMT",
-    "fetched_at": "2026-10-14T12:48:39.229955+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T08:01:08+00:00"
-  },
-  {
-    "id": "rss_e64a01930fa1",
-    "source": "CryptoSlate",
-    "title": "Interactive Brokers moves into Ethereum’s $110 billion staking market as institutional demand accelerates",
-    "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
-    "published_at": "Wed, 14 Oct 2026 09:10:03 +0000",
-    "fetched_at": "2026-10-14T12:48:39.229955+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T09:10:03+00:00"
-  },
-  {
-    "id": "llama_2026101412",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,225,929,904 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-14T12:48:46.889537+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T12:48:46.889537+00:00"
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -2322,5 +2262,167 @@
     "fetched_at": "2026-10-21T09:32:02.330615+00:00",
     "used": false,
     "_sort_date": "2026-10-21T09:32:02.330615+00:00"
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_404e4c97b204",
+    "source": "The Defiant",
+    "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
+    "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+    "published_at": "Wed, 21 Oct 2026 14:21:15 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9425c5d7092f",
+    "source": "The Defiant",
+    "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
+    "url": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
+    "published_at": "Wed, 21 Oct 2026 13:46:22 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe5751c51003",
+    "source": "The Defiant",
+    "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
+    "url": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
+    "published_at": "Wed, 21 Oct 2026 13:35:28 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8cb9de0de57a",
+    "source": "The Defiant",
+    "title": "Ledger Adds Morpho Loans Against Wrapped Bitcoin",
+    "url": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
+    "published_at": "Wed, 21 Oct 2026 13:06:39 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_038fc2ff562a",
+    "source": "The Defiant",
+    "title": "Standard Chartered Signs Deal to Take Full Ownership of Zodia Custody",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
+    "published_at": "Wed, 21 Oct 2026 12:13:07 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_539e5cdd2b5c",
+    "source": "The Defiant",
+    "title": "Western Union Picks Noah to Settle Receiver Redirect Payouts in USDPT",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt",
+    "published_at": "Wed, 21 Oct 2026 12:08:50 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0fb63e45cdb3",
+    "source": "The Defiant",
+    "title": "Lido Lend Exit Plan Would Tap Borrower Collateral for Withdrawals",
+    "url": "https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals",
+    "published_at": "Wed, 21 Oct 2026 12:08:20 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_27c2d445e1c3",
+    "source": "The Defiant",
+    "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
+    "published_at": "Wed, 21 Oct 2026 12:06:07 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a4483b3ff78",
+    "source": "The Defiant",
+    "title": "OpenSea Opens Mobile App to All Users, Pays Referrers 25% of Fees",
+    "url": "https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees",
+    "published_at": "Wed, 21 Oct 2026 12:03:47 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_377f335d8ad9",
+    "source": "The Defiant",
+    "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
+    "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
+    "published_at": "Wed, 21 Oct 2026 12:03:07 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ecd92b4c5ca5",
+    "source": "The Defiant",
+    "title": "Binance to Reprice bStocks Collateral While US Stock Markets Are Closed",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-to-reprice-bstocks-collateral-while-us-stock-markets-are-closed",
+    "published_at": "Wed, 21 Oct 2026 11:23:00 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eb0cf0f1d079",
+    "source": "The Defiant",
+    "title": "OCC Finalizes GENIUS Act Rule, Drops Third-Party Yield Presumption",
+    "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
+    "published_at": "Wed, 21 Oct 2026 11:12:00 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1f877848899",
+    "source": "The Defiant",
+    "title": "SpaceX Share Unlock Looms Over Aave Collateral Proposal",
+    "url": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
+    "published_at": "Wed, 21 Oct 2026 10:12:12 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4c033f2bceaf",
+    "source": "The Defiant",
+    "title": "OpenStocks' BNB Chain Tokens Offer Price Exposure, Not Private Shares",
+    "url": "https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares",
+    "published_at": "Wed, 21 Oct 2026 09:33:59 GMT",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_19b6c9f4d36c",
+    "source": "CryptoSlate",
+    "title": "Lido’s proposed exits would pay lenders with borrower collateral",
+    "url": "https://cryptoslate.com/lidos-proposed-exits-could-unwind-eth-loans-before-borrowers-reach-liquidation/",
+    "published_at": "Wed, 21 Oct 2026 11:50:55 +0000",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ca445dc8f2a",
+    "source": "Decrypt",
+    "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+    "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+    "published_at": "Wed, 21 Oct 2026 14:24:25 +0000",
+    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102115",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,310,677,966 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-21T15:00:43.022534+00:00",
+    "used": false
   }
 ]
