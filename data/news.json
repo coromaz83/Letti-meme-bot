@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_088b5680334f",
-    "source": "CoinDesk",
-    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-    "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-    "published_at": "Wed, 14 Oct 2026 05:44:51 +0000",
-    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_52158fb19fe6",
-    "source": "The Defiant",
-    "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "published_at": "Wed, 14 Oct 2026 06:12:46 GMT",
-    "fetched_at": "2026-10-14T06:37:58.548659+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101406",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,246,474,589 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-14T06:38:02.336184+00:00",
-    "used": false
-  },
-  {
     "id": "rss_84a929c43865",
     "source": "CoinDesk",
     "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
@@ -2277,6 +2241,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T04:25:04.423015+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f3bf8154c96b",
+    "source": "CoinDesk",
+    "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+    "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+    "published_at": "Wed, 21 Oct 2026 08:47:11 +0000",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_631e8ce7e6b8",
+    "source": "The Defiant",
+    "title": "Evernorth’s $132.2 Million Warrant Registration Goes Effective",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective",
+    "published_at": "Wed, 21 Oct 2026 09:28:54 GMT",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_14562449217b",
+    "source": "The Defiant",
+    "title": "SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps",
+    "url": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
+    "published_at": "Wed, 21 Oct 2026 09:09:53 GMT",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8195e59cacda",
+    "source": "The Defiant",
+    "title": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
+    "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
+    "published_at": "Wed, 21 Oct 2026 08:16:47 GMT",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_02ae1deafb26",
+    "source": "The Defiant",
+    "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
+    "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
+    "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8fed2d66be36",
+    "source": "The Defiant",
+    "title": "SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes",
+    "url": "https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes",
+    "published_at": "Wed, 21 Oct 2026 05:46:01 GMT",
+    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102109",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,252,188,339 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-21T09:32:02.330615+00:00",
     "used": false
   }
 ]
