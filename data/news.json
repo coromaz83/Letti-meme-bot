@@ -1,92 +1,5 @@
 [
   {
-    "id": "rss_cdd30d1e6541",
-    "source": "Cointelegraph Base",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8777fbfa7c62",
-    "source": "The Defiant",
-    "title": "Tempo Takes Zones Privacy System Into Production With Deel",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
-    "published_at": "Wed, 14 Oct 2026 21:21:53 GMT",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T21:21:53+00:00"
-  },
-  {
-    "id": "rss_ffe649719429",
-    "source": "The Defiant",
-    "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
-    "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
-    "published_at": "Wed, 14 Oct 2026 21:20:09 GMT",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T21:20:09+00:00"
-  },
-  {
-    "id": "rss_b97b93a070b8",
-    "source": "The Defiant",
-    "title": "Kraken Parent Payward Agrees to Buy Lithuania’s Saldo Bank",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-parent-payward-agrees-to-buy-lithuania-s-saldo-bank",
-    "published_at": "Wed, 14 Oct 2026 20:16:08 GMT",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T20:16:08+00:00"
-  },
-  {
-    "id": "rss_2cd8940b9e9f",
-    "source": "The Defiant",
-    "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/xlm-drops-4-lagging-bitcoin-and-ether",
-    "published_at": "Wed, 14 Oct 2026 20:08:16 GMT",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T20:08:16+00:00"
-  },
-  {
-    "id": "rss_524d776ea8bf",
-    "source": "The Defiant",
-    "title": "Specter Links ProveX’s January ETH Inflows to Earlier Heart-Linked Funds",
-    "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
-    "published_at": "Wed, 14 Oct 2026 19:11:18 GMT",
-    "fetched_at": "2026-10-14T21:31:44.998330+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T19:11:18+00:00"
-  },
-  {
-    "id": "llama_2026101421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,112,203,705 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-14T21:31:49.083377+00:00",
-    "used": false,
-    "_sort_date": "2026-10-14T21:31:49.083377+00:00"
-  },
-  {
     "id": "rss_a0d7c606ada5",
     "source": "The Defiant",
     "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
@@ -2341,6 +2254,159 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T19:30:47.942495+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0b46678470d",
+    "source": "The Defiant",
+    "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
+    "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
+    "published_at": "Wed, 21 Oct 2026 22:45:11 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d20b9685d3d7",
+    "source": "The Defiant",
+    "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
+    "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+    "published_at": "Wed, 21 Oct 2026 22:40:13 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_087892174515",
+    "source": "The Defiant",
+    "title": "Railway Urges All Users to Rotate Secrets After Security Incident",
+    "url": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
+    "published_at": "Wed, 21 Oct 2026 22:34:10 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b7cdd2f81ff",
+    "source": "The Defiant",
+    "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
+    "url": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
+    "published_at": "Wed, 21 Oct 2026 21:24:58 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bb88adf48d13",
+    "source": "The Defiant",
+    "title": "Matter Labs Debuts Prividium Commander For Institutions",
+    "url": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
+    "published_at": "Wed, 21 Oct 2026 21:13:40 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec0a7ff77db1",
+    "source": "The Defiant",
+    "title": "Mastercard Opens AI Machine-Payment Pilot to Developers",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
+    "published_at": "Wed, 21 Oct 2026 20:29:59 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_71824f9ee437",
+    "source": "The Defiant",
+    "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
+    "published_at": "Wed, 21 Oct 2026 20:29:37 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5ceda56e751b",
+    "source": "The Defiant",
+    "title": "Yuga Labs Launches Mudwater Trading-Card NFTs on Solana",
+    "url": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
+    "published_at": "Wed, 21 Oct 2026 20:29:33 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c92b075aab25",
+    "source": "The Defiant",
+    "title": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
+    "url": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
+    "published_at": "Wed, 21 Oct 2026 20:29:24 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7faed7fd0ef8",
+    "source": "The Defiant",
+    "title": "Dolomite Adds $100 Million in Concrete’s Bitcoin-Backed Collateral",
+    "url": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
+    "published_at": "Wed, 21 Oct 2026 19:52:18 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0f967c535a8f",
+    "source": "The Defiant",
+    "title": "13 JPMD Lookalikes Emerge Amid JPMorgan’s Ethereum Launch",
+    "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+    "published_at": "Wed, 21 Oct 2026 19:48:15 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bbb0130a3b14",
+    "source": "The Defiant",
+    "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+    "url": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+    "published_at": "Wed, 21 Oct 2026 19:47:52 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a608e48da8f5",
+    "source": "The Defiant",
+    "title": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
+    "url": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
+    "published_at": "Wed, 21 Oct 2026 19:47:17 GMT",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,374,334,497 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-21T23:09:23.215280+00:00",
     "used": false
   }
 ]
