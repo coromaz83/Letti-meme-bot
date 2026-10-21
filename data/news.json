@@ -2241,7 +2241,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T04:25:04.423015+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T04:25:04.423015+00:00"
   },
   {
     "id": "rss_287140871b21",
@@ -2259,7 +2260,8 @@
     "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
     "published_at": "Wed, 21 Oct 2026 08:47:11 +0000",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T08:47:11+00:00"
   },
   {
     "id": "rss_631e8ce7e6b8",
@@ -2268,7 +2270,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective",
     "published_at": "Wed, 21 Oct 2026 09:28:54 GMT",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T09:28:54+00:00"
   },
   {
     "id": "rss_14562449217b",
@@ -2277,7 +2280,8 @@
     "url": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
     "published_at": "Wed, 21 Oct 2026 09:09:53 GMT",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T09:09:53+00:00"
   },
   {
     "id": "rss_8195e59cacda",
@@ -2286,7 +2290,8 @@
     "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
     "published_at": "Wed, 21 Oct 2026 08:16:47 GMT",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T08:16:47+00:00"
   },
   {
     "id": "rss_02ae1deafb26",
@@ -2295,7 +2300,8 @@
     "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
     "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T07:58:31+00:00"
   },
   {
     "id": "rss_8fed2d66be36",
@@ -2304,7 +2310,8 @@
     "url": "https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes",
     "published_at": "Wed, 21 Oct 2026 05:46:01 GMT",
     "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T05:46:01+00:00"
   },
   {
     "id": "llama_2026102109",
@@ -2313,6 +2320,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T09:32:02.330615+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T09:32:02.330615+00:00"
   }
 ]
