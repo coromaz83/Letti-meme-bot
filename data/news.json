@@ -1,185 +1,5 @@
 [
   {
-    "id": "rss_84333e8ce970",
-    "source": "The Defiant",
-    "title": "Crypto.com Launches Predict Pro With Order Books and Sports Combos",
-    "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
-    "published_at": "Thu, 15 Oct 2026 15:12:13 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T15:12:13+00:00"
-  },
-  {
-    "id": "rss_8357edc4c181",
-    "source": "The Defiant",
-    "title": "Aztec Targets Full Post-Quantum Migration by End of 2030",
-    "url": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
-    "published_at": "Thu, 15 Oct 2026 14:37:31 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:37:31+00:00"
-  },
-  {
-    "id": "rss_bdbd1691be10",
-    "source": "The Defiant",
-    "title": "OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading",
-    "url": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
-    "published_at": "Thu, 15 Oct 2026 14:34:52 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:34:52+00:00"
-  },
-  {
-    "id": "rss_36967087ff2b",
-    "source": "The Defiant",
-    "title": "Tether Routed Payments to Hines's Firm During White House Tenure, WSJ Reports",
-    "url": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
-    "published_at": "Thu, 15 Oct 2026 14:31:28 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:31:28+00:00"
-  },
-  {
-    "id": "rss_a9a753c9e95e",
-    "source": "The Defiant",
-    "title": "Tokenization Is About Much More Than Bringing Assets Onchain",
-    "url": "https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain",
-    "published_at": "Thu, 15 Oct 2026 14:25:08 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:25:08+00:00"
-  },
-  {
-    "id": "rss_e0d083fd80cf",
-    "source": "The Defiant",
-    "title": "Firelight Adds $30.5 Million of Cover to Kraken USDC Vault",
-    "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
-    "published_at": "Thu, 15 Oct 2026 14:21:46 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:21:46+00:00"
-  },
-  {
-    "id": "rss_1379a42837c9",
-    "source": "The Defiant",
-    "title": "US Wholesale Inflation Accelerates to 6.3% as Bitcoin Slips",
-    "url": "https://thedefiant.io/news/markets/us-wholesale-inflation-accelerates-to-6-3-as-bitcoin-slips",
-    "published_at": "Thu, 15 Oct 2026 13:53:19 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T13:53:19+00:00"
-  },
-  {
-    "id": "rss_bb39b914ec9b",
-    "source": "The Defiant",
-    "title": "Safe Launches Safenet Aegis Security Network on Three Chains",
-    "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
-    "published_at": "Thu, 15 Oct 2026 13:38:04 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T13:38:04+00:00"
-  },
-  {
-    "id": "rss_a16c89fd000f",
-    "source": "The Defiant",
-    "title": "Stripe and Plasma to Develop Multi-Currency Stablecoin Cards",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards",
-    "published_at": "Thu, 15 Oct 2026 13:09:51 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T13:09:51+00:00"
-  },
-  {
-    "id": "rss_3cbc43d33c15",
-    "source": "The Defiant",
-    "title": "Ledger Blames Organized Group for Months-Long Wallet Tampering Campaign",
-    "url": "https://thedefiant.io/news/security/ledger-blames-organized-group-for-months-long-wallet-tampering-campaign",
-    "published_at": "Thu, 15 Oct 2026 12:48:22 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T12:48:22+00:00"
-  },
-  {
-    "id": "rss_d4fe7229f0ea",
-    "source": "The Defiant",
-    "title": "Jupiter Launches Unaudited YOLO Beta With Up to 1,000x Leverage",
-    "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
-    "published_at": "Thu, 15 Oct 2026 12:32:49 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T12:32:49+00:00"
-  },
-  {
-    "id": "rss_0e702a2244a0",
-    "source": "The Defiant",
-    "title": "Starknet Puts Independent L1 Research to a Community Vote",
-    "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
-    "published_at": "Thu, 15 Oct 2026 12:20:32 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T12:20:32+00:00"
-  },
-  {
-    "id": "rss_fc6aece1d317",
-    "source": "The Defiant",
-    "title": "Lido Adds Direct ETH Staking From Four Layer 2s to Its Interface",
-    "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
-    "published_at": "Thu, 15 Oct 2026 10:49:25 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T10:49:25+00:00"
-  },
-  {
-    "id": "rss_120751fcb833",
-    "source": "The Defiant",
-    "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
-    "url": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
-    "published_at": "Thu, 15 Oct 2026 10:45:57 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T10:45:57+00:00"
-  },
-  {
-    "id": "rss_1211c27a8c5d",
-    "source": "The Defiant",
-    "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
-    "published_at": "Thu, 15 Oct 2026 10:34:38 GMT",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T10:34:38+00:00"
-  },
-  {
-    "id": "rss_7427326b1739",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s faster-exit plan would leave new validators waiting to earn",
-    "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/",
-    "published_at": "Thu, 15 Oct 2026 13:20:02 +0000",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T13:20:02+00:00"
-  },
-  {
-    "id": "rss_af243abb820b",
-    "source": "Decrypt",
-    "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-    "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-    "published_at": "Thu, 15 Oct 2026 14:27:18 +0000",
-    "fetched_at": "2026-10-15T15:17:15.720586+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T14:27:18+00:00"
-  },
-  {
-    "id": "llama_2026101515",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,026,171,588 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-15T15:17:19.249874+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T15:17:19.249874+00:00"
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -2620,5 +2440,185 @@
     "fetched_at": "2026-10-22T13:08:29.291266+00:00",
     "used": false,
     "_sort_date": "2026-10-22T13:08:29.291266+00:00"
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_14a1af7a83db",
+    "source": "CoinDesk",
+    "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+    "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+    "published_at": "Thu, 22 Oct 2026 15:40:25 +0000",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_810c4853fe85",
+    "source": "The Defiant",
+    "title": "Tether-Backed Utexo Sets November 28 Launch for Bridged USDT on Bitcoin",
+    "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+    "published_at": "Thu, 22 Oct 2026 18:07:42 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_098909a62ce5",
+    "source": "The Defiant",
+    "title": "Pump.fun Adds Take-Profit and Stop-Loss Orders for EVM Trades",
+    "url": "https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades",
+    "published_at": "Thu, 22 Oct 2026 17:27:49 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_391e8d25e871",
+    "source": "The Defiant",
+    "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
+    "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
+    "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_649742a4df91",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",
+    "url": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
+    "published_at": "Thu, 22 Oct 2026 16:43:52 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94e07de8f4bf",
+    "source": "The Defiant",
+    "title": "Ethereum Developers Cancel Oct. 26 Glamsterdam Upgrade on Hoodi",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
+    "published_at": "Thu, 22 Oct 2026 15:15:04 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b18d2d595c73",
+    "source": "The Defiant",
+    "title": "Kraken Says Its xStocks Lineup Now Exceeds 1,000",
+    "url": "https://thedefiant.io/news/cefi/kraken-says-its-xstocks-lineup-now-exceeds-1-000",
+    "published_at": "Thu, 22 Oct 2026 15:00:31 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8c1008141f17",
+    "source": "The Defiant",
+    "title": "Visa in Talks to Buy Fireblocks for About $2.5 Billion: Axios",
+    "url": "https://thedefiant.io/converge/infrastructure/visa-in-talks-to-buy-fireblocks-for-about-2-5-billion-axios",
+    "published_at": "Thu, 22 Oct 2026 14:20:13 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_64c9335e8752",
+    "source": "The Defiant",
+    "title": "A16z Crypto Plans ‘Frontier’ Rebrand and Broader Strategy: Report",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-plans-frontier-rebrand-and-broader-strategy-report",
+    "published_at": "Thu, 22 Oct 2026 14:20:11 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a7f6b08e8131",
+    "source": "The Defiant",
+    "title": "Starknet Poll Backs Post-Quantum Layer 1 Research With 93.52% Support",
+    "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
+    "published_at": "Thu, 22 Oct 2026 14:20:07 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0b656e6db6bd",
+    "source": "The Defiant",
+    "title": "Arbitrum Active Addresses Hit 30-Day High, Then Retreat",
+    "url": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-hit-30-day-high-then-retreat",
+    "published_at": "Thu, 22 Oct 2026 14:19:20 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_900b12353442",
+    "source": "The Defiant",
+    "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
+    "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
+    "published_at": "Thu, 22 Oct 2026 14:18:51 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9219eb068a8f",
+    "source": "The Defiant",
+    "title": "D3 Links HYPE Vault to Early Access for New Domain Names",
+    "url": "https://thedefiant.io/news/defi/d3-links-hype-vault-to-early-access-for-new-domain-names",
+    "published_at": "Thu, 22 Oct 2026 14:17:25 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7d397b9f5687",
+    "source": "The Defiant",
+    "title": "Morpho Opens Robinhood Stock Tokens to Stablecoin Borrowing",
+    "url": "https://thedefiant.io/news/defi/morpho-opens-robinhood-stock-tokens-to-stablecoin-borrowing",
+    "published_at": "Thu, 22 Oct 2026 14:15:51 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_776890bfe2be",
+    "source": "The Defiant",
+    "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
+    "url": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
+    "published_at": "Thu, 22 Oct 2026 13:51:27 GMT",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bc35bb7d292f",
+    "source": "CryptoSlate",
+    "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+    "url": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
+    "published_at": "Thu, 22 Oct 2026 15:00:14 +0000",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f5600cf58b8a",
+    "source": "CryptoSlate",
+    "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
+    "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
+    "published_at": "Thu, 22 Oct 2026 14:00:42 +0000",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9ab040d49f9d",
+    "source": "Bankless",
+    "title": "Ethereum Researchers Draft a Consensus Overhaul for Faster Finality",
+    "url": "https://www.bankless.com/read/news/ethereum-researchers-draft-a-consensus-overhaul-for-faster-finality",
+    "published_at": "Thu, 22 Oct 2026 12:08:45 -0400",
+    "fetched_at": "2026-10-22T18:07:46.717875+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102218",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,094,631,990 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-22T18:07:50.224330+00:00",
+    "used": false
   }
 ]
