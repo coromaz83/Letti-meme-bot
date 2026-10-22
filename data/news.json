@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_a0d7c606ada5",
-    "source": "The Defiant",
-    "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
-    "url": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
-    "published_at": "Wed, 14 Oct 2026 21:33:00 GMT",
-    "fetched_at": "2026-10-15T00:23:53.704588+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101500",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,095,985,570 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-15T00:24:01.651459+00:00",
-    "used": false
-  },
-  {
     "id": "rss_0dab81ba28a8",
     "source": "CoinDesk",
     "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
@@ -2435,5 +2417,59 @@
     "fetched_at": "2026-10-21T23:09:23.215280+00:00",
     "used": false,
     "_sort_date": "2026-10-21T23:09:23.215280+00:00"
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fdd0e3ccd885",
+    "source": "The Defiant",
+    "title": "Aero Launches as Aerodrome and Velodrome Merge Across Seven Chains",
+    "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
+    "published_at": "Thu, 22 Oct 2026 01:25:39 GMT",
+    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b754647dd815",
+    "source": "CryptoSlate",
+    "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+    "url": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
+    "published_at": "Wed, 21 Oct 2026 23:10:19 +0000",
+    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102201",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,298,608,876 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-22T01:44:00.607447+00:00",
+    "used": false
   }
 ]
