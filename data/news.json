@@ -2155,7 +2155,8 @@
     "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
     "published_at": "Wed, 21 Oct 2026 15:22:46 +0000",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T15:22:46+00:00"
   },
   {
     "id": "rss_29e38c8a40a1",
@@ -2164,7 +2165,8 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
     "published_at": "Wed, 21 Oct 2026 15:00:53 +0000",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T15:00:53+00:00"
   },
   {
     "id": "rss_c922af4c5363",
@@ -2173,7 +2175,8 @@
     "url": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
     "published_at": "Wed, 21 Oct 2026 17:15:03 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T17:15:03+00:00"
   },
   {
     "id": "rss_6393e7c131d0",
@@ -2182,7 +2185,8 @@
     "url": "https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book",
     "published_at": "Wed, 21 Oct 2026 16:54:03 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:54:03+00:00"
   },
   {
     "id": "rss_7d9ca2b297fb",
@@ -2191,7 +2195,8 @@
     "url": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
     "published_at": "Wed, 21 Oct 2026 16:53:04 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:53:04+00:00"
   },
   {
     "id": "rss_c182543b5784",
@@ -2200,7 +2205,8 @@
     "url": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
     "published_at": "Wed, 21 Oct 2026 16:51:42 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:51:42+00:00"
   },
   {
     "id": "rss_7b78a3d9943e",
@@ -2209,7 +2215,8 @@
     "url": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
     "published_at": "Wed, 21 Oct 2026 16:50:48 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:50:48+00:00"
   },
   {
     "id": "rss_9137616d8d14",
@@ -2218,7 +2225,8 @@
     "url": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
     "published_at": "Wed, 21 Oct 2026 16:38:20 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:38:20+00:00"
   },
   {
     "id": "rss_2dce5a17e118",
@@ -2227,7 +2235,8 @@
     "url": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
     "published_at": "Wed, 21 Oct 2026 16:23:30 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T16:23:30+00:00"
   },
   {
     "id": "rss_15b78496906d",
@@ -2236,7 +2245,8 @@
     "url": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
     "published_at": "Wed, 21 Oct 2026 15:01:45 GMT",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T15:01:45+00:00"
   },
   {
     "id": "rss_fc6e8c0e177a",
@@ -2245,7 +2255,8 @@
     "url": "https://www.bankless.com/read/coinbases-plan-for-a-quantum-safe-bitcoin",
     "published_at": "Wed, 21 Oct 2026 13:24:55 -0400",
     "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T13:24:55-04:00"
   },
   {
     "id": "llama_2026102119",
@@ -2254,7 +2265,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T19:30:47.942495+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T19:30:47.942495+00:00"
   },
   {
     "id": "rss_3f4a6d72768f",
@@ -2281,7 +2293,8 @@
     "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
     "published_at": "Wed, 21 Oct 2026 22:45:11 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T22:45:11+00:00"
   },
   {
     "id": "rss_d20b9685d3d7",
@@ -2290,7 +2303,8 @@
     "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
     "published_at": "Wed, 21 Oct 2026 22:40:13 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T22:40:13+00:00"
   },
   {
     "id": "rss_087892174515",
@@ -2299,7 +2313,8 @@
     "url": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
     "published_at": "Wed, 21 Oct 2026 22:34:10 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T22:34:10+00:00"
   },
   {
     "id": "rss_4b7cdd2f81ff",
@@ -2308,7 +2323,8 @@
     "url": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
     "published_at": "Wed, 21 Oct 2026 21:24:58 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T21:24:58+00:00"
   },
   {
     "id": "rss_bb88adf48d13",
@@ -2317,7 +2333,8 @@
     "url": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
     "published_at": "Wed, 21 Oct 2026 21:13:40 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T21:13:40+00:00"
   },
   {
     "id": "rss_ec0a7ff77db1",
@@ -2326,7 +2343,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
     "published_at": "Wed, 21 Oct 2026 20:29:59 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T20:29:59+00:00"
   },
   {
     "id": "rss_71824f9ee437",
@@ -2335,7 +2353,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
     "published_at": "Wed, 21 Oct 2026 20:29:37 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T20:29:37+00:00"
   },
   {
     "id": "rss_5ceda56e751b",
@@ -2344,7 +2363,8 @@
     "url": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
     "published_at": "Wed, 21 Oct 2026 20:29:33 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T20:29:33+00:00"
   },
   {
     "id": "rss_c92b075aab25",
@@ -2353,7 +2373,8 @@
     "url": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
     "published_at": "Wed, 21 Oct 2026 20:29:24 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T20:29:24+00:00"
   },
   {
     "id": "rss_7faed7fd0ef8",
@@ -2362,7 +2383,8 @@
     "url": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
     "published_at": "Wed, 21 Oct 2026 19:52:18 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T19:52:18+00:00"
   },
   {
     "id": "rss_0f967c535a8f",
@@ -2371,7 +2393,8 @@
     "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
     "published_at": "Wed, 21 Oct 2026 19:48:15 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T19:48:15+00:00"
   },
   {
     "id": "rss_bbb0130a3b14",
@@ -2380,7 +2403,8 @@
     "url": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
     "published_at": "Wed, 21 Oct 2026 19:47:52 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T19:47:52+00:00"
   },
   {
     "id": "rss_a608e48da8f5",
@@ -2389,7 +2413,8 @@
     "url": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
     "published_at": "Wed, 21 Oct 2026 19:47:17 GMT",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T19:47:17+00:00"
   },
   {
     "id": "rss_340315b7db7f",
@@ -2398,7 +2423,8 @@
     "url": "https://blockworks.com/news/eth-derivatives-reset",
     "published_at": "2026-01-05T15:14:17.000Z",
     "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T23:09:19.728217+00:00"
   },
   {
     "id": "llama_2026102123",
@@ -2407,6 +2433,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-21T23:09:23.215280+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-21T23:09:23.215280+00:00"
   }
 ]
