@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_d1c6bc429b29",
-    "source": "Cointelegraph Base",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
-    "fetched_at": "2026-10-15T10:14:36.064309+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ea12834810b3",
-    "source": "The Defiant",
-    "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
-    "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
-    "published_at": "Thu, 15 Oct 2026 06:53:08 GMT",
-    "fetched_at": "2026-10-15T10:14:36.064309+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T06:53:08+00:00"
-  },
-  {
-    "id": "llama_2026101510",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,055,830,888 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-15T10:14:40.027663+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T10:14:40.027663+00:00"
-  },
-  {
     "id": "rss_84333e8ce970",
     "source": "The Defiant",
     "title": "Crypto.com Launches Predict Pro With Order Books and Sports Combos",
@@ -2511,6 +2482,123 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-22T07:25:28.333851+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_93311554ae8f",
+    "source": "CoinDesk",
+    "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+    "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+    "published_at": "Thu, 22 Oct 2026 12:14:29 +0000",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c40e6ca63b9f",
+    "source": "CoinDesk",
+    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "published_at": "Thu, 22 Oct 2026 10:50:04 +0000",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_859e73ade8fa",
+    "source": "The Defiant",
+    "title": "Stock Tokens Compared: Ownership and Exit at Robinhood, OKXICE and DTCC",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stock-tokens-compared-ownership-and-exit-at-robinhood-okxice-and-dtcc",
+    "published_at": "Thu, 22 Oct 2026 12:48:33 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b4ac1d126f79",
+    "source": "The Defiant",
+    "title": "Robinhood Plans 2027 UAE Launch With Dubai Retail License",
+    "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+    "published_at": "Thu, 22 Oct 2026 12:46:28 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2323768c70d3",
+    "source": "The Defiant",
+    "title": "What Is a Crypto ‘Wrench Attack’?",
+    "url": "https://thedefiant.io/news/security/what-is-a-crypto-wrench-attack",
+    "published_at": "Thu, 22 Oct 2026 12:44:15 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fac4bbc9110e",
+    "source": "The Defiant",
+    "title": "Zipcoin Announces Shutdown and Plans Token Sale",
+    "url": "https://thedefiant.io/news/hacks/zipcoin-announces-shutdown-and-plans-token-sale",
+    "published_at": "Thu, 22 Oct 2026 12:18:11 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_df825a4082dc",
+    "source": "The Defiant",
+    "title": "SoFi Launches SOFIE Tokenized Deposit With 4.4% APY",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-launches-sofie-tokenized-deposit-with-4-4-apy",
+    "published_at": "Thu, 22 Oct 2026 12:13:53 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a76a9d12527",
+    "source": "The Defiant",
+    "title": "Coinbase Ireland Fined €3.25 Million Over Customer-Fund Failures",
+    "url": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures",
+    "published_at": "Thu, 22 Oct 2026 12:06:32 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_155c93aa4932",
+    "source": "The Defiant",
+    "title": "Base Active Addresses Jump 82.5% to a 30-Day High",
+    "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-82-5-to-a-30-day-high",
+    "published_at": "Thu, 22 Oct 2026 09:53:18 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_003e1291dfaf",
+    "source": "The Defiant",
+    "title": "CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert",
+    "url": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
+    "published_at": "Thu, 22 Oct 2026 08:18:24 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebb067497b81",
+    "source": "The Defiant",
+    "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
+    "url": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
+    "published_at": "Thu, 22 Oct 2026 08:02:40 GMT",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7f86b9b3d47c",
+    "source": "Bankless",
+    "title": "Aerodrome and Velodrome Go Live as Aero Across Seven Chains",
+    "url": "https://www.bankless.com/read/news/aerodrome-velodrome-go-live-as-aero",
+    "published_at": "Thu, 22 Oct 2026 08:47:30 -0400",
+    "fetched_at": "2026-10-22T13:08:25.756151+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102213",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,133,375,878 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-22T13:08:29.291266+00:00",
     "used": false
   }
 ]
