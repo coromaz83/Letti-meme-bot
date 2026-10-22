@@ -2358,7 +2358,8 @@
     "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
     "published_at": "Thu, 22 Oct 2026 15:40:25 +0000",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T15:40:25+00:00"
   },
   {
     "id": "rss_810c4853fe85",
@@ -2367,7 +2368,8 @@
     "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
     "published_at": "Thu, 22 Oct 2026 18:07:42 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T18:07:42+00:00"
   },
   {
     "id": "rss_098909a62ce5",
@@ -2376,7 +2378,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades",
     "published_at": "Thu, 22 Oct 2026 17:27:49 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T17:27:49+00:00"
   },
   {
     "id": "rss_391e8d25e871",
@@ -2385,7 +2388,8 @@
     "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
     "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T17:01:57+00:00"
   },
   {
     "id": "rss_649742a4df91",
@@ -2394,7 +2398,8 @@
     "url": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
     "published_at": "Thu, 22 Oct 2026 16:43:52 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T16:43:52+00:00"
   },
   {
     "id": "rss_94e07de8f4bf",
@@ -2403,7 +2408,8 @@
     "url": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
     "published_at": "Thu, 22 Oct 2026 15:15:04 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T15:15:04+00:00"
   },
   {
     "id": "rss_b18d2d595c73",
@@ -2412,7 +2418,8 @@
     "url": "https://thedefiant.io/news/cefi/kraken-says-its-xstocks-lineup-now-exceeds-1-000",
     "published_at": "Thu, 22 Oct 2026 15:00:31 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T15:00:31+00:00"
   },
   {
     "id": "rss_8c1008141f17",
@@ -2421,7 +2428,8 @@
     "url": "https://thedefiant.io/converge/infrastructure/visa-in-talks-to-buy-fireblocks-for-about-2-5-billion-axios",
     "published_at": "Thu, 22 Oct 2026 14:20:13 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:20:13+00:00"
   },
   {
     "id": "rss_64c9335e8752",
@@ -2430,7 +2438,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-plans-frontier-rebrand-and-broader-strategy-report",
     "published_at": "Thu, 22 Oct 2026 14:20:11 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:20:11+00:00"
   },
   {
     "id": "rss_a7f6b08e8131",
@@ -2439,7 +2448,8 @@
     "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
     "published_at": "Thu, 22 Oct 2026 14:20:07 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:20:07+00:00"
   },
   {
     "id": "rss_0b656e6db6bd",
@@ -2448,7 +2458,8 @@
     "url": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-hit-30-day-high-then-retreat",
     "published_at": "Thu, 22 Oct 2026 14:19:20 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:19:20+00:00"
   },
   {
     "id": "rss_900b12353442",
@@ -2457,7 +2468,8 @@
     "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
     "published_at": "Thu, 22 Oct 2026 14:18:51 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:18:51+00:00"
   },
   {
     "id": "rss_9219eb068a8f",
@@ -2466,7 +2478,8 @@
     "url": "https://thedefiant.io/news/defi/d3-links-hype-vault-to-early-access-for-new-domain-names",
     "published_at": "Thu, 22 Oct 2026 14:17:25 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:17:25+00:00"
   },
   {
     "id": "rss_7d397b9f5687",
@@ -2475,7 +2488,8 @@
     "url": "https://thedefiant.io/news/defi/morpho-opens-robinhood-stock-tokens-to-stablecoin-borrowing",
     "published_at": "Thu, 22 Oct 2026 14:15:51 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:15:51+00:00"
   },
   {
     "id": "rss_776890bfe2be",
@@ -2484,7 +2498,8 @@
     "url": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
     "published_at": "Thu, 22 Oct 2026 13:51:27 GMT",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T13:51:27+00:00"
   },
   {
     "id": "rss_bc35bb7d292f",
@@ -2493,7 +2508,8 @@
     "url": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
     "published_at": "Thu, 22 Oct 2026 15:00:14 +0000",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T15:00:14+00:00"
   },
   {
     "id": "rss_f5600cf58b8a",
@@ -2502,7 +2518,8 @@
     "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
     "published_at": "Thu, 22 Oct 2026 14:00:42 +0000",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:00:42+00:00"
   },
   {
     "id": "rss_9ab040d49f9d",
@@ -2511,7 +2528,8 @@
     "url": "https://www.bankless.com/read/news/ethereum-researchers-draft-a-consensus-overhaul-for-faster-finality",
     "published_at": "Thu, 22 Oct 2026 12:08:45 -0400",
     "fetched_at": "2026-10-22T18:07:46.717875+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T12:08:45-04:00"
   },
   {
     "id": "llama_2026102218",
@@ -2520,7 +2538,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-22T18:07:50.224330+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T18:07:50.224330+00:00"
   },
   {
     "id": "rss_fdaf02eadc2d",
@@ -2529,7 +2548,8 @@
     "url": "https://thedefiant.io/news/security/interpol-cybercrime-sweep-recovers-over-105-million-nets-1-462-arrests",
     "published_at": "Thu, 22 Oct 2026 21:14:43 GMT",
     "fetched_at": "2026-10-22T21:52:01.984394+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T21:14:43+00:00"
   },
   {
     "id": "rss_7c3241d553fb",
@@ -2538,7 +2558,8 @@
     "url": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
     "published_at": "Thu, 22 Oct 2026 19:52:28 GMT",
     "fetched_at": "2026-10-22T21:52:01.984394+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T19:52:28+00:00"
   },
   {
     "id": "rss_a9a7f5a2cbe6",
@@ -2547,7 +2568,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-brings-mony-and-jltxx-tokenized-funds-to-solana",
     "published_at": "Thu, 22 Oct 2026 18:18:13 GMT",
     "fetched_at": "2026-10-22T21:52:01.984394+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T18:18:13+00:00"
   },
   {
     "id": "rss_15f7527ae9a1",
@@ -2556,7 +2578,8 @@
     "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
     "published_at": "Thu, 22 Oct 2026 18:36:03 +0000",
     "fetched_at": "2026-10-22T21:52:01.984394+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T18:36:03+00:00"
   },
   {
     "id": "rss_64aaab0f023d",
@@ -2565,7 +2588,8 @@
     "url": "https://www.bankless.com/read/why-defillamas-data-markets-are-interesting",
     "published_at": "Thu, 22 Oct 2026 14:40:57 -0400",
     "fetched_at": "2026-10-22T21:52:01.984394+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T14:40:57-04:00"
   },
   {
     "id": "llama_2026102221",
@@ -2574,6 +2598,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-22T21:52:04.822409+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-22T21:52:04.822409+00:00"
   }
 ]
