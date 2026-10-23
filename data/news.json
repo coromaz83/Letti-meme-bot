@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_6dd46e2008fa",
-    "source": "CoinDesk",
-    "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-    "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "published_at": "Fri, 16 Oct 2026 05:53:58 +0000",
-    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T05:53:58+00:00"
-  },
-  {
-    "id": "rss_18e5b1feaa2d",
-    "source": "CoinDesk",
-    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-    "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-    "published_at": "Fri, 16 Oct 2026 04:29:19 +0000",
-    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T04:29:19+00:00"
-  },
-  {
-    "id": "rss_c82d6ee06c06",
-    "source": "The Defiant",
-    "title": "Celestia’s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
-    "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
-    "published_at": "Fri, 16 Oct 2026 05:58:10 GMT",
-    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T05:58:10+00:00"
-  },
-  {
-    "id": "rss_4bea6a95c6d8",
-    "source": "The Defiant",
-    "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
-    "url": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
-    "published_at": "Fri, 16 Oct 2026 04:29:25 GMT",
-    "fetched_at": "2026-10-16T06:16:28.511099+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T04:29:25+00:00"
-  },
-  {
-    "id": "llama_2026101606",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,166,930,261 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-16T06:16:31.570335+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T06:16:31.570335+00:00"
-  },
-  {
     "id": "rss_cb6d46980208",
     "source": "CoinDesk",
     "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
@@ -2633,6 +2583,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T05:53:56.527845+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7c340a35fd92",
+    "source": "The Defiant",
+    "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
+    "url": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
+    "published_at": "Fri, 23 Oct 2026 10:52:49 GMT",
+    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_828ef38ba7ad",
+    "source": "The Defiant",
+    "title": "Base Active Addresses Jump Another 50% as Transactions and Fees Fall",
+    "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-another-50-as-transactions-and-fees-fall",
+    "published_at": "Fri, 23 Oct 2026 10:08:51 GMT",
+    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5b9be9f1f14c",
+    "source": "The Defiant",
+    "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
+    "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
+    "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
+    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7df9019cb7d4",
+    "source": "The Defiant",
+    "title": "Swell Pauses swETH and rswETH Deposits and Withdrawals",
+    "url": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
+    "published_at": "Fri, 23 Oct 2026 06:50:08 GMT",
+    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102311",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,115,214,776 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-23T11:25:51.431410+00:00",
     "used": false
   }
 ]
