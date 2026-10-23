@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_3da76934d1ec",
-    "source": "The Defiant",
-    "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
-    "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
-    "published_at": "Fri, 16 Oct 2026 21:32:28 GMT",
-    "fetched_at": "2026-10-16T22:44:08.156448+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T21:32:28+00:00"
-  },
-  {
-    "id": "llama_2026101622",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,136,097,736 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-16T22:44:12.083397+00:00",
-    "used": false,
-    "_sort_date": "2026-10-16T22:44:12.083397+00:00"
-  },
-  {
     "id": "rss_aa6af06f6c1c",
     "source": "The Defiant",
     "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
@@ -2583,6 +2563,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T19:54:18.853610+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_40afc0954636",
+    "source": "The Defiant",
+    "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
+    "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
+    "published_at": "Fri, 23 Oct 2026 21:06:51 GMT",
+    "fetched_at": "2026-10-23T23:01:19.025041+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4661248b4b05",
+    "source": "Decrypt",
+    "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+    "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+    "published_at": "Fri, 23 Oct 2026 20:16:02 +0000",
+    "fetched_at": "2026-10-23T23:01:19.025041+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102323",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,116,542,484 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-23T23:01:23.506634+00:00",
     "used": false
   }
 ]
