@@ -2446,7 +2446,8 @@
     "url": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
     "published_at": "Fri, 23 Oct 2026 19:27:17 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T19:27:17+00:00"
   },
   {
     "id": "rss_44ece2133d08",
@@ -2455,7 +2456,8 @@
     "url": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
     "published_at": "Fri, 23 Oct 2026 18:57:39 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T18:57:39+00:00"
   },
   {
     "id": "rss_548f3f60323c",
@@ -2464,7 +2466,8 @@
     "url": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
     "published_at": "Fri, 23 Oct 2026 18:23:34 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T18:23:34+00:00"
   },
   {
     "id": "rss_eccd25099a18",
@@ -2473,7 +2476,8 @@
     "url": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
     "published_at": "Fri, 23 Oct 2026 18:08:25 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T18:08:25+00:00"
   },
   {
     "id": "rss_b56d43e0284b",
@@ -2482,7 +2486,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
     "published_at": "Fri, 23 Oct 2026 17:54:23 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T17:54:23+00:00"
   },
   {
     "id": "rss_6ccda49ebcc4",
@@ -2491,7 +2496,8 @@
     "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
     "published_at": "Fri, 23 Oct 2026 17:27:28 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T17:27:28+00:00"
   },
   {
     "id": "rss_1e9b7879cf17",
@@ -2500,7 +2506,8 @@
     "url": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
     "published_at": "Fri, 23 Oct 2026 17:15:39 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T17:15:39+00:00"
   },
   {
     "id": "rss_c6bad8383b55",
@@ -2509,7 +2516,8 @@
     "url": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
     "published_at": "Fri, 23 Oct 2026 17:08:01 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T17:08:01+00:00"
   },
   {
     "id": "rss_d69cc682fab4",
@@ -2518,7 +2526,8 @@
     "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
     "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T16:19:13+00:00"
   },
   {
     "id": "rss_c0645b0216ed",
@@ -2527,7 +2536,8 @@
     "url": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
     "published_at": "Fri, 23 Oct 2026 16:11:56 GMT",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T16:11:56+00:00"
   },
   {
     "id": "rss_0aa73d1c1f59",
@@ -2536,7 +2546,8 @@
     "url": "https://cryptoslate.com/coinbase-to-drop-this-japanese-yen-stablecoin-years-after-its-price-crash-sparked-investor-lawsuits/",
     "published_at": "Fri, 23 Oct 2026 17:10:05 +0000",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T17:10:05+00:00"
   },
   {
     "id": "rss_ddbde3773333",
@@ -2545,7 +2556,8 @@
     "url": "https://www.bankless.com/read/news/uniswap-v4-is-now-an-aggregator",
     "published_at": "Fri, 23 Oct 2026 13:53:45 -0400",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T13:53:45-04:00"
   },
   {
     "id": "rss_a10c369f4588",
@@ -2554,7 +2566,8 @@
     "url": "https://www.bankless.com/read/news/ethereum-devs-postpone-glamsterdam-on-hoodi-over-contract-security-risks",
     "published_at": "Fri, 23 Oct 2026 13:24:24 -0400",
     "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T13:24:24-04:00"
   },
   {
     "id": "llama_2026102319",
@@ -2563,7 +2576,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T19:54:18.853610+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T19:54:18.853610+00:00"
   },
   {
     "id": "rss_40afc0954636",
@@ -2572,7 +2586,8 @@
     "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
     "published_at": "Fri, 23 Oct 2026 21:06:51 GMT",
     "fetched_at": "2026-10-23T23:01:19.025041+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T21:06:51+00:00"
   },
   {
     "id": "rss_4661248b4b05",
@@ -2581,7 +2596,8 @@
     "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
     "published_at": "Fri, 23 Oct 2026 20:16:02 +0000",
     "fetched_at": "2026-10-23T23:01:19.025041+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T20:16:02+00:00"
   },
   {
     "id": "llama_2026102323",
@@ -2590,6 +2606,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T23:01:23.506634+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T23:01:23.506634+00:00"
   }
 ]
