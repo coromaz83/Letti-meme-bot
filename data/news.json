@@ -1,68 +1,5 @@
 [
   {
-    "id": "rss_27bb554c07b7",
-    "source": "The Defiant",
-    "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
-    "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
-    "published_at": "Fri, 16 Oct 2026 00:39:04 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_81c94dec2c7d",
-    "source": "The Defiant",
-    "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
-    "published_at": "Thu, 15 Oct 2026 23:58:41 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ca4198511146",
-    "source": "The Defiant",
-    "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
-    "published_at": "Thu, 15 Oct 2026 23:34:48 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5114ff0666d0",
-    "source": "The Defiant",
-    "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
-    "url": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
-    "published_at": "Thu, 15 Oct 2026 23:27:03 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_de314279f8d6",
-    "source": "The Defiant",
-    "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
-    "url": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
-    "published_at": "Thu, 15 Oct 2026 23:21:21 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ffcf9be287fb",
-    "source": "The Defiant",
-    "title": "bOSMO Bug Leaves Little Backing, Prompts Holder Compensation Plan",
-    "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
-    "published_at": "Thu, 15 Oct 2026 23:18:39 GMT",
-    "fetched_at": "2026-10-16T01:08:32.833442+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101601",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,172,240,495 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-16T01:08:36.460227+00:00",
-    "used": false
-  },
-  {
     "id": "rss_6dd46e2008fa",
     "source": "CoinDesk",
     "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
@@ -2651,6 +2588,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T00:31:04.682770+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0c6b347c286c",
+    "source": "CoinDesk",
+    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+    "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
+    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3419f586e66e",
+    "source": "The Defiant",
+    "title": "Malaysia and Thailand Join Singapore’s BLOOM Digital-Money Initiative",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/malaysia-and-thailand-join-singapore-s-bloom-digital-money-initiative",
+    "published_at": "Fri, 23 Oct 2026 03:34:21 GMT",
+    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_52af7a583ac0",
+    "source": "The Defiant",
+    "title": "UAE-Led Scam Crackdown Identifies Over $39 Billion in Funds and Crypto",
+    "url": "https://thedefiant.io/news/security/uae-led-scam-crackdown-identifies-over-39-billion-in-funds-and-crypto",
+    "published_at": "Fri, 23 Oct 2026 02:03:09 GMT",
+    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e0926398e3a4",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+    "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+    "published_at": "Fri, 23 Oct 2026 00:40:37 +0000",
+    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102305",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,161,975,041 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-23T05:53:56.527845+00:00",
     "used": false
   }
 ]
