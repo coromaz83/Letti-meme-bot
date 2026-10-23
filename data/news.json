@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_ba20a27dc7e8",
-    "source": "The Defiant",
-    "title": "Aave V4’s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
-    "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
-    "published_at": "Thu, 15 Oct 2026 21:18:33 GMT",
-    "fetched_at": "2026-10-15T22:37:55.774049+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T21:18:33+00:00"
-  },
-  {
-    "id": "llama_2026101522",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,182,740,056 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-15T22:37:59.289566+00:00",
-    "used": false,
-    "_sort_date": "2026-10-15T22:37:59.289566+00:00"
-  },
-  {
     "id": "rss_27bb554c07b7",
     "source": "The Defiant",
     "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
@@ -2600,5 +2580,77 @@
     "fetched_at": "2026-10-22T21:52:04.822409+00:00",
     "used": false,
     "_sort_date": "2026-10-22T21:52:04.822409+00:00"
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b5a1bf48bf1d",
+    "source": "CoinDesk",
+    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+    "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+    "published_at": "Thu, 22 Oct 2026 22:43:36 +0000",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9ea88e915777",
+    "source": "The Defiant",
+    "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+    "url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+    "published_at": "Thu, 22 Oct 2026 23:18:52 GMT",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d98bfcc170ba",
+    "source": "The Defiant",
+    "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
+    "url": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
+    "published_at": "Thu, 22 Oct 2026 23:18:19 GMT",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6d83c225209",
+    "source": "The Defiant",
+    "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+    "published_at": "Thu, 22 Oct 2026 23:14:19 GMT",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_51a5a5568a6c",
+    "source": "The Defiant",
+    "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
+    "url": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
+    "published_at": "Thu, 22 Oct 2026 22:58:46 GMT",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3c14ad87a9f0",
+    "source": "The Defiant",
+    "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
+    "published_at": "Thu, 22 Oct 2026 22:08:46 GMT",
+    "fetched_at": "2026-10-23T00:31:00.697487+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102300",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,140,256,374 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-23T00:31:04.682770+00:00",
+    "used": false
   }
 ]
