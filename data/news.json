@@ -2547,7 +2547,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
     "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
     "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T04:59:34+00:00"
   },
   {
     "id": "rss_3419f586e66e",
@@ -2556,7 +2557,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/malaysia-and-thailand-join-singapore-s-bloom-digital-money-initiative",
     "published_at": "Fri, 23 Oct 2026 03:34:21 GMT",
     "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T03:34:21+00:00"
   },
   {
     "id": "rss_52af7a583ac0",
@@ -2565,7 +2567,8 @@
     "url": "https://thedefiant.io/news/security/uae-led-scam-crackdown-identifies-over-39-billion-in-funds-and-crypto",
     "published_at": "Fri, 23 Oct 2026 02:03:09 GMT",
     "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T02:03:09+00:00"
   },
   {
     "id": "rss_e0926398e3a4",
@@ -2583,7 +2586,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T05:53:56.527845+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T05:53:56.527845+00:00"
   },
   {
     "id": "rss_7c340a35fd92",
@@ -2592,7 +2596,8 @@
     "url": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
     "published_at": "Fri, 23 Oct 2026 10:52:49 GMT",
     "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T10:52:49+00:00"
   },
   {
     "id": "rss_828ef38ba7ad",
@@ -2601,7 +2606,8 @@
     "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-another-50-as-transactions-and-fees-fall",
     "published_at": "Fri, 23 Oct 2026 10:08:51 GMT",
     "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T10:08:51+00:00"
   },
   {
     "id": "rss_5b9be9f1f14c",
@@ -2610,7 +2616,8 @@
     "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
     "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
     "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T06:50:59+00:00"
   },
   {
     "id": "rss_7df9019cb7d4",
@@ -2619,7 +2626,8 @@
     "url": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
     "published_at": "Fri, 23 Oct 2026 06:50:08 GMT",
     "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T06:50:08+00:00"
   },
   {
     "id": "llama_2026102311",
@@ -2628,6 +2636,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-23T11:25:51.431410+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-23T11:25:51.431410+00:00"
   }
 ]
