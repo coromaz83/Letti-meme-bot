@@ -2627,7 +2627,8 @@
     "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
     "published_at": "Sat, 24 Oct 2026 17:57:11 GMT",
     "fetched_at": "2026-10-24T18:56:17.840150+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T17:57:11+00:00"
   },
   {
     "id": "rss_00468c4ca210",
@@ -2636,7 +2637,8 @@
     "url": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
     "published_at": "Sat, 24 Oct 2026 16:50:46 GMT",
     "fetched_at": "2026-10-24T18:56:17.840150+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T16:50:46+00:00"
   },
   {
     "id": "llama_2026102418",
@@ -2645,7 +2647,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T18:56:21.305536+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T18:56:21.305536+00:00"
   },
   {
     "id": "rss_7d4c19e94c76",
@@ -2654,7 +2657,8 @@
     "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
     "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
     "fetched_at": "2026-10-24T21:29:38.337314+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T19:41:15+00:00"
   },
   {
     "id": "rss_334d44ed33f4",
@@ -2663,7 +2667,8 @@
     "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
     "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
     "fetched_at": "2026-10-24T21:29:38.337314+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T19:06:10+00:00"
   },
   {
     "id": "llama_2026102421",
@@ -2672,6 +2677,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T21:29:41.276272+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T21:29:41.276272+00:00"
   }
 ]
