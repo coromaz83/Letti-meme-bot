@@ -2587,7 +2587,8 @@
     "url": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
     "published_at": "Sat, 24 Oct 2026 15:43:40 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T15:43:40+00:00"
   },
   {
     "id": "rss_42bce91d2a67",
@@ -2596,7 +2597,8 @@
     "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
     "published_at": "Sat, 24 Oct 2026 15:17:43 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T15:17:43+00:00"
   },
   {
     "id": "rss_f50ae9c9731d",
@@ -2605,7 +2607,8 @@
     "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
     "published_at": "Sat, 24 Oct 2026 14:58:09 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T14:58:09+00:00"
   },
   {
     "id": "rss_72a7e7b697e9",
@@ -2614,7 +2617,8 @@
     "url": "https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw",
     "published_at": "Sat, 24 Oct 2026 14:25:37 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T14:25:37+00:00"
   },
   {
     "id": "rss_a6d47e1b39ed",
@@ -2623,7 +2627,8 @@
     "url": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
     "published_at": "Sat, 24 Oct 2026 14:12:54 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T14:12:54+00:00"
   },
   {
     "id": "rss_710399111e2c",
@@ -2632,7 +2637,8 @@
     "url": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
     "published_at": "Sat, 24 Oct 2026 13:16:55 GMT",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T13:16:55+00:00"
   },
   {
     "id": "rss_cfa2697540cd",
@@ -2641,7 +2647,8 @@
     "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
     "published_at": "Sat, 24 Oct 2026 13:30:53 +0000",
     "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T13:30:53+00:00"
   },
   {
     "id": "llama_2026102416",
@@ -2650,6 +2657,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T16:10:48.324269+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T16:10:48.324269+00:00"
   }
 ]
