@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_e05c58966934",
-    "source": "The Defiant",
-    "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
-    "url": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
-    "published_at": "Sat, 17 Oct 2026 08:14:03 GMT",
-    "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T08:14:03+00:00"
-  },
-  {
-    "id": "rss_f49558e55c87",
-    "source": "The Defiant",
-    "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
-    "url": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
-    "published_at": "Sat, 17 Oct 2026 07:55:49 GMT",
-    "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T07:55:49+00:00"
-  },
-  {
-    "id": "rss_c75d560a34f1",
-    "source": "The Defiant",
-    "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin’s Drop",
-    "url": "https://thedefiant.io/converge/markets/strategy-slides-9-6-after-msci-decision-outpacing-bitcoin-s-drop",
-    "published_at": "Sat, 17 Oct 2026 07:44:41 GMT",
-    "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T07:44:41+00:00"
-  },
-  {
-    "id": "rss_02f3ec09cfd3",
-    "source": "The Defiant",
-    "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
-    "published_at": "Sat, 17 Oct 2026 07:32:11 GMT",
-    "fetched_at": "2026-10-17T11:05:44.618522+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T07:32:11+00:00"
-  },
-  {
-    "id": "llama_2026101711",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,146,968,448 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-17T11:05:46.885497+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T11:05:46.885497+00:00"
-  },
-  {
     "id": "llama_2026101714",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,132,955,443 🟢 +0.00% (24h)",
@@ -2594,6 +2544,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T07:08:17.375054+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_53f05faa8755",
+    "source": "The Defiant",
+    "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",
+    "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
+    "published_at": "Sat, 24 Oct 2026 09:26:24 GMT",
+    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3d1be279557c",
+    "source": "CryptoSlate",
+    "title": "Senator probes Tether’s reported $6 million payments to ex-White House crypto adviser’s firm",
+    "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm/",
+    "published_at": "Sat, 24 Oct 2026 11:00:33 +0000",
+    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102412",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,052,713,590 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-24T12:10:14.192605+00:00",
     "used": false
   }
 ]
