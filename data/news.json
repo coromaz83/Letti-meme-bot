@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_aa6af06f6c1c",
-    "source": "The Defiant",
-    "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
-    "url": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
-    "published_at": "Fri, 16 Oct 2026 23:52:16 GMT",
-    "fetched_at": "2026-10-17T01:13:20.098601+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026101701",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,143,123,427 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-17T01:13:24.025175+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T01:13:24.025175+00:00"
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -2608,5 +2589,14 @@
     "fetched_at": "2026-10-23T23:01:23.506634+00:00",
     "used": false,
     "_sort_date": "2026-10-23T23:01:23.506634+00:00"
+  },
+  {
+    "id": "llama_2026102401",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,062,637,304 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-24T01:53:35.089422+00:00",
+    "used": false
   }
 ]
