@@ -2508,7 +2508,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T01:53:35.089422+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T01:53:35.089422+00:00"
   },
   {
     "id": "rss_e73ecaa445bd",
@@ -2517,7 +2518,8 @@
     "url": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
     "published_at": "Sat, 24 Oct 2026 06:28:11 GMT",
     "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T06:28:11+00:00"
   },
   {
     "id": "rss_e30cc21dbcf7",
@@ -2526,7 +2528,8 @@
     "url": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
     "published_at": "Sat, 24 Oct 2026 02:22:37 GMT",
     "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T02:22:37+00:00"
   },
   {
     "id": "rss_21a9fa65e845",
@@ -2535,7 +2538,8 @@
     "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
     "published_at": "Sat, 24 Oct 2026 07:00:27 +0000",
     "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T07:00:27+00:00"
   },
   {
     "id": "llama_2026102407",
@@ -2544,7 +2548,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T07:08:17.375054+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T07:08:17.375054+00:00"
   },
   {
     "id": "rss_ebd7c912e55e",
@@ -2562,7 +2567,8 @@
     "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
     "published_at": "Sat, 24 Oct 2026 09:26:24 GMT",
     "fetched_at": "2026-10-24T12:10:10.734438+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T09:26:24+00:00"
   },
   {
     "id": "rss_3d1be279557c",
@@ -2571,7 +2577,8 @@
     "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm/",
     "published_at": "Sat, 24 Oct 2026 11:00:33 +0000",
     "fetched_at": "2026-10-24T12:10:10.734438+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T11:00:33+00:00"
   },
   {
     "id": "llama_2026102412",
@@ -2580,6 +2587,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-24T12:10:14.192605+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-24T12:10:14.192605+00:00"
   }
 ]
