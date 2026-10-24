@@ -1,52 +1,5 @@
 [
   {
-    "id": "rss_865568549b20",
-    "source": "Cointelegraph Base",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
-    "fetched_at": "2026-10-17T22:09:31.088988+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-10-17T22:09:31.088988+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-10-17T22:09:31.088988+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3b2a1769a7e4",
-    "source": "The Defiant",
-    "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
-    "url": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
-    "published_at": "Sat, 17 Oct 2026 19:42:21 GMT",
-    "fetched_at": "2026-10-17T22:09:31.088988+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T19:42:21+00:00"
-  },
-  {
-    "id": "llama_2026101722",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,142,463,887 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-17T22:09:33.928668+00:00",
-    "used": false,
-    "_sort_date": "2026-10-17T22:09:33.928668+00:00"
-  },
-  {
     "id": "llama_2026101800",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,104,244,214 🟢 +0.00% (24h)",
@@ -2679,5 +2632,14 @@
     "fetched_at": "2026-10-24T21:29:41.276272+00:00",
     "used": false,
     "_sort_date": "2026-10-24T21:29:41.276272+00:00"
+  },
+  {
+    "id": "llama_2026102423",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,047,768,540 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-24T23:39:00.951799+00:00",
+    "used": false
   }
 ]
