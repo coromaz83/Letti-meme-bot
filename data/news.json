@@ -2657,7 +2657,8 @@
     "url": "https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
     "published_at": "Sun, 25 Oct 2026 18:40:29 +0000",
     "fetched_at": "2026-10-25T20:42:35.920564+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T18:40:29+00:00"
   },
   {
     "id": "llama_2026102520",
@@ -2666,6 +2667,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-25T20:42:38.872158+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T20:42:38.872158+00:00"
   }
 ]
