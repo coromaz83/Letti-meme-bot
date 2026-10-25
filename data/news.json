@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026101819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,079,502,580 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-18T19:34:36.876300+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T19:34:36.876300+00:00"
-  },
-  {
     "id": "llama_2026101822",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,040,705,912 🟢 +0.00% (24h)",
@@ -2659,5 +2649,23 @@
     "fetched_at": "2026-10-25T17:33:09.815550+00:00",
     "used": false,
     "_sort_date": "2026-10-25T17:33:09.815550+00:00"
+  },
+  {
+    "id": "rss_57a84a211385",
+    "source": "CryptoSlate",
+    "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether’s USDT",
+    "url": "https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
+    "published_at": "Sun, 25 Oct 2026 18:40:29 +0000",
+    "fetched_at": "2026-10-25T20:42:35.920564+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102520",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,038,929,794 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-25T20:42:38.872158+00:00",
+    "used": false
   }
 ]
