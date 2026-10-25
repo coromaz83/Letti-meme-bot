@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_67558d9fdc6e",
-    "source": "CoinDesk",
-    "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-    "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-    "published_at": "Sun, 18 Oct 2026 12:00:00 +0000",
-    "fetched_at": "2026-10-18T13:53:40.744761+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T12:00:00+00:00"
-  },
-  {
-    "id": "rss_9e8b67af8a61",
-    "source": "The Defiant",
-    "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
-    "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
-    "published_at": "Sun, 18 Oct 2026 11:10:38 GMT",
-    "fetched_at": "2026-10-18T13:53:40.744761+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T11:10:38+00:00"
-  },
-  {
-    "id": "llama_2026101813",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,144,622,623 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-18T13:53:43.736647+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T13:53:43.736647+00:00"
-  },
-  {
-    "id": "rss_9c73cfdefc0f",
-    "source": "The Defiant",
-    "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
-    "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
-    "published_at": "Sun, 18 Oct 2026 15:09:55 GMT",
-    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T15:09:55+00:00"
-  },
-  {
-    "id": "rss_a927fa3e3a3b",
-    "source": "CryptoSlate",
-    "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
-    "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
-    "published_at": "Sun, 18 Oct 2026 15:00:36 +0000",
-    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T15:00:36+00:00"
-  },
-  {
-    "id": "rss_d2c05f7543a1",
-    "source": "CryptoSlate",
-    "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
-    "url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
-    "published_at": "Sun, 18 Oct 2026 14:00:41 +0000",
-    "fetched_at": "2026-10-18T17:13:17.136190+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T14:00:41+00:00"
-  },
-  {
-    "id": "llama_2026101817",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,095,736,589 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-18T17:13:19.883873+00:00",
-    "used": false,
-    "_sort_date": "2026-10-18T17:13:19.883873+00:00"
-  },
-  {
     "id": "llama_2026101819",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,079,502,580 🟢 +0.00% (24h)",
@@ -2694,6 +2624,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-25T13:52:12.698340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0dca5f6d47e9",
+    "source": "The Defiant",
+    "title": "How a DAO Vote Becomes a Treasury Transfer",
+    "url": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+    "published_at": "Sun, 25 Oct 2026 17:15:46 GMT",
+    "fetched_at": "2026-10-25T17:33:06.759690+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2de856b5cb82",
+    "source": "The Defiant",
+    "title": "How to Check a Software Wallet—and What the Checks Cannot Prove",
+    "url": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
+    "published_at": "Sun, 25 Oct 2026 17:14:42 GMT",
+    "fetched_at": "2026-10-25T17:33:06.759690+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102517",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,043,502,988 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-25T17:33:09.815550+00:00",
     "used": false
   }
 ]
