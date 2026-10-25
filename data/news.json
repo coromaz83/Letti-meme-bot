@@ -2597,7 +2597,8 @@
     "url": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
     "published_at": "Sun, 25 Oct 2026 13:15:20 GMT",
     "fetched_at": "2026-10-25T13:52:09.512891+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T13:15:20+00:00"
   },
   {
     "id": "rss_6f038643579a",
@@ -2606,7 +2607,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
     "published_at": "Sun, 25 Oct 2026 13:15:06 GMT",
     "fetched_at": "2026-10-25T13:52:09.512891+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T13:15:06+00:00"
   },
   {
     "id": "rss_3bda9fb6d017",
@@ -2615,7 +2617,8 @@
     "url": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
     "published_at": "Sun, 25 Oct 2026 11:27:13 GMT",
     "fetched_at": "2026-10-25T13:52:09.512891+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T11:27:13+00:00"
   },
   {
     "id": "llama_2026102513",
@@ -2624,7 +2627,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-25T13:52:12.698340+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T13:52:12.698340+00:00"
   },
   {
     "id": "rss_0dca5f6d47e9",
@@ -2633,7 +2637,8 @@
     "url": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
     "published_at": "Sun, 25 Oct 2026 17:15:46 GMT",
     "fetched_at": "2026-10-25T17:33:06.759690+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T17:15:46+00:00"
   },
   {
     "id": "rss_2de856b5cb82",
@@ -2642,7 +2647,8 @@
     "url": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
     "published_at": "Sun, 25 Oct 2026 17:14:42 GMT",
     "fetched_at": "2026-10-25T17:33:06.759690+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T17:14:42+00:00"
   },
   {
     "id": "llama_2026102517",
@@ -2651,6 +2657,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-25T17:33:09.815550+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-25T17:33:09.815550+00:00"
   }
 ]
