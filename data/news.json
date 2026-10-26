@@ -1,14 +1,5 @@
 [
   {
-    "id": "llama_2026101900",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,051,493,305 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-19T00:24:47.623921+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026101905",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,149,592,388 🟢 +0.00% (24h)",
@@ -2667,6 +2658,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-25T23:08:14.125091+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c98fccef4e93",
+    "source": "CryptoSlate",
+    "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
+    "url": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
+    "published_at": "Mon, 26 Oct 2026 01:00:15 +0000",
+    "fetched_at": "2026-10-26T01:33:06.616345+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102601",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,013,551,019 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-26T01:33:10.259892+00:00",
     "used": false
   }
 ]
