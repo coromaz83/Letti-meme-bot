@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026101905",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,149,592,388 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-19T05:10:08.673387+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T05:10:08.673387+00:00"
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -2676,6 +2666,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-26T01:33:10.259892+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7b85e7e786dc",
+    "source": "The Defiant",
+    "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
+    "url": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
+    "published_at": "Mon, 26 Oct 2026 04:06:03 GMT",
+    "fetched_at": "2026-10-26T07:41:14.200745+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102607",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,005,574,098 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-26T07:41:17.773340+00:00",
     "used": false
   }
 ]
