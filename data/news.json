@@ -1,74 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3e1aa39e8c9f",
-    "source": "CoinDesk",
-    "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-    "published_at": "Mon, 19 Oct 2026 10:26:33 +0000",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T10:26:33+00:00"
-  },
-  {
-    "id": "rss_5223b810d834",
-    "source": "CoinDesk",
-    "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-    "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-    "published_at": "Mon, 19 Oct 2026 10:03:47 +0000",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T10:03:47+00:00"
-  },
-  {
-    "id": "rss_c8ae68321614",
-    "source": "CoinDesk",
-    "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-    "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-    "published_at": "Mon, 19 Oct 2026 09:12:39 +0000",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T09:12:39+00:00"
-  },
-  {
-    "id": "rss_b8a9738a82ed",
-    "source": "The Defiant",
-    "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
-    "published_at": "Mon, 19 Oct 2026 07:53:33 GMT",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T07:53:33+00:00"
-  },
-  {
-    "id": "rss_818a8bc7ffa2",
-    "source": "CryptoSlate",
-    "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
-    "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
-    "published_at": "Mon, 19 Oct 2026 10:30:55 +0000",
-    "fetched_at": "2026-10-19T11:08:50.530363+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T10:30:55+00:00"
-  },
-  {
-    "id": "llama_2026101911",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,171,740,785 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-19T11:08:54.923294+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T11:08:54.923294+00:00"
-  },
-  {
     "id": "rss_8870fa1c1489",
     "source": "The Defiant",
     "title": "Lighter Launches BTC and ETH Binary Options on Core",
@@ -2684,6 +2615,150 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-26T07:41:17.773340+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_83ba23226ca8",
+    "source": "CoinDesk",
+    "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+    "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+    "published_at": "Mon, 26 Oct 2026 09:14:47 +0000",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_13f646cdf455",
+    "source": "The Defiant",
+    "title": "Sony-Backed Soneium Plans Native Token in Tokenized-IP Push",
+    "url": "https://thedefiant.io/news/blockchains/sony-backed-soneium-plans-native-token-in-tokenized-ip-push",
+    "published_at": "Mon, 26 Oct 2026 14:52:58 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c6ceb8816ad4",
+    "source": "The Defiant",
+    "title": "Keystone to Destroy 18,835 Wallets After Device-Authentication Key Theft",
+    "url": "https://thedefiant.io/news/security/keystone-to-destroy-18-835-wallets-after-device-authentication-key-theft",
+    "published_at": "Mon, 26 Oct 2026 14:40:51 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_68287e0cc43f",
+    "source": "The Defiant",
+    "title": "Base Promotes 'Tokenized Anthropic Shares' as Trade.xyz Opens Pre-IPO Bets",
+    "url": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
+    "published_at": "Mon, 26 Oct 2026 14:29:04 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fd530c970ba4",
+    "source": "The Defiant",
+    "title": "NBA Names Kalshi a Preferred Prediction Market Exchange",
+    "url": "https://thedefiant.io/news/defi/nba-names-kalshi-a-preferred-prediction-market-exchange",
+    "published_at": "Mon, 26 Oct 2026 14:22:57 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe44624b90d5",
+    "source": "The Defiant",
+    "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
+    "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
+    "published_at": "Mon, 26 Oct 2026 13:58:40 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c39cf8681e5b",
+    "source": "The Defiant",
+    "title": "OCC Encourages Community Banks to Become Stablecoin Issuers",
+    "url": "https://thedefiant.io/converge/regulation/occ-encourages-community-banks-to-become-stablecoin-issuers",
+    "published_at": "Mon, 26 Oct 2026 13:57:12 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6149bfffb14c",
+    "source": "The Defiant",
+    "title": "Nexus Mutual vs. Firelight: Who Files Claims and Gets Paid",
+    "url": "https://thedefiant.io/news/defi/nexus-mutual-vs-firelight-who-files-claims-and-gets-paid",
+    "published_at": "Mon, 26 Oct 2026 13:21:30 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_880d1df5bc0a",
+    "source": "The Defiant",
+    "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+    "published_at": "Mon, 26 Oct 2026 13:20:08 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1ba42e9e5bc",
+    "source": "The Defiant",
+    "title": "Researcher Cracks 'Steal My Bitcoin' Challenge With PHP Exploit",
+    "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
+    "published_at": "Mon, 26 Oct 2026 12:50:09 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4adb3e0ddb8e",
+    "source": "The Defiant",
+    "title": "S&P Global Closes OpenZeppelin Acquisition",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-closes-openzeppelin-acquisition",
+    "published_at": "Mon, 26 Oct 2026 12:34:20 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e0fe63b0c432",
+    "source": "The Defiant",
+    "title": "Strive Buys 6,182 Bitcoin for $511 Million, Lifting Holdings to 43,000 BTC",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/strive-buys-6-182-bitcoin-for-511-million-lifting-holdings-to-43-000-btc",
+    "published_at": "Mon, 26 Oct 2026 12:12:51 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1af6bd4913c",
+    "source": "The Defiant",
+    "title": "Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge",
+    "url": "https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge",
+    "published_at": "Mon, 26 Oct 2026 09:47:41 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3180f5ae5b29",
+    "source": "The Defiant",
+    "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",
+    "url": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks",
+    "published_at": "Mon, 26 Oct 2026 08:53:32 GMT",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f5d1e46a61ca",
+    "source": "CryptoSlate",
+    "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+    "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
+    "published_at": "Mon, 26 Oct 2026 15:00:40 +0000",
+    "fetched_at": "2026-10-26T15:05:04.335106+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102615",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,010,487,422 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-26T15:05:08.195744+00:00",
     "used": false
   }
 ]
