@@ -1,75 +1,5 @@
 [
   {
-    "id": "rss_1f2c607c1588",
-    "source": "CoinDesk",
-    "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-    "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-    "published_at": "Mon, 19 Oct 2026 20:21:13 +0000",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T20:21:13+00:00"
-  },
-  {
-    "id": "rss_abf7d55c4b84",
-    "source": "The Defiant",
-    "title": "Sentora’s OUSD Lending Vault Holds $42.5 Million on Tempo",
-    "url": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
-    "published_at": "Mon, 19 Oct 2026 20:02:10 GMT",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T20:02:10+00:00"
-  },
-  {
-    "id": "rss_81c9b265a84b",
-    "source": "The Defiant",
-    "title": "France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
-    "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
-    "published_at": "Mon, 19 Oct 2026 19:12:04 GMT",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T19:12:04+00:00"
-  },
-  {
-    "id": "rss_f90341d9f05b",
-    "source": "The Defiant",
-    "title": "Rain Says Western Union's Stablecard Is Live in 37 Markets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-says-western-union-s-stablecard-is-live-in-37-markets",
-    "published_at": "Mon, 19 Oct 2026 18:09:42 GMT",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T18:09:42+00:00"
-  },
-  {
-    "id": "rss_57f28da27e3c",
-    "source": "The Defiant",
-    "title": "Pump.fun Adds Pre-IPO Tokens to Its Launch Pairings",
-    "url": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
-    "published_at": "Mon, 19 Oct 2026 17:58:50 GMT",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T17:58:50+00:00"
-  },
-  {
-    "id": "rss_7cfb56e7a05f",
-    "source": "Bankless",
-    "title": "Kinetiq's Elysium L2 Sets Nov. 9th Mainnet Launch",
-    "url": "https://www.bankless.com/read/news/kinetiqs-elysium-l2-sets-nov-9-mainnet-launch",
-    "published_at": "Mon, 19 Oct 2026 14:11:51 -0400",
-    "fetched_at": "2026-10-19T22:14:47.706921+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T14:11:51-04:00"
-  },
-  {
-    "id": "llama_2026101922",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,167,501,367 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-19T22:14:52.045207+00:00",
-    "used": false,
-    "_sort_date": "2026-10-19T22:14:52.045207+00:00"
-  },
-  {
     "id": "rss_2a84540fbcea",
     "source": "The Defiant",
     "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
@@ -2718,5 +2648,68 @@
     "fetched_at": "2026-10-26T20:42:18.984973+00:00",
     "used": false,
     "_sort_date": "2026-10-26T20:42:18.984973+00:00"
+  },
+  {
+    "id": "rss_cf291a8d127e",
+    "source": "The Defiant",
+    "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+    "published_at": "Mon, 26 Oct 2026 23:37:47 GMT",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ccf2cb2144b",
+    "source": "The Defiant",
+    "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
+    "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+    "published_at": "Mon, 26 Oct 2026 21:53:17 GMT",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cec71dce18c",
+    "source": "The Defiant",
+    "title": "Akash Opens Vote to Move From Cosmos to Solana",
+    "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+    "published_at": "Mon, 26 Oct 2026 21:39:27 GMT",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b9dea886bbca",
+    "source": "The Defiant",
+    "title": "Bitso Brings Morpho Lending to Its App With Bóvedas",
+    "url": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
+    "published_at": "Mon, 26 Oct 2026 21:10:26 GMT",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8f411fc1745d",
+    "source": "Bankless",
+    "title": "🏴 Rising Onchain Inference Markets",
+    "url": "https://www.bankless.com/read/rising-onchain-inference-markets",
+    "published_at": "Mon, 26 Oct 2026 17:15:24 -0400",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_05ba21ee5b08",
+    "source": "Bankless",
+    "title": "The Rise of Onchain Inference Markets",
+    "url": "https://www.bankless.com/read/the-rise-of-onchain-inference-markets",
+    "published_at": "Mon, 26 Oct 2026 16:51:15 -0400",
+    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102700",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,017,541,961 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-27T00:20:02.487605+00:00",
+    "used": false
   }
 ]
