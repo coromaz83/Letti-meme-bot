@@ -1,34 +1,5 @@
 [
   {
-    "id": "rss_80f9a5e96158",
-    "source": "The Defiant",
-    "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
-    "published_at": "Tue, 20 Oct 2026 02:39:23 GMT",
-    "fetched_at": "2026-10-20T06:28:38.515554+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T02:39:23+00:00"
-  },
-  {
-    "id": "rss_5c69c76d85c8",
-    "source": "The Defiant",
-    "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
-    "url": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
-    "published_at": "Tue, 20 Oct 2026 01:47:17 GMT",
-    "fetched_at": "2026-10-20T06:28:38.515554+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102006",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,180,732,161 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-20T06:28:41.806557+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T06:28:41.806557+00:00"
-  },
-  {
     "id": "rss_92d51fccc716",
     "source": "The Defiant",
     "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
@@ -2674,6 +2645,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-27T05:28:35.921721+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4e747c7ca484",
+    "source": "CoinDesk",
+    "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+    "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+    "published_at": "Tue, 27 Oct 2026 07:09:56 +0000",
+    "fetched_at": "2026-10-27T10:53:15.288644+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d7fa273d12a1",
+    "source": "The Defiant",
+    "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
+    "url": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
+    "published_at": "Tue, 27 Oct 2026 10:27:35 GMT",
+    "fetched_at": "2026-10-27T10:53:15.288644+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bfc7eddb1c28",
+    "source": "The Defiant",
+    "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
+    "url": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
+    "published_at": "Tue, 27 Oct 2026 10:08:39 GMT",
+    "fetched_at": "2026-10-27T10:53:15.288644+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_07c42d84771a",
+    "source": "The Defiant",
+    "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
+    "published_at": "Tue, 27 Oct 2026 09:38:37 GMT",
+    "fetched_at": "2026-10-27T10:53:15.288644+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b68163cbe9f",
+    "source": "The Defiant",
+    "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
+    "url": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
+    "published_at": "Tue, 27 Oct 2026 08:20:29 GMT",
+    "fetched_at": "2026-10-27T10:53:15.288644+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102710",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,001,903,448 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-27T10:53:17.439729+00:00",
     "used": false
   }
 ]
