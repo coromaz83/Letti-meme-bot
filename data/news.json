@@ -2645,7 +2645,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-27T05:28:35.921721+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T05:28:35.921721+00:00"
   },
   {
     "id": "rss_4e747c7ca484",
@@ -2654,7 +2655,8 @@
     "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
     "published_at": "Tue, 27 Oct 2026 07:09:56 +0000",
     "fetched_at": "2026-10-27T10:53:15.288644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T07:09:56+00:00"
   },
   {
     "id": "rss_d7fa273d12a1",
@@ -2663,7 +2665,8 @@
     "url": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
     "published_at": "Tue, 27 Oct 2026 10:27:35 GMT",
     "fetched_at": "2026-10-27T10:53:15.288644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T10:27:35+00:00"
   },
   {
     "id": "rss_bfc7eddb1c28",
@@ -2672,7 +2675,8 @@
     "url": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
     "published_at": "Tue, 27 Oct 2026 10:08:39 GMT",
     "fetched_at": "2026-10-27T10:53:15.288644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T10:08:39+00:00"
   },
   {
     "id": "rss_07c42d84771a",
@@ -2681,7 +2685,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
     "published_at": "Tue, 27 Oct 2026 09:38:37 GMT",
     "fetched_at": "2026-10-27T10:53:15.288644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T09:38:37+00:00"
   },
   {
     "id": "rss_9b68163cbe9f",
@@ -2690,7 +2695,8 @@
     "url": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
     "published_at": "Tue, 27 Oct 2026 08:20:29 GMT",
     "fetched_at": "2026-10-27T10:53:15.288644+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T08:20:29+00:00"
   },
   {
     "id": "llama_2026102710",
@@ -2699,6 +2705,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-27T10:53:17.439729+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-27T10:53:17.439729+00:00"
   }
 ]
