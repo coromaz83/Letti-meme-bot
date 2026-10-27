@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_92d51fccc716",
-    "source": "The Defiant",
-    "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
-    "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
-    "published_at": "Tue, 20 Oct 2026 11:53:34 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T11:53:34+00:00"
-  },
-  {
-    "id": "rss_eff2835d7846",
-    "source": "The Defiant",
-    "title": "Revolut Disruption Hits Payments and Crypto Services",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-disruption-hits-payments-and-crypto-services",
-    "published_at": "Tue, 20 Oct 2026 10:54:21 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T10:54:21+00:00"
-  },
-  {
-    "id": "rss_03c96859052c",
-    "source": "The Defiant",
-    "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
-    "published_at": "Tue, 20 Oct 2026 10:09:57 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T10:09:57+00:00"
-  },
-  {
-    "id": "rss_0119982ccc53",
-    "source": "The Defiant",
-    "title": "Drift-Linked Wallet Sends $54.8 Million in ETH to Tornado Cash",
-    "url": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
-    "published_at": "Tue, 20 Oct 2026 09:12:49 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T09:12:49+00:00"
-  },
-  {
-    "id": "rss_e5f6d8cf25ff",
-    "source": "The Defiant",
-    "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
-    "url": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
-    "published_at": "Tue, 20 Oct 2026 08:02:39 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T08:02:39+00:00"
-  },
-  {
-    "id": "rss_c68b5fb71807",
-    "source": "The Defiant",
-    "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
-    "url": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
-    "published_at": "Tue, 20 Oct 2026 07:49:17 GMT",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T07:49:17+00:00"
-  },
-  {
-    "id": "rss_9d800307d05d",
-    "source": "CryptoSlate",
-    "title": "Bitcoin ETF comeback exposes a $630 million divide with Ethereum as BlackRock dominates",
-    "url": "https://cryptoslate.com/bitcoin-etf-comeback-exposes-a-630-million-divide-with-ethereum-as-blackrock-dominates/",
-    "published_at": "Tue, 20 Oct 2026 09:50:52 +0000",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T09:50:52+00:00"
-  },
-  {
-    "id": "rss_a633e474da8a",
-    "source": "CryptoSlate",
-    "title": "JPMorgan drops JPM Coin on Ethereum with zero retail access",
-    "url": "https://cryptoslate.com/jpmorgan-drops-jpm-coin-on-ethereum-with-zero-retail-access/",
-    "published_at": "Tue, 20 Oct 2026 06:30:25 +0000",
-    "fetched_at": "2026-10-20T12:02:05.712102+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T06:30:25+00:00"
-  },
-  {
-    "id": "llama_2026102012",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,157,770,418 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-20T12:02:08.139962+00:00",
-    "used": false,
-    "_sort_date": "2026-10-20T12:02:08.139962+00:00"
-  },
-  {
     "id": "rss_ec0369489b16",
     "source": "Cointelegraph Base",
     "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -2707,5 +2617,149 @@
     "fetched_at": "2026-10-27T10:53:17.439729+00:00",
     "used": false,
     "_sort_date": "2026-10-27T10:53:17.439729+00:00"
+  },
+  {
+    "id": "rss_b23827d3aea1",
+    "source": "CoinDesk",
+    "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+    "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "published_at": "Tue, 27 Oct 2026 14:21:10 +0000",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_773945c4d7d1",
+    "source": "CoinDesk",
+    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+    "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "published_at": "Tue, 27 Oct 2026 14:00:00 +0000",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb9946b3c0dc",
+    "source": "The Defiant",
+    "title": "NEAR Adds Confidential Jio Pre-IPO Trading Ahead of Listing",
+    "url": "https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing",
+    "published_at": "Tue, 27 Oct 2026 15:45:04 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_63029ac3b630",
+    "source": "The Defiant",
+    "title": "Ondo Brings 15 Stock Tokens to Robinhood Chain With Uniswap Pools",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ondo-brings-15-stock-tokens-to-robinhood-chain-with-uniswap-pools",
+    "published_at": "Tue, 27 Oct 2026 15:44:31 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5f02ebb8abb7",
+    "source": "The Defiant",
+    "title": "Robinhood Opens Earn to All Eligible Users for Onchain USDG Lending",
+    "url": "https://thedefiant.io/news/defi/robinhood-opens-earn-to-all-eligible-users-for-onchain-usdg-lending",
+    "published_at": "Tue, 27 Oct 2026 15:11:41 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f848fefa5316",
+    "source": "The Defiant",
+    "title": "ENSv2 Activation Queued, Setting Up End to New ENSv1 Registrations",
+    "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-queued-setting-up-end-to-new-ensv1-registrations",
+    "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aeea3eecdb8c",
+    "source": "The Defiant",
+    "title": "Polymarket Investigated 'Dozens' of Midterm Bets, NPR Reports",
+    "url": "https://thedefiant.io/news/regulation/polymarket-investigated-dozens-of-midterm-bets-npr-reports",
+    "published_at": "Tue, 27 Oct 2026 14:25:19 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4a2938da1529",
+    "source": "The Defiant",
+    "title": "Bitget Wallet Brings USD and EUR Virtual Accounts to 100 Million Users",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/bitget-wallet-launches-usd-eur-virtual-accounts-with-noah",
+    "published_at": "Tue, 27 Oct 2026 13:36:56 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc2ef9b8f7f9",
+    "source": "The Defiant",
+    "title": "SBLOC vs. Margin Loan: How Borrowing Against Shares Differs",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/sbloc-vs-margin-loan-how-borrowing-against-shares-differs",
+    "published_at": "Tue, 27 Oct 2026 13:19:56 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3e4f0360b689",
+    "source": "The Defiant",
+    "title": "Common vs. Preferred Dividends: What MSTR and STRC Holders Can Claim",
+    "url": "https://thedefiant.io/news/cefi/common-vs-preferred-dividends-what-mstr-and-strc-holders-can-claim",
+    "published_at": "Tue, 27 Oct 2026 13:19:32 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_444a39734b9f",
+    "source": "The Defiant",
+    "title": "Stop-Loss vs. Stop-Limit: Why a Trigger Is Not a Fill",
+    "url": "https://thedefiant.io/news/defi/stop-loss-vs-stop-limit-why-a-trigger-is-not-a-fill",
+    "published_at": "Tue, 27 Oct 2026 13:16:27 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a2910d6a311",
+    "source": "The Defiant",
+    "title": "Janus Henderson Announces Tokenized Nasdaq-100 Fund on Stellar",
+    "url": "https://thedefiant.io/converge/defi/janus-henderson-announces-tokenized-nasdaq-100-fund-on-stellar",
+    "published_at": "Tue, 27 Oct 2026 13:14:44 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_94ac3ac2ca01",
+    "source": "The Defiant",
+    "title": "SoFi Reports $161.6 Million in Q3 Crypto Revenue, $1.6 Million Net",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-reports-161-6-million-in-q3-crypto-revenue-1-6-million-net",
+    "published_at": "Tue, 27 Oct 2026 12:57:21 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ba98fa2b8eb",
+    "source": "The Defiant",
+    "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
+    "url": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
+    "published_at": "Tue, 27 Oct 2026 11:40:52 GMT",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c8b96bc0663d",
+    "source": "CryptoSlate",
+    "title": "Coinbase sets 3-day MiCA deadline for USDT, PayPal and Trump-linked stablecoins",
+    "url": "https://cryptoslate.com/coinbase-sets-3-day-mica-deadline-for-usdt-paypal-and-trump-linked-stablecoins/",
+    "published_at": "Tue, 27 Oct 2026 11:20:33 +0000",
+    "fetched_at": "2026-10-27T16:22:54.720687+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102716",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,060,367,006 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-27T16:22:57.621222+00:00",
+    "used": false
   }
 ]
