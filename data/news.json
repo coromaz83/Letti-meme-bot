@@ -2616,7 +2616,8 @@
     "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
     "published_at": "Mon, 26 Oct 2026 16:05:12 +0000",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T16:05:12+00:00"
   },
   {
     "id": "rss_6305f2857511",
@@ -2625,7 +2626,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits",
     "published_at": "Mon, 26 Oct 2026 20:11:58 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T20:11:58+00:00"
   },
   {
     "id": "rss_0ba717fcf071",
@@ -2634,7 +2636,8 @@
     "url": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
     "published_at": "Mon, 26 Oct 2026 17:41:36 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T17:41:36+00:00"
   },
   {
     "id": "rss_7ea34c68a51e",
@@ -2643,7 +2646,8 @@
     "url": "https://thedefiant.io/news/defi/aave-raises-usdt-borrowing-costs-at-high-utilization",
     "published_at": "Mon, 26 Oct 2026 17:41:08 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T17:41:08+00:00"
   },
   {
     "id": "rss_be5caf4aeb97",
@@ -2652,7 +2656,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/buying-pre-ipo-shares-vs-funds-what-us-investors-actually-own",
     "published_at": "Mon, 26 Oct 2026 17:18:01 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T17:18:01+00:00"
   },
   {
     "id": "rss_00dcb1b42588",
@@ -2661,7 +2666,8 @@
     "url": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
     "published_at": "Mon, 26 Oct 2026 16:39:38 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T16:39:38+00:00"
   },
   {
     "id": "rss_df2ede3e9565",
@@ -2670,7 +2676,8 @@
     "url": "https://thedefiant.io/converge/defi/chainlink-introduces-custodysync-with-anchorage-for-custodied-defi-borrowing",
     "published_at": "Mon, 26 Oct 2026 16:26:58 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T16:26:58+00:00"
   },
   {
     "id": "rss_61ccc199cc64",
@@ -2679,7 +2686,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/primerevenue-announces-solana-tokenization-of-corporate-payment-drafts",
     "published_at": "Mon, 26 Oct 2026 16:06:03 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T16:06:03+00:00"
   },
   {
     "id": "rss_b5aec224f0bf",
@@ -2688,7 +2696,8 @@
     "url": "https://thedefiant.io/news/defi/balancer-says-review-found-over-500-000-in-overlooked-user-assets",
     "published_at": "Mon, 26 Oct 2026 15:49:35 GMT",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T15:49:35+00:00"
   },
   {
     "id": "rss_bb2a699e2966",
@@ -2697,7 +2706,8 @@
     "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
     "published_at": "Mon, 26 Oct 2026 15:36:03 +0000",
     "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T15:36:03+00:00"
   },
   {
     "id": "llama_2026102620",
@@ -2706,6 +2716,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-26T20:42:18.984973+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-26T20:42:18.984973+00:00"
   }
 ]
