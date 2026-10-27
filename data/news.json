@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_2a84540fbcea",
-    "source": "The Defiant",
-    "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
-    "published_at": "Mon, 19 Oct 2026 23:18:24 GMT",
-    "fetched_at": "2026-10-20T01:11:18.712839+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c2399f294522",
-    "source": "The Defiant",
-    "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
-    "url": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
-    "published_at": "Mon, 19 Oct 2026 22:43:41 GMT",
-    "fetched_at": "2026-10-20T01:11:18.712839+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a080b121b6b4",
-    "source": "The Defiant",
-    "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
-    "url": "https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral",
-    "published_at": "Mon, 19 Oct 2026 22:20:45 GMT",
-    "fetched_at": "2026-10-20T01:11:18.712839+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_730d036502d1",
-    "source": "CryptoSlate",
-    "title": "Whale loses $469,000 in hours on Hyperliquid, yet re-enters with $16M ETH short bet",
-    "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures/",
-    "published_at": "Mon, 19 Oct 2026 23:40:46 +0000",
-    "fetched_at": "2026-10-20T01:11:18.712839+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102001",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,182,052,481 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-20T01:11:23.885123+00:00",
-    "used": false
-  },
-  {
     "id": "rss_80f9a5e96158",
     "source": "The Defiant",
     "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
@@ -2710,6 +2665,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-27T00:20:02.487605+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102705",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,013,247,426 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-27T05:28:35.921721+00:00",
     "used": false
   }
 ]
