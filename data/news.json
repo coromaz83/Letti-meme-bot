@@ -1,184 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_404e4c97b204",
-    "source": "The Defiant",
-    "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
-    "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
-    "published_at": "Wed, 21 Oct 2026 14:21:15 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T14:21:15+00:00"
-  },
-  {
-    "id": "rss_9425c5d7092f",
-    "source": "The Defiant",
-    "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
-    "url": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
-    "published_at": "Wed, 21 Oct 2026 13:46:22 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T13:46:22+00:00"
-  },
-  {
-    "id": "rss_fe5751c51003",
-    "source": "The Defiant",
-    "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
-    "url": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
-    "published_at": "Wed, 21 Oct 2026 13:35:28 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T13:35:28+00:00"
-  },
-  {
-    "id": "rss_8cb9de0de57a",
-    "source": "The Defiant",
-    "title": "Ledger Adds Morpho Loans Against Wrapped Bitcoin",
-    "url": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
-    "published_at": "Wed, 21 Oct 2026 13:06:39 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T13:06:39+00:00"
-  },
-  {
-    "id": "rss_038fc2ff562a",
-    "source": "The Defiant",
-    "title": "Standard Chartered Signs Deal to Take Full Ownership of Zodia Custody",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-signs-deal-to-take-full-ownership-of-zodia-custody",
-    "published_at": "Wed, 21 Oct 2026 12:13:07 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:13:07+00:00"
-  },
-  {
-    "id": "rss_539e5cdd2b5c",
-    "source": "The Defiant",
-    "title": "Western Union Picks Noah to Settle Receiver Redirect Payouts in USDPT",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-picks-noah-to-settle-receiver-redirect-payouts-in-usdpt",
-    "published_at": "Wed, 21 Oct 2026 12:08:50 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:08:50+00:00"
-  },
-  {
-    "id": "rss_0fb63e45cdb3",
-    "source": "The Defiant",
-    "title": "Lido Lend Exit Plan Would Tap Borrower Collateral for Withdrawals",
-    "url": "https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals",
-    "published_at": "Wed, 21 Oct 2026 12:08:20 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:08:20+00:00"
-  },
-  {
-    "id": "rss_27c2d445e1c3",
-    "source": "The Defiant",
-    "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
-    "published_at": "Wed, 21 Oct 2026 12:06:07 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:06:07+00:00"
-  },
-  {
-    "id": "rss_0a4483b3ff78",
-    "source": "The Defiant",
-    "title": "OpenSea Opens Mobile App to All Users, Pays Referrers 25% of Fees",
-    "url": "https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees",
-    "published_at": "Wed, 21 Oct 2026 12:03:47 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:03:47+00:00"
-  },
-  {
-    "id": "rss_377f335d8ad9",
-    "source": "The Defiant",
-    "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
-    "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
-    "published_at": "Wed, 21 Oct 2026 12:03:07 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T12:03:07+00:00"
-  },
-  {
-    "id": "rss_ecd92b4c5ca5",
-    "source": "The Defiant",
-    "title": "Binance to Reprice bStocks Collateral While US Stock Markets Are Closed",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-to-reprice-bstocks-collateral-while-us-stock-markets-are-closed",
-    "published_at": "Wed, 21 Oct 2026 11:23:00 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T11:23:00+00:00"
-  },
-  {
-    "id": "rss_eb0cf0f1d079",
-    "source": "The Defiant",
-    "title": "OCC Finalizes GENIUS Act Rule, Drops Third-Party Yield Presumption",
-    "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
-    "published_at": "Wed, 21 Oct 2026 11:12:00 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T11:12:00+00:00"
-  },
-  {
-    "id": "rss_a1f877848899",
-    "source": "The Defiant",
-    "title": "SpaceX Share Unlock Looms Over Aave Collateral Proposal",
-    "url": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
-    "published_at": "Wed, 21 Oct 2026 10:12:12 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T10:12:12+00:00"
-  },
-  {
-    "id": "rss_4c033f2bceaf",
-    "source": "The Defiant",
-    "title": "OpenStocks' BNB Chain Tokens Offer Price Exposure, Not Private Shares",
-    "url": "https://thedefiant.io/news/tokens/openstocks-bnb-chain-tokens-offer-price-exposure-not-private-shares",
-    "published_at": "Wed, 21 Oct 2026 09:33:59 GMT",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T09:33:59+00:00"
-  },
-  {
-    "id": "rss_19b6c9f4d36c",
-    "source": "CryptoSlate",
-    "title": "Lido’s proposed exits would pay lenders with borrower collateral",
-    "url": "https://cryptoslate.com/lidos-proposed-exits-could-unwind-eth-loans-before-borrowers-reach-liquidation/",
-    "published_at": "Wed, 21 Oct 2026 11:50:55 +0000",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T11:50:55+00:00"
-  },
-  {
-    "id": "rss_4ca445dc8f2a",
-    "source": "Decrypt",
-    "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-    "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-    "published_at": "Wed, 21 Oct 2026 14:24:25 +0000",
-    "fetched_at": "2026-10-21T15:00:38.996051+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T14:24:25+00:00"
-  },
-  {
-    "id": "llama_2026102115",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,310,677,966 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-21T15:00:43.022534+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T15:00:43.022534+00:00"
-  },
-  {
     "id": "rss_8e607a06700f",
     "source": "CoinDesk",
     "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
@@ -2763,5 +2584,140 @@
     "fetched_at": "2026-10-28T13:26:33.811295+00:00",
     "used": false,
     "_sort_date": "2026-10-28T13:26:33.811295+00:00"
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_686267bd22b4",
+    "source": "CoinDesk",
+    "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+    "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+    "published_at": "Wed, 28 Oct 2026 17:02:57 +0000",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_74b7b05fa7cc",
+    "source": "The Defiant",
+    "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
+    "url": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
+    "published_at": "Wed, 28 Oct 2026 18:38:18 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_345b624ce26f",
+    "source": "The Defiant",
+    "title": "Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer",
+    "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+    "published_at": "Wed, 28 Oct 2026 18:13:39 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6442f664646a",
+    "source": "The Defiant",
+    "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
+    "url": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
+    "published_at": "Wed, 28 Oct 2026 18:12:28 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23888aff008f",
+    "source": "The Defiant",
+    "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
+    "url": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
+    "published_at": "Wed, 28 Oct 2026 17:29:16 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_50ee0a8a9491",
+    "source": "The Defiant",
+    "title": "Why a Liquidity Pool Can Earn Fees and Still Trail Holding",
+    "url": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
+    "published_at": "Wed, 28 Oct 2026 17:11:51 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b4fe302d076a",
+    "source": "The Defiant",
+    "title": "Robinhood Adds Eight Stock and ETF Tokens to Its Chain",
+    "url": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
+    "published_at": "Wed, 28 Oct 2026 16:56:48 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3d7a5451703",
+    "source": "The Defiant",
+    "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App",
+    "url": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+    "published_at": "Wed, 28 Oct 2026 16:16:54 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ead453975d9f",
+    "source": "The Defiant",
+    "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
+    "url": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
+    "published_at": "Wed, 28 Oct 2026 15:53:35 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8aa4c79daa61",
+    "source": "The Defiant",
+    "title": "Kamino Opens USDC Loans Against Backpack Tokenized Stocks",
+    "url": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
+    "published_at": "Wed, 28 Oct 2026 15:44:37 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c2306ddddb3d",
+    "source": "The Defiant",
+    "title": "Euronext Restarts CoinShares’ Zcash ETP After Debut-Day Halt",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt",
+    "published_at": "Wed, 28 Oct 2026 14:43:50 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aab5ab6558d5",
+    "source": "The Defiant",
+    "title": "Kraken to Cancel Orders on 176 Pairs in Synthetic Trading Shift",
+    "url": "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift",
+    "published_at": "Wed, 28 Oct 2026 14:01:56 GMT",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e5e41d1dc4a4",
+    "source": "CryptoSlate",
+    "title": "Ethereum client security fixes leave binary users with a separate Java check",
+    "url": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
+    "published_at": "Wed, 28 Oct 2026 15:40:51 +0000",
+    "fetched_at": "2026-10-28T19:02:46.147292+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102819",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,041,388,109 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-28T19:02:49.016339+00:00",
+    "used": false
   }
 ]
