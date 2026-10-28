@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_a4ca19b3037e",
-    "source": "The Defiant",
-    "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
-    "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
-    "published_at": "Tue, 20 Oct 2026 21:38:18 GMT",
-    "fetched_at": "2026-10-20T23:45:24.205836+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,259,194,880 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-20T23:45:32.340325+00:00",
-    "used": false
-  },
-  {
     "id": "rss_386a3696d099",
     "source": "The Defiant",
     "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
@@ -2646,6 +2628,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-27T20:53:32.394586+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec0369489b16",
+    "source": "Cointelegraph Base",
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
+    "fetched_at": "2026-10-28T00:23:38.333739+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b84445bcc282",
+    "source": "The Defiant",
+    "title": "IPX Names Ja Rule President of Its Celebrity Board of Advisors and Founding Member",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors",
+    "published_at": "Wed, 28 Oct 2026 00:12:35 GMT",
+    "fetched_at": "2026-10-28T00:23:38.333739+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102800",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,128,337,474 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-28T00:23:41.165055+00:00",
     "used": false
   }
 ]
