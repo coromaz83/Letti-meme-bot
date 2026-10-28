@@ -1,84 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f3bf8154c96b",
-    "source": "CoinDesk",
-    "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-    "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-    "published_at": "Wed, 21 Oct 2026 08:47:11 +0000",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T08:47:11+00:00"
-  },
-  {
-    "id": "rss_631e8ce7e6b8",
-    "source": "The Defiant",
-    "title": "Evernorth’s $132.2 Million Warrant Registration Goes Effective",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-s-132-2-million-warrant-registration-goes-effective",
-    "published_at": "Wed, 21 Oct 2026 09:28:54 GMT",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T09:28:54+00:00"
-  },
-  {
-    "id": "rss_14562449217b",
-    "source": "The Defiant",
-    "title": "SideSwap Reports About 600 Redemptions After Reopening L-BTC Swaps",
-    "url": "https://thedefiant.io/news/security/sideswap-reports-about-600-redemptions-after-reopening-l-btc-swaps",
-    "published_at": "Wed, 21 Oct 2026 09:09:53 GMT",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T09:09:53+00:00"
-  },
-  {
-    "id": "rss_8195e59cacda",
-    "source": "The Defiant",
-    "title": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
-    "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
-    "published_at": "Wed, 21 Oct 2026 08:16:47 GMT",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T08:16:47+00:00"
-  },
-  {
-    "id": "rss_02ae1deafb26",
-    "source": "The Defiant",
-    "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
-    "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
-    "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T07:58:31+00:00"
-  },
-  {
-    "id": "rss_8fed2d66be36",
-    "source": "The Defiant",
-    "title": "SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes",
-    "url": "https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes",
-    "published_at": "Wed, 21 Oct 2026 05:46:01 GMT",
-    "fetched_at": "2026-10-21T09:31:58.643495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T05:46:01+00:00"
-  },
-  {
-    "id": "llama_2026102109",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,252,188,339 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-21T09:32:02.330615+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T09:32:02.330615+00:00"
-  },
-  {
     "id": "rss_03c1cbf97587",
     "source": "Cointelegraph Base",
     "title": "Trueo prediction market moves from Base to Ethereum",
@@ -2699,6 +2620,132 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T06:10:33.758666+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3047152320aa",
+    "source": "The Defiant",
+    "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice",
+    "published_at": "Wed, 28 Oct 2026 13:19:46 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9b477023f921",
+    "source": "The Defiant",
+    "title": "Phantom Widens US Rollout of Kalshi Prediction Markets",
+    "url": "https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets",
+    "published_at": "Wed, 28 Oct 2026 13:16:11 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_93146fb3a629",
+    "source": "The Defiant",
+    "title": "How Aave’s Variable Borrow Rate Changes an Existing USDT Loan",
+    "url": "https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan",
+    "published_at": "Wed, 28 Oct 2026 13:15:53 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ff87eaeb556",
+    "source": "The Defiant",
+    "title": "Coinbase Lists Ripple’s RLUSD With Transfers on Three Networks",
+    "url": "https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks",
+    "published_at": "Wed, 28 Oct 2026 12:23:34 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_37eb6c4c5ab5",
+    "source": "The Defiant",
+    "title": "Ethena Pay Rolls Out Earn+ With Up to 12% Target Rewards",
+    "url": "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards",
+    "published_at": "Wed, 28 Oct 2026 12:12:26 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_adb93cf44f2f",
+    "source": "The Defiant",
+    "title": "DTCC’s Tokenization Service Goes Live With 34 Securities",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities",
+    "published_at": "Wed, 28 Oct 2026 12:08:46 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d34f008e736",
+    "source": "The Defiant",
+    "title": "Soneium Opens Royalty Vault With $600,000 Launch Cap",
+    "url": "https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap",
+    "published_at": "Wed, 28 Oct 2026 11:17:54 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7f2da7d4fbc3",
+    "source": "The Defiant",
+    "title": "OKXICE Objections Rise to 33 as Stock-Token Lineup Shrinks",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks",
+    "published_at": "Wed, 28 Oct 2026 11:12:43 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_08ce54da6f7f",
+    "source": "The Defiant",
+    "title": "Stellar Unveils Fee-Free Network Processing 7 Million Payments per Second",
+    "url": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
+    "published_at": "Wed, 28 Oct 2026 10:58:09 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cd299e623dcc",
+    "source": "The Defiant",
+    "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
+    "url": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+    "published_at": "Wed, 28 Oct 2026 07:37:00 GMT",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_26871d2943ab",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s $3 billion blockspace bet hinges on who gets to produce the next block",
+    "url": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
+    "published_at": "Wed, 28 Oct 2026 09:40:42 +0000",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_681c02ba7cd6",
+    "source": "Decrypt",
+    "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+    "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
+    "published_at": "Wed, 28 Oct 2026 13:01:02 +0000",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ac4422371254",
+    "source": "Decrypt",
+    "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+    "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+    "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
+    "fetched_at": "2026-10-28T13:26:30.623079+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102813",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,161,199,262 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-28T13:26:33.811295+00:00",
     "used": false
   }
 ]
