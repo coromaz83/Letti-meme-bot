@@ -1,293 +1,5 @@
 [
   {
-    "id": "rss_8e607a06700f",
-    "source": "CoinDesk",
-    "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-    "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-    "published_at": "Wed, 21 Oct 2026 15:22:46 +0000",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T15:22:46+00:00"
-  },
-  {
-    "id": "rss_29e38c8a40a1",
-    "source": "CoinDesk",
-    "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-    "published_at": "Wed, 21 Oct 2026 15:00:53 +0000",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T15:00:53+00:00"
-  },
-  {
-    "id": "rss_c922af4c5363",
-    "source": "The Defiant",
-    "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
-    "url": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
-    "published_at": "Wed, 21 Oct 2026 17:15:03 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T17:15:03+00:00"
-  },
-  {
-    "id": "rss_6393e7c131d0",
-    "source": "The Defiant",
-    "title": "OKX Combines Euro and EURC Liquidity in One Spot Order Book",
-    "url": "https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book",
-    "published_at": "Wed, 21 Oct 2026 16:54:03 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:54:03+00:00"
-  },
-  {
-    "id": "rss_7d9ca2b297fb",
-    "source": "The Defiant",
-    "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
-    "url": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
-    "published_at": "Wed, 21 Oct 2026 16:53:04 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:53:04+00:00"
-  },
-  {
-    "id": "rss_c182543b5784",
-    "source": "The Defiant",
-    "title": "NSA Urges PHP Users to Patch or Take Systems Offline",
-    "url": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
-    "published_at": "Wed, 21 Oct 2026 16:51:42 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:51:42+00:00"
-  },
-  {
-    "id": "rss_7b78a3d9943e",
-    "source": "The Defiant",
-    "title": "Eclair Patches Lightning Bugs That Could Let Peers Steal Funds",
-    "url": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
-    "published_at": "Wed, 21 Oct 2026 16:50:48 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:50:48+00:00"
-  },
-  {
-    "id": "rss_9137616d8d14",
-    "source": "The Defiant",
-    "title": "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
-    "url": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
-    "published_at": "Wed, 21 Oct 2026 16:38:20 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:38:20+00:00"
-  },
-  {
-    "id": "rss_2dce5a17e118",
-    "source": "The Defiant",
-    "title": "Sunrise Brings Backpack’s Tokenized Meta Shares to Solana",
-    "url": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
-    "published_at": "Wed, 21 Oct 2026 16:23:30 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T16:23:30+00:00"
-  },
-  {
-    "id": "rss_15b78496906d",
-    "source": "The Defiant",
-    "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
-    "url": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
-    "published_at": "Wed, 21 Oct 2026 15:01:45 GMT",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T15:01:45+00:00"
-  },
-  {
-    "id": "rss_fc6e8c0e177a",
-    "source": "Bankless",
-    "title": "Coinbase's Plan for a Quantum-Safe Bitcoin",
-    "url": "https://www.bankless.com/read/coinbases-plan-for-a-quantum-safe-bitcoin",
-    "published_at": "Wed, 21 Oct 2026 13:24:55 -0400",
-    "fetched_at": "2026-10-21T19:30:44.591345+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T13:24:55-04:00"
-  },
-  {
-    "id": "llama_2026102119",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,378,202,305 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-21T19:30:47.942495+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T19:30:47.942495+00:00"
-  },
-  {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a0b46678470d",
-    "source": "The Defiant",
-    "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
-    "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
-    "published_at": "Wed, 21 Oct 2026 22:45:11 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T22:45:11+00:00"
-  },
-  {
-    "id": "rss_d20b9685d3d7",
-    "source": "The Defiant",
-    "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
-    "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
-    "published_at": "Wed, 21 Oct 2026 22:40:13 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T22:40:13+00:00"
-  },
-  {
-    "id": "rss_087892174515",
-    "source": "The Defiant",
-    "title": "Railway Urges All Users to Rotate Secrets After Security Incident",
-    "url": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
-    "published_at": "Wed, 21 Oct 2026 22:34:10 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T22:34:10+00:00"
-  },
-  {
-    "id": "rss_4b7cdd2f81ff",
-    "source": "The Defiant",
-    "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
-    "url": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
-    "published_at": "Wed, 21 Oct 2026 21:24:58 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T21:24:58+00:00"
-  },
-  {
-    "id": "rss_bb88adf48d13",
-    "source": "The Defiant",
-    "title": "Matter Labs Debuts Prividium Commander For Institutions",
-    "url": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
-    "published_at": "Wed, 21 Oct 2026 21:13:40 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T21:13:40+00:00"
-  },
-  {
-    "id": "rss_ec0a7ff77db1",
-    "source": "The Defiant",
-    "title": "Mastercard Opens AI Machine-Payment Pilot to Developers",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-ai-machine-payment-pilot-to-developers",
-    "published_at": "Wed, 21 Oct 2026 20:29:59 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T20:29:59+00:00"
-  },
-  {
-    "id": "rss_71824f9ee437",
-    "source": "The Defiant",
-    "title": "Vantage and Rio Bank Use Tokenized Deposits for Loan Payment on Ethereum",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/vantage-and-rio-bank-use-tokenized-deposits-for-loan-payment-on-ethereum",
-    "published_at": "Wed, 21 Oct 2026 20:29:37 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T20:29:37+00:00"
-  },
-  {
-    "id": "rss_5ceda56e751b",
-    "source": "The Defiant",
-    "title": "Yuga Labs Launches Mudwater Trading-Card NFTs on Solana",
-    "url": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-launches-mudwater-trading-card-nfts-on-solana",
-    "published_at": "Wed, 21 Oct 2026 20:29:33 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T20:29:33+00:00"
-  },
-  {
-    "id": "rss_c92b075aab25",
-    "source": "The Defiant",
-    "title": "Trump Touts Crypto Scam Crackdown as DOJ Reports $938 Million Restrained",
-    "url": "https://thedefiant.io/news/regulation/trump-touts-crypto-scam-crackdown-as-doj-reports-938-million-restrained",
-    "published_at": "Wed, 21 Oct 2026 20:29:24 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T20:29:24+00:00"
-  },
-  {
-    "id": "rss_7faed7fd0ef8",
-    "source": "The Defiant",
-    "title": "Dolomite Adds $100 Million in Concrete’s Bitcoin-Backed Collateral",
-    "url": "https://thedefiant.io/news/defi/dolomite-adds-100-million-in-concrete-s-bitcoin-backed-collateral",
-    "published_at": "Wed, 21 Oct 2026 19:52:18 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T19:52:18+00:00"
-  },
-  {
-    "id": "rss_0f967c535a8f",
-    "source": "The Defiant",
-    "title": "13 JPMD Lookalikes Emerge Amid JPMorgan’s Ethereum Launch",
-    "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
-    "published_at": "Wed, 21 Oct 2026 19:48:15 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T19:48:15+00:00"
-  },
-  {
-    "id": "rss_bbb0130a3b14",
-    "source": "The Defiant",
-    "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
-    "url": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
-    "published_at": "Wed, 21 Oct 2026 19:47:52 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T19:47:52+00:00"
-  },
-  {
-    "id": "rss_a608e48da8f5",
-    "source": "The Defiant",
-    "title": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
-    "url": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
-    "published_at": "Wed, 21 Oct 2026 19:47:17 GMT",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T19:47:17+00:00"
-  },
-  {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-10-21T23:09:19.728217+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T23:09:19.728217+00:00"
-  },
-  {
-    "id": "llama_2026102123",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,374,334,497 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-21T23:09:23.215280+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T23:09:23.215280+00:00"
-  },
-  {
     "id": "rss_cdd30d1e6541",
     "source": "Cointelegraph Base",
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -2718,6 +2430,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T19:02:49.016339+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_351cec5a7905",
+    "source": "The Defiant",
+    "title": "Utah Brings Criminal Charges Against Kalshi and Its Co-Founders",
+    "url": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
+    "published_at": "Wed, 28 Oct 2026 23:18:43 GMT",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5f7ff0b9b5f9",
+    "source": "The Defiant",
+    "title": "MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears",
+    "url": "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears",
+    "published_at": "Wed, 28 Oct 2026 22:21:08 GMT",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ea85ec7d68b2",
+    "source": "The Defiant",
+    "title": "Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain",
+    "url": "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain",
+    "published_at": "Wed, 28 Oct 2026 20:09:45 GMT",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4f4086e72d35",
+    "source": "The Defiant",
+    "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+    "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+    "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1af76cae3ab2",
+    "source": "CryptoSlate",
+    "title": "Ethena Pay’s 11x leverage loop promises high yield, but risks hidden losses",
+    "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses/",
+    "published_at": "Wed, 28 Oct 2026 22:10:04 +0000",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4af07db336e8",
+    "source": "CryptoSlate",
+    "title": "Coinbase says it wasn’t breached, but hackers don’t need to steal crypto to hurt users",
+    "url": "https://cryptoslate.com/coinbase-says-it-wasnt-breached-but-hackers-dont-need-to-steal-crypto-to-hurt-users/",
+    "published_at": "Wed, 28 Oct 2026 19:40:47 +0000",
+    "fetched_at": "2026-10-28T23:27:15.036369+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102823",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,087,486,530 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-28T23:27:18.117475+00:00",
     "used": false
   }
 ]
