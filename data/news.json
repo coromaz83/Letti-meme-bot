@@ -1,24 +1,5 @@
 [
   {
-    "id": "rss_386a3696d099",
-    "source": "The Defiant",
-    "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
-    "url": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
-    "published_at": "Wed, 21 Oct 2026 00:16:04 GMT",
-    "fetched_at": "2026-10-21T04:25:01.061421+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102104",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,254,458,966 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-21T04:25:04.423015+00:00",
-    "used": false,
-    "_sort_date": "2026-10-21T04:25:04.423015+00:00"
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -2655,6 +2636,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T00:23:41.165055+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_38e5a6180934",
+    "source": "CoinDesk",
+    "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+    "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+    "published_at": "Wed, 28 Oct 2026 03:11:14 +0000",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_51a35fb894cd",
+    "source": "The Defiant",
+    "title": "Moody’s Assigns Ripple’s RLUSD A2 and P-1 Deposit Ratings",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
+    "published_at": "Wed, 28 Oct 2026 05:14:25 GMT",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1166f1d2e68b",
+    "source": "The Defiant",
+    "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
+    "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
+    "published_at": "Wed, 28 Oct 2026 03:16:33 GMT",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2bbb154aa128",
+    "source": "The Defiant",
+    "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
+    "url": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
+    "published_at": "Wed, 28 Oct 2026 01:11:39 GMT",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_654329e25c78",
+    "source": "The Defiant",
+    "title": "Datavault Shares Plunge Nearly 50% After Biconomy Bitcoin Disclosure",
+    "url": "https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure",
+    "published_at": "Wed, 28 Oct 2026 00:56:05 GMT",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8bc12154c617",
+    "source": "The Defiant",
+    "title": "Solflare Validator Stops Earning Rewards After Provider Security Incident",
+    "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+    "published_at": "Wed, 28 Oct 2026 00:29:33 GMT",
+    "fetched_at": "2026-10-28T06:10:30.735108+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102806",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,160,358,963 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-28T06:10:33.758666+00:00",
     "used": false
   }
 ]
