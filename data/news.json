@@ -2575,7 +2575,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
     "published_at": "Wed, 28 Oct 2026 05:14:25 GMT",
     "fetched_at": "2026-10-28T06:10:30.735108+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T05:14:25+00:00"
   },
   {
     "id": "rss_1166f1d2e68b",
@@ -2620,7 +2621,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T06:10:33.758666+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T06:10:33.758666+00:00"
   },
   {
     "id": "rss_3047152320aa",
@@ -2629,7 +2631,8 @@
     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice",
     "published_at": "Wed, 28 Oct 2026 13:19:46 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T13:19:46+00:00"
   },
   {
     "id": "rss_9b477023f921",
@@ -2638,7 +2641,8 @@
     "url": "https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets",
     "published_at": "Wed, 28 Oct 2026 13:16:11 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T13:16:11+00:00"
   },
   {
     "id": "rss_93146fb3a629",
@@ -2647,7 +2651,8 @@
     "url": "https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan",
     "published_at": "Wed, 28 Oct 2026 13:15:53 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T13:15:53+00:00"
   },
   {
     "id": "rss_8ff87eaeb556",
@@ -2656,7 +2661,8 @@
     "url": "https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks",
     "published_at": "Wed, 28 Oct 2026 12:23:34 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T12:23:34+00:00"
   },
   {
     "id": "rss_37eb6c4c5ab5",
@@ -2665,7 +2671,8 @@
     "url": "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards",
     "published_at": "Wed, 28 Oct 2026 12:12:26 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T12:12:26+00:00"
   },
   {
     "id": "rss_adb93cf44f2f",
@@ -2674,7 +2681,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities",
     "published_at": "Wed, 28 Oct 2026 12:08:46 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T12:08:46+00:00"
   },
   {
     "id": "rss_9d34f008e736",
@@ -2683,7 +2691,8 @@
     "url": "https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap",
     "published_at": "Wed, 28 Oct 2026 11:17:54 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T11:17:54+00:00"
   },
   {
     "id": "rss_7f2da7d4fbc3",
@@ -2692,7 +2701,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks",
     "published_at": "Wed, 28 Oct 2026 11:12:43 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T11:12:43+00:00"
   },
   {
     "id": "rss_08ce54da6f7f",
@@ -2701,7 +2711,8 @@
     "url": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
     "published_at": "Wed, 28 Oct 2026 10:58:09 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T10:58:09+00:00"
   },
   {
     "id": "rss_cd299e623dcc",
@@ -2710,7 +2721,8 @@
     "url": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
     "published_at": "Wed, 28 Oct 2026 07:37:00 GMT",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T07:37:00+00:00"
   },
   {
     "id": "rss_26871d2943ab",
@@ -2719,7 +2731,8 @@
     "url": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
     "published_at": "Wed, 28 Oct 2026 09:40:42 +0000",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T09:40:42+00:00"
   },
   {
     "id": "rss_681c02ba7cd6",
@@ -2728,7 +2741,8 @@
     "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
     "published_at": "Wed, 28 Oct 2026 13:01:02 +0000",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T13:01:02+00:00"
   },
   {
     "id": "rss_ac4422371254",
@@ -2737,7 +2751,8 @@
     "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
     "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
     "fetched_at": "2026-10-28T13:26:30.623079+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T10:10:31+00:00"
   },
   {
     "id": "llama_2026102813",
@@ -2746,6 +2761,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T13:26:33.811295+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T13:26:33.811295+00:00"
   }
 ]
