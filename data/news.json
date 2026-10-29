@@ -2313,7 +2313,8 @@
     "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
     "published_at": "Wed, 28 Oct 2026 17:02:57 +0000",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T17:02:57+00:00"
   },
   {
     "id": "rss_74b7b05fa7cc",
@@ -2322,7 +2323,8 @@
     "url": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
     "published_at": "Wed, 28 Oct 2026 18:38:18 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T18:38:18+00:00"
   },
   {
     "id": "rss_345b624ce26f",
@@ -2331,7 +2333,8 @@
     "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
     "published_at": "Wed, 28 Oct 2026 18:13:39 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T18:13:39+00:00"
   },
   {
     "id": "rss_6442f664646a",
@@ -2340,7 +2343,8 @@
     "url": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
     "published_at": "Wed, 28 Oct 2026 18:12:28 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T18:12:28+00:00"
   },
   {
     "id": "rss_23888aff008f",
@@ -2349,7 +2353,8 @@
     "url": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
     "published_at": "Wed, 28 Oct 2026 17:29:16 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T17:29:16+00:00"
   },
   {
     "id": "rss_50ee0a8a9491",
@@ -2358,7 +2363,8 @@
     "url": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
     "published_at": "Wed, 28 Oct 2026 17:11:51 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T17:11:51+00:00"
   },
   {
     "id": "rss_b4fe302d076a",
@@ -2367,7 +2373,8 @@
     "url": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
     "published_at": "Wed, 28 Oct 2026 16:56:48 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T16:56:48+00:00"
   },
   {
     "id": "rss_c3d7a5451703",
@@ -2376,7 +2383,8 @@
     "url": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
     "published_at": "Wed, 28 Oct 2026 16:16:54 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T16:16:54+00:00"
   },
   {
     "id": "rss_ead453975d9f",
@@ -2385,7 +2393,8 @@
     "url": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
     "published_at": "Wed, 28 Oct 2026 15:53:35 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T15:53:35+00:00"
   },
   {
     "id": "rss_8aa4c79daa61",
@@ -2394,7 +2403,8 @@
     "url": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
     "published_at": "Wed, 28 Oct 2026 15:44:37 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T15:44:37+00:00"
   },
   {
     "id": "rss_c2306ddddb3d",
@@ -2403,7 +2413,8 @@
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt",
     "published_at": "Wed, 28 Oct 2026 14:43:50 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T14:43:50+00:00"
   },
   {
     "id": "rss_aab5ab6558d5",
@@ -2412,7 +2423,8 @@
     "url": "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift",
     "published_at": "Wed, 28 Oct 2026 14:01:56 GMT",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T14:01:56+00:00"
   },
   {
     "id": "rss_e5e41d1dc4a4",
@@ -2421,7 +2433,8 @@
     "url": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
     "published_at": "Wed, 28 Oct 2026 15:40:51 +0000",
     "fetched_at": "2026-10-28T19:02:46.147292+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T15:40:51+00:00"
   },
   {
     "id": "llama_2026102819",
@@ -2430,7 +2443,8 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T19:02:49.016339+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T19:02:49.016339+00:00"
   },
   {
     "id": "rss_03c1cbf97587",
@@ -2448,7 +2462,8 @@
     "url": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
     "published_at": "Wed, 28 Oct 2026 23:18:43 GMT",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T23:18:43+00:00"
   },
   {
     "id": "rss_5f7ff0b9b5f9",
@@ -2457,7 +2472,8 @@
     "url": "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears",
     "published_at": "Wed, 28 Oct 2026 22:21:08 GMT",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T22:21:08+00:00"
   },
   {
     "id": "rss_ea85ec7d68b2",
@@ -2466,7 +2482,8 @@
     "url": "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain",
     "published_at": "Wed, 28 Oct 2026 20:09:45 GMT",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T20:09:45+00:00"
   },
   {
     "id": "rss_4f4086e72d35",
@@ -2475,7 +2492,8 @@
     "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
     "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T19:14:19+00:00"
   },
   {
     "id": "rss_1af76cae3ab2",
@@ -2484,7 +2502,8 @@
     "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses/",
     "published_at": "Wed, 28 Oct 2026 22:10:04 +0000",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T22:10:04+00:00"
   },
   {
     "id": "rss_4af07db336e8",
@@ -2493,7 +2512,8 @@
     "url": "https://cryptoslate.com/coinbase-says-it-wasnt-breached-but-hackers-dont-need-to-steal-crypto-to-hurt-users/",
     "published_at": "Wed, 28 Oct 2026 19:40:47 +0000",
     "fetched_at": "2026-10-28T23:27:15.036369+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T19:40:47+00:00"
   },
   {
     "id": "llama_2026102823",
@@ -2502,6 +2522,7 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-28T23:27:18.117475+00:00",
-    "used": false
+    "used": false,
+    "_sort_date": "2026-10-28T23:27:18.117475+00:00"
   }
 ]
