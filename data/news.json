@@ -1,59 +1,5 @@
 [
   {
-    "id": "rss_cdd30d1e6541",
-    "source": "Cointelegraph Base",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fdd0e3ccd885",
-    "source": "The Defiant",
-    "title": "Aero Launches as Aerodrome and Velodrome Merge Across Seven Chains",
-    "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
-    "published_at": "Thu, 22 Oct 2026 01:25:39 GMT",
-    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b754647dd815",
-    "source": "CryptoSlate",
-    "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
-    "url": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
-    "published_at": "Wed, 21 Oct 2026 23:10:19 +0000",
-    "fetched_at": "2026-10-22T01:43:56.890014+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102201",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,298,608,876 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-22T01:44:00.607447+00:00",
-    "used": false
-  },
-  {
     "id": "rss_76d12e79eeca",
     "source": "The Defiant",
     "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
@@ -2524,5 +2470,95 @@
     "fetched_at": "2026-10-28T23:27:18.117475+00:00",
     "used": false,
     "_sort_date": "2026-10-28T23:27:18.117475+00:00"
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_de0d8eca8c7f",
+    "source": "The Defiant",
+    "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+    "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+    "published_at": "Thu, 29 Oct 2026 02:33:13 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b8b1e76ef08",
+    "source": "The Defiant",
+    "title": "Allium Discloses Security Breach, Revokes API Keys",
+    "url": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
+    "published_at": "Thu, 29 Oct 2026 01:52:57 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f67c44b95c36",
+    "source": "The Defiant",
+    "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+    "url": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
+    "published_at": "Thu, 29 Oct 2026 01:16:05 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6acd9f50a383",
+    "source": "The Defiant",
+    "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
+    "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
+    "published_at": "Thu, 29 Oct 2026 01:06:59 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b7e3075f6cca",
+    "source": "The Defiant",
+    "title": "Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw",
+    "url": "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw",
+    "published_at": "Thu, 29 Oct 2026 00:37:20 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a96afb51f1b",
+    "source": "The Defiant",
+    "title": "Peer Adds Alipay-Funded USDC Trading on Base in Beta",
+    "url": "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta",
+    "published_at": "Wed, 28 Oct 2026 23:38:58 GMT",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-10-29T02:45:27.605201+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026102902",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $6,064,654,458 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-29T02:45:30.463475+00:00",
+    "used": false
   }
 ]
