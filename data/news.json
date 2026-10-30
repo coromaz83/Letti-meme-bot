@@ -1,235 +1,5 @@
 [
   {
-    "id": "rss_afaff7c34692",
-    "source": "The Defiant",
-    "title": "China Sets 2030 Target for National Blockchain Network",
-    "url": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
-    "published_at": "Fri, 23 Oct 2026 15:02:50 GMT",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T15:02:50+00:00"
-  },
-  {
-    "id": "rss_6300d31b5b11",
-    "source": "The Defiant",
-    "title": "SEC Adds Tokenization to 2027 Examination Priorities",
-    "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
-    "published_at": "Fri, 23 Oct 2026 14:27:17 GMT",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T14:27:17+00:00"
-  },
-  {
-    "id": "rss_ddda1652d755",
-    "source": "The Defiant",
-    "title": "Succinct Patches SP1 Bug That Could Let Invalid Proofs Pass",
-    "url": "https://thedefiant.io/news/security/succinct-patches-sp1-bug-that-could-let-invalid-proofs-pass",
-    "published_at": "Fri, 23 Oct 2026 14:15:24 GMT",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T14:15:24+00:00"
-  },
-  {
-    "id": "rss_7772d1af5282",
-    "source": "CryptoSlate",
-    "title": "Tether’s own AI study shows when buying a laptop costs more than cloud tokens",
-    "url": "https://cryptoslate.com/tethers-own-ai-study-shows-when-buying-a-laptop-costs-more-than-cloud-tokens/",
-    "published_at": "Fri, 23 Oct 2026 14:50:48 +0000",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T14:50:48+00:00"
-  },
-  {
-    "id": "rss_e9bbc947b469",
-    "source": "CryptoSlate",
-    "title": "Bitcoin’s $80,000 recovery faces liquidity questions as Binance’s Tether flows swing $14 billion",
-    "url": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion/",
-    "published_at": "Fri, 23 Oct 2026 14:00:15 +0000",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T14:00:15+00:00"
-  },
-  {
-    "id": "rss_caafa2a000c4",
-    "source": "CryptoSlate",
-    "title": "Uniswap adds seven trading sources as 0x disputes its protection from malicious hooks",
-    "url": "https://cryptoslate.com/uniswap-adds-seven-trading-sources-as-0x-disputes-its-protection-from-malicious-hooks/",
-    "published_at": "Fri, 23 Oct 2026 12:50:52 +0000",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T12:50:52+00:00"
-  },
-  {
-    "id": "rss_01b51bd82620",
-    "source": "CryptoSlate",
-    "title": "Coinbase Ireland’s cash safeguards fell €5 million short before 2024 fix",
-    "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix/",
-    "published_at": "Fri, 23 Oct 2026 11:50:07 +0000",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T11:50:07+00:00"
-  },
-  {
-    "id": "rss_587b7d07ed86",
-    "source": "Decrypt",
-    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-    "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-    "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
-    "fetched_at": "2026-10-23T15:51:36.153428+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T11:49:37+00:00"
-  },
-  {
-    "id": "llama_2026102315",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,120,760,952 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-23T15:51:41.323417+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T15:51:41.323417+00:00"
-  },
-  {
-    "id": "rss_2a1db030e425",
-    "source": "The Defiant",
-    "title": "IRYS Surges 1,200% Past May Listing Peak",
-    "url": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
-    "published_at": "Fri, 23 Oct 2026 19:27:17 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T19:27:17+00:00"
-  },
-  {
-    "id": "rss_44ece2133d08",
-    "source": "The Defiant",
-    "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
-    "url": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
-    "published_at": "Fri, 23 Oct 2026 18:57:39 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T18:57:39+00:00"
-  },
-  {
-    "id": "rss_548f3f60323c",
-    "source": "The Defiant",
-    "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
-    "url": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
-    "published_at": "Fri, 23 Oct 2026 18:23:34 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T18:23:34+00:00"
-  },
-  {
-    "id": "rss_eccd25099a18",
-    "source": "The Defiant",
-    "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
-    "url": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
-    "published_at": "Fri, 23 Oct 2026 18:08:25 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T18:08:25+00:00"
-  },
-  {
-    "id": "rss_b56d43e0284b",
-    "source": "The Defiant",
-    "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
-    "published_at": "Fri, 23 Oct 2026 17:54:23 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T17:54:23+00:00"
-  },
-  {
-    "id": "rss_6ccda49ebcc4",
-    "source": "The Defiant",
-    "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
-    "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
-    "published_at": "Fri, 23 Oct 2026 17:27:28 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T17:27:28+00:00"
-  },
-  {
-    "id": "rss_1e9b7879cf17",
-    "source": "The Defiant",
-    "title": "Lighter Adds weETH as Perpetual Futures Collateral",
-    "url": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
-    "published_at": "Fri, 23 Oct 2026 17:15:39 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T17:15:39+00:00"
-  },
-  {
-    "id": "rss_c6bad8383b55",
-    "source": "The Defiant",
-    "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
-    "url": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
-    "published_at": "Fri, 23 Oct 2026 17:08:01 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T17:08:01+00:00"
-  },
-  {
-    "id": "rss_d69cc682fab4",
-    "source": "The Defiant",
-    "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-    "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-    "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T16:19:13+00:00"
-  },
-  {
-    "id": "rss_c0645b0216ed",
-    "source": "The Defiant",
-    "title": "Extended Plans November XTEN Launch With 30% for Points Users",
-    "url": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
-    "published_at": "Fri, 23 Oct 2026 16:11:56 GMT",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T16:11:56+00:00"
-  },
-  {
-    "id": "rss_0aa73d1c1f59",
-    "source": "CryptoSlate",
-    "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits",
-    "url": "https://cryptoslate.com/coinbase-to-drop-this-japanese-yen-stablecoin-years-after-its-price-crash-sparked-investor-lawsuits/",
-    "published_at": "Fri, 23 Oct 2026 17:10:05 +0000",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T17:10:05+00:00"
-  },
-  {
-    "id": "rss_ddbde3773333",
-    "source": "Bankless",
-    "title": "Uniswap v4 Is Now an Aggregator",
-    "url": "https://www.bankless.com/read/news/uniswap-v4-is-now-an-aggregator",
-    "published_at": "Fri, 23 Oct 2026 13:53:45 -0400",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T13:53:45-04:00"
-  },
-  {
-    "id": "rss_a10c369f4588",
-    "source": "Bankless",
-    "title": "Ethereum Devs Postpone Glamsterdam on Hoodi Over Contract Security Risks",
-    "url": "https://www.bankless.com/read/news/ethereum-devs-postpone-glamsterdam-on-hoodi-over-contract-security-risks",
-    "published_at": "Fri, 23 Oct 2026 13:24:24 -0400",
-    "fetched_at": "2026-10-23T19:54:13.860006+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T13:24:24-04:00"
-  },
-  {
-    "id": "llama_2026102319",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,115,515,925 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-23T19:54:18.853610+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T19:54:18.853610+00:00"
-  },
-  {
     "id": "rss_40afc0954636",
     "source": "The Defiant",
     "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
@@ -2757,6 +2527,87 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-30T15:16:05.273134+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_273cea434f80",
+    "source": "The Defiant",
+    "title": "Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time",
+    "url": "https://thedefiant.io/news/defi/real-economy-fees-overtook-blockchain-infrastructure-1kx-revenue-report",
+    "published_at": "Fri, 30 Oct 2026 18:08:12 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5b991d412258",
+    "source": "The Defiant",
+    "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
+    "url": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
+    "published_at": "Fri, 30 Oct 2026 17:11:22 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b26a6fd04e9f",
+    "source": "The Defiant",
+    "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
+    "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-would-let-wallets-permanently-disable-eip-7702-delegation",
+    "published_at": "Fri, 30 Oct 2026 16:54:23 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c50f2e76b4f9",
+    "source": "The Defiant",
+    "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
+    "published_at": "Fri, 30 Oct 2026 16:04:19 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8af0354daeab",
+    "source": "The Defiant",
+    "title": "IPX Unveils KPI-Gated Escrow for On-Chain Crowdfunding & Sponsorship Campaigns",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-kpi-gated-escrow-onchain-crowdfunding-sponsorship",
+    "published_at": "Fri, 30 Oct 2026 15:51:06 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_644fc9c09467",
+    "source": "The Defiant",
+    "title": "Binance Attacker Used EIP-7702 to Bypass Wallet Controls, Teng Says",
+    "url": "https://thedefiant.io/news/hacks/binance-attacker-used-eip-7702-to-bypass-wallet-controls-teng-says",
+    "published_at": "Fri, 30 Oct 2026 15:30:15 GMT",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_088cf4e753af",
+    "source": "CryptoSlate",
+    "title": "Coinbase’s $719 million profit reveals a company caught between two crypto economies",
+    "url": "https://cryptoslate.com/coinbases-719-million-profit-reveals-a-company-caught-between-two-crypto-economies/",
+    "published_at": "Fri, 30 Oct 2026 18:40:11 +0000",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_36568ff2e04f",
+    "source": "Bankless",
+    "title": "Base's Denim Upgrade Brings 200ms Blocks to Mainnet on Nov. 5th",
+    "url": "https://www.bankless.com/read/news/bases-denim-upgrade-brings-200ms-blocks-to-mainnet-on-nov-5th",
+    "published_at": "Fri, 30 Oct 2026 14:02:01 -0400",
+    "fetched_at": "2026-10-30T20:03:13.324355+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103020",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,789,291,849 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-30T20:03:17.933905+00:00",
     "used": false
   }
 ]
