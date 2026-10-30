@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_40afc0954636",
-    "source": "The Defiant",
-    "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
-    "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
-    "published_at": "Fri, 23 Oct 2026 21:06:51 GMT",
-    "fetched_at": "2026-10-23T23:01:19.025041+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T21:06:51+00:00"
-  },
-  {
-    "id": "rss_4661248b4b05",
-    "source": "Decrypt",
-    "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
-    "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
-    "published_at": "Fri, 23 Oct 2026 20:16:02 +0000",
-    "fetched_at": "2026-10-23T23:01:19.025041+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T20:16:02+00:00"
-  },
-  {
-    "id": "llama_2026102323",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,116,542,484 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-23T23:01:23.506634+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T23:01:23.506634+00:00"
-  },
-  {
     "id": "llama_2026102401",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,062,637,304 🟢 +0.00% (24h)",
@@ -2608,6 +2578,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-30T20:03:17.933905+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7e4a7a879e1b",
+    "source": "The Defiant",
+    "title": "IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation",
+    "published_at": "Fri, 30 Oct 2026 21:46:28 GMT",
+    "fetched_at": "2026-10-30T23:59:35.109862+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_72424608152d",
+    "source": "CryptoSlate",
+    "title": "Uniswap launches TJAR fee tool, but only fast searchers capture the hidden arbitrage profit",
+    "url": "https://cryptoslate.com/uniswap-launches-tjar-fee-tool-but-only-fast-searchers-capture-the-hidden-arbitrage-profit/",
+    "published_at": "Fri, 30 Oct 2026 21:40:32 +0000",
+    "fetched_at": "2026-10-30T23:59:35.109862+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103023",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,815,600,509 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-30T23:59:38.932839+00:00",
     "used": false
   }
 ]
