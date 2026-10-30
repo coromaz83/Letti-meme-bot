@@ -1,54 +1,5 @@
 [
   {
-    "id": "rss_0c6b347c286c",
-    "source": "CoinDesk",
-    "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-    "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-    "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
-    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T04:59:34+00:00"
-  },
-  {
-    "id": "rss_3419f586e66e",
-    "source": "The Defiant",
-    "title": "Malaysia and Thailand Join Singapore’s BLOOM Digital-Money Initiative",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/malaysia-and-thailand-join-singapore-s-bloom-digital-money-initiative",
-    "published_at": "Fri, 23 Oct 2026 03:34:21 GMT",
-    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T03:34:21+00:00"
-  },
-  {
-    "id": "rss_52af7a583ac0",
-    "source": "The Defiant",
-    "title": "UAE-Led Scam Crackdown Identifies Over $39 Billion in Funds and Crypto",
-    "url": "https://thedefiant.io/news/security/uae-led-scam-crackdown-identifies-over-39-billion-in-funds-and-crypto",
-    "published_at": "Fri, 23 Oct 2026 02:03:09 GMT",
-    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T02:03:09+00:00"
-  },
-  {
-    "id": "rss_e0926398e3a4",
-    "source": "CryptoSlate",
-    "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-    "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-    "published_at": "Fri, 23 Oct 2026 00:40:37 +0000",
-    "fetched_at": "2026-10-23T05:53:53.048290+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102305",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,161,975,041 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-23T05:53:56.527845+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T05:53:56.527845+00:00"
-  },
-  {
     "id": "rss_7c340a35fd92",
     "source": "The Defiant",
     "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
@@ -2514,6 +2465,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-30T01:48:39.419630+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0ad2bee40ca4",
+    "source": "CoinDesk",
+    "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+    "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+    "published_at": "Fri, 30 Oct 2026 06:22:00 +0000",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4930536e986f",
+    "source": "CoinDesk",
+    "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+    "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+    "published_at": "Fri, 30 Oct 2026 04:00:43 +0000",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ff15d503dc0d",
+    "source": "The Defiant",
+    "title": "Teng Says Binance Breach Was Not a ‘One-Click’ Attack",
+    "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
+    "published_at": "Fri, 30 Oct 2026 08:26:05 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aa721874bdec",
+    "source": "The Defiant",
+    "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
+    "url": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
+    "published_at": "Fri, 30 Oct 2026 08:17:27 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d5a62f5b6d2e",
+    "source": "The Defiant",
+    "title": "Trezor Urges CryptoBilis Buyers to Move Funds After Implant Report",
+    "url": "https://thedefiant.io/news/security/trezor-urges-cryptobilis-buyers-to-move-funds-after-implant-report",
+    "published_at": "Fri, 30 Oct 2026 07:22:15 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_199526d8aeb5",
+    "source": "The Defiant",
+    "title": "Hyperliquid Fees Hit 30-Day High as Perpetuals Volume Doubles",
+    "url": "https://thedefiant.io/news/defi/hyperliquid-fees-hit-30-day-high-as-perpetuals-volume-doubles",
+    "published_at": "Fri, 30 Oct 2026 05:44:29 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_771df171adf6",
+    "source": "The Defiant",
+    "title": "Uniswap Volume Tops $5.97 Billion as Ethereum Trading Surges",
+    "url": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
+    "published_at": "Fri, 30 Oct 2026 05:19:57 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_642ada642bd6",
+    "source": "The Defiant",
+    "title": "Circle to Cut Legacy USDC Crosschain Limits From Oct. 31",
+    "url": "https://thedefiant.io/news/infrastructure/circle-to-cut-legacy-usdc-crosschain-limits-from-oct-31",
+    "published_at": "Fri, 30 Oct 2026 05:17:12 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6976f53a35e7",
+    "source": "The Defiant",
+    "title": "Curve Volume Jumps to $847 Million as 3pool Tilts Further Toward USDT",
+    "url": "https://thedefiant.io/news/defi/curve-volume-jumps-to-847-million-as-3pool-tilts-further-toward-usdt",
+    "published_at": "Fri, 30 Oct 2026 05:13:06 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_364dd0545893",
+    "source": "The Defiant",
+    "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
+    "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+    "published_at": "Fri, 30 Oct 2026 05:01:18 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c86f538caf1b",
+    "source": "The Defiant",
+    "title": "Binance Hack’s Bitcoin Sits Unspent Across 19 Addresses",
+    "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+    "published_at": "Fri, 30 Oct 2026 05:00:29 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_278b1e6ab357",
+    "source": "The Defiant",
+    "title": "Chainalysis Links $6.4 Billion Binance Hack to North Korea",
+    "url": "https://thedefiant.io/news/hacks/chainalysis-links-6-4-billion-binance-hack-to-north-korea",
+    "published_at": "Fri, 30 Oct 2026 04:51:49 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_43231734d9f8",
+    "source": "The Defiant",
+    "title": "CoinDCX Halts New Futures Positions, Citing Liquidity Provider",
+    "url": "https://thedefiant.io/news/cefi/coindcx-halts-new-futures-positions-citing-liquidity-provider",
+    "published_at": "Fri, 30 Oct 2026 04:44:57 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_486abfadc84e",
+    "source": "The Defiant",
+    "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
+    "url": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
+    "published_at": "Fri, 30 Oct 2026 04:33:14 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3a421ae5cb30",
+    "source": "The Defiant",
+    "title": "MistTrack Links Binance Theft Route to Phemex-Connected Address",
+    "url": "https://thedefiant.io/news/hacks/misttrack-links-binance-theft-route-to-phemex-connected-address",
+    "published_at": "Fri, 30 Oct 2026 04:31:30 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_241813f0760a",
+    "source": "The Defiant",
+    "title": "Arkham Puts Binance Hack at $6.01 Billion, With $2.9 Billion Still Movable",
+    "url": "https://thedefiant.io/news/hacks/arkham-puts-binance-hack-at-6-01-billion-with-2-9-billion-still-movable",
+    "published_at": "Fri, 30 Oct 2026 04:30:53 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2ae73c4480b0",
+    "source": "The Defiant",
+    "title": "Binance Expects to Start Resuming Withdrawals Within 48 Hours",
+    "url": "https://thedefiant.io/news/hacks/binance-expects-to-start-resuming-withdrawals-within-48-hours",
+    "published_at": "Fri, 30 Oct 2026 04:29:35 GMT",
+    "fetched_at": "2026-10-30T08:27:30.663187+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103008",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,802,642,281 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-30T08:27:33.242112+00:00",
     "used": false
   }
 ]
