@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss_7c340a35fd92",
-    "source": "The Defiant",
-    "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
-    "url": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
-    "published_at": "Fri, 23 Oct 2026 10:52:49 GMT",
-    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T10:52:49+00:00"
-  },
-  {
-    "id": "rss_828ef38ba7ad",
-    "source": "The Defiant",
-    "title": "Base Active Addresses Jump Another 50% as Transactions and Fees Fall",
-    "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-another-50-as-transactions-and-fees-fall",
-    "published_at": "Fri, 23 Oct 2026 10:08:51 GMT",
-    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T10:08:51+00:00"
-  },
-  {
-    "id": "rss_5b9be9f1f14c",
-    "source": "The Defiant",
-    "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
-    "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
-    "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
-    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T06:50:59+00:00"
-  },
-  {
-    "id": "rss_7df9019cb7d4",
-    "source": "The Defiant",
-    "title": "Swell Pauses swETH and rswETH Deposits and Withdrawals",
-    "url": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
-    "published_at": "Fri, 23 Oct 2026 06:50:08 GMT",
-    "fetched_at": "2026-10-23T11:25:46.003836+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T06:50:08+00:00"
-  },
-  {
-    "id": "llama_2026102311",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,115,214,776 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-23T11:25:51.431410+00:00",
-    "used": false,
-    "_sort_date": "2026-10-23T11:25:51.431410+00:00"
-  },
-  {
     "id": "rss_afaff7c34692",
     "source": "The Defiant",
     "title": "China Sets 2030 Target for National Blockchain Network",
@@ -2636,6 +2586,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-30T08:27:33.242112+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3436ea5e9682",
+    "source": "CoinDesk",
+    "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+    "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+    "published_at": "Fri, 30 Oct 2026 11:35:16 +0000",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c74801eec4a",
+    "source": "CoinDesk",
+    "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+    "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+    "published_at": "Fri, 30 Oct 2026 11:09:24 +0000",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_274b320a958b",
+    "source": "The Defiant",
+    "title": "Binance’s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",
+    "url": "https://thedefiant.io/news/hacks/binance-s-teng-sets-monday-reserve-report-deadline-as-withdrawals-stay-paused",
+    "published_at": "Fri, 30 Oct 2026 14:54:39 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f03aa2119d40",
+    "source": "The Defiant",
+    "title": "Ripio CEO Acknowledges Error After wARS Conversion Complaints",
+    "url": "https://thedefiant.io/news/defi/ripio-ceo-acknowledges-error-after-wars-conversion-complaints",
+    "published_at": "Fri, 30 Oct 2026 14:50:27 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_beff3f0fdfb4",
+    "source": "The Defiant",
+    "title": "Binance’s Teng Targets Sunday Withdrawal Restart After Hack",
+    "url": "https://thedefiant.io/news/hacks/binance-s-teng-targets-sunday-withdrawal-restart-after-hack",
+    "published_at": "Fri, 30 Oct 2026 14:38:19 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_67a3aa8d389a",
+    "source": "The Defiant",
+    "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
+    "url": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
+    "published_at": "Fri, 30 Oct 2026 14:36:00 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b3551da65311",
+    "source": "The Defiant",
+    "title": "Aave Reopens Markets but Keeps Nine Assets at Zero LTV",
+    "url": "https://thedefiant.io/news/defi/aave-reopens-markets-but-keeps-nine-assets-at-zero-ltv",
+    "published_at": "Fri, 30 Oct 2026 14:07:56 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ff73521e3293",
+    "source": "The Defiant",
+    "title": "Coinbase and Strategy Sink After Binance Breach",
+    "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
+    "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_043ffc7be052",
+    "source": "The Defiant",
+    "title": "Anchorpoint Plans Native HKDAP Issuance on Solana",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorpoint-plans-native-hkdap-issuance-on-solana",
+    "published_at": "Fri, 30 Oct 2026 13:52:20 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_75fd32293e4e",
+    "source": "The Defiant",
+    "title": "Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules",
+    "url": "https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules",
+    "published_at": "Fri, 30 Oct 2026 13:44:48 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_47d28869bca4",
+    "source": "The Defiant",
+    "title": "Tydro Unfreezes Markets but Leaves New Borrowing Blocked",
+    "url": "https://thedefiant.io/news/defi/tydro-unfreezes-markets-but-leaves-new-borrowing-blocked",
+    "published_at": "Fri, 30 Oct 2026 13:41:45 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ba5f02013502",
+    "source": "The Defiant",
+    "title": "Why a Crypto-Arbitrage Spread Is Not Net Profit",
+    "url": "https://thedefiant.io/news/defi/why-a-crypto-arbitrage-spread-is-not-net-profit",
+    "published_at": "Fri, 30 Oct 2026 13:23:15 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5b1f1b9bce94",
+    "source": "The Defiant",
+    "title": "Scroll Details Permissioned AI Network Plan and Ethereum Token Migration",
+    "url": "https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration",
+    "published_at": "Fri, 30 Oct 2026 12:17:33 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_941ae2e7a92d",
+    "source": "The Defiant",
+    "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
+    "url": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
+    "published_at": "Fri, 30 Oct 2026 11:22:01 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5739afbe0e8c",
+    "source": "The Defiant",
+    "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
+    "url": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
+    "published_at": "Fri, 30 Oct 2026 11:20:52 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f6ff8bb90802",
+    "source": "The Defiant",
+    "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+    "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+    "published_at": "Fri, 30 Oct 2026 11:02:14 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5f5549b7e864",
+    "source": "The Defiant",
+    "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
+    "url": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
+    "published_at": "Fri, 30 Oct 2026 10:53:40 GMT",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7fb205c2d7ba",
+    "source": "Decrypt",
+    "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+    "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+    "published_at": "Fri, 30 Oct 2026 14:17:34 +0000",
+    "fetched_at": "2026-10-30T15:16:02.577324+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103015",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,750,443,223 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-30T15:16:05.273134+00:00",
     "used": false
   }
 ]
