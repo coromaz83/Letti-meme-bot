@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026102401",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,062,637,304 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T01:53:35.089422+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T01:53:35.089422+00:00"
-  },
-  {
     "id": "rss_e73ecaa445bd",
     "source": "The Defiant",
     "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
@@ -2605,6 +2595,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-30T23:59:38.932839+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103105",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,852,420,044 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-31T05:26:03.433749+00:00",
     "used": false
   }
 ]
