@@ -1,35 +1,5 @@
 [
   {
-    "id": "rss_7d4c19e94c76",
-    "source": "The Defiant",
-    "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
-    "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
-    "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
-    "fetched_at": "2026-10-24T21:29:38.337314+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T19:41:15+00:00"
-  },
-  {
-    "id": "rss_334d44ed33f4",
-    "source": "The Defiant",
-    "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
-    "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
-    "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
-    "fetched_at": "2026-10-24T21:29:38.337314+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T19:06:10+00:00"
-  },
-  {
-    "id": "llama_2026102421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,041,604,360 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T21:29:41.276272+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T21:29:41.276272+00:00"
-  },
-  {
     "id": "llama_2026102423",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,047,768,540 🟢 +0.00% (24h)",
@@ -2604,6 +2574,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-31T20:13:48.588666+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_da7c81424d1f",
+    "source": "The Defiant",
+    "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+    "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+    "published_at": "Sat, 31 Oct 2026 21:46:33 GMT",
+    "fetched_at": "2026-10-31T23:36:50.477398+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103123",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,876,444,563 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-31T23:36:54.503125+00:00",
     "used": false
   }
 ]
