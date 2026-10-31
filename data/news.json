@@ -1,124 +1,5 @@
 [
   {
-    "id": "rss_ebd7c912e55e",
-    "source": "Cointelegraph Base",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
-    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_53f05faa8755",
-    "source": "The Defiant",
-    "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",
-    "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
-    "published_at": "Sat, 24 Oct 2026 09:26:24 GMT",
-    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T09:26:24+00:00"
-  },
-  {
-    "id": "rss_3d1be279557c",
-    "source": "CryptoSlate",
-    "title": "Senator probes Tether’s reported $6 million payments to ex-White House crypto adviser’s firm",
-    "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm/",
-    "published_at": "Sat, 24 Oct 2026 11:00:33 +0000",
-    "fetched_at": "2026-10-24T12:10:10.734438+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T11:00:33+00:00"
-  },
-  {
-    "id": "llama_2026102412",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,052,713,590 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T12:10:14.192605+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T12:10:14.192605+00:00"
-  },
-  {
-    "id": "rss_f23dc6dce26c",
-    "source": "The Defiant",
-    "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
-    "url": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
-    "published_at": "Sat, 24 Oct 2026 15:43:40 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T15:43:40+00:00"
-  },
-  {
-    "id": "rss_42bce91d2a67",
-    "source": "The Defiant",
-    "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
-    "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
-    "published_at": "Sat, 24 Oct 2026 15:17:43 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T15:17:43+00:00"
-  },
-  {
-    "id": "rss_f50ae9c9731d",
-    "source": "The Defiant",
-    "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-    "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-    "published_at": "Sat, 24 Oct 2026 14:58:09 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T14:58:09+00:00"
-  },
-  {
-    "id": "rss_72a7e7b697e9",
-    "source": "The Defiant",
-    "title": "Shaw Publishes Daos.fun Reconstruction, Claims Critical Flaw",
-    "url": "https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw",
-    "published_at": "Sat, 24 Oct 2026 14:25:37 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T14:25:37+00:00"
-  },
-  {
-    "id": "rss_a6d47e1b39ed",
-    "source": "The Defiant",
-    "title": "Hyperliquid’s Yan and CME’s Duffy Split Over Who Must Bear US Compliance",
-    "url": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
-    "published_at": "Sat, 24 Oct 2026 14:12:54 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T14:12:54+00:00"
-  },
-  {
-    "id": "rss_710399111e2c",
-    "source": "The Defiant",
-    "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
-    "url": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
-    "published_at": "Sat, 24 Oct 2026 13:16:55 GMT",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T13:16:55+00:00"
-  },
-  {
-    "id": "rss_cfa2697540cd",
-    "source": "CryptoSlate",
-    "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
-    "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
-    "published_at": "Sat, 24 Oct 2026 13:30:53 +0000",
-    "fetched_at": "2026-10-24T16:10:44.981640+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T13:30:53+00:00"
-  },
-  {
-    "id": "llama_2026102416",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,045,324,891 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T16:10:48.324269+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T16:10:48.324269+00:00"
-  },
-  {
     "id": "rss_274085b7b0b1",
     "source": "The Defiant",
     "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
@@ -2591,6 +2472,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-31T11:08:15.902938+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e573e927f5e",
+    "source": "The Defiant",
+    "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+    "url": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+    "published_at": "Sat, 31 Oct 2026 15:37:59 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f98431827e4",
+    "source": "The Defiant",
+    "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
+    "url": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
+    "published_at": "Sat, 31 Oct 2026 14:40:51 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b3adb9a5094e",
+    "source": "The Defiant",
+    "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
+    "url": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
+    "published_at": "Sat, 31 Oct 2026 13:17:29 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b71793cf26eb",
+    "source": "The Defiant",
+    "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
+    "url": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
+    "published_at": "Sat, 31 Oct 2026 13:11:22 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f109157937d2",
+    "source": "The Defiant",
+    "title": "CertiK Puts 2026 Crypto Losses at Record $9.2 Billion",
+    "url": "https://thedefiant.io/news/security/certik-puts-2026-crypto-losses-at-record-9-2-billion",
+    "published_at": "Sat, 31 Oct 2026 13:11:20 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6f2ca16bbb71",
+    "source": "The Defiant",
+    "title": "Lido Revenue Jumps to $605,000 on Execution-Reward Windfall",
+    "url": "https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall",
+    "published_at": "Sat, 31 Oct 2026 12:59:28 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e86722070e06",
+    "source": "The Defiant",
+    "title": "Chainalysis Flags DeFi Receipt-Token Route in Binance Hack",
+    "url": "https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack",
+    "published_at": "Sat, 31 Oct 2026 11:47:58 GMT",
+    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103116",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,857,294,380 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-31T16:16:27.754625+00:00",
     "used": false
   }
 ]
