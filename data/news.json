@@ -1,45 +1,5 @@
 [
   {
-    "id": "rss_e73ecaa445bd",
-    "source": "The Defiant",
-    "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
-    "url": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
-    "published_at": "Sat, 24 Oct 2026 06:28:11 GMT",
-    "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T06:28:11+00:00"
-  },
-  {
-    "id": "rss_e30cc21dbcf7",
-    "source": "The Defiant",
-    "title": "Kraken Scraps Monero Withdrawal Questionnaires, Keeps XMR Listed",
-    "url": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
-    "published_at": "Sat, 24 Oct 2026 02:22:37 GMT",
-    "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T02:22:37+00:00"
-  },
-  {
-    "id": "rss_21a9fa65e845",
-    "source": "CryptoSlate",
-    "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
-    "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
-    "published_at": "Sat, 24 Oct 2026 07:00:27 +0000",
-    "fetched_at": "2026-10-24T07:08:11.320282+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T07:00:27+00:00"
-  },
-  {
-    "id": "llama_2026102407",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,072,580,457 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T07:08:17.375054+00:00",
-    "used": false,
-    "_sort_date": "2026-10-24T07:08:17.375054+00:00"
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -2604,6 +2564,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-31T05:26:03.433749+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5545766bb752",
+    "source": "The Defiant",
+    "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",
+    "url": "https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions",
+    "published_at": "Sat, 31 Oct 2026 10:36:51 GMT",
+    "fetched_at": "2026-10-31T11:08:12.936851+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8d2734dafcad",
+    "source": "The Defiant",
+    "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
+    "url": "https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases",
+    "published_at": "Sat, 31 Oct 2026 05:27:13 GMT",
+    "fetched_at": "2026-10-31T11:08:12.936851+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026103111",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,846,682,361 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-10-31T11:08:15.902938+00:00",
     "used": false
   }
 ]
