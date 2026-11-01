@@ -1,51 +1,5 @@
 [
   {
-    "id": "llama_2026102423",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,047,768,540 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-24T23:39:00.951799+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_865568549b20",
-    "source": "Cointelegraph Base",
-    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
-    "fetched_at": "2026-10-25T04:22:34.259364+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_144b5c8f4840",
-    "source": "Cointelegraph Base",
-    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
-    "fetched_at": "2026-10-25T04:22:34.259364+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cbb9fdb2d7f",
-    "source": "Cointelegraph Base",
-    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
-    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
-    "fetched_at": "2026-10-25T04:22:34.259364+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102504",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,069,204,426 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-25T04:22:37.389152+00:00",
-    "used": false,
-    "_sort_date": "2026-10-25T04:22:37.389152+00:00"
-  },
-  {
     "id": "llama_2026102509",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,055,573,525 🟢 +0.00% (24h)",
@@ -2592,6 +2546,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-10-31T23:36:54.503125+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6724d57ad69f",
+    "source": "CoinDesk",
+    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "published_at": "Sun, 01 Nov 2026 01:10:05 +0000",
+    "fetched_at": "2026-11-01T05:44:04.638981+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_47ed85738a43",
+    "source": "The Defiant",
+    "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",
+    "url": "https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults",
+    "published_at": "Sun, 01 Nov 2026 04:25:39 GMT",
+    "fetched_at": "2026-11-01T05:44:04.638981+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110105",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,893,992,979 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-01T05:44:09.691132+00:00",
     "used": false
   }
 ]
