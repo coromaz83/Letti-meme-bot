@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_57a84a211385",
-    "source": "CryptoSlate",
-    "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether’s USDT",
-    "url": "https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
-    "published_at": "Sun, 25 Oct 2026 18:40:29 +0000",
-    "fetched_at": "2026-10-25T20:42:35.920564+00:00",
-    "used": false,
-    "_sort_date": "2026-10-25T18:40:29+00:00"
-  },
-  {
-    "id": "llama_2026102520",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,038,929,794 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-25T20:42:38.872158+00:00",
-    "used": false,
-    "_sort_date": "2026-10-25T20:42:38.872158+00:00"
-  },
-  {
     "id": "llama_2026102523",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,035,222,331 🟢 +0.00% (24h)",
@@ -2682,6 +2662,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-01T18:30:24.227201+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c6704371f81",
+    "source": "The Defiant",
+    "title": "What Is RLUSD? Ripple’s Stablecoin Backing and Redemption Explained",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-is-rlusd-ripple-s-stablecoin-backing-and-redemption-explained",
+    "published_at": "Sun, 01 Nov 2026 22:17:00 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d4a832965f6",
+    "source": "The Defiant",
+    "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",
+    "url": "https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million",
+    "published_at": "Sun, 01 Nov 2026 21:28:26 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_314c59b484ea",
+    "source": "The Defiant",
+    "title": "THORChain Co-Founder Cites Public Data After FBI Binance Blocking Appeal",
+    "url": "https://thedefiant.io/news/defi/thorchain-co-founder-cites-public-data-after-fbi-binance-blocking-appeal",
+    "published_at": "Sun, 01 Nov 2026 20:38:01 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8d78f6a1edeb",
+    "source": "The Defiant",
+    "title": "Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends",
+    "url": "https://thedefiant.io/news/defi/pump-fun-cuts-referral-share-to-37-5-as-4x-boost-ends",
+    "published_at": "Sun, 01 Nov 2026 19:19:44 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d876b04427cc",
+    "source": "The Defiant",
+    "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",
+    "url": "https://thedefiant.io/news/security/threshold-says-tbtc-operators-patched-or-went-offline-over-linux-flaw",
+    "published_at": "Sun, 01 Nov 2026 18:55:06 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_592a356d67c9",
+    "source": "The Defiant",
+    "title": "Solana Mobile Says Fake 'SKR Claim' App Reached Store Spotlight",
+    "url": "https://thedefiant.io/news/hacks/solana-mobile-says-fake-skr-claim-app-reached-store-spotlight",
+    "published_at": "Sun, 01 Nov 2026 18:47:05 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_480c9ee7272c",
+    "source": "The Defiant",
+    "title": "Analyst Traces $140 Million in Binance Loot Through Four Tron Exit Routes",
+    "url": "https://thedefiant.io/news/hacks/analyst-traces-140-million-in-binance-loot-through-four-tron-exit-routes",
+    "published_at": "Sun, 01 Nov 2026 18:43:13 GMT",
+    "fetched_at": "2026-11-01T22:41:17.212001+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,973,696,970 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-01T22:41:21.445708+00:00",
     "used": false
   }
 ]
