@@ -1,32 +1,5 @@
 [
   {
-    "id": "llama_2026102523",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,035,222,331 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-25T23:08:14.125091+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c98fccef4e93",
-    "source": "CryptoSlate",
-    "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
-    "url": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
-    "published_at": "Mon, 26 Oct 2026 01:00:15 +0000",
-    "fetched_at": "2026-10-26T01:33:06.616345+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102601",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,013,551,019 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-26T01:33:10.259892+00:00",
-    "used": false
-  },
-  {
     "id": "rss_7b85e7e786dc",
     "source": "The Defiant",
     "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
@@ -2734,6 +2707,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-01T22:41:21.445708+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b7459788bdef",
+    "source": "The Defiant",
+    "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
+    "url": "https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes",
+    "published_at": "Mon, 02 Nov 2026 00:33:31 GMT",
+    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8a591a4649cf",
+    "source": "The Defiant",
+    "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
+    "url": "https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw",
+    "published_at": "Mon, 02 Nov 2026 00:23:12 GMT",
+    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8b30dfd2c8c5",
+    "source": "The Defiant",
+    "title": "Maple’s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
+    "url": "https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits",
+    "published_at": "Mon, 02 Nov 2026 00:23:02 GMT",
+    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a3fea1447a4",
+    "source": "The Defiant",
+    "title": "Institutional Crypto Custody: A Guide to Roles and Control",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control",
+    "published_at": "Mon, 02 Nov 2026 00:21:50 GMT",
+    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_700097cc27d8",
+    "source": "The Defiant",
+    "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
+    "url": "https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps",
+    "published_at": "Sun, 01 Nov 2026 22:54:59 GMT",
+    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110202",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,974,482,494 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-02T02:17:39.092332+00:00",
     "used": false
   }
 ]
