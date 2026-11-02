@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss_7b85e7e786dc",
-    "source": "The Defiant",
-    "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
-    "url": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
-    "published_at": "Mon, 26 Oct 2026 04:06:03 GMT",
-    "fetched_at": "2026-10-26T07:41:14.200745+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T04:06:03+00:00"
-  },
-  {
-    "id": "llama_2026102607",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,005,574,098 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-26T07:41:17.773340+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T07:41:17.773340+00:00"
-  },
-  {
     "id": "rss_83ba23226ca8",
     "source": "CoinDesk",
     "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
@@ -2761,6 +2741,105 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-02T02:17:39.092332+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7d89f14d9b75",
+    "source": "The Defiant",
+    "title": "What Is Kinexys? A Guide to J.P. Morgan’s Blockchain Accounts and JPM Coin",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-is-kinexys-a-guide-to-j-p-morgan-s-blockchain-accounts-and-jpm-coin",
+    "published_at": "Mon, 02 Nov 2026 09:49:27 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ed70d1977a5d",
+    "source": "The Defiant",
+    "title": "What Does Securitize Do? A Guide to Its Fund Services",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-does-securitize-do-a-guide-to-its-fund-services",
+    "published_at": "Mon, 02 Nov 2026 09:44:29 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d3a112c4ef99",
+    "source": "The Defiant",
+    "title": "Jupiter Lend Explained: Deposits, Borrowing and Withdrawals",
+    "url": "https://thedefiant.io/news/defi/jupiter-lend-explained-deposits-borrowing-and-withdrawals",
+    "published_at": "Mon, 02 Nov 2026 09:38:26 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8bc878250576",
+    "source": "The Defiant",
+    "title": "Canton Explained: How Privacy, Access and Settlement Work",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/canton-explained-how-privacy-access-and-settlement-work",
+    "published_at": "Mon, 02 Nov 2026 09:26:51 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f3a4963c2381",
+    "source": "The Defiant",
+    "title": "What Is Hyperliquid? A Guide to HyperCore, HyperEVM and Builder Markets",
+    "url": "https://thedefiant.io/news/defi/what-is-hyperliquid-a-guide-to-hypercore-hyperevm-and-builder-markets",
+    "published_at": "Mon, 02 Nov 2026 09:25:31 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec99460a4e9f",
+    "source": "The Defiant",
+    "title": "What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion",
+    "url": "https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion",
+    "published_at": "Mon, 02 Nov 2026 09:20:38 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e7e9a27304d1",
+    "source": "The Defiant",
+    "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
+    "url": "https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending",
+    "published_at": "Mon, 02 Nov 2026 09:02:13 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_732060cfaeed",
+    "source": "The Defiant",
+    "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
+    "url": "https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands",
+    "published_at": "Mon, 02 Nov 2026 08:09:37 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ca366457c6c4",
+    "source": "The Defiant",
+    "title": "Binance Attacker Splits $292 Million in XRP Across Six Wallets",
+    "url": "https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets",
+    "published_at": "Mon, 02 Nov 2026 07:42:43 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7a5b591422f7",
+    "source": "The Defiant",
+    "title": "BTCPay Links Hot-Wallet Drains to Versions 2.4.1 and Older",
+    "url": "https://thedefiant.io/news/hacks/btcpay-links-hot-wallet-drains-to-versions-2-4-1-and-older",
+    "published_at": "Mon, 02 Nov 2026 07:18:33 GMT",
+    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110209",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,989,208,992 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-02T09:51:58.725055+00:00",
     "used": false
   }
 ]
