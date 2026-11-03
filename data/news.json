@@ -1,15 +1,5 @@
 [
   {
-    "id": "llama_2026102705",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,013,247,426 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-27T05:28:35.921721+00:00",
-    "used": false,
-    "_sort_date": "2026-10-27T05:28:35.921721+00:00"
-  },
-  {
     "id": "rss_4e747c7ca484",
     "source": "CoinDesk",
     "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
@@ -2750,6 +2740,69 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-03T02:34:21.642629+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59350c097c02",
+    "source": "Cointelegraph Base",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1928c16ee67",
+    "source": "CoinDesk",
+    "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+    "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+    "published_at": "Tue, 03 Nov 2026 10:15:53 +0000",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f563ce5ab30e",
+    "source": "The Defiant",
+    "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
+    "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
+    "published_at": "Tue, 03 Nov 2026 09:08:33 GMT",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_53a73ad3cc55",
+    "source": "The Defiant",
+    "title": "Binance Flips to $1.82 Billion in Daily Net Inflows After Withdrawal Restart",
+    "url": "https://thedefiant.io/news/cefi/binance-flips-to-1-82-billion-in-daily-net-inflows-after-withdrawal-restart",
+    "published_at": "Tue, 03 Nov 2026 09:04:59 GMT",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e90b53331f17",
+    "source": "CryptoSlate",
+    "title": "Ethena’s trading team can approve borrowers of assets backing USDe under new rules",
+    "url": "https://cryptoslate.com/ethenas-trading-team-can-approve-borrowers-of-assets-backing-usde-under-new-rules/",
+    "published_at": "Tue, 03 Nov 2026 04:30:59 +0000",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8e2f744cc372",
+    "source": "CryptoSlate",
+    "title": "Kinetic’s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",
+    "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/",
+    "published_at": "Tue, 03 Nov 2026 03:20:37 +0000",
+    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110310",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,887,140,536 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-03T10:42:09.205648+00:00",
     "used": false
   }
 ]
