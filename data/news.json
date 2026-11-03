@@ -1,187 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7741977db9d1",
-    "source": "CoinDesk",
-    "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-    "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "published_at": "Mon, 26 Oct 2026 16:05:12 +0000",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T16:05:12+00:00"
-  },
-  {
-    "id": "rss_6305f2857511",
-    "source": "The Defiant",
-    "title": "Instinct Rolls Out Link Balance for AI Shopping With Spending Limits",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits",
-    "published_at": "Mon, 26 Oct 2026 20:11:58 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T20:11:58+00:00"
-  },
-  {
-    "id": "rss_0ba717fcf071",
-    "source": "The Defiant",
-    "title": "Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan",
-    "url": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
-    "published_at": "Mon, 26 Oct 2026 17:41:36 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T17:41:36+00:00"
-  },
-  {
-    "id": "rss_7ea34c68a51e",
-    "source": "The Defiant",
-    "title": "Aave Raises USDT Borrowing Costs at High Utilization",
-    "url": "https://thedefiant.io/news/defi/aave-raises-usdt-borrowing-costs-at-high-utilization",
-    "published_at": "Mon, 26 Oct 2026 17:41:08 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T17:41:08+00:00"
-  },
-  {
-    "id": "rss_be5caf4aeb97",
-    "source": "The Defiant",
-    "title": "Buying Pre-IPO Shares vs. Funds: What US Investors Actually Own",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/buying-pre-ipo-shares-vs-funds-what-us-investors-actually-own",
-    "published_at": "Mon, 26 Oct 2026 17:18:01 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T17:18:01+00:00"
-  },
-  {
-    "id": "rss_00dcb1b42588",
-    "source": "The Defiant",
-    "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
-    "url": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
-    "published_at": "Mon, 26 Oct 2026 16:39:38 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T16:39:38+00:00"
-  },
-  {
-    "id": "rss_df2ede3e9565",
-    "source": "The Defiant",
-    "title": "Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing",
-    "url": "https://thedefiant.io/converge/defi/chainlink-introduces-custodysync-with-anchorage-for-custodied-defi-borrowing",
-    "published_at": "Mon, 26 Oct 2026 16:26:58 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T16:26:58+00:00"
-  },
-  {
-    "id": "rss_61ccc199cc64",
-    "source": "The Defiant",
-    "title": "PrimeRevenue Announces Solana Tokenization of Corporate Payment Drafts",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/primerevenue-announces-solana-tokenization-of-corporate-payment-drafts",
-    "published_at": "Mon, 26 Oct 2026 16:06:03 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T16:06:03+00:00"
-  },
-  {
-    "id": "rss_b5aec224f0bf",
-    "source": "The Defiant",
-    "title": "Balancer Says Review Found Over $500,000 in Overlooked User Assets",
-    "url": "https://thedefiant.io/news/defi/balancer-says-review-found-over-500-000-in-overlooked-user-assets",
-    "published_at": "Mon, 26 Oct 2026 15:49:35 GMT",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T15:49:35+00:00"
-  },
-  {
-    "id": "rss_bb2a699e2966",
-    "source": "Decrypt",
-    "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-    "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-    "published_at": "Mon, 26 Oct 2026 15:36:03 +0000",
-    "fetched_at": "2026-10-26T20:42:14.118975+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T15:36:03+00:00"
-  },
-  {
-    "id": "llama_2026102620",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,999,803,472 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-26T20:42:18.984973+00:00",
-    "used": false,
-    "_sort_date": "2026-10-26T20:42:18.984973+00:00"
-  },
-  {
-    "id": "rss_cf291a8d127e",
-    "source": "The Defiant",
-    "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
-    "published_at": "Mon, 26 Oct 2026 23:37:47 GMT",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8ccf2cb2144b",
-    "source": "The Defiant",
-    "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
-    "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
-    "published_at": "Mon, 26 Oct 2026 21:53:17 GMT",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3cec71dce18c",
-    "source": "The Defiant",
-    "title": "Akash Opens Vote to Move From Cosmos to Solana",
-    "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
-    "published_at": "Mon, 26 Oct 2026 21:39:27 GMT",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b9dea886bbca",
-    "source": "The Defiant",
-    "title": "Bitso Brings Morpho Lending to Its App With Bóvedas",
-    "url": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
-    "published_at": "Mon, 26 Oct 2026 21:10:26 GMT",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8f411fc1745d",
-    "source": "Bankless",
-    "title": "🏴 Rising Onchain Inference Markets",
-    "url": "https://www.bankless.com/read/rising-onchain-inference-markets",
-    "published_at": "Mon, 26 Oct 2026 17:15:24 -0400",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_05ba21ee5b08",
-    "source": "Bankless",
-    "title": "The Rise of Onchain Inference Markets",
-    "url": "https://www.bankless.com/read/the-rise-of-onchain-inference-markets",
-    "published_at": "Mon, 26 Oct 2026 16:51:15 -0400",
-    "fetched_at": "2026-10-27T00:19:59.398033+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026102700",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,017,541,961 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-27T00:20:02.487605+00:00",
-    "used": false
-  },
-  {
     "id": "llama_2026102705",
     "source": "DeFiLlama",
     "title": "Base TVL: $6,013,247,426 🟢 +0.00% (24h)",
@@ -2860,6 +2678,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-02T20:10:52.848250+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3e8031377908",
+    "source": "The Defiant",
+    "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
+    "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
+    "published_at": "Tue, 03 Nov 2026 00:56:08 GMT",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5d9cee07f3f6",
+    "source": "The Defiant",
+    "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
+    "url": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
+    "published_at": "Tue, 03 Nov 2026 00:12:59 GMT",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6653c83b8852",
+    "source": "The Defiant",
+    "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
+    "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
+    "published_at": "Mon, 02 Nov 2026 21:25:45 GMT",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0eb1288ef829",
+    "source": "The Defiant",
+    "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
+    "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up",
+    "published_at": "Mon, 02 Nov 2026 21:00:09 GMT",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d623ada32d9",
+    "source": "CryptoSlate",
+    "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
+    "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+    "published_at": "Tue, 03 Nov 2026 01:05:23 +0000",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_167a1126eb38",
+    "source": "CryptoSlate",
+    "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
+    "url": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+    "published_at": "Mon, 02 Nov 2026 23:00:12 +0000",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_616fe5398aa6",
+    "source": "CryptoSlate",
+    "title": "Vitalik is making private Ethereum payments without a crypto website",
+    "url": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
+    "published_at": "Mon, 02 Nov 2026 21:40:13 +0000",
+    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110302",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,906,741,233 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-03T02:34:21.642629+00:00",
     "used": false
   }
 ]
