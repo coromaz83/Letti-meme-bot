@@ -1,104 +1,5 @@
 [
   {
-    "id": "rss_5545766bb752",
-    "source": "The Defiant",
-    "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",
-    "url": "https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions",
-    "published_at": "Sat, 31 Oct 2026 10:36:51 GMT",
-    "fetched_at": "2026-10-31T11:08:12.936851+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8d2734dafcad",
-    "source": "The Defiant",
-    "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
-    "url": "https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases",
-    "published_at": "Sat, 31 Oct 2026 05:27:13 GMT",
-    "fetched_at": "2026-10-31T11:08:12.936851+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026103111",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,846,682,361 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-31T11:08:15.902938+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1e573e927f5e",
-    "source": "The Defiant",
-    "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
-    "url": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
-    "published_at": "Sat, 31 Oct 2026 15:37:59 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2f98431827e4",
-    "source": "The Defiant",
-    "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
-    "url": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
-    "published_at": "Sat, 31 Oct 2026 14:40:51 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b3adb9a5094e",
-    "source": "The Defiant",
-    "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
-    "url": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
-    "published_at": "Sat, 31 Oct 2026 13:17:29 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b71793cf26eb",
-    "source": "The Defiant",
-    "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
-    "url": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
-    "published_at": "Sat, 31 Oct 2026 13:11:22 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f109157937d2",
-    "source": "The Defiant",
-    "title": "CertiK Puts 2026 Crypto Losses at Record $9.2 Billion",
-    "url": "https://thedefiant.io/news/security/certik-puts-2026-crypto-losses-at-record-9-2-billion",
-    "published_at": "Sat, 31 Oct 2026 13:11:20 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6f2ca16bbb71",
-    "source": "The Defiant",
-    "title": "Lido Revenue Jumps to $605,000 on Execution-Reward Windfall",
-    "url": "https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall",
-    "published_at": "Sat, 31 Oct 2026 12:59:28 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e86722070e06",
-    "source": "The Defiant",
-    "title": "Chainalysis Flags DeFi Receipt-Token Route in Binance Hack",
-    "url": "https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack",
-    "published_at": "Sat, 31 Oct 2026 11:47:58 GMT",
-    "fetched_at": "2026-10-31T16:16:20.505003+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026103116",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,857,294,380 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-10-31T16:16:27.754625+00:00",
-    "used": false
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -2481,6 +2382,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-07T10:37:05.237051+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69066105fbb0",
+    "source": "The Defiant",
+    "title": "STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
+    "url": "https://thedefiant.io/news/markets/strk-slumps-57-in-four-weeks-as-starknet-rally-unwinds",
+    "published_at": "Sat, 07 Nov 2026 16:07:10 GMT",
+    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_178bf8c51e26",
+    "source": "The Defiant",
+    "title": "How to Check Crypto Companies and Wallet Addresses in OFAC Records",
+    "url": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
+    "published_at": "Sat, 07 Nov 2026 14:17:01 GMT",
+    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_776b82501075",
+    "source": "The Defiant",
+    "title": "How to Restore Access to a Crypto Wallet",
+    "url": "https://thedefiant.io/news/security/how-to-restore-access-to-a-crypto-wallet",
+    "published_at": "Sat, 07 Nov 2026 14:14:12 GMT",
+    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5d1e7bd3581f",
+    "source": "The Defiant",
+    "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
+    "url": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
+    "published_at": "Sat, 07 Nov 2026 11:27:05 GMT",
+    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110716",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,817,028,162 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-07T16:47:26.555924+00:00",
     "used": false
   }
 ]
