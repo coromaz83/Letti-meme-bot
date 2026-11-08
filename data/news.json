@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_6724d57ad69f",
-    "source": "CoinDesk",
-    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-    "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-    "published_at": "Sun, 01 Nov 2026 01:10:05 +0000",
-    "fetched_at": "2026-11-01T05:44:04.638981+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_47ed85738a43",
-    "source": "The Defiant",
-    "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",
-    "url": "https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults",
-    "published_at": "Sun, 01 Nov 2026 04:25:39 GMT",
-    "fetched_at": "2026-11-01T05:44:04.638981+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110105",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,893,992,979 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-01T05:44:09.691132+00:00",
-    "used": false
-  },
-  {
     "id": "rss_865568549b20",
     "source": "Cointelegraph Base",
     "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -2391,6 +2364,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-08T00:21:54.350330+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7b976f62928a",
+    "source": "The Defiant",
+    "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
+    "url": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
+    "published_at": "Sun, 08 Nov 2026 01:53:00 GMT",
+    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b93762f7d338",
+    "source": "The Defiant",
+    "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
+    "url": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
+    "published_at": "Sun, 08 Nov 2026 00:39:24 GMT",
+    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4f628bd2e086",
+    "source": "The Defiant",
+    "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
+    "url": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
+    "published_at": "Sun, 08 Nov 2026 00:34:34 GMT",
+    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110806",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,873,992,705 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-08T06:34:37.092069+00:00",
     "used": false
   }
 ]
