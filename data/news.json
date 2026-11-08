@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_1271398a0a71",
-    "source": "The Defiant",
-    "title": "Election Market Odds vs. Polls: What a 70% Chance Means",
-    "url": "https://thedefiant.io/news/cefi/election-market-odds-vs-polls-what-a-70-chance-means",
-    "published_at": "Sun, 01 Nov 2026 18:12:49 GMT",
-    "fetched_at": "2026-11-01T18:30:20.233391+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dd58f5248fad",
-    "source": "The Defiant",
-    "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
-    "url": "https://thedefiant.io/news/hacks/binance-hack-launderers-reach-solana-after-draining-500-million-on-tron-chainalysis-says",
-    "published_at": "Sun, 01 Nov 2026 17:08:41 GMT",
-    "fetched_at": "2026-11-01T18:30:20.233391+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_47f87a438619",
-    "source": "The Defiant",
-    "title": "OKXICE Stock-Token Objections Reach 50, Including Nvidia",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-token-objections-reach-50-including-nvidia",
-    "published_at": "Sun, 01 Nov 2026 13:18:37 GMT",
-    "fetched_at": "2026-11-01T18:30:20.233391+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c8705eb3f54e",
-    "source": "CryptoSlate",
-    "title": "Ethereum validators pocket $30 million windfall as Binance hackers lose $119 million in rushed trades",
-    "url": "https://cryptoslate.com/ethereum-validators-pocket-30-million-windfall-as-binance-hackers-lose-119-million-in-rushed-trades/",
-    "published_at": "Sun, 01 Nov 2026 14:20:12 +0000",
-    "fetched_at": "2026-11-01T18:30:20.233391+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110118",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,907,652,940 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-01T18:30:24.227201+00:00",
-    "used": false
-  },
-  {
     "id": "rss_2c6704371f81",
     "source": "The Defiant",
     "title": "What Is RLUSD? Ripple’s Stablecoin Backing and Redemption Explained",
@@ -2283,6 +2238,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-08T14:12:44.495101+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_865568549b20",
+    "source": "Cointelegraph Base",
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
+    "fetched_at": "2026-11-08T18:59:37.403968+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_144b5c8f4840",
+    "source": "Cointelegraph Base",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
+    "fetched_at": "2026-11-08T18:59:37.403968+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-11-08T18:59:37.403968+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_da05cb076b8b",
+    "source": "The Defiant",
+    "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
+    "url": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
+    "published_at": "Sun, 08 Nov 2026 18:11:27 GMT",
+    "fetched_at": "2026-11-08T18:59:37.403968+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_76da87a9c70a",
+    "source": "The Defiant",
+    "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+    "url": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
+    "published_at": "Sun, 08 Nov 2026 16:33:28 GMT",
+    "fetched_at": "2026-11-08T18:59:37.403968+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110818",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,851,570,564 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-08T18:59:39.984967+00:00",
     "used": false
   }
 ]
