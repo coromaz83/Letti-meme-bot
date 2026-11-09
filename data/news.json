@@ -1,185 +1,5 @@
 [
   {
-    "id": "rss_d827090b63f0",
-    "source": "CoinDesk",
-    "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-    "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
-    "published_at": "Mon, 02 Nov 2026 14:29:33 +0000",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8e6aee73de90",
-    "source": "The Defiant",
-    "title": "BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade",
-    "url": "https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade",
-    "published_at": "Mon, 02 Nov 2026 20:07:33 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_59f2fb6c4935",
-    "source": "The Defiant",
-    "title": "Akash Stakers Approve Move From Cosmos to Solana",
-    "url": "https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana",
-    "published_at": "Mon, 02 Nov 2026 20:04:42 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0472f7a48382",
-    "source": "The Defiant",
-    "title": "NEAR Governance Approves Plan to Lower Issuance Cap to 1.6%",
-    "url": "https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6",
-    "published_at": "Mon, 02 Nov 2026 19:37:34 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_10399d92d478",
-    "source": "The Defiant",
-    "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
-    "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
-    "published_at": "Mon, 02 Nov 2026 19:35:40 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c692e449577d",
-    "source": "The Defiant",
-    "title": "New Jersey Rescinds Coinbase Staking Order, Clearing Path for Restart",
-    "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
-    "published_at": "Mon, 02 Nov 2026 19:11:35 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dc1375d45479",
-    "source": "The Defiant",
-    "title": "SEC Staff Clarifies When Token Voters Are Not a 'Central Party'",
-    "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-when-token-voters-are-not-a-central-party",
-    "published_at": "Mon, 02 Nov 2026 18:28:35 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_278cf9a47f5c",
-    "source": "The Defiant",
-    "title": "How to Read Crypto Funding Rate Charts Across Exchanges",
-    "url": "https://thedefiant.io/news/markets/how-to-read-crypto-funding-rate-charts-across-exchanges",
-    "published_at": "Mon, 02 Nov 2026 18:22:00 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d8eae0758ed5",
-    "source": "The Defiant",
-    "title": "Horizen’s Nov. 4 Bridge Cutoff Leaves USDC.e Outside DAO Recovery Plan",
-    "url": "https://thedefiant.io/news/blockchains/horizen-s-nov-4-bridge-cutoff-leaves-usdc-e-outside-dao-recovery-plan",
-    "published_at": "Mon, 02 Nov 2026 18:20:26 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_09178b61d734",
-    "source": "The Defiant",
-    "title": "Researcher Puts Mercado Bitcoin Freezes Near $7 Million",
-    "url": "https://thedefiant.io/news/hacks/researcher-puts-mercado-bitcoin-freezes-near-7-million",
-    "published_at": "Mon, 02 Nov 2026 17:07:05 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_aa2ea4963e7a",
-    "source": "The Defiant",
-    "title": "NYSE Taps Broadridge for Onchain Shareholder Voting",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-taps-broadridge-for-onchain-shareholder-voting",
-    "published_at": "Mon, 02 Nov 2026 16:48:54 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6f7d14b68a92",
-    "source": "The Defiant",
-    "title": "SBI Plans $100 Million Investment in US Digital Bank Erebor",
-    "url": "https://thedefiant.io/converge/cefi/sbi-plans-100-million-investment-in-us-digital-bank-erebor",
-    "published_at": "Mon, 02 Nov 2026 16:44:33 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8feb544f924d",
-    "source": "The Defiant",
-    "title": "Arkham Says Mercado Bitcoin Attacker Holds $46 Million",
-    "url": "https://thedefiant.io/news/hacks/arkham-says-mercado-bitcoin-attacker-holds-46-million",
-    "published_at": "Mon, 02 Nov 2026 16:14:47 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0d9fa40df7fc",
-    "source": "The Defiant",
-    "title": "Relay Reports Route Disruptions in Bid to Block Binance-Hack Funds",
-    "url": "https://thedefiant.io/news/hacks/relay-reports-route-disruptions-in-bid-to-block-binance-hack-funds",
-    "published_at": "Mon, 02 Nov 2026 15:49:45 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8062df8096d0",
-    "source": "The Defiant",
-    "title": "Uniswap Extends VolatilePair Hook to Robinhood Chain",
-    "url": "https://thedefiant.io/news/defi/uniswap-extends-volatilepair-hook-to-robinhood-chain",
-    "published_at": "Mon, 02 Nov 2026 15:17:56 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_db8df9fa1c91",
-    "source": "The Defiant",
-    "title": "Tether Says It Froze Over 4.5 Million USDT Tied to Mercado Bitcoin Incident",
-    "url": "https://thedefiant.io/news/hacks/tether-says-it-froze-over-4-5-million-usdt-tied-to-mercado-bitcoin-incident",
-    "published_at": "Mon, 02 Nov 2026 15:17:24 GMT",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_56a12d1cdf59",
-    "source": "CryptoSlate",
-    "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
-    "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
-    "published_at": "Mon, 02 Nov 2026 16:40:04 +0000",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_07b5f6c35c04",
-    "source": "CryptoSlate",
-    "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
-    "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
-    "published_at": "Mon, 02 Nov 2026 14:40:10 +0000",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e1db7771c16b",
-    "source": "Decrypt",
-    "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-    "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-    "published_at": "Mon, 02 Nov 2026 16:23:24 +0000",
-    "fetched_at": "2026-11-02T20:10:50.182480+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110220",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,950,646,033 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-02T20:10:52.848250+00:00",
-    "used": false
-  },
-  {
     "id": "rss_3e8031377908",
     "source": "The Defiant",
     "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
@@ -2247,6 +2067,204 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-09T11:16:15.280913+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_470569ed16d0",
+    "source": "The Defiant",
+    "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
+    "published_at": "Mon, 09 Nov 2026 21:30:34 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a2c1e60ae267",
+    "source": "The Defiant",
+    "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+    "url": "https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt",
+    "published_at": "Mon, 09 Nov 2026 21:21:20 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5990a369e81e",
+    "source": "The Defiant",
+    "title": "Sigma Prime Releases High-Priority Lighthouse Security Update",
+    "url": "https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update",
+    "published_at": "Mon, 09 Nov 2026 20:49:55 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bde9a774934e",
+    "source": "The Defiant",
+    "title": "Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing",
+    "url": "https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing",
+    "published_at": "Mon, 09 Nov 2026 20:39:54 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c5c521068f41",
+    "source": "The Defiant",
+    "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
+    "published_at": "Mon, 09 Nov 2026 20:24:47 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23feeb6fb584",
+    "source": "The Defiant",
+    "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
+    "url": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
+    "published_at": "Mon, 09 Nov 2026 19:52:50 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cf88389d26a7",
+    "source": "The Defiant",
+    "title": "World Liberty Says WLFI Buybacks Have Begun on Aster",
+    "url": "https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster",
+    "published_at": "Mon, 09 Nov 2026 19:28:35 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_07f587e3ae99",
+    "source": "The Defiant",
+    "title": "Chainalysis Reopens Compliance Tools With Mandatory Credential Resets",
+    "url": "https://thedefiant.io/news/security/chainalysis-reopens-compliance-tools-with-mandatory-credential-resets",
+    "published_at": "Mon, 09 Nov 2026 18:21:55 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_13e2e2766c6a",
+    "source": "The Defiant",
+    "title": "Hard Fork vs. Soft Fork: How Blockchain Upgrades Work",
+    "url": "https://thedefiant.io/news/blockchains/hard-fork-vs-soft-fork-how-blockchain-upgrades-work",
+    "published_at": "Mon, 09 Nov 2026 18:12:31 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c5ec3734b1ef",
+    "source": "The Defiant",
+    "title": "Luke Dashjr Publishes Nine Coldcard RNG Concerns",
+    "url": "https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns",
+    "published_at": "Mon, 09 Nov 2026 17:12:59 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_72f495e50a95",
+    "source": "The Defiant",
+    "title": "Buterin Urges Store-of-Value Focus for ETH, Not Fee Burns",
+    "url": "https://thedefiant.io/news/blockchains/buterin-urges-store-of-value-focus-for-eth-not-fee-burns",
+    "published_at": "Mon, 09 Nov 2026 15:41:35 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57d84bffbdf2",
+    "source": "The Defiant",
+    "title": "Cosmos Contributes IBC to Linux Foundation Decentralized Trust",
+    "url": "https://thedefiant.io/news/infrastructure/cosmos-contributes-ibc-to-linux-foundation-decentralized-trust",
+    "published_at": "Mon, 09 Nov 2026 14:49:59 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8c3d428bc6ca",
+    "source": "The Defiant",
+    "title": "Kinetiq Launches Elysium Mainnet for Hyperliquid",
+    "url": "https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid",
+    "published_at": "Mon, 09 Nov 2026 14:48:55 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bec1753ed7cb",
+    "source": "The Defiant",
+    "title": "Base’s Retired Flashblocks Feeds Accept Connections but Send No Data",
+    "url": "https://thedefiant.io/news/blockchains/base-s-retired-flashblocks-feeds-accept-connections-but-send-no-data",
+    "published_at": "Mon, 09 Nov 2026 14:46:27 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3b0c8479c52c",
+    "source": "The Defiant",
+    "title": "Durov Says 700,000-Plus Wallets Were Created on Telegram in 48 Hours",
+    "url": "https://thedefiant.io/news/infrastructure/durov-says-700-000-plus-wallets-were-created-on-telegram-in-48-hours",
+    "published_at": "Mon, 09 Nov 2026 14:26:31 GMT",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d90cf7a026a",
+    "source": "CryptoSlate",
+    "title": "Coinbase’s blockchain got faster. Some apps can still connect but get no data",
+    "url": "https://cryptoslate.com/coinbases-blockchain-got-faster-some-apps-can-still-connect-but-get-no-data/",
+    "published_at": "Mon, 09 Nov 2026 14:35:11 +0000",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b914e606f523",
+    "source": "Decrypt",
+    "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+    "url": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+    "published_at": "Mon, 09 Nov 2026 17:14:10 +0000",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_80e1f89fc0fd",
+    "source": "Decrypt",
+    "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+    "url": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
+    "published_at": "Mon, 09 Nov 2026 17:08:21 +0000",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a6c739d01c9d",
+    "source": "Decrypt",
+    "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+    "url": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
+    "published_at": "Mon, 09 Nov 2026 11:50:36 +0000",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7cbf7fc5f3d3",
+    "source": "Bankless",
+    "title": "Ross Unveils Tacit Chain, a Private Payments Rollup on Ethereum",
+    "url": "https://www.bankless.com/read/news/ross-unveils-tacit-chain-a-private-payments-rollup-on-ethereum",
+    "published_at": "Mon, 09 Nov 2026 15:14:16 -0500",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5cb4a6f2f376",
+    "source": "Bankless",
+    "title": "Coinbase Secures Final OCC Approval for Its National Trust Bank",
+    "url": "https://www.bankless.com/read/news/coinbase-secures-final-occ-approval-for-its-national-trust-bank",
+    "published_at": "Mon, 09 Nov 2026 15:10:46 -0500",
+    "fetched_at": "2026-11-09T21:36:00.668746+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110921",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,745,118,008 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-09T21:36:03.791654+00:00",
     "used": false
   }
 ]
