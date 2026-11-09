@@ -1,104 +1,5 @@
 [
   {
-    "id": "rss_7d89f14d9b75",
-    "source": "The Defiant",
-    "title": "What Is Kinexys? A Guide to J.P. Morgan’s Blockchain Accounts and JPM Coin",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-is-kinexys-a-guide-to-j-p-morgan-s-blockchain-accounts-and-jpm-coin",
-    "published_at": "Mon, 02 Nov 2026 09:49:27 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ed70d1977a5d",
-    "source": "The Defiant",
-    "title": "What Does Securitize Do? A Guide to Its Fund Services",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-does-securitize-do-a-guide-to-its-fund-services",
-    "published_at": "Mon, 02 Nov 2026 09:44:29 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d3a112c4ef99",
-    "source": "The Defiant",
-    "title": "Jupiter Lend Explained: Deposits, Borrowing and Withdrawals",
-    "url": "https://thedefiant.io/news/defi/jupiter-lend-explained-deposits-borrowing-and-withdrawals",
-    "published_at": "Mon, 02 Nov 2026 09:38:26 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8bc878250576",
-    "source": "The Defiant",
-    "title": "Canton Explained: How Privacy, Access and Settlement Work",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/canton-explained-how-privacy-access-and-settlement-work",
-    "published_at": "Mon, 02 Nov 2026 09:26:51 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f3a4963c2381",
-    "source": "The Defiant",
-    "title": "What Is Hyperliquid? A Guide to HyperCore, HyperEVM and Builder Markets",
-    "url": "https://thedefiant.io/news/defi/what-is-hyperliquid-a-guide-to-hypercore-hyperevm-and-builder-markets",
-    "published_at": "Mon, 02 Nov 2026 09:25:31 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ec99460a4e9f",
-    "source": "The Defiant",
-    "title": "What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion",
-    "url": "https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion",
-    "published_at": "Mon, 02 Nov 2026 09:20:38 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e7e9a27304d1",
-    "source": "The Defiant",
-    "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
-    "url": "https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending",
-    "published_at": "Mon, 02 Nov 2026 09:02:13 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_732060cfaeed",
-    "source": "The Defiant",
-    "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
-    "url": "https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands",
-    "published_at": "Mon, 02 Nov 2026 08:09:37 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ca366457c6c4",
-    "source": "The Defiant",
-    "title": "Binance Attacker Splits $292 Million in XRP Across Six Wallets",
-    "url": "https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets",
-    "published_at": "Mon, 02 Nov 2026 07:42:43 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7a5b591422f7",
-    "source": "The Defiant",
-    "title": "BTCPay Links Hot-Wallet Drains to Versions 2.4.1 and Older",
-    "url": "https://thedefiant.io/news/hacks/btcpay-links-hot-wallet-drains-to-versions-2-4-1-and-older",
-    "published_at": "Mon, 02 Nov 2026 07:18:33 GMT",
-    "fetched_at": "2026-11-02T09:51:55.864623+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110209",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,989,208,992 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-02T09:51:58.725055+00:00",
-    "used": false
-  },
-  {
     "id": "rss_d827090b63f0",
     "source": "CoinDesk",
     "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
@@ -2238,6 +2139,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-09T02:31:59.555602+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_429af2f9ce04",
+    "source": "CoinDesk",
+    "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "published_at": "Mon, 09 Nov 2026 10:00:00 +0000",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e8be22b230ec",
+    "source": "CoinDesk",
+    "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+    "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "published_at": "Mon, 09 Nov 2026 05:16:54 +0000",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bf1d9d8f4ea4",
+    "source": "The Defiant",
+    "title": "PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link",
+    "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
+    "published_at": "Mon, 09 Nov 2026 10:39:12 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d4b79772aaa5",
+    "source": "The Defiant",
+    "title": "Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit",
+    "url": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
+    "published_at": "Mon, 09 Nov 2026 08:53:50 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_51066e827390",
+    "source": "The Defiant",
+    "title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
+    "url": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
+    "published_at": "Mon, 09 Nov 2026 08:47:03 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_99cf51c6f517",
+    "source": "The Defiant",
+    "title": "Bitcoin Trades Near $73,900 After Four-Week Low",
+    "url": "https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low",
+    "published_at": "Mon, 09 Nov 2026 07:36:58 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b12be0e0f556",
+    "source": "The Defiant",
+    "title": "Yat Siu to Become Animoca Brands CEO in AI and Institutional Push",
+    "url": "https://thedefiant.io/news/people/yat-siu-to-become-animoca-brands-ceo-in-ai-and-institutional-push",
+    "published_at": "Mon, 09 Nov 2026 07:29:33 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bcf491a3c717",
+    "source": "The Defiant",
+    "title": "Solana Draft Would Retire Durable Nonces No Earlier Than May 2027",
+    "url": "https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027",
+    "published_at": "Mon, 09 Nov 2026 07:09:40 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_600310d44c04",
+    "source": "The Defiant",
+    "title": "OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High",
+    "url": "https://thedefiant.io/news/blockchains/op-mainnet-active-addresses-jump-nearly-20-fold-to-a-30-day-high",
+    "published_at": "Mon, 09 Nov 2026 05:56:42 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_40d958597a20",
+    "source": "The Defiant",
+    "title": "SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware",
+    "url": "https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware",
+    "published_at": "Mon, 09 Nov 2026 04:13:40 GMT",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9a6a017a41d2",
+    "source": "CryptoSlate",
+    "title": "Why Wall Street can use Ethereum without betting on ETH",
+    "url": "https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
+    "published_at": "Mon, 09 Nov 2026 10:53:54 +0000",
+    "fetched_at": "2026-11-09T11:16:12.139352+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110911",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,693,940,978 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-09T11:16:15.280913+00:00",
     "used": false
   }
 ]
