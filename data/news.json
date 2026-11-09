@@ -1,59 +1,5 @@
 [
   {
-    "id": "rss_b7459788bdef",
-    "source": "The Defiant",
-    "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
-    "url": "https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes",
-    "published_at": "Mon, 02 Nov 2026 00:33:31 GMT",
-    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8a591a4649cf",
-    "source": "The Defiant",
-    "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
-    "url": "https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw",
-    "published_at": "Mon, 02 Nov 2026 00:23:12 GMT",
-    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8b30dfd2c8c5",
-    "source": "The Defiant",
-    "title": "Maple’s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
-    "url": "https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits",
-    "published_at": "Mon, 02 Nov 2026 00:23:02 GMT",
-    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0a3fea1447a4",
-    "source": "The Defiant",
-    "title": "Institutional Crypto Custody: A Guide to Roles and Control",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control",
-    "published_at": "Mon, 02 Nov 2026 00:21:50 GMT",
-    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_700097cc27d8",
-    "source": "The Defiant",
-    "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
-    "url": "https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps",
-    "published_at": "Sun, 01 Nov 2026 22:54:59 GMT",
-    "fetched_at": "2026-11-02T02:17:35.329635+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110202",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,974,482,494 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-02T02:17:39.092332+00:00",
-    "used": false
-  },
-  {
     "id": "rss_7d89f14d9b75",
     "source": "The Defiant",
     "title": "What Is Kinexys? A Guide to J.P. Morgan’s Blockchain Accounts and JPM Coin",
@@ -2256,6 +2202,42 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-08T22:48:14.033984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_920bbea16cd2",
+    "source": "The Defiant",
+    "title": "Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated",
+    "url": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
+    "published_at": "Mon, 09 Nov 2026 02:05:14 GMT",
+    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bf7fb83f6f8c",
+    "source": "The Defiant",
+    "title": "Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms",
+    "url": "https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms",
+    "published_at": "Mon, 09 Nov 2026 01:13:31 GMT",
+    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5bd1974a2072",
+    "source": "The Defiant",
+    "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
+    "url": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
+    "published_at": "Sun, 08 Nov 2026 23:17:04 GMT",
+    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026110902",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,737,697,102 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-09T02:31:59.555602+00:00",
     "used": false
   }
 ]
