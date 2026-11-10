@@ -1,77 +1,5 @@
 [
   {
-    "id": "rss_3e8031377908",
-    "source": "The Defiant",
-    "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
-    "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
-    "published_at": "Tue, 03 Nov 2026 00:56:08 GMT",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5d9cee07f3f6",
-    "source": "The Defiant",
-    "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
-    "url": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
-    "published_at": "Tue, 03 Nov 2026 00:12:59 GMT",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6653c83b8852",
-    "source": "The Defiant",
-    "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
-    "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
-    "published_at": "Mon, 02 Nov 2026 21:25:45 GMT",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0eb1288ef829",
-    "source": "The Defiant",
-    "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
-    "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up",
-    "published_at": "Mon, 02 Nov 2026 21:00:09 GMT",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9d623ada32d9",
-    "source": "CryptoSlate",
-    "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
-    "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
-    "published_at": "Tue, 03 Nov 2026 01:05:23 +0000",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_167a1126eb38",
-    "source": "CryptoSlate",
-    "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
-    "url": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
-    "published_at": "Mon, 02 Nov 2026 23:00:12 +0000",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_616fe5398aa6",
-    "source": "CryptoSlate",
-    "title": "Vitalik is making private Ethereum payments without a crypto website",
-    "url": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
-    "published_at": "Mon, 02 Nov 2026 21:40:13 +0000",
-    "fetched_at": "2026-11-03T02:34:19.314253+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110302",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,906,741,233 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-03T02:34:21.642629+00:00",
-    "used": false
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -2265,6 +2193,105 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-09T21:36:03.791654+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e993dbc12b80",
+    "source": "The Defiant",
+    "title": "Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems",
+    "published_at": "Mon, 09 Nov 2026 21:20:35 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_50642695adc0",
+    "source": "The Defiant",
+    "title": "Markey Demands AI-Free Google Search Option for Schools",
+    "url": "https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools",
+    "published_at": "Mon, 09 Nov 2026 21:09:51 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0e19bb938b97",
+    "source": "The Defiant",
+    "title": "Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights",
+    "url": "https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights",
+    "published_at": "Mon, 09 Nov 2026 20:36:15 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b5fd3c28a084",
+    "source": "The Defiant",
+    "title": "Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team",
+    "url": "https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team",
+    "published_at": "Mon, 09 Nov 2026 19:17:49 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e0b2761010c3",
+    "source": "The Defiant",
+    "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
+    "published_at": "Mon, 09 Nov 2026 19:05:57 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_551118ce2726",
+    "source": "The Defiant",
+    "title": "Nvidia Trades 26% Below Record Close Amid Huang Review",
+    "url": "https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review",
+    "published_at": "Mon, 09 Nov 2026 18:51:21 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9978d23272fe",
+    "source": "The Defiant",
+    "title": "NHTSA Probes Waymo’s School-Bus Fix After Reports of Continued Violations",
+    "url": "https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations",
+    "published_at": "Mon, 09 Nov 2026 18:36:50 GMT",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4dfbf181df66",
+    "source": "CryptoSlate",
+    "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
+    "url": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
+    "published_at": "Mon, 09 Nov 2026 22:50:00 +0000",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_222f3db52790",
+    "source": "Bankless",
+    "title": "🏴 Hyperliquid Gets Its First L2",
+    "url": "https://www.bankless.com/read/hyperliquid-gets-its-first-l2",
+    "published_at": "Mon, 09 Nov 2026 17:07:28 -0500",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9c925c71c8fd",
+    "source": "Bankless",
+    "title": "Hyperliquid's First L2 Arrives",
+    "url": "https://www.bankless.com/read/hyperliquids-first-l2-arrives-today",
+    "published_at": "Mon, 09 Nov 2026 16:54:53 -0500",
+    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111004",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,750,952,527 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-10T04:01:34.514230+00:00",
     "used": false
   }
 ]
