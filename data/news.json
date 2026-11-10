@@ -1,68 +1,5 @@
 [
   {
-    "id": "rss_59350c097c02",
-    "source": "Cointelegraph Base",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a1928c16ee67",
-    "source": "CoinDesk",
-    "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-    "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-    "published_at": "Tue, 03 Nov 2026 10:15:53 +0000",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f563ce5ab30e",
-    "source": "The Defiant",
-    "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
-    "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
-    "published_at": "Tue, 03 Nov 2026 09:08:33 GMT",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_53a73ad3cc55",
-    "source": "The Defiant",
-    "title": "Binance Flips to $1.82 Billion in Daily Net Inflows After Withdrawal Restart",
-    "url": "https://thedefiant.io/news/cefi/binance-flips-to-1-82-billion-in-daily-net-inflows-after-withdrawal-restart",
-    "published_at": "Tue, 03 Nov 2026 09:04:59 GMT",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e90b53331f17",
-    "source": "CryptoSlate",
-    "title": "Ethena’s trading team can approve borrowers of assets backing USDe under new rules",
-    "url": "https://cryptoslate.com/ethenas-trading-team-can-approve-borrowers-of-assets-backing-usde-under-new-rules/",
-    "published_at": "Tue, 03 Nov 2026 04:30:59 +0000",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8e2f744cc372",
-    "source": "CryptoSlate",
-    "title": "Kinetic’s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",
-    "url": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/",
-    "published_at": "Tue, 03 Nov 2026 03:20:37 +0000",
-    "fetched_at": "2026-11-03T10:42:05.751350+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110310",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,887,140,536 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-03T10:42:09.205648+00:00",
-    "used": false
-  },
-  {
     "id": "rss_524eb6748351",
     "source": "CoinDesk",
     "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
@@ -2292,6 +2229,168 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-10T04:01:34.514230+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_065521a7587c",
+    "source": "CoinDesk",
+    "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+    "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+    "published_at": "Tue, 10 Nov 2026 09:14:30 +0000",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe46c83c9f4f",
+    "source": "CoinDesk",
+    "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+    "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+    "published_at": "Tue, 10 Nov 2026 07:01:06 +0000",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aebd88823ac1",
+    "source": "The Defiant",
+    "title": "Compound V2 Users Face Nov. 10 COMP Rewards Deadline",
+    "url": "https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline",
+    "published_at": "Tue, 10 Nov 2026 12:43:36 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ddce8e3b98f6",
+    "source": "The Defiant",
+    "title": "Matter Labs Launches Prividium Connect With ZK Fee Plan",
+    "url": "https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan",
+    "published_at": "Tue, 10 Nov 2026 12:41:52 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_658d140eeeef",
+    "source": "The Defiant",
+    "title": "Anthropic IPO Filing Uses $78 Maximum Share Price",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price",
+    "published_at": "Tue, 10 Nov 2026 12:21:19 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dfe54e03b48a",
+    "source": "The Defiant",
+    "title": "Google Commits $10 Billion to Anthropic Alongside IPO",
+    "url": "https://thedefiant.io/frontier/ai/google-commits-10-billion-to-anthropic-alongside-ipo",
+    "published_at": "Tue, 10 Nov 2026 12:21:13 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c1c57be31de0",
+    "source": "The Defiant",
+    "title": "Anthropic Registers Up to 948.75 Million IPO Shares",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-registers-up-to-948-75-million-ipo-shares",
+    "published_at": "Tue, 10 Nov 2026 12:20:55 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4b37a2f6a155",
+    "source": "The Defiant",
+    "title": "Initia Halts L1 After $605,000 USDC Outflow, Team Says",
+    "url": "https://thedefiant.io/news/hacks/initia-halts-l1-after-605-000-usdc-outflow-team-says",
+    "published_at": "Tue, 10 Nov 2026 12:20:23 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_451848d4339e",
+    "source": "The Defiant",
+    "title": "Anthropic Retracts IPO Range as Crypto Products Await Debut",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-retracts-ipo-range-as-crypto-products-await-debut",
+    "published_at": "Tue, 10 Nov 2026 12:19:32 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_367391cc72ff",
+    "source": "The Defiant",
+    "title": "Anthropic Launches Fable 5.2 With 20% Lower Token Prices",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-with-20-lower-token-prices",
+    "published_at": "Tue, 10 Nov 2026 12:18:33 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bbb2492a917",
+    "source": "The Defiant",
+    "title": "Anthropic Launches IPO Roadshow at $70–$78 a Share",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share",
+    "published_at": "Tue, 10 Nov 2026 11:43:18 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c505eb18ff8e",
+    "source": "The Defiant",
+    "title": "Waller Backs December Hike as Bitcoin Slips Toward $74K",
+    "url": "https://thedefiant.io/news/markets/waller-backs-december-hike-as-bitcoin-slips-toward-74k",
+    "published_at": "Tue, 10 Nov 2026 11:10:04 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c76bc1a3323c",
+    "source": "The Defiant",
+    "title": "WalletConnect Pitches Single-Integration Crypto Checkout",
+    "url": "https://thedefiant.io/converge/defi/walletconnect-pitches-single-integration-crypto-checkout",
+    "published_at": "Tue, 10 Nov 2026 11:10:01 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f66d81677db1",
+    "source": "The Defiant",
+    "title": "Ethlabs Urges Glamsterdam Hold Pending Audit Findings",
+    "url": "https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings",
+    "published_at": "Tue, 10 Nov 2026 09:22:31 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8cc38ed5a9fe",
+    "source": "The Defiant",
+    "title": "Maple’s SYRUP Nearly Halves as Lending Assets Shrink",
+    "url": "https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink",
+    "published_at": "Tue, 10 Nov 2026 09:12:26 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1984c8e01aea",
+    "source": "The Defiant",
+    "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+    "url": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+    "published_at": "Tue, 10 Nov 2026 08:28:31 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1a63aaaa2fc3",
+    "source": "The Defiant",
+    "title": "Trump Media Reports 15,649 BTC Ahead of Debt Put",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put",
+    "published_at": "Tue, 10 Nov 2026 08:12:11 GMT",
+    "fetched_at": "2026-11-10T12:54:18.637422+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111012",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,695,476,205 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-10T12:54:21.653039+00:00",
     "used": false
   }
 ]
