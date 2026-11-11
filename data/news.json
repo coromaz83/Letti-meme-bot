@@ -1,86 +1,5 @@
 [
   {
-    "id": "rss_4d2c38682178",
-    "source": "The Defiant",
-    "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
-    "url": "https://thedefiant.io/news/regulation/sec-staff-grants-canton-coin-no-action-relief-for-token-minting",
-    "published_at": "Tue, 03 Nov 2026 20:42:19 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2609e43e6c54",
-    "source": "The Defiant",
-    "title": "Justin Drake Targets December 2028 for Ethereum’s Post-Quantum Transition",
-    "url": "https://thedefiant.io/news/blockchains/justin-drake-targets-december-2028-for-ethereum-s-post-quantum-transition",
-    "published_at": "Tue, 03 Nov 2026 20:38:56 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_288f88dc33df",
-    "source": "The Defiant",
-    "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
-    "url": "https://thedefiant.io/converge/regulation/cftc-chair-says-equity-perps-can-begin-us-trading",
-    "published_at": "Tue, 03 Nov 2026 20:16:28 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ed3d97da36dc",
-    "source": "The Defiant",
-    "title": "Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote",
-    "url": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-on-testnet-ahead-of-mainnet-vote",
-    "published_at": "Tue, 03 Nov 2026 19:28:47 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_57d26e777b14",
-    "source": "The Defiant",
-    "title": "Sei's Autobahn Consensus Vote Clears Quorum",
-    "url": "https://thedefiant.io/news/blockchains/sei-s-autobahn-consensus-vote-clears-quorum",
-    "published_at": "Tue, 03 Nov 2026 19:27:38 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_02082152ce96",
-    "source": "The Defiant",
-    "title": "Cboe-Backed Group Sues CFTC Over Single-Stock Perps Approvals",
-    "url": "https://thedefiant.io/news/regulation/cboe-backed-group-sues-cftc-over-single-stock-perps-approvals",
-    "published_at": "Tue, 03 Nov 2026 19:14:33 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4c81f2b3ef3a",
-    "source": "The Defiant",
-    "title": "What Are Euro Stablecoins? EURC, EURR and Redemption Explained",
-    "url": "https://thedefiant.io/news/tokens/what-are-euro-stablecoins-eurc-eurr-and-redemption-explained",
-    "published_at": "Tue, 03 Nov 2026 18:22:04 GMT",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_27851b4d1096",
-    "source": "Decrypt",
-    "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-    "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-    "published_at": "Tue, 03 Nov 2026 22:46:02 +0000",
-    "fetched_at": "2026-11-03T23:35:55.375360+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110323",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,992,170,246 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-03T23:35:59.799845+00:00",
-    "used": false
-  },
-  {
     "id": "rss_9d43312ff562",
     "source": "CoinDesk",
     "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
@@ -2382,6 +2301,15 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-10T20:24:03.412269+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111100",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,738,206,554 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-11T00:49:30.776805+00:00",
     "used": false
   }
 ]
