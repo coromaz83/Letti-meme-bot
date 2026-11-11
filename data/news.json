@@ -1,77 +1,5 @@
 [
   {
-    "id": "rss_9d43312ff562",
-    "source": "CoinDesk",
-    "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-    "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-    "published_at": "Wed, 04 Nov 2026 05:14:12 +0000",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b31bdc335c1b",
-    "source": "The Defiant",
-    "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
-    "url": "https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled",
-    "published_at": "Wed, 04 Nov 2026 05:01:44 GMT",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4fe73bac9ff6",
-    "source": "The Defiant",
-    "title": "BitMart Founder Confirms Hack During Restructuring",
-    "url": "https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring",
-    "published_at": "Wed, 04 Nov 2026 04:56:34 GMT",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6a4df4429439",
-    "source": "The Defiant",
-    "title": "Solana Breaks Below $90 as Bitcoin Slides Under $76,000",
-    "url": "https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000",
-    "published_at": "Wed, 04 Nov 2026 03:20:50 GMT",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dae17ad4f206",
-    "source": "The Defiant",
-    "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
-    "url": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
-    "published_at": "Wed, 04 Nov 2026 02:18:50 GMT",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_56a4d8d558b2",
-    "source": "The Defiant",
-    "title": "South Korea’s Ruling Party Formally Seeks Crypto Tax Delay",
-    "url": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
-    "published_at": "Wed, 04 Nov 2026 01:53:19 GMT",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fc7a93640148",
-    "source": "CryptoSlate",
-    "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
-    "url": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
-    "published_at": "Tue, 03 Nov 2026 23:40:07 +0000",
-    "fetched_at": "2026-11-04T05:56:46.270195+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110405",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,888,307,918 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-04T05:56:48.238149+00:00",
-    "used": false
-  },
-  {
     "id": "rss_ec0369489b16",
     "source": "Cointelegraph Base",
     "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -2310,6 +2238,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-11T00:49:30.776805+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8fe943f46840",
+    "source": "CryptoSlate",
+    "title": "Lighthouse issues urgent Ethereum node patch due to hidden security flaws",
+    "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
+    "published_at": "Wed, 11 Nov 2026 07:10:08 +0000",
+    "fetched_at": "2026-11-11T07:39:50.665559+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111107",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,769,493,406 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-11T07:39:53.791018+00:00",
     "used": false
   }
 ]
