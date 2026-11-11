@@ -1,131 +1,5 @@
 [
   {
-    "id": "rss_ec0369489b16",
-    "source": "Cointelegraph Base",
-    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ed41f573eb60",
-    "source": "CoinDesk",
-    "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-    "published_at": "Wed, 04 Nov 2026 10:38:58 +0000",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1428b060952",
-    "source": "The Defiant",
-    "title": "Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base",
-    "url": "https://thedefiant.io/news/defi/dialectic-launches-spacex-yield-vault-using-aave-loans-on-base",
-    "published_at": "Wed, 04 Nov 2026 14:13:26 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_99a948e8d317",
-    "source": "The Defiant",
-    "title": "Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws",
-    "url": "https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws",
-    "published_at": "Wed, 04 Nov 2026 14:11:30 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5b0bc61c6987",
-    "source": "The Defiant",
-    "title": "Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says",
-    "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says",
-    "published_at": "Wed, 04 Nov 2026 13:57:15 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4244d5501ce3",
-    "source": "The Defiant",
-    "title": "Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement",
-    "url": "https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement",
-    "published_at": "Wed, 04 Nov 2026 11:49:47 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_067827dbd166",
-    "source": "The Defiant",
-    "title": "Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-payments-network-reaches-41-3-billion-annualized-volume-in-q3",
-    "published_at": "Wed, 04 Nov 2026 11:41:41 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6722f83b89da",
-    "source": "The Defiant",
-    "title": "Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-tokenizes-us-stocks-and-treasuries-through-dtcc",
-    "published_at": "Wed, 04 Nov 2026 10:43:28 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_89cf6c0132ef",
-    "source": "The Defiant",
-    "title": "WLFI Slides 11% on Election Night, Lags Bitcoin’s Recovery",
-    "url": "https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery",
-    "published_at": "Wed, 04 Nov 2026 10:42:47 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_61221957d035",
-    "source": "The Defiant",
-    "title": "Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start",
-    "url": "https://thedefiant.io/converge/regulation/hong-kong-passes-crypto-tax-reporting-bill-for-2027-start",
-    "published_at": "Wed, 04 Nov 2026 10:26:52 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_aef07fc30657",
-    "source": "The Defiant",
-    "title": "Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/apple-joins-okxice-stock-token-objectors-as-total-reaches-59",
-    "published_at": "Wed, 04 Nov 2026 07:35:36 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ad5641449f43",
-    "source": "The Defiant",
-    "title": "Democrats Win House, Gaining New Leverage Over Crypto Legislation",
-    "url": "https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation",
-    "published_at": "Wed, 04 Nov 2026 07:32:44 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_36334867e17f",
-    "source": "The Defiant",
-    "title": "Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses",
-    "url": "https://thedefiant.io/converge/regulation/block-reaches-964-million-doj-deal-in-principle-over-aml-lapses",
-    "published_at": "Wed, 04 Nov 2026 06:17:48 GMT",
-    "fetched_at": "2026-11-04T14:18:39.973905+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110414",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,023,366,158 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-04T14:18:43.415038+00:00",
-    "used": false
-  },
-  {
     "id": "rss_12105a76a3b2",
     "source": "CoinDesk",
     "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
@@ -2256,6 +2130,159 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-11T07:39:53.791018+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8d1edd3aecb6",
+    "source": "CoinDesk",
+    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+    "published_at": "Wed, 11 Nov 2026 13:00:00 +0000",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_75bfeafce050",
+    "source": "The Defiant",
+    "title": "White House Seeks Remote AI Chip Curbs: Report",
+    "url": "https://thedefiant.io/frontier/ai/white-house-seeks-remote-ai-chip-curbs-report",
+    "published_at": "Wed, 11 Nov 2026 15:42:08 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5ec41091b558",
+    "source": "The Defiant",
+    "title": "Researchers Say Codex Flaw Put npm Releases at Risk",
+    "url": "https://thedefiant.io/frontier/ai/researchers-say-codex-flaw-put-npm-releases-at-risk",
+    "published_at": "Wed, 11 Nov 2026 15:37:06 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fcab3cc2826f",
+    "source": "The Defiant",
+    "title": "Runway Releases Praxis-1 Robot Model With Open Weights",
+    "url": "https://thedefiant.io/frontier/ai/runway-releases-praxis-1-robot-model-with-open-weights",
+    "published_at": "Wed, 11 Nov 2026 15:13:04 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6045674a064d",
+    "source": "The Defiant",
+    "title": "Maple Co-Founder Flanagan Exits Over Strategy Split",
+    "url": "https://thedefiant.io/news/defi/maple-co-founder-flanagan-exits-over-strategy-split",
+    "published_at": "Wed, 11 Nov 2026 15:10:44 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57bba2900b43",
+    "source": "The Defiant",
+    "title": "Pyth Adds Real-Time NYSE Data to Its Data Marketplace",
+    "url": "https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace",
+    "published_at": "Wed, 11 Nov 2026 15:09:59 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3438900b13a7",
+    "source": "The Defiant",
+    "title": "Anthropic Perp Exposure Tops $300 Million in Snapshots",
+    "url": "https://thedefiant.io/news/defi/anthropic-perp-exposure-tops-300-million-in-snapshots",
+    "published_at": "Wed, 11 Nov 2026 14:51:01 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ecd35ded9d8",
+    "source": "The Defiant",
+    "title": "Keplr User Reports 1,200 ATOM Move Amid Recovery Effort",
+    "url": "https://thedefiant.io/news/security/keplr-user-reports-1-200-atom-move-amid-recovery-effort",
+    "published_at": "Wed, 11 Nov 2026 14:20:25 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ba94af07540",
+    "source": "The Defiant",
+    "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-sets-nov-23-stock-token-launch-after-objections",
+    "published_at": "Wed, 11 Nov 2026 13:11:34 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_71e0029f8314",
+    "source": "The Defiant",
+    "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
+    "url": "https://thedefiant.io/frontier/technology/ibm-targets-520-qubits-with-next-nighthawk-processor",
+    "published_at": "Wed, 11 Nov 2026 12:11:37 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_80cc728b60e1",
+    "source": "The Defiant",
+    "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
+    "url": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
+    "published_at": "Wed, 11 Nov 2026 11:27:15 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cfe89850dd2",
+    "source": "The Defiant",
+    "title": "Anthropic’s $1.4 Trillion IPO Target May Rise: Report",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-s-1-4-trillion-ipo-target-may-rise-report",
+    "published_at": "Wed, 11 Nov 2026 10:38:36 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92c3be72491c",
+    "source": "The Defiant",
+    "title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/xstocks-adds-200-plus-uk-and-eu-stock-tokens-with-gtn",
+    "published_at": "Wed, 11 Nov 2026 08:53:06 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a4f4784d38e9",
+    "source": "The Defiant",
+    "title": "Evernorth Slides 24% After 73.7 Million-Share Filing",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-slides-24-after-73-7-million-share-filing",
+    "published_at": "Wed, 11 Nov 2026 08:44:16 GMT",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d68c6a41cf83",
+    "source": "CryptoSlate",
+    "title": "Coinbase wins national trust charter, and strict OCC mandates apply",
+    "url": "https://cryptoslate.com/coinbase-wins-national-trust-charter-and-strict-occ-mandates-apply/",
+    "published_at": "Wed, 11 Nov 2026 08:30:33 +0000",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b5a7280dc1d8",
+    "source": "Decrypt",
+    "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+    "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+    "published_at": "Wed, 11 Nov 2026 12:46:24 +0000",
+    "fetched_at": "2026-11-11T16:01:24.194304+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111116",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,712,016,114 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-11T16:01:27.190550+00:00",
     "used": false
   }
 ]
