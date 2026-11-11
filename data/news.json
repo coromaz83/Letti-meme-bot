@@ -1,194 +1,5 @@
 [
   {
-    "id": "rss_12105a76a3b2",
-    "source": "CoinDesk",
-    "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-    "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-    "published_at": "Wed, 04 Nov 2026 16:08:14 +0000",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_475815665f7f",
-    "source": "The Defiant",
-    "title": "Nasdaq Approves Listing of Canary’s Staked Injective ETF",
-    "url": "https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf",
-    "published_at": "Wed, 04 Nov 2026 20:38:59 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_45118c602b28",
-    "source": "The Defiant",
-    "title": "Lightning Labs Releases LND Mitigation for Critical Linux Flaw",
-    "url": "https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw",
-    "published_at": "Wed, 04 Nov 2026 18:47:43 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_42095ad30e85",
-    "source": "The Defiant",
-    "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
-    "url": "https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared",
-    "published_at": "Wed, 04 Nov 2026 18:15:35 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6031934a403e",
-    "source": "The Defiant",
-    "title": "Strategy’s STRC Hits $100 for First Time Since May",
-    "url": "https://thedefiant.io/news/markets/strategy-s-strc-hits-100-for-first-time-since-may",
-    "published_at": "Wed, 04 Nov 2026 17:52:00 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d9a62552ae39",
-    "source": "The Defiant",
-    "title": "Stripe Lets US Businesses Send Stablecoins to Wallets in 160-Plus Markets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-lets-us-businesses-send-stablecoins-to-wallets-in-160-plus-markets",
-    "published_at": "Wed, 04 Nov 2026 17:36:36 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_06e23c14d20a",
-    "source": "The Defiant",
-    "title": "Polygon Proposal Seeks Hard Fork to Recover 70.49 Million POL",
-    "url": "https://thedefiant.io/news/blockchains/polygon-proposal-seeks-hard-fork-to-recover-70-49-million-pol",
-    "published_at": "Wed, 04 Nov 2026 17:29:49 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f6697b40b4ca",
-    "source": "The Defiant",
-    "title": "Osmosis Burns 55.5 Million OSMO From Community Pool",
-    "url": "https://thedefiant.io/news/defi/osmosis-burns-55-5-million-osmo-from-community-pool",
-    "published_at": "Wed, 04 Nov 2026 17:27:49 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e82dc12de925",
-    "source": "The Defiant",
-    "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade",
-    "url": "https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade",
-    "published_at": "Wed, 04 Nov 2026 17:00:22 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3fd9be00fe76",
-    "source": "The Defiant",
-    "title": "ApeChain Plans Switch From LayerZero to Chainlink CCIP",
-    "url": "https://thedefiant.io/news/infrastructure/apechain-plans-switch-from-layerzero-to-chainlink-ccip",
-    "published_at": "Wed, 04 Nov 2026 16:42:48 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_28f5303bd8c8",
-    "source": "The Defiant",
-    "title": "Privacy Cash Pauses Deposits After Binance Hack",
-    "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
-    "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1bd44358aa02",
-    "source": "The Defiant",
-    "title": "Coinbase Brings Deribit Options and Perpetuals to US Prime Clients",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-brings-deribit-options-and-perpetuals-to-us-prime-clients",
-    "published_at": "Wed, 04 Nov 2026 16:12:42 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_84c117570cbe",
-    "source": "The Defiant",
-    "title": "Blast Shuts Down Layer 2, Directs Users to Recovery Site",
-    "url": "https://thedefiant.io/news/blockchains/blast-shuts-down-layer-2-directs-users-to-recovery-site",
-    "published_at": "Wed, 04 Nov 2026 15:41:18 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_362236005890",
-    "source": "The Defiant",
-    "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
-    "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
-    "published_at": "Wed, 04 Nov 2026 15:38:12 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_105d35436bfa",
-    "source": "The Defiant",
-    "title": "Riot Signs $28 Billion AI Lease for Entire Corsicana Campus",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/riot-signs-28-billion-ai-lease-for-entire-corsicana-campus",
-    "published_at": "Wed, 04 Nov 2026 15:31:44 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e8ec5caa7150",
-    "source": "The Defiant",
-    "title": "Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production",
-    "url": "https://thedefiant.io/news/hacks/polkadot-treasury-lost-1-38-million-after-xcm-patch-missed-production",
-    "published_at": "Wed, 04 Nov 2026 15:11:38 GMT",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5aa0a956464d",
-    "source": "CryptoSlate",
-    "title": "Aave and Lido lose $1.7B in massive DeFi capital drop after the Binance hack",
-    "url": "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack/",
-    "published_at": "Wed, 04 Nov 2026 19:50:13 +0000",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d7b80bcdab6c",
-    "source": "Decrypt",
-    "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-    "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-    "published_at": "Wed, 04 Nov 2026 20:46:03 +0000",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a5af23ff1ae3",
-    "source": "Decrypt",
-    "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-    "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-    "published_at": "Wed, 04 Nov 2026 16:29:36 +0000",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1425a975c0af",
-    "source": "Bankless",
-    "title": "Ethereum Is Shipping Around Itself",
-    "url": "https://www.bankless.com/read/ethereum-is-shipping-around-itself",
-    "published_at": "Wed, 04 Nov 2026 15:06:37 -0500",
-    "fetched_at": "2026-11-04T20:53:36.584774+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110420",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,163,203,448 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-04T20:53:42.526185+00:00",
-    "used": false
-  },
-  {
     "id": "rss_287140871b21",
     "source": "Cointelegraph Base",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -2283,6 +2094,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-11T16:01:27.190550+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec0369489b16",
+    "source": "Cointelegraph Base",
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8246151d500f",
+    "source": "CoinDesk",
+    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+    "published_at": "Wed, 11 Nov 2026 16:00:45 +0000",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5560cd8cd85e",
+    "source": "The Defiant",
+    "title": "Katana Plans Revenue-Funded Buybacks for KAT Stakers",
+    "url": "https://thedefiant.io/news/tokens/katana-plans-revenue-funded-buybacks-for-kat-stakers",
+    "published_at": "Wed, 11 Nov 2026 22:56:07 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ba41f6d57d4e",
+    "source": "The Defiant",
+    "title": "Nvidia Falls After Report of Huang Affair With Executive",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-falls-after-report-of-huang-affair-with-executive",
+    "published_at": "Wed, 11 Nov 2026 22:45:14 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2415b9c77384",
+    "source": "The Defiant",
+    "title": "Trump Backed Nvidia Diversion Crackdown, Axios Reports",
+    "url": "https://thedefiant.io/frontier/ai/trump-backed-nvidia-diversion-crackdown-axios-reports",
+    "published_at": "Wed, 11 Nov 2026 21:16:28 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_43498d3a141d",
+    "source": "The Defiant",
+    "title": "Ethlabs Puts Ethereum Quantum Defense Ahead of Speed",
+    "url": "https://thedefiant.io/news/blockchains/ethlabs-puts-ethereum-quantum-defense-ahead-of-speed",
+    "published_at": "Wed, 11 Nov 2026 21:00:46 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_40c4a50538e2",
+    "source": "The Defiant",
+    "title": "Novig Loses Bid to Block New York Gambling Enforcement",
+    "url": "https://thedefiant.io/news/regulation/novig-loses-bid-to-block-new-york-gambling-enforcement",
+    "published_at": "Wed, 11 Nov 2026 20:15:54 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_391d05f179d1",
+    "source": "The Defiant",
+    "title": "Arkham Traces $63 Million in Bitget Hack Funds to CoinJoin",
+    "url": "https://thedefiant.io/news/hacks/arkham-traces-63-million-in-bitget-hack-funds-to-coinjoin",
+    "published_at": "Wed, 11 Nov 2026 19:55:04 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_83a57aac184f",
+    "source": "The Defiant",
+    "title": "Polymarket Cuts Staff and Contractors in Reorganization",
+    "url": "https://thedefiant.io/news/people/polymarket-cuts-staff-and-contractors-in-reorganization",
+    "published_at": "Wed, 11 Nov 2026 19:11:24 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c8d7ed14c1c9",
+    "source": "The Defiant",
+    "title": "Nomura Explores Laser Digital Sale, Bloomberg Reports",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/nomura-explores-laser-digital-sale-bloomberg-reports",
+    "published_at": "Wed, 11 Nov 2026 18:50:48 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a539135fbb18",
+    "source": "The Defiant",
+    "title": "LlamaRisk Proposes Borrowing Speed Limits for Aave V3",
+    "url": "https://thedefiant.io/news/defi/llamarisk-proposes-borrowing-speed-limits-for-aave-v3",
+    "published_at": "Wed, 11 Nov 2026 17:07:29 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb6fae755ca0",
+    "source": "The Defiant",
+    "title": "Extended Opens XTEN Checker With Dec. 31 Signing Deadline",
+    "url": "https://thedefiant.io/news/tokens/extended-opens-xten-checker-with-dec-31-signing-deadline",
+    "published_at": "Wed, 11 Nov 2026 16:58:56 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_afbb4858cad5",
+    "source": "The Defiant",
+    "title": "Moonwell Cuts Collateral Limits, Drops VELO and wrsETH",
+    "url": "https://thedefiant.io/news/defi/moonwell-cuts-collateral-limits-drops-velo-and-wrseth",
+    "published_at": "Wed, 11 Nov 2026 16:13:50 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebf9c8375794",
+    "source": "The Defiant",
+    "title": "Variational Ends Omni Beta, Removes Invite-Code Gate",
+    "url": "https://thedefiant.io/news/defi/variational-ends-omni-beta-removes-invite-code-gate",
+    "published_at": "Wed, 11 Nov 2026 16:12:51 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_08d803bb9722",
+    "source": "The Defiant",
+    "title": "Stacks Tests Post-Quantum Signatures With sBTC Transfer",
+    "url": "https://thedefiant.io/news/blockchains/stacks-tests-post-quantum-signatures-with-sbtc-transfer",
+    "published_at": "Wed, 11 Nov 2026 16:10:10 GMT",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe361dc61cfc",
+    "source": "Decrypt",
+    "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+    "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+    "published_at": "Wed, 11 Nov 2026 19:36:02 +0000",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_52c065e44fc9",
+    "source": "Bankless",
+    "title": "🏴 MegaETH's $30M Pivot",
+    "url": "https://www.bankless.com/read/megaeths-30m-pivot-newsletter",
+    "published_at": "Wed, 11 Nov 2026 16:00:09 -0500",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_69ee3eda9485",
+    "source": "Bankless",
+    "title": "Coinbase Adds Server-Side Limits for AI Trading Agents",
+    "url": "https://www.bankless.com/read/news/coinbase-adds-server-side-limits-for-ai-trading-agents",
+    "published_at": "Wed, 11 Nov 2026 14:50:06 -0500",
+    "fetched_at": "2026-11-11T22:56:37.766424+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111122",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,832,560,029 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-11T22:56:39.988945+00:00",
     "used": false
   }
 ]
