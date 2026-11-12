@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-11-05T08:23:43.008841+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_45d8f85432a8",
-    "source": "The Defiant",
-    "title": "Arkansas Sues Kalshi to Stop Alleged Illegal Gambling",
-    "url": "https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling",
-    "published_at": "Thu, 05 Nov 2026 05:39:52 GMT",
-    "fetched_at": "2026-11-05T08:23:43.008841+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5e9b9cceb29d",
-    "source": "The Defiant",
-    "title": "OKX–ICE Stock Venue’s Issuer Objections Reach 62",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62",
-    "published_at": "Thu, 05 Nov 2026 03:31:02 GMT",
-    "fetched_at": "2026-11-05T08:23:43.008841+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f71ae0d63d8c",
-    "source": "The Defiant",
-    "title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
-    "published_at": "Thu, 05 Nov 2026 03:11:19 GMT",
-    "fetched_at": "2026-11-05T08:23:43.008841+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110508",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,183,492,207 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-05T08:23:45.974184+00:00",
-    "used": false
-  },
-  {
     "id": "rss_3f4a6d72768f",
     "source": "Cointelegraph Base",
     "title": "Base says sequencer bug caused back-to-back outages",
@@ -2247,6 +2202,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-12T03:44:21.259915+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_88754c1ef74d",
+    "source": "CoinDesk",
+    "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+    "published_at": "Thu, 12 Nov 2026 11:43:41 +0000",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1e902c0a5ed6",
+    "source": "The Defiant",
+    "title": "USDT Freeze Proposals on Tron Leave Time to Move Funds",
+    "url": "https://thedefiant.io/news/security/usdt-freeze-proposals-on-tron-leave-time-to-move-funds",
+    "published_at": "Thu, 12 Nov 2026 11:55:03 GMT",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_226143e35c98",
+    "source": "The Defiant",
+    "title": "India's ED Searches CoinDCX, Delta in Forex-Law Probe",
+    "url": "https://thedefiant.io/news/regulation/india-s-ed-searches-coindcx-delta-in-forex-law-probe",
+    "published_at": "Thu, 12 Nov 2026 10:23:36 GMT",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a705c575f0c0",
+    "source": "The Defiant",
+    "title": "CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal",
+    "url": "https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal",
+    "published_at": "Thu, 12 Nov 2026 10:00:09 GMT",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5b9bd960c27e",
+    "source": "The Defiant",
+    "title": "Chainstack Urges Credential Rotation After Data Breach",
+    "url": "https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach",
+    "published_at": "Thu, 12 Nov 2026 08:50:00 GMT",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_83c73b6f0c54",
+    "source": "The Defiant",
+    "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
+    "url": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
+    "published_at": "Thu, 12 Nov 2026 06:03:55 GMT",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1299778bb6d5",
+    "source": "CryptoSlate",
+    "title": "Aave will freeze $279M in osETH, unless StakeWise wins this vote",
+    "url": "https://cryptoslate.com/aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote/",
+    "published_at": "Thu, 12 Nov 2026 09:30:37 +0000",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d719344b19af",
+    "source": "CryptoSlate",
+    "title": "Base’s USDC transfer footprint does not prove merchant reach, data shows",
+    "url": "https://cryptoslate.com/bases-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows/",
+    "published_at": "Thu, 12 Nov 2026 06:50:40 +0000",
+    "fetched_at": "2026-11-12T12:28:52.340734+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111212",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,747,176,482 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-12T12:28:55.543554+00:00",
     "used": false
   }
 ]
