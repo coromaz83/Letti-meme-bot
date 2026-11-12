@@ -1,194 +1,5 @@
 [
   {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d86d6b533a1c",
-    "source": "CoinDesk",
-    "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-    "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-    "published_at": "Thu, 05 Nov 2026 14:00:00 +0000",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c0b027785bee",
-    "source": "The Defiant",
-    "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff",
-    "url": "https://thedefiant.io/news/blockchains/zcash-nears-nu7-upgrade-and-sprout-spending-cutoff",
-    "published_at": "Thu, 05 Nov 2026 16:26:10 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d0eed077fd16",
-    "source": "The Defiant",
-    "title": "Anchorage Digital Applies for CFTC Swap Dealer Registration",
-    "url": "https://thedefiant.io/converge/regulation/anchorage-digital-applies-for-cftc-swap-dealer-registration",
-    "published_at": "Thu, 05 Nov 2026 16:09:07 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_95c1c1f093c5",
-    "source": "The Defiant",
-    "title": "Tempo Introduces Credit Service With Unsecured Loans in Bolivia",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-introduces-credit-service-with-unsecured-loans-in-bolivia",
-    "published_at": "Thu, 05 Nov 2026 16:04:14 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a192243e3b60",
-    "source": "The Defiant",
-    "title": "Canary’s Staked INJ ETF Begins Trading on Nasdaq",
-    "url": "https://thedefiant.io/news/tokens/canary-s-staked-inj-etf-begins-trading-on-nasdaq",
-    "published_at": "Thu, 05 Nov 2026 15:25:56 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fa84e428fbe2",
-    "source": "The Defiant",
-    "title": "Lido Adds Firelight Loss Protection to Earn Vaults",
-    "url": "https://thedefiant.io/news/defi/lido-adds-firelight-loss-protection-to-earn-vaults",
-    "published_at": "Thu, 05 Nov 2026 15:17:36 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3271251413e3",
-    "source": "The Defiant",
-    "title": "Kalshi Opens Single-Stock Perpetual Futures Trading",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-opens-single-stock-perpetual-futures-trading",
-    "published_at": "Thu, 05 Nov 2026 15:12:50 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4f7ab225d3c2",
-    "source": "The Defiant",
-    "title": "Binance Asks ArbitrumDAO to Release Frozen ETH and ARB",
-    "url": "https://thedefiant.io/news/defi/binance-asks-arbitrumdao-to-release-frozen-eth-and-arb",
-    "published_at": "Thu, 05 Nov 2026 15:11:18 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_75449fcd8293",
-    "source": "The Defiant",
-    "title": "How Fed Interest Rates Affect Crypto",
-    "url": "https://thedefiant.io/news/markets/how-fed-interest-rates-affect-crypto",
-    "published_at": "Thu, 05 Nov 2026 14:16:05 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_36f0829a05d1",
-    "source": "The Defiant",
-    "title": "Selling Tokenized Stocks After Hours: What Determines the Price",
-    "url": "https://thedefiant.io/news/markets/selling-tokenized-stocks-after-hours-what-determines-the-price",
-    "published_at": "Thu, 05 Nov 2026 14:15:26 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_91159a6da71a",
-    "source": "The Defiant",
-    "title": "Polygon Draft Would Give Labs a New Route to Upgrade Contracts",
-    "url": "https://thedefiant.io/news/blockchains/polygon-draft-would-give-labs-a-new-route-to-upgrade-contracts",
-    "published_at": "Thu, 05 Nov 2026 13:59:27 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8c036d34d586",
-    "source": "The Defiant",
-    "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
-    "url": "https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval",
-    "published_at": "Thu, 05 Nov 2026 11:49:37 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ed9a98de6816",
-    "source": "The Defiant",
-    "title": "Paraguay USDT Offers Show 13% Premium After Ueno Closure",
-    "url": "https://thedefiant.io/news/markets/paraguay-usdt-offers-show-13-premium-after-ueno-closure",
-    "published_at": "Thu, 05 Nov 2026 10:59:52 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9de2ec724678",
-    "source": "The Defiant",
-    "title": "Binance Revokes SignalPlus API Keys After Security Warning",
-    "url": "https://thedefiant.io/news/security/binance-revokes-signalplus-api-keys-after-security-warning",
-    "published_at": "Thu, 05 Nov 2026 10:58:21 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a4ddff37f81c",
-    "source": "The Defiant",
-    "title": "France’s Budget Rejection Shelves Stablecoin Tax and Wallet Reporting",
-    "url": "https://thedefiant.io/news/regulation/france-s-budget-rejection-shelves-stablecoin-tax-and-wallet-reporting",
-    "published_at": "Thu, 05 Nov 2026 09:21:37 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d70f8c465f9a",
-    "source": "The Defiant",
-    "title": "ZetaChain Opens Vote to Shut Down Layer 1 Around Dec. 9",
-    "url": "https://thedefiant.io/news/blockchains/zetachain-opens-vote-to-shut-down-layer-1-around-dec-9",
-    "published_at": "Thu, 05 Nov 2026 09:14:09 GMT",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_64bf20b9213b",
-    "source": "CryptoSlate",
-    "title": "Bitcoin and gold surge after US elections, but $378 million short squeeze casts doubt on debasement trade",
-    "url": "https://cryptoslate.com/bitcoin-and-gold-surge-after-us-elections-but-378-million-short-squeeze-casts-doubt-on-debasement-trade/",
-    "published_at": "Thu, 05 Nov 2026 09:50:59 +0000",
-    "fetched_at": "2026-11-05T16:41:59.401463+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110516",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $6,088,445,589 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-05T16:42:02.722279+00:00",
-    "used": false
-  },
-  {
     "id": "rss_cdd30d1e6541",
     "source": "Cointelegraph Base",
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -2292,6 +2103,141 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-12T12:28:55.543554+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1890c067714",
+    "source": "The Defiant",
+    "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
+    "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+    "published_at": "Thu, 12 Nov 2026 18:41:56 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2cad88d9a4bf",
+    "source": "The Defiant",
+    "title": "Sky Advisor Proposes Halting New Core Vault Borrowing",
+    "url": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
+    "published_at": "Thu, 12 Nov 2026 18:30:26 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_360ad2be4db3",
+    "source": "The Defiant",
+    "title": "NYDFS Sets May 2027 Deadline for Crypto Ad Policies",
+    "url": "https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies",
+    "published_at": "Thu, 12 Nov 2026 18:09:17 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59d78a249006",
+    "source": "The Defiant",
+    "title": "Bitcoin Breaks Below $72,000 as Multiweek Slide Deepens",
+    "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens",
+    "published_at": "Thu, 12 Nov 2026 14:53:36 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_90f5538dfbba",
+    "source": "The Defiant",
+    "title": "Securitize, Ethena Open BUIDL Facility With $100M Capacity",
+    "url": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
+    "published_at": "Thu, 12 Nov 2026 14:39:06 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f8613d85313",
+    "source": "The Defiant",
+    "title": "Layer 1, Rollups and Sidechains: The Key Differences",
+    "url": "https://thedefiant.io/news/blockchains/layer-1-rollups-and-sidechains-the-key-differences",
+    "published_at": "Thu, 12 Nov 2026 14:16:32 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9325ba7abb59",
+    "source": "The Defiant",
+    "title": "Jensen Huang Resigns; Nvidia Names Kress Interim CEO",
+    "url": "https://thedefiant.io/frontier/ai/jensen-huang-resigns-nvidia-names-kress-interim-ceo",
+    "published_at": "Thu, 12 Nov 2026 14:09:47 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_35bd5315e5ef",
+    "source": "The Defiant",
+    "title": "Ether Nears $2,000 as Weekly Loss Outpaces Bitcoin's",
+    "url": "https://thedefiant.io/news/markets/ether-nears-2-000-as-weekly-loss-outpaces-bitcoin-s",
+    "published_at": "Thu, 12 Nov 2026 13:53:42 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_663c647e02b7",
+    "source": "The Defiant",
+    "title": "DTCC Plans Solana Support for Tokenized Assets in 2027",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-plans-solana-support-for-tokenized-assets-in-2027",
+    "published_at": "Thu, 12 Nov 2026 13:38:32 GMT",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7155b2001864",
+    "source": "CryptoSlate",
+    "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+    "url": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+    "published_at": "Thu, 12 Nov 2026 19:20:12 +0000",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d414259dae13",
+    "source": "Decrypt",
+    "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+    "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+    "published_at": "Thu, 12 Nov 2026 17:46:02 +0000",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0da2cfe52696",
+    "source": "Decrypt",
+    "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
+    "url": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+    "published_at": "Thu, 12 Nov 2026 16:36:02 +0000",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0bd975701dac",
+    "source": "Decrypt",
+    "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+    "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+    "published_at": "Thu, 12 Nov 2026 15:55:38 +0000",
+    "fetched_at": "2026-11-12T20:22:24.278752+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111220",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,657,356,679 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-12T20:22:28.297683+00:00",
     "used": false
   }
 ]
