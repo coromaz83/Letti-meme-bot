@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_e4945a464937",
-    "source": "The Defiant",
-    "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
-    "url": "https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen",
-    "published_at": "Fri, 06 Nov 2026 00:42:07 GMT",
-    "fetched_at": "2026-11-06T03:19:54.804359+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110603",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,870,905,314 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-06T03:19:58.323105+00:00",
-    "used": false
-  },
-  {
     "id": "rss_d1c6bc429b29",
     "source": "Cointelegraph Base",
     "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
@@ -2112,6 +2094,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-13T01:24:43.751459+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1cb91a2596fc",
+    "source": "CoinDesk",
+    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "published_at": "Fri, 13 Nov 2026 07:05:29 +0000",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_462d2c265fdb",
+    "source": "The Defiant",
+    "title": "Nakamoto Delays Kraken Debt as Bitcoin Collateral Falls",
+    "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+    "published_at": "Fri, 13 Nov 2026 06:20:35 GMT",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_003c6d7f29e2",
+    "source": "The Defiant",
+    "title": "Osmosis Restarts After Halt; Upbit Pauses Transfers",
+    "url": "https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers",
+    "published_at": "Fri, 13 Nov 2026 06:19:39 GMT",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_edd83087be2b",
+    "source": "The Defiant",
+    "title": "Injective Opens Veyra Vote for Cross-Chain Trading",
+    "url": "https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading",
+    "published_at": "Fri, 13 Nov 2026 06:00:24 GMT",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8069aee1a380",
+    "source": "The Defiant",
+    "title": "Bitcoin Breaks Below $69,000 as Selloff Sets New Lows",
+    "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows",
+    "published_at": "Fri, 13 Nov 2026 05:56:02 GMT",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_793fcaba8376",
+    "source": "CryptoSlate",
+    "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
+    "url": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
+    "published_at": "Fri, 13 Nov 2026 06:20:37 +0000",
+    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111308",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,465,765,018 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-13T08:40:40.554194+00:00",
     "used": false
   }
 ]
