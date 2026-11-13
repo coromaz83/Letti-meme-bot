@@ -1,167 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b8b1f36ed92b",
-    "source": "The Defiant",
-    "title": "What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
-    "url": "https://thedefiant.io/news/tokens/what-is-stablecoin-market-cap-supply-share-and-dominance-explained",
-    "published_at": "Fri, 06 Nov 2026 18:12:32 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_626971ca96fb",
-    "source": "The Defiant",
-    "title": "Algorand Foundation Shuts Forum and Advisory Council",
-    "url": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
-    "published_at": "Fri, 06 Nov 2026 18:07:16 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f09f1093d8b5",
-    "source": "The Defiant",
-    "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
-    "url": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
-    "published_at": "Fri, 06 Nov 2026 18:03:30 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e3f11460c809",
-    "source": "The Defiant",
-    "title": "US Sanctions 45 More Targets Linked to Prince Group",
-    "url": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
-    "published_at": "Fri, 06 Nov 2026 17:50:26 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b44542cd84e7",
-    "source": "The Defiant",
-    "title": "Threshold Sets tBTC Reconnection Target as Week-Long Pause Continues",
-    "url": "https://thedefiant.io/news/security/threshold-sets-tbtc-reconnection-target-as-week-long-pause-continues",
-    "published_at": "Fri, 06 Nov 2026 17:14:38 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b853d8b60639",
-    "source": "The Defiant",
-    "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
-    "url": "https://thedefiant.io/news/defi/coinbase-opens-usdc-borrowing-against-pax-gold",
-    "published_at": "Fri, 06 Nov 2026 15:39:15 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_754860a8569b",
-    "source": "The Defiant",
-    "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
-    "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
-    "published_at": "Fri, 06 Nov 2026 15:31:46 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9b12ea143c29",
-    "source": "The Defiant",
-    "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
-    "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
-    "published_at": "Fri, 06 Nov 2026 15:01:29 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6d729460de4b",
-    "source": "The Defiant",
-    "title": "Crypto 401(k) Rule Enters Final White House Review",
-    "url": "https://thedefiant.io/converge/regulation/crypto-401-k-rule-enters-final-white-house-review",
-    "published_at": "Fri, 06 Nov 2026 14:39:57 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b76803b10645",
-    "source": "The Defiant",
-    "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
-    "url": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
-    "published_at": "Fri, 06 Nov 2026 14:34:02 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1d7d5505d998",
-    "source": "The Defiant",
-    "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
-    "url": "https://thedefiant.io/news/markets/what-are-crypto-derivatives-futures-perpetuals-and-options-explained",
-    "published_at": "Fri, 06 Nov 2026 14:16:18 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_27c5d0a1a5f1",
-    "source": "The Defiant",
-    "title": "Treasury and Fed Withdraw Plan for $250 Cross-Border Travel Rule Threshold",
-    "url": "https://thedefiant.io/news/regulation/treasury-and-fed-withdraw-plan-for-250-cross-border-travel-rule-threshold",
-    "published_at": "Fri, 06 Nov 2026 14:04:06 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_88dac95518d0",
-    "source": "The Defiant",
-    "title": "Bitcoin Gains Drive Strive's $474.8 Million Q3 Profit",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitcoin-gains-drive-strive-s-474-8-million-q3-profit",
-    "published_at": "Fri, 06 Nov 2026 14:03:00 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_40c8a3e599b0",
-    "source": "The Defiant",
-    "title": "Safe Says $12.4 Billion of Smart-Account Assets Sits in DeFi",
-    "url": "https://thedefiant.io/news/defi/safe-says-12-4-billion-of-smart-account-assets-sits-in-defi",
-    "published_at": "Fri, 06 Nov 2026 13:50:01 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5b9231eea26d",
-    "source": "The Defiant",
-    "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
-    "url": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
-    "published_at": "Fri, 06 Nov 2026 12:51:42 GMT",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bf058409ff6f",
-    "source": "Bankless",
-    "title": "Coinbase Enables Borrowing Against Gold via Morpho",
-    "url": "https://www.bankless.com/read/news/coinbase-enables-borrowing-against-gold-via-morpho",
-    "published_at": "Fri, 06 Nov 2026 11:34:43 -0500",
-    "fetched_at": "2026-11-06T18:18:18.598279+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110618",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,845,049,339 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-06T18:18:21.765721+00:00",
-    "used": false
-  },
-  {
     "id": "rss_10294b4f10c0",
     "source": "The Defiant",
     "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
@@ -2175,6 +2013,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-13T17:05:52.100819+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_462558c9ce58",
+    "source": "The Defiant",
+    "title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports",
+    "published_at": "Fri, 13 Nov 2026 22:30:52 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_10f7fd6bdf6e",
+    "source": "The Defiant",
+    "title": "AMD Sinks 9% as Chip Rally Falters After Huang Exit",
+    "url": "https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit",
+    "published_at": "Fri, 13 Nov 2026 21:13:45 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a9a74538ad1b",
+    "source": "The Defiant",
+    "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
+    "url": "https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company",
+    "published_at": "Fri, 13 Nov 2026 21:11:54 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8650a5463557",
+    "source": "The Defiant",
+    "title": "Maple CEO Defends Institutional Push Amid Departures",
+    "url": "https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures",
+    "published_at": "Fri, 13 Nov 2026 19:45:48 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b27b96a30dbc",
+    "source": "The Defiant",
+    "title": "MEGA Discloses 20% Staff Cut Amid AI Product Push",
+    "url": "https://thedefiant.io/news/infrastructure/mega-discloses-20-staff-cut-amid-ai-product-push",
+    "published_at": "Fri, 13 Nov 2026 19:39:44 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_51463870c31c",
+    "source": "The Defiant",
+    "title": "How to Read US Spot Bitcoin ETF Flows—and Their Limits",
+    "url": "https://thedefiant.io/news/markets/how-to-read-us-spot-bitcoin-etf-flows-and-their-limits",
+    "published_at": "Fri, 13 Nov 2026 18:15:49 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78b1a01ee88d",
+    "source": "The Defiant",
+    "title": "BitGo Denies Breach as Unocoin Probes Wallet Transfers",
+    "url": "https://thedefiant.io/news/security/bitgo-denies-breach-as-unocoin-probes-wallet-transfers",
+    "published_at": "Fri, 13 Nov 2026 18:11:50 GMT",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a3c5e68c8a30",
+    "source": "Bankless",
+    "title": "Ethlabs Drops Quick Slots Push to Chase a Post-Quantum Ethereum by 2027",
+    "url": "https://www.bankless.com/read/news/ethlabs-drops-quick-slots-push-to-chase-a-post-quantum-ethereum-by-2027",
+    "published_at": "Fri, 13 Nov 2026 14:58:20 -0500",
+    "fetched_at": "2026-11-13T22:48:27.877984+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111322",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,485,644,517 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-13T22:48:30.421758+00:00",
     "used": false
   }
 ]
