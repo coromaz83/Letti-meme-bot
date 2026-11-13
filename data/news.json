@@ -1,203 +1,5 @@
 [
   {
-    "id": "rss_cdd30d1e6541",
-    "source": "Cointelegraph Base",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_278d6f4312b1",
-    "source": "CoinDesk",
-    "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-    "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-    "published_at": "Thu, 05 Nov 2026 16:49:08 +0000",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_943ce1e688f7",
-    "source": "The Defiant",
-    "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
-    "url": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
-    "published_at": "Thu, 05 Nov 2026 21:56:51 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_606422e64c2b",
-    "source": "The Defiant",
-    "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
-    "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
-    "published_at": "Thu, 05 Nov 2026 21:53:55 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2adcf7b9645c",
-    "source": "The Defiant",
-    "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
-    "url": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
-    "published_at": "Thu, 05 Nov 2026 20:23:31 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0cb9a2a0a2c3",
-    "source": "The Defiant",
-    "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
-    "url": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
-    "published_at": "Thu, 05 Nov 2026 20:14:26 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_09ab70272a8c",
-    "source": "The Defiant",
-    "title": "California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands",
-    "url": "https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands",
-    "published_at": "Thu, 05 Nov 2026 20:07:05 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6960b7757537",
-    "source": "The Defiant",
-    "title": "Solana Labs’ Leap Opens iPhone Beta for Tokenized Stocks and Crypto",
-    "url": "https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto",
-    "published_at": "Thu, 05 Nov 2026 19:50:19 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f9a0d19f50fb",
-    "source": "The Defiant",
-    "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
-    "url": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
-    "published_at": "Thu, 05 Nov 2026 19:26:48 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ea5856262b1f",
-    "source": "The Defiant",
-    "title": "EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity",
-    "url": "https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity",
-    "published_at": "Thu, 05 Nov 2026 19:15:00 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1417906b400",
-    "source": "The Defiant",
-    "title": "SEC Crypto Broker Rule Enters White House Review",
-    "url": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
-    "published_at": "Thu, 05 Nov 2026 18:55:08 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_35d305d72191",
-    "source": "The Defiant",
-    "title": "OpenSSH Ships Urgent Workaround for Alpine Password Bypass",
-    "url": "https://thedefiant.io/news/security/openssh-ships-urgent-workaround-for-alpine-password-bypass",
-    "published_at": "Thu, 05 Nov 2026 18:31:59 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_18e910a3b57b",
-    "source": "The Defiant",
-    "title": "Blockaid Warns Reth Bug Can Produce Incorrect State Proofs",
-    "url": "https://thedefiant.io/news/security/blockaid-warns-reth-bug-can-produce-incorrect-state-proofs",
-    "published_at": "Thu, 05 Nov 2026 18:18:06 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_13e09ec2eb5e",
-    "source": "The Defiant",
-    "title": "Crypto Clearing vs. Settlement: What Happens After a Trade?",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/crypto-clearing-vs-settlement-what-happens-after-a-trade",
-    "published_at": "Thu, 05 Nov 2026 18:15:55 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d22c5d0124a9",
-    "source": "The Defiant",
-    "title": "Paraguay’s Peña Submits Resignation Amid Ueno Bank Crisis",
-    "url": "https://thedefiant.io/converge/regulation/paraguay-s-pe-a-submits-resignation-amid-ueno-bank-crisis",
-    "published_at": "Thu, 05 Nov 2026 18:02:18 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3d929a2b445b",
-    "source": "The Defiant",
-    "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
-    "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
-    "published_at": "Thu, 05 Nov 2026 17:51:32 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fc26b1d34c4c",
-    "source": "The Defiant",
-    "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
-    "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
-    "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cdc063149463",
-    "source": "Bankless",
-    "title": "Zilliqa Ditches Its L1 to Become an Institutional Ethereum L2",
-    "url": "https://www.bankless.com/read/news/zilliqa-ditches-its-l1-to-become-an-institutional-ethereum-l2",
-    "published_at": "Thu, 05 Nov 2026 13:12:07 -0500",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_99b61a6d462f",
-    "source": "Bankless",
-    "title": "ETHBEAT Launches CROPS Guide With Uniswap, Safe, and Tornado Cash",
-    "url": "https://www.bankless.com/read/news/ethbeat-launches-crops-guide-with-uniswap-safe-and-tornado-cash",
-    "published_at": "Thu, 05 Nov 2026 13:10:12 -0500",
-    "fetched_at": "2026-11-05T22:38:03.766687+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110522",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,859,930,575 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-05T22:38:06.762737+00:00",
-    "used": false
-  },
-  {
     "id": "rss_e4945a464937",
     "source": "The Defiant",
     "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
@@ -2238,6 +2040,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-12T20:22:28.297683+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_baaa2e96da7b",
+    "source": "The Defiant",
+    "title": "Bitcoin Sinks to $70,600 as Four-Week Losses Deepen",
+    "url": "https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen",
+    "published_at": "Fri, 13 Nov 2026 00:57:09 GMT",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2019696f591b",
+    "source": "The Defiant",
+    "title": "Democrats Probe Trump’s Nvidia China Chip Export Deal",
+    "url": "https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal",
+    "published_at": "Thu, 12 Nov 2026 22:59:53 GMT",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_28581bde7696",
+    "source": "The Defiant",
+    "title": "DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme",
+    "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+    "published_at": "Thu, 12 Nov 2026 22:18:50 GMT",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_86025a05e1d2",
+    "source": "The Defiant",
+    "title": "Foster Says Nvidia Privately Deemed Chip Tracking Feasible",
+    "url": "https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible",
+    "published_at": "Thu, 12 Nov 2026 20:38:31 GMT",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111301",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,646,510,245 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-13T01:24:43.751459+00:00",
     "used": false
   }
 ]
