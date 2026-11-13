@@ -1,86 +1,5 @@
 [
   {
-    "id": "rss_d1c6bc429b29",
-    "source": "Cointelegraph Base",
-    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_53e91613e577",
-    "source": "CoinDesk",
-    "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-    "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-    "published_at": "Fri, 06 Nov 2026 08:47:42 +0000",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e906cb65a5c7",
-    "source": "The Defiant",
-    "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
-    "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
-    "published_at": "Fri, 06 Nov 2026 11:06:26 GMT",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f56112a9b1da",
-    "source": "The Defiant",
-    "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
-    "url": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
-    "published_at": "Fri, 06 Nov 2026 10:27:22 GMT",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5ce9381a76d6",
-    "source": "The Defiant",
-    "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
-    "url": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
-    "published_at": "Fri, 06 Nov 2026 08:13:07 GMT",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2e4ef9ff73ac",
-    "source": "The Defiant",
-    "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
-    "url": "https://thedefiant.io/news/markets/ether-falls-8-5-to-2-220-lagging-bitcoin",
-    "published_at": "Fri, 06 Nov 2026 07:17:37 GMT",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c4acae289ccb",
-    "source": "The Defiant",
-    "title": "IREN Mining Revenue Falls 58% as AI Sales Reach $200 Million",
-    "url": "https://thedefiant.io/news/tradfi-and-fintech/iren-mining-revenue-falls-58-as-ai-sales-reach-200-million",
-    "published_at": "Fri, 06 Nov 2026 05:40:09 GMT",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_62afdd74aa38",
-    "source": "CryptoSlate",
-    "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
-    "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
-    "published_at": "Fri, 06 Nov 2026 09:55:27 +0000",
-    "fetched_at": "2026-11-06T11:23:56.858169+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110611",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,874,550,156 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-06T11:24:00.288600+00:00",
-    "used": false
-  },
-  {
     "id": "rss_18d775190419",
     "source": "Cointelegraph Base",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -2184,6 +2103,78 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-13T08:40:40.554194+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_17563b746215",
+    "source": "The Defiant",
+    "title": "Unpatched Windows 'SignDrop' Exploit Grants System Rights",
+    "url": "https://thedefiant.io/frontier/technology/unpatched-windows-signdrop-exploit-grants-system-rights",
+    "published_at": "Fri, 13 Nov 2026 16:38:33 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1bec7d03ef86",
+    "source": "The Defiant",
+    "title": "Bitcoin Heads for Sixth Weekly Loss, Down 22% in 2026",
+    "url": "https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026",
+    "published_at": "Fri, 13 Nov 2026 16:12:35 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_81b44f4407eb",
+    "source": "The Defiant",
+    "title": "Microsoft Links Global Outage to Failed Health Checks",
+    "url": "https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks",
+    "published_at": "Fri, 13 Nov 2026 15:38:07 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e0a3a97513c5",
+    "source": "The Defiant",
+    "title": "OpenAI Gives ChatGPT Agents a Card Wallet for Purchases",
+    "url": "https://thedefiant.io/frontier/ai/openai-gives-chatgpt-agents-a-card-wallet-for-purchases",
+    "published_at": "Fri, 13 Nov 2026 15:18:57 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_25bd108c4b02",
+    "source": "The Defiant",
+    "title": "Nakamoto Options Loss Turns Q3 Operating Revenue Negative",
+    "url": "https://thedefiant.io/news/markets/nakamoto-options-loss-turns-q3-operating-revenue-negative",
+    "published_at": "Fri, 13 Nov 2026 13:18:46 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_613ff2ff16cb",
+    "source": "The Defiant",
+    "title": "DOJ and CFTC Sue Arkansas to Halt Kalshi Enforcement",
+    "url": "https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement",
+    "published_at": "Fri, 13 Nov 2026 09:52:22 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1aa9d228d78a",
+    "source": "The Defiant",
+    "title": "BoE and Asian Central Banks Test Linked FX Settlement",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/boe-and-asian-central-banks-test-linked-fx-settlement",
+    "published_at": "Fri, 13 Nov 2026 09:37:34 GMT",
+    "fetched_at": "2026-11-13T17:05:48.095420+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111317",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,455,890,772 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-13T17:05:52.100819+00:00",
     "used": false
   }
 ]
