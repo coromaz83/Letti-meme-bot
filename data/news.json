@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_69066105fbb0",
-    "source": "The Defiant",
-    "title": "STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
-    "url": "https://thedefiant.io/news/markets/strk-slumps-57-in-four-weeks-as-starknet-rally-unwinds",
-    "published_at": "Sat, 07 Nov 2026 16:07:10 GMT",
-    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_178bf8c51e26",
-    "source": "The Defiant",
-    "title": "How to Check Crypto Companies and Wallet Addresses in OFAC Records",
-    "url": "https://thedefiant.io/news/regulation/how-to-check-crypto-companies-and-wallet-addresses-in-ofac-records",
-    "published_at": "Sat, 07 Nov 2026 14:17:01 GMT",
-    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_776b82501075",
-    "source": "The Defiant",
-    "title": "How to Restore Access to a Crypto Wallet",
-    "url": "https://thedefiant.io/news/security/how-to-restore-access-to-a-crypto-wallet",
-    "published_at": "Sat, 07 Nov 2026 14:14:12 GMT",
-    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5d1e7bd3581f",
-    "source": "The Defiant",
-    "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
-    "url": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
-    "published_at": "Sat, 07 Nov 2026 11:27:05 GMT",
-    "fetched_at": "2026-11-07T16:47:23.720607+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110716",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,817,028,162 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-07T16:47:26.555924+00:00",
-    "used": false
-  },
-  {
     "id": "rss_c7a829dc31d3",
     "source": "The Defiant",
     "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
@@ -2202,6 +2157,33 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-14T10:49:53.570775+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e43b31d9dd37",
+    "source": "CoinDesk",
+    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "published_at": "Sat, 14 Nov 2026 16:33:23 +0000",
+    "fetched_at": "2026-11-14T16:56:39.532929+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8699d868c05c",
+    "source": "CoinDesk",
+    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+    "published_at": "Sat, 14 Nov 2026 12:57:00 +0000",
+    "fetched_at": "2026-11-14T16:56:39.532929+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111416",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,263,529,640 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-14T16:56:41.521203+00:00",
     "used": false
   }
 ]
