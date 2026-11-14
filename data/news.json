@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_10294b4f10c0",
-    "source": "The Defiant",
-    "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
-    "url": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
-    "published_at": "Fri, 06 Nov 2026 22:09:37 GMT",
-    "fetched_at": "2026-11-06T23:25:51.692036+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5b983e612305",
-    "source": "The Defiant",
-    "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
-    "url": "https://thedefiant.io/news/regulation/merkley-raskin-bill-would-ban-election-and-sports-contracts-on-us-exchanges",
-    "published_at": "Fri, 06 Nov 2026 18:39:46 GMT",
-    "fetched_at": "2026-11-06T23:25:51.692036+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cbdaaa427088",
-    "source": "CryptoSlate",
-    "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
-    "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
-    "published_at": "Fri, 06 Nov 2026 18:40:30 +0000",
-    "fetched_at": "2026-11-06T23:25:51.692036+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_efb0f96c8231",
-    "source": "Decrypt",
-    "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-    "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-    "published_at": "Fri, 06 Nov 2026 20:36:03 +0000",
-    "fetched_at": "2026-11-06T23:25:51.692036+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110623",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,742,887,706 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-06T23:25:54.718895+00:00",
-    "used": false
-  },
-  {
     "id": "rss_1559e1a42e13",
     "source": "The Defiant",
     "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
@@ -2103,6 +2058,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-13T22:48:30.421758+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18d775190419",
+    "source": "Cointelegraph Base",
+    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
+    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c9799490705c",
+    "source": "The Defiant",
+    "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+    "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
+    "published_at": "Sat, 14 Nov 2026 02:51:35 GMT",
+    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cca1a210dc28",
+    "source": "The Defiant",
+    "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
+    "url": "https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether",
+    "published_at": "Sat, 14 Nov 2026 02:39:42 GMT",
+    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1c6c3251d23",
+    "source": "The Defiant",
+    "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
+    "url": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
+    "published_at": "Sat, 14 Nov 2026 00:26:16 GMT",
+    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111403",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,457,063,463 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-14T03:00:19.320131+00:00",
     "used": false
   }
 ]
