@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_c7a829dc31d3",
-    "source": "The Defiant",
-    "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
-    "url": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
-    "published_at": "Sat, 07 Nov 2026 18:14:51 GMT",
-    "fetched_at": "2026-11-07T20:45:59.459615+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a74a9118aa19",
-    "source": "The Defiant",
-    "title": "Keplr Says Recovery Effort May Explain Empty Wallet Balances",
-    "url": "https://thedefiant.io/news/security/keplr-says-recovery-effort-may-explain-empty-wallet-balances",
-    "published_at": "Sat, 07 Nov 2026 17:43:30 GMT",
-    "fetched_at": "2026-11-07T20:45:59.459615+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110720",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,855,887,265 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-07T20:46:01.838501+00:00",
-    "used": false
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -2184,6 +2157,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-14T16:56:41.521203+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a97547919c4e",
+    "source": "The Defiant",
+    "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+    "url": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
+    "published_at": "Sat, 14 Nov 2026 18:14:23 GMT",
+    "fetched_at": "2026-11-14T21:19:36.952539+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111421",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,231,997,700 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-14T21:19:39.670728+00:00",
     "used": false
   }
 ]
