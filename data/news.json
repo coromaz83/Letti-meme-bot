@@ -1,68 +1,5 @@
 [
   {
-    "id": "rss_1559e1a42e13",
-    "source": "The Defiant",
-    "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
-    "published_at": "Sat, 07 Nov 2026 00:00:13 GMT",
-    "fetched_at": "2026-11-07T03:05:27.897088+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d9ab6bdda9d5",
-    "source": "The Defiant",
-    "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
-    "url": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
-    "published_at": "Sat, 07 Nov 2026 00:00:11 GMT",
-    "fetched_at": "2026-11-07T03:05:27.897088+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110703",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,768,745,440 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-07T03:05:30.345262+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f27739910e09",
-    "source": "The Defiant",
-    "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",
-    "url": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
-    "published_at": "Sat, 07 Nov 2026 06:12:27 GMT",
-    "fetched_at": "2026-11-07T10:37:03.156869+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_29e403e20db0",
-    "source": "CryptoSlate",
-    "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
-    "url": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
-    "published_at": "Sat, 07 Nov 2026 06:10:22 +0000",
-    "fetched_at": "2026-11-07T10:37:03.156869+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ebc5f1f2c93f",
-    "source": "CryptoSlate",
-    "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
-    "url": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
-    "published_at": "Sat, 07 Nov 2026 04:40:10 +0000",
-    "fetched_at": "2026-11-07T10:37:03.156869+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110710",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,817,570,367 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-07T10:37:05.237051+00:00",
-    "used": false
-  },
-  {
     "id": "rss_69066105fbb0",
     "source": "The Defiant",
     "title": "STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
@@ -2103,6 +2040,168 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-14T03:00:19.320131+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5486aaa95eb6",
+    "source": "The Defiant",
+    "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+    "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+    "published_at": "Sat, 14 Nov 2026 09:31:12 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7fbb92c9813f",
+    "source": "The Defiant",
+    "title": "Singapore Files 41 Charges in Nvidia-Linked Server Case",
+    "url": "https://thedefiant.io/frontier/ai/singapore-files-41-charges-in-nvidia-linked-server-case",
+    "published_at": "Sat, 14 Nov 2026 08:40:19 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_73c8290c9430",
+    "source": "The Defiant",
+    "title": "Cursor Links Extension Attack to Exposed Credentials",
+    "url": "https://thedefiant.io/frontier/security/cursor-links-extension-attack-to-exposed-credentials",
+    "published_at": "Sat, 14 Nov 2026 08:24:00 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8470992cd2e9",
+    "source": "The Defiant",
+    "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
+    "url": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
+    "published_at": "Sat, 14 Nov 2026 08:23:49 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_89d21c70dbf7",
+    "source": "The Defiant",
+    "title": "Musk Backs Petition to Bring Jensen Huang Back to Nvidia",
+    "url": "https://thedefiant.io/frontier/ai/musk-backs-petition-to-bring-jensen-huang-back-to-nvidia",
+    "published_at": "Sat, 14 Nov 2026 08:20:16 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03519b02be98",
+    "source": "The Defiant",
+    "title": "Rubio Recast CIA Report in Huang Memo, Post Reports",
+    "url": "https://thedefiant.io/frontier/ai/rubio-recast-cia-report-in-huang-memo-post-reports",
+    "published_at": "Sat, 14 Nov 2026 08:18:08 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_087b8cce24e2",
+    "source": "The Defiant",
+    "title": "Ondo Backs Spout Plan for No-Interest Stock-Token Loans",
+    "url": "https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans",
+    "published_at": "Sat, 14 Nov 2026 08:15:45 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_285c4a306861",
+    "source": "The Defiant",
+    "title": "Cosmos Hub Votes on Fix for Broken Governance Queries",
+    "url": "https://thedefiant.io/news/blockchains/cosmos-hub-votes-on-fix-for-broken-governance-queries",
+    "published_at": "Sat, 14 Nov 2026 08:07:12 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_52fb0a1da6ce",
+    "source": "The Defiant",
+    "title": "Ethereum Weighs Hegotá Reset for Post-Quantum Security",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-weighs-hegot-reset-for-post-quantum-security",
+    "published_at": "Sat, 14 Nov 2026 07:57:57 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e165522af2e7",
+    "source": "The Defiant",
+    "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-crypto-custody-goes-live-for-paying-clients",
+    "published_at": "Sat, 14 Nov 2026 07:52:49 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f9f0c58dcd33",
+    "source": "The Defiant",
+    "title": "Anthropic IPO Said to Restrict China, Hong Kong Institutions",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-ipo-said-to-restrict-china-hong-kong-institutions",
+    "published_at": "Sat, 14 Nov 2026 07:46:50 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_24582b2b6276",
+    "source": "The Defiant",
+    "title": "Duffy Denies FAA AI Tool Caused Nationwide Ground Stop",
+    "url": "https://thedefiant.io/frontier/ai/duffy-denies-faa-ai-tool-caused-nationwide-ground-stop",
+    "published_at": "Sat, 14 Nov 2026 07:44:32 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_534827140b3a",
+    "source": "The Defiant",
+    "title": "OpenAI Staff Discuss Military AI in Russian Hoax Call",
+    "url": "https://thedefiant.io/frontier/ai/openai-staff-discuss-military-ai-in-russian-hoax-call",
+    "published_at": "Sat, 14 Nov 2026 07:41:57 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_510761802368",
+    "source": "The Defiant",
+    "title": "Strategy’s Bitcoin Cost Gap Widens to $7.7 Billion",
+    "url": "https://thedefiant.io/news/markets/strategy-s-bitcoin-cost-gap-widens-to-7-7-billion",
+    "published_at": "Sat, 14 Nov 2026 07:35:30 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92985924e181",
+    "source": "The Defiant",
+    "title": "Tesla Opens Cybercab Purchases to Select Private Buyers",
+    "url": "https://thedefiant.io/frontier/technology/tesla-opens-cybercab-purchases-to-select-private-buyers",
+    "published_at": "Sat, 14 Nov 2026 07:35:29 GMT",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6eb60decf32e",
+    "source": "CryptoSlate",
+    "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+    "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+    "published_at": "Sat, 14 Nov 2026 08:10:11 +0000",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0d334e8230a",
+    "source": "CryptoSlate",
+    "title": "Coinbase AI trading tool pauses bots, but leaves orders open",
+    "url": "https://cryptoslate.com/coinbase-ai-trading-tool-pauses-bots-but-leaves-orders-open/",
+    "published_at": "Sat, 14 Nov 2026 04:30:03 +0000",
+    "fetched_at": "2026-11-14T10:49:50.797264+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111410",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,369,217,789 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-14T10:49:53.570775+00:00",
     "used": false
   }
 ]
