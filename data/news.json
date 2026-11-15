@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_d1ac833595bc",
-    "source": "The Defiant",
-    "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
-    "url": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
-    "published_at": "Sun, 08 Nov 2026 14:11:17 GMT",
-    "fetched_at": "2026-11-08T14:12:41.564523+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c48a552e5322",
-    "source": "The Defiant",
-    "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
-    "url": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
-    "published_at": "Sun, 08 Nov 2026 13:07:22 GMT",
-    "fetched_at": "2026-11-08T14:12:41.564523+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110814",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,894,425,696 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-08T14:12:44.495101+00:00",
-    "used": false
-  },
-  {
     "id": "rss_865568549b20",
     "source": "Cointelegraph Base",
     "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -2238,6 +2211,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-15T08:21:49.254404+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e176fec2ff46",
+    "source": "The Defiant",
+    "title": "WSJ Details China’s Offshore Access to Nvidia Chips",
+    "url": "https://thedefiant.io/frontier/ai/wsj-details-china-s-offshore-access-to-nvidia-chips",
+    "published_at": "Sun, 15 Nov 2026 15:47:42 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6e1fb9fa9a8f",
+    "source": "The Defiant",
+    "title": "Binance Targets Full Withdrawal Reopening Next Week",
+    "url": "https://thedefiant.io/news/hacks/binance-targets-full-withdrawal-reopening-next-week",
+    "published_at": "Sun, 15 Nov 2026 15:45:58 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4ce6a1e323f3",
+    "source": "The Defiant",
+    "title": "Spark TVL Falls 15.3% in a Week to a 30-Day Low",
+    "url": "https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low",
+    "published_at": "Sun, 15 Nov 2026 15:45:11 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d9d22ef1b06c",
+    "source": "The Defiant",
+    "title": "Large Wallets Buy ETH as Price Falls Below $1,800",
+    "url": "https://thedefiant.io/news/markets/large-wallets-buy-eth-as-price-falls-below-1-800",
+    "published_at": "Sun, 15 Nov 2026 15:44:31 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f3d8b6130dea",
+    "source": "The Defiant",
+    "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
+    "url": "https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint",
+    "published_at": "Sun, 15 Nov 2026 15:43:37 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6b15f625b6da",
+    "source": "The Defiant",
+    "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
+    "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
+    "published_at": "Sun, 15 Nov 2026 15:18:39 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_639d5bc5bd96",
+    "source": "The Defiant",
+    "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost",
+    "published_at": "Sun, 15 Nov 2026 14:12:49 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_29352fd00530",
+    "source": "The Defiant",
+    "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
+    "url": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
+    "published_at": "Sun, 15 Nov 2026 13:18:26 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03be13f088b0",
+    "source": "The Defiant",
+    "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
+    "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions",
+    "published_at": "Sun, 15 Nov 2026 12:28:10 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ede2d946cf4b",
+    "source": "The Defiant",
+    "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
+    "url": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
+    "published_at": "Sun, 15 Nov 2026 12:16:44 GMT",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9503d58faf20",
+    "source": "CryptoSlate",
+    "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
+    "url": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+    "published_at": "Sun, 15 Nov 2026 11:55:50 +0000",
+    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111515",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,188,248,201 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-15T15:49:22.838819+00:00",
     "used": false
   }
 ]
