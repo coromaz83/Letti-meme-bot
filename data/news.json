@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_7b976f62928a",
-    "source": "The Defiant",
-    "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
-    "url": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
-    "published_at": "Sun, 08 Nov 2026 01:53:00 GMT",
-    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b93762f7d338",
-    "source": "The Defiant",
-    "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
-    "url": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
-    "published_at": "Sun, 08 Nov 2026 00:39:24 GMT",
-    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4f628bd2e086",
-    "source": "The Defiant",
-    "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
-    "url": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
-    "published_at": "Sun, 08 Nov 2026 00:34:34 GMT",
-    "fetched_at": "2026-11-08T06:34:33.819192+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110806",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,873,992,705 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-08T06:34:37.092069+00:00",
-    "used": false
-  },
-  {
     "id": "rss_d1ac833595bc",
     "source": "The Defiant",
     "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
@@ -2175,6 +2139,105 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-15T01:14:25.251401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_125db7f411d4",
+    "source": "The Defiant",
+    "title": "Lido Lend Plan Would Block Repayments, Not Interest",
+    "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+    "published_at": "Sun, 15 Nov 2026 08:19:55 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_240cbf60603f",
+    "source": "The Defiant",
+    "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+    "url": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+    "published_at": "Sun, 15 Nov 2026 07:21:35 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c08d878e1440",
+    "source": "The Defiant",
+    "title": "Aave Executive Reports $39 Million in Liquidations",
+    "url": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
+    "published_at": "Sun, 15 Nov 2026 03:09:50 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec0cec1af881",
+    "source": "The Defiant",
+    "title": "XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024",
+    "url": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
+    "published_at": "Sun, 15 Nov 2026 03:03:49 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c56aaffb0812",
+    "source": "The Defiant",
+    "title": "Forward Industries Denies $123 Million SOL Transfer",
+    "url": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
+    "published_at": "Sun, 15 Nov 2026 02:45:46 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc9693d1459f",
+    "source": "The Defiant",
+    "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
+    "url": "https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen",
+    "published_at": "Sun, 15 Nov 2026 02:21:35 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_875688bbcccb",
+    "source": "The Defiant",
+    "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
+    "url": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
+    "published_at": "Sun, 15 Nov 2026 01:26:31 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_335a84026e7e",
+    "source": "The Defiant",
+    "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+    "url": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+    "published_at": "Sun, 15 Nov 2026 01:24:59 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_254f9af6a5e1",
+    "source": "The Defiant",
+    "title": "Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens",
+    "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
+    "published_at": "Sun, 15 Nov 2026 01:18:25 GMT",
+    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111508",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,136,306,426 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-15T08:21:49.254404+00:00",
     "used": false
   }
 ]
