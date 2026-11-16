@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_920bbea16cd2",
-    "source": "The Defiant",
-    "title": "Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated",
-    "url": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
-    "published_at": "Mon, 09 Nov 2026 02:05:14 GMT",
-    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bf7fb83f6f8c",
-    "source": "The Defiant",
-    "title": "Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms",
-    "url": "https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms",
-    "published_at": "Mon, 09 Nov 2026 01:13:31 GMT",
-    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5bd1974a2072",
-    "source": "The Defiant",
-    "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
-    "url": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
-    "published_at": "Sun, 08 Nov 2026 23:17:04 GMT",
-    "fetched_at": "2026-11-09T02:31:56.473272+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110902",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,737,697,102 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-09T02:31:59.555602+00:00",
-    "used": false
-  },
-  {
     "id": "rss_429af2f9ce04",
     "source": "CoinDesk",
     "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
@@ -2400,6 +2364,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-16T00:55:38.866284+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dfbaeacc79a0",
+    "source": "The Defiant",
+    "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
+    "url": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
+    "published_at": "Mon, 16 Nov 2026 05:22:03 GMT",
+    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_999422beed93",
+    "source": "The Defiant",
+    "title": "Pony.ai Adds Toyota bZ4X to Guangzhou Driverless Service",
+    "url": "https://thedefiant.io/frontier/technology/pony-ai-adds-toyota-bz4x-to-guangzhou-driverless-service",
+    "published_at": "Mon, 16 Nov 2026 05:19:11 GMT",
+    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_875a8b5888cb",
+    "source": "The Defiant",
+    "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+    "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
+    "published_at": "Mon, 16 Nov 2026 02:20:35 GMT",
+    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_da0045d64e08",
+    "source": "The Defiant",
+    "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
+    "url": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
+    "published_at": "Mon, 16 Nov 2026 02:19:35 GMT",
+    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_05d0452b4c9c",
+    "source": "The Defiant",
+    "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
+    "url": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
+    "published_at": "Mon, 16 Nov 2026 01:20:30 GMT",
+    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111607",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,144,201,358 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-16T07:50:48.982382+00:00",
     "used": false
   }
 ]
