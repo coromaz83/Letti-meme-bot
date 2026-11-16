@@ -1,41 +1,5 @@
 [
   {
-    "id": "rss_f8899a05fd73",
-    "source": "The Defiant",
-    "title": "AVAX Falls 28% in Four Weeks, Lagging Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/avax-falls-28-in-four-weeks-lagging-bitcoin-and-ether",
-    "published_at": "Sun, 08 Nov 2026 22:41:53 GMT",
-    "fetched_at": "2026-11-08T22:48:10.069443+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_252fe6d356dc",
-    "source": "The Defiant",
-    "title": "Bitcoin Trades Below Strategy’s $75,451 Average Purchase Price",
-    "url": "https://thedefiant.io/news/markets/bitcoin-trades-below-strategy-s-75-451-average-purchase-price",
-    "published_at": "Sun, 08 Nov 2026 22:00:13 GMT",
-    "fetched_at": "2026-11-08T22:48:10.069443+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_619ccb8758bf",
-    "source": "The Defiant",
-    "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
-    "url": "https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks",
-    "published_at": "Sun, 08 Nov 2026 19:47:05 GMT",
-    "fetched_at": "2026-11-08T22:48:10.069443+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026110822",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,851,585,160 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-08T22:48:14.033984+00:00",
-    "used": false
-  },
-  {
     "id": "rss_920bbea16cd2",
     "source": "The Defiant",
     "title": "Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated",
@@ -2355,6 +2319,87 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-15T20:57:34.993370+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_865568549b20",
+    "source": "Cointelegraph Base",
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_144b5c8f4840",
+    "source": "Cointelegraph Base",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5d36f9074179",
+    "source": "The Defiant",
+    "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
+    "url": "https://thedefiant.io/frontier/ai/openai-details-astra-s-role-in-standard-model-lattice-proof",
+    "published_at": "Sun, 15 Nov 2026 22:38:42 GMT",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_781937a7c125",
+    "source": "The Defiant",
+    "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
+    "url": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
+    "published_at": "Sun, 15 Nov 2026 21:23:54 GMT",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c51be243b2ca",
+    "source": "The Defiant",
+    "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
+    "url": "https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025",
+    "published_at": "Sun, 15 Nov 2026 21:23:01 GMT",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a81f16adfbc9",
+    "source": "The Defiant",
+    "title": "Solflare Launches Private Mode for Solana Payments",
+    "url": "https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments",
+    "published_at": "Sun, 15 Nov 2026 21:19:07 GMT",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f798a0b0425d",
+    "source": "The Defiant",
+    "title": "Vulcan Fails to Deliver 40 Amazon Satellites to Orbit",
+    "url": "https://thedefiant.io/frontier/technology/vulcan-fails-to-deliver-40-amazon-satellites-to-orbit",
+    "published_at": "Sun, 15 Nov 2026 21:18:56 GMT",
+    "fetched_at": "2026-11-16T00:55:37.230766+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111600",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,195,568,177 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-16T00:55:38.866284+00:00",
     "used": false
   }
 ]
