@@ -1,104 +1,5 @@
 [
   {
-    "id": "rss_e993dbc12b80",
-    "source": "The Defiant",
-    "title": "Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems",
-    "url": "https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems",
-    "published_at": "Mon, 09 Nov 2026 21:20:35 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_50642695adc0",
-    "source": "The Defiant",
-    "title": "Markey Demands AI-Free Google Search Option for Schools",
-    "url": "https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools",
-    "published_at": "Mon, 09 Nov 2026 21:09:51 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0e19bb938b97",
-    "source": "The Defiant",
-    "title": "Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights",
-    "url": "https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights",
-    "published_at": "Mon, 09 Nov 2026 20:36:15 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b5fd3c28a084",
-    "source": "The Defiant",
-    "title": "Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team",
-    "url": "https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team",
-    "published_at": "Mon, 09 Nov 2026 19:17:49 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e0b2761010c3",
-    "source": "The Defiant",
-    "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
-    "url": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
-    "published_at": "Mon, 09 Nov 2026 19:05:57 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_551118ce2726",
-    "source": "The Defiant",
-    "title": "Nvidia Trades 26% Below Record Close Amid Huang Review",
-    "url": "https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review",
-    "published_at": "Mon, 09 Nov 2026 18:51:21 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9978d23272fe",
-    "source": "The Defiant",
-    "title": "NHTSA Probes Waymo’s School-Bus Fix After Reports of Continued Violations",
-    "url": "https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations",
-    "published_at": "Mon, 09 Nov 2026 18:36:50 GMT",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4dfbf181df66",
-    "source": "CryptoSlate",
-    "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
-    "url": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
-    "published_at": "Mon, 09 Nov 2026 22:50:00 +0000",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_222f3db52790",
-    "source": "Bankless",
-    "title": "🏴 Hyperliquid Gets Its First L2",
-    "url": "https://www.bankless.com/read/hyperliquid-gets-its-first-l2",
-    "published_at": "Mon, 09 Nov 2026 17:07:28 -0500",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9c925c71c8fd",
-    "source": "Bankless",
-    "title": "Hyperliquid's First L2 Arrives",
-    "url": "https://www.bankless.com/read/hyperliquids-first-l2-arrives-today",
-    "published_at": "Mon, 09 Nov 2026 16:54:53 -0500",
-    "fetched_at": "2026-11-10T04:01:31.270828+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111004",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,750,952,527 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-10T04:01:34.514230+00:00",
-    "used": false
-  },
-  {
     "id": "rss_065521a7587c",
     "source": "CoinDesk",
     "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
@@ -2427,6 +2328,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-17T02:00:12.437989+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a460393d9455",
+    "source": "CoinDesk",
+    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+    "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+    "published_at": "Tue, 17 Nov 2026 09:21:19 +0000",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_860ef7f45a33",
+    "source": "The Defiant",
+    "title": "Nvidia Forms Board Panel for Export-Control Oversight",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-forms-board-panel-for-export-control-oversight",
+    "published_at": "Tue, 17 Nov 2026 10:18:16 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb0c370b9474",
+    "source": "The Defiant",
+    "title": "Binance Rescales Anthropic Perp to Reflect IPO Shares",
+    "url": "https://thedefiant.io/news/markets/binance-rescales-anthropic-perp-to-reflect-ipo-shares",
+    "published_at": "Tue, 17 Nov 2026 10:14:08 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92ce51cd91e0",
+    "source": "The Defiant",
+    "title": "Solana Foundation Backs CoinGecko Ahead of Trading Push",
+    "url": "https://thedefiant.io/news/infrastructure/solana-foundation-backs-coingecko-ahead-of-trading-push",
+    "published_at": "Tue, 17 Nov 2026 09:26:21 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8ea87e0be3d2",
+    "source": "The Defiant",
+    "title": "Binance Hacker-Linked Wallets Move Nearly 75,000 ETH",
+    "url": "https://thedefiant.io/news/hacks/binance-hacker-linked-wallets-move-nearly-75-000-eth",
+    "published_at": "Tue, 17 Nov 2026 09:13:03 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9fca16039978",
+    "source": "The Defiant",
+    "title": "Bitcoin, Ether Lose Over 13% in Week as Rebound Fades",
+    "url": "https://thedefiant.io/news/markets/bitcoin-ether-lose-over-13-in-week-as-rebound-fades",
+    "published_at": "Tue, 17 Nov 2026 09:03:15 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2fee24991312",
+    "source": "The Defiant",
+    "title": "KOSPI Closes Below 5,000 as Chip Stocks Extend Slide",
+    "url": "https://thedefiant.io/frontier/markets/kospi-closes-below-5-000-as-chip-stocks-extend-slide",
+    "published_at": "Tue, 17 Nov 2026 08:21:25 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a58e69806f61",
+    "source": "The Defiant",
+    "title": "Injective Says Transfer-Agent Affiliate Is SEC-Registered",
+    "url": "https://thedefiant.io/news/regulation/injective-says-transfer-agent-affiliate-is-sec-registered",
+    "published_at": "Tue, 17 Nov 2026 07:48:36 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a60664f44ef9",
+    "source": "The Defiant",
+    "title": "OpenAI Details NATO Use of Its Cybersecurity Models",
+    "url": "https://thedefiant.io/frontier/ai/openai-details-nato-use-of-its-cybersecurity-models",
+    "published_at": "Tue, 17 Nov 2026 07:30:07 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c6618ed04810",
+    "source": "The Defiant",
+    "title": "Tencent's Hy4 Flash Undercuts Rivals' Base API Rates",
+    "url": "https://thedefiant.io/frontier/ai/tencent-s-hy4-flash-undercuts-rivals-base-api-rates",
+    "published_at": "Tue, 17 Nov 2026 07:14:07 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab7935469f13",
+    "source": "The Defiant",
+    "title": "Abraxas-Linked Wallets Cut Hyperliquid Shorts to $8.6M",
+    "url": "https://thedefiant.io/news/defi/abraxas-linked-wallets-cut-hyperliquid-shorts-to-8-6m",
+    "published_at": "Tue, 17 Nov 2026 06:28:14 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c776a235c546",
+    "source": "The Defiant",
+    "title": "NVIDIA Expands Vera CPU Racks for Scientific Computing",
+    "url": "https://thedefiant.io/frontier/technology/nvidia-expands-vera-cpu-racks-for-scientific-computing",
+    "published_at": "Tue, 17 Nov 2026 05:19:33 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d913199d715c",
+    "source": "The Defiant",
+    "title": "US Says Justice Leads Megaspeed AI-Chip Investigation",
+    "url": "https://thedefiant.io/frontier/ai/us-says-justice-leads-megaspeed-ai-chip-investigation",
+    "published_at": "Tue, 17 Nov 2026 03:40:25 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_01232c9abbf2",
+    "source": "The Defiant",
+    "title": "Bitget-Linked Bitcoin Moves On From Fresh Wallets",
+    "url": "https://thedefiant.io/news/security/bitget-linked-bitcoin-moves-on-from-fresh-wallets",
+    "published_at": "Tue, 17 Nov 2026 03:35:54 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9f0b916151f2",
+    "source": "The Defiant",
+    "title": "Arkham Says Bitget Hacker Moved $161 Million in Bitcoin",
+    "url": "https://thedefiant.io/news/hacks/arkham-says-bitget-hacker-moved-161-million-in-bitcoin",
+    "published_at": "Tue, 17 Nov 2026 03:34:28 GMT",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d06a7ba7bdef",
+    "source": "CryptoSlate",
+    "title": "Uniswap freezes $300,000 in stranded fees, halting automatic token burns",
+    "url": "https://cryptoslate.com/uniswap-freezes-300000-in-stranded-fees-halting-automatic-token-burns/",
+    "published_at": "Tue, 17 Nov 2026 03:30:05 +0000",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e9ad775bd91",
+    "source": "CryptoSlate",
+    "title": "Ethereum test exposes flaw that lets transactions skip payments",
+    "url": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
+    "published_at": "Tue, 17 Nov 2026 02:10:39 +0000",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_479cce33df0d",
+    "source": "Decrypt",
+    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+    "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "published_at": "Tue, 17 Nov 2026 09:27:29 +0000",
+    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111710",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,177,573,750 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-17T10:35:40.971679+00:00",
     "used": false
   }
 ]
