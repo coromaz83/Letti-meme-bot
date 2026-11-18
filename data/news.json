@@ -1,23 +1,5 @@
 [
   {
-    "id": "rss_8fe943f46840",
-    "source": "CryptoSlate",
-    "title": "Lighthouse issues urgent Ethereum node patch due to hidden security flaws",
-    "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
-    "published_at": "Wed, 11 Nov 2026 07:10:08 +0000",
-    "fetched_at": "2026-11-11T07:39:50.665559+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111107",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,769,493,406 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-11T07:39:53.791018+00:00",
-    "used": false
-  },
-  {
     "id": "rss_8d1edd3aecb6",
     "source": "CoinDesk",
     "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
@@ -2454,6 +2436,168 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-18T02:18:16.263112+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59350c097c02",
+    "source": "Cointelegraph Base",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2f071cc85090",
+    "source": "CoinDesk",
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "published_at": "Wed, 18 Nov 2026 05:30:10 +0000",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a29e716a42d",
+    "source": "The Defiant",
+    "title": "Binance Hack Wallet Moves Another $142 Million in ETH",
+    "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-142-million-in-eth",
+    "published_at": "Wed, 18 Nov 2026 10:31:54 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_77fc3e1dc586",
+    "source": "The Defiant",
+    "title": "Scattered Spider Hacker Gets Six Years for Crypto Theft",
+    "url": "https://thedefiant.io/news/security/scattered-spider-hacker-gets-six-years-for-crypto-theft",
+    "published_at": "Wed, 18 Nov 2026 10:31:11 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_75c363369b5d",
+    "source": "The Defiant",
+    "title": "Ledger User Reports $320,000 Loss, Citing Berlin Purchase",
+    "url": "https://thedefiant.io/news/hacks/ledger-user-reports-320-000-loss-citing-berlin-purchase",
+    "published_at": "Wed, 18 Nov 2026 10:27:20 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_42417bba005c",
+    "source": "The Defiant",
+    "title": "Binance Wallet's Anthropic xStocks Pool Hits 500M USDC Cap",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-wallet-s-anthropic-xstocks-pool-hits-500m-usdc-cap",
+    "published_at": "Wed, 18 Nov 2026 10:18:20 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bba0ace36649",
+    "source": "The Defiant",
+    "title": "Bitcoin Erases Summer Rally as ETF Outflows Persist",
+    "url": "https://thedefiant.io/news/markets/bitcoin-erases-summer-rally-as-etf-outflows-persist",
+    "published_at": "Wed, 18 Nov 2026 10:13:43 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_840eea04ea0a",
+    "source": "The Defiant",
+    "title": "PancakeSwap Becomes Pancake; CAKE Needs No Migration",
+    "url": "https://thedefiant.io/news/defi/pancakeswap-becomes-pancake-cake-needs-no-migration",
+    "published_at": "Wed, 18 Nov 2026 09:59:08 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_23e7201820e3",
+    "source": "The Defiant",
+    "title": "Etherscan Warns Users After Support Access Attempts",
+    "url": "https://thedefiant.io/news/security/etherscan-warns-users-after-support-access-attempts",
+    "published_at": "Wed, 18 Nov 2026 09:54:25 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c2112bde4c80",
+    "source": "The Defiant",
+    "title": "The Graph’s Curation Burn Stays at 1% After 300,000 GRT Deposit",
+    "url": "https://thedefiant.io/news/blockchains/the-graph-s-curation-burn-stays-at-1-after-300-000-grt-deposit",
+    "published_at": "Wed, 18 Nov 2026 09:36:23 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_50934f5bffa9",
+    "source": "The Defiant",
+    "title": "PyPI Quarantines Two Microsoft AI Framework Releases",
+    "url": "https://thedefiant.io/frontier/ai/pypi-quarantines-two-microsoft-ai-framework-releases",
+    "published_at": "Wed, 18 Nov 2026 09:23:32 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1ff9a7febc1",
+    "source": "The Defiant",
+    "title": "LUKSO Urges Key Removal After Universal Profile Attack",
+    "url": "https://thedefiant.io/news/security/lukso-urges-key-removal-after-universal-profile-attack",
+    "published_at": "Wed, 18 Nov 2026 07:37:16 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_37e8ce72939a",
+    "source": "The Defiant",
+    "title": "Maple’s SYRUP Loses Half Its Value, Lagging BTC and ETH",
+    "url": "https://thedefiant.io/news/tokens/maple-s-syrup-loses-half-its-value-lagging-btc-and-eth",
+    "published_at": "Wed, 18 Nov 2026 07:07:29 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_896a06f3b546",
+    "source": "The Defiant",
+    "title": "Paytaca Warns Users After Two Backend Security Attacks",
+    "url": "https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks",
+    "published_at": "Wed, 18 Nov 2026 05:46:21 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c1707772e244",
+    "source": "The Defiant",
+    "title": "Polymarket Moves Hourly, Daily Crypto Bets to Chainlink",
+    "url": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
+    "published_at": "Wed, 18 Nov 2026 03:05:01 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2dc43bb5fdb6",
+    "source": "The Defiant",
+    "title": "Ledger Users Report Losses From Dubai-Bought Wallets",
+    "url": "https://thedefiant.io/news/hacks/ledger-users-report-losses-from-dubai-bought-wallets",
+    "published_at": "Wed, 18 Nov 2026 03:00:39 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_70311f8828df",
+    "source": "The Defiant",
+    "title": "Nvidia Board Has No Plans to Reinstate Jensen Huang",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang",
+    "published_at": "Wed, 18 Nov 2026 02:41:09 GMT",
+    "fetched_at": "2026-11-18T10:36:50.111815+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026111810",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,203,545,486 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-18T10:36:53.493129+00:00",
     "used": false
   }
 ]
