@@ -1,167 +1,5 @@
 [
   {
-    "id": "rss_3f4a6d72768f",
-    "source": "Cointelegraph Base",
-    "title": "Base says sequencer bug caused back-to-back outages",
-    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1194184a5db",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase's Base resumes block production after 2-hour outage",
-    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_baaa2e96da7b",
-    "source": "The Defiant",
-    "title": "Bitcoin Sinks to $70,600 as Four-Week Losses Deepen",
-    "url": "https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen",
-    "published_at": "Fri, 13 Nov 2026 00:57:09 GMT",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2019696f591b",
-    "source": "The Defiant",
-    "title": "Democrats Probe Trump’s Nvidia China Chip Export Deal",
-    "url": "https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal",
-    "published_at": "Thu, 12 Nov 2026 22:59:53 GMT",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_28581bde7696",
-    "source": "The Defiant",
-    "title": "DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme",
-    "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
-    "published_at": "Thu, 12 Nov 2026 22:18:50 GMT",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_86025a05e1d2",
-    "source": "The Defiant",
-    "title": "Foster Says Nvidia Privately Deemed Chip Tracking Feasible",
-    "url": "https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible",
-    "published_at": "Thu, 12 Nov 2026 20:38:31 GMT",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_340315b7db7f",
-    "source": "BlockWorks",
-    "title": "ETH derivatives reset and the next retail trade",
-    "url": "https://blockworks.com/news/eth-derivatives-reset",
-    "published_at": "2026-01-05T15:14:17.000Z",
-    "fetched_at": "2026-11-13T01:24:40.730914+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111301",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,646,510,245 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-13T01:24:43.751459+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cdd30d1e6541",
-    "source": "Cointelegraph Base",
-    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f1b056cb4dc9",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_935f3b855f6e",
-    "source": "Cointelegraph Base",
-    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1cb91a2596fc",
-    "source": "CoinDesk",
-    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-    "published_at": "Fri, 13 Nov 2026 07:05:29 +0000",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_462d2c265fdb",
-    "source": "The Defiant",
-    "title": "Nakamoto Delays Kraken Debt as Bitcoin Collateral Falls",
-    "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
-    "published_at": "Fri, 13 Nov 2026 06:20:35 GMT",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_003c6d7f29e2",
-    "source": "The Defiant",
-    "title": "Osmosis Restarts After Halt; Upbit Pauses Transfers",
-    "url": "https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers",
-    "published_at": "Fri, 13 Nov 2026 06:19:39 GMT",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_edd83087be2b",
-    "source": "The Defiant",
-    "title": "Injective Opens Veyra Vote for Cross-Chain Trading",
-    "url": "https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading",
-    "published_at": "Fri, 13 Nov 2026 06:00:24 GMT",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8069aee1a380",
-    "source": "The Defiant",
-    "title": "Bitcoin Breaks Below $69,000 as Selloff Sets New Lows",
-    "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows",
-    "published_at": "Fri, 13 Nov 2026 05:56:02 GMT",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_793fcaba8376",
-    "source": "CryptoSlate",
-    "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
-    "url": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
-    "published_at": "Fri, 13 Nov 2026 06:20:37 +0000",
-    "fetched_at": "2026-11-13T08:40:38.270002+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111308",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,465,765,018 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-13T08:40:40.554194+00:00",
-    "used": false
-  },
-  {
     "id": "rss_17563b746215",
     "source": "The Defiant",
     "title": "Unpatched Windows 'SignDrop' Exploit Grants System Rights",
@@ -2733,6 +2571,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-20T01:09:37.212192+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_03c1cbf97587",
+    "source": "Cointelegraph Base",
+    "title": "Trueo prediction market moves from Base to Ethereum",
+    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d5b4673a6712",
+    "source": "CoinDesk",
+    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "published_at": "Fri, 20 Nov 2026 04:58:08 +0000",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5e40595e04da",
+    "source": "CoinDesk",
+    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+    "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+    "published_at": "Fri, 20 Nov 2026 04:28:52 +0000",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ae89f5a538ae",
+    "source": "The Defiant",
+    "title": "Rupee Withdrawal Problems Hit Three Crypto Exchanges",
+    "url": "https://thedefiant.io/news/cefi/rupee-withdrawal-problems-hit-three-crypto-exchanges",
+    "published_at": "Fri, 20 Nov 2026 08:41:17 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f74a071da2cb",
+    "source": "The Defiant",
+    "title": "Nigeria Sets Nov. 30 Tax Portal Form Deadline for Crypto Firms",
+    "url": "https://thedefiant.io/news/regulation/nigeria-sets-nov-30-tax-portal-form-deadline-for-crypto-firms",
+    "published_at": "Fri, 20 Nov 2026 08:38:27 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a4ee01301cf",
+    "source": "The Defiant",
+    "title": "OpenAI Brings GPT-Live-1.1 to API With Cheaper Standby",
+    "url": "https://thedefiant.io/frontier/ai/openai-brings-gpt-live-1-1-to-api-with-cheaper-standby",
+    "published_at": "Fri, 20 Nov 2026 07:55:15 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb17ea01b5f0",
+    "source": "The Defiant",
+    "title": "Anthropic Ends Debut Up 17% as Ondo Launches ANTon",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ends-debut-up-17-as-ondo-launches-anton",
+    "published_at": "Fri, 20 Nov 2026 06:34:54 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9587a18cc774",
+    "source": "The Defiant",
+    "title": "Coinbase’s Anthropic Share Certificate Trades on Base",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-s-anthropic-share-certificate-trades-on-base",
+    "published_at": "Fri, 20 Nov 2026 05:02:28 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7220a5b55dde",
+    "source": "The Defiant",
+    "title": "AI Agent Builders: Visual Versus Code-First Tools",
+    "url": "https://thedefiant.io/news/infrastructure/ai-agent-builders-visual-versus-code-first-tools",
+    "published_at": "Fri, 20 Nov 2026 04:51:01 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fcd4d29e99ff",
+    "source": "The Defiant",
+    "title": "Google Expands Gemini’s Mac Automation With App Control",
+    "url": "https://thedefiant.io/frontier/ai/google-expands-gemini-s-mac-automation-with-app-control",
+    "published_at": "Fri, 20 Nov 2026 04:47:23 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5987259b5160",
+    "source": "The Defiant",
+    "title": "Sky Council Plans Extra Buybacks After SKY Price Slump",
+    "url": "https://thedefiant.io/news/defi/sky-council-plans-extra-buybacks-after-sky-price-slump",
+    "published_at": "Fri, 20 Nov 2026 04:44:53 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_79db0b376f68",
+    "source": "The Defiant",
+    "title": "Sky’s USDS Circulating Supply Falls 39% in One Day",
+    "url": "https://thedefiant.io/news/defi/sky-s-usds-circulating-supply-falls-39-in-one-day",
+    "published_at": "Fri, 20 Nov 2026 04:42:25 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c3f6c795083e",
+    "source": "The Defiant",
+    "title": "Moonshot Drops $150 Million Blackwell Deal, Report Says",
+    "url": "https://thedefiant.io/frontier/ai/moonshot-drops-150-million-blackwell-deal-report-says",
+    "published_at": "Fri, 20 Nov 2026 04:41:46 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_177fdec7f704",
+    "source": "The Defiant",
+    "title": "California Subpoenas Nvidia Over Investor Disclosures",
+    "url": "https://thedefiant.io/frontier/regulation/california-subpoenas-nvidia-over-investor-disclosures",
+    "published_at": "Fri, 20 Nov 2026 04:36:19 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f52994d2e5fe",
+    "source": "The Defiant",
+    "title": "Wiz Suspects Certificate Compromise in Microsoft AI Package Hack",
+    "url": "https://thedefiant.io/frontier/ai/wiz-suspects-certificate-compromise-in-microsoft-ai-package-hack",
+    "published_at": "Fri, 20 Nov 2026 04:31:36 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1aa4ad7b9f0e",
+    "source": "The Defiant",
+    "title": "SpaceX AI-Chip Debt Sale Raises $32 Billion: Report",
+    "url": "https://thedefiant.io/frontier/technology/spacex-ai-chip-debt-sale-raises-32-billion-report",
+    "published_at": "Fri, 20 Nov 2026 04:31:12 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f5861fb9724d",
+    "source": "The Defiant",
+    "title": "Nginx Patches Five Flaws That Can Let Attackers Run Code",
+    "url": "https://thedefiant.io/news/security/nginx-patches-five-flaws-that-can-let-attackers-run-code",
+    "published_at": "Fri, 20 Nov 2026 04:30:34 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1cbb93b7b11",
+    "source": "The Defiant",
+    "title": "Tencent Releases Hy4 Weights With Limits for Large Hosts",
+    "url": "https://thedefiant.io/frontier/ai/tencent-releases-hy4-weights-with-limits-for-large-hosts",
+    "published_at": "Fri, 20 Nov 2026 04:30:10 GMT",
+    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112009",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,863,519,508 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-20T09:04:52.260608+00:00",
     "used": false
   }
 ]
