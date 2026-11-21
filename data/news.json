@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss_18d775190419",
-    "source": "Cointelegraph Base",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 21 Jul 2026 07:06:12 +0000",
-    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c9799490705c",
-    "source": "The Defiant",
-    "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
-    "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
-    "published_at": "Sat, 14 Nov 2026 02:51:35 GMT",
-    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cca1a210dc28",
-    "source": "The Defiant",
-    "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether",
-    "published_at": "Sat, 14 Nov 2026 02:39:42 GMT",
-    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1c6c3251d23",
-    "source": "The Defiant",
-    "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
-    "url": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
-    "published_at": "Sat, 14 Nov 2026 00:26:16 GMT",
-    "fetched_at": "2026-11-14T03:00:17.304665+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111403",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,457,063,463 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-14T03:00:19.320131+00:00",
-    "used": false
-  },
-  {
     "id": "rss_5486aaa95eb6",
     "source": "The Defiant",
     "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
@@ -2985,6 +2940,123 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-20T23:56:09.385711+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1c6bc429b29",
+    "source": "Cointelegraph Base",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 30 Sep 2026 19:00:00 +0000",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78e4787e124e",
+    "source": "The Defiant",
+    "title": "Bitcoin Core Fixes AI-Found Bug That Could Stall Nodes",
+    "url": "https://thedefiant.io/news/security/bitcoin-core-fixes-ai-found-bug-that-could-stall-nodes",
+    "published_at": "Sat, 21 Nov 2026 06:29:11 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f261601fd8d7",
+    "source": "The Defiant",
+    "title": "XRP Sets New November Low on Coinbase, Down 10% in 24 Hours",
+    "url": "https://thedefiant.io/news/markets/xrp-sets-new-november-low-on-coinbase-down-10-in-24-hours",
+    "published_at": "Sat, 21 Nov 2026 06:15:18 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d234d9a2a55b",
+    "source": "The Defiant",
+    "title": "Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens",
+    "url": "https://thedefiant.io/news/markets/bitcoin-hits-55-500-as-strategy-s-paper-loss-deepens",
+    "published_at": "Sat, 21 Nov 2026 06:03:05 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d92126b51162",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
+    "url": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
+    "published_at": "Sat, 21 Nov 2026 05:12:26 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c00c34cf49d",
+    "source": "The Defiant",
+    "title": "Ether Slides Near $1,550, Down About 35% in Four Weeks",
+    "url": "https://thedefiant.io/news/markets/ether-slides-near-1-550-down-about-35-in-four-weeks",
+    "published_at": "Sat, 21 Nov 2026 04:56:15 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_389d19854d7d",
+    "source": "The Defiant",
+    "title": "Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase",
+    "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-57-000-to-two-year-low-on-coinbase",
+    "published_at": "Sat, 21 Nov 2026 03:49:12 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6add6af7fe61",
+    "source": "The Defiant",
+    "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
+    "url": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
+    "published_at": "Sat, 21 Nov 2026 02:47:09 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ddd10a35a949",
+    "source": "The Defiant",
+    "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
+    "url": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
+    "published_at": "Sat, 21 Nov 2026 01:53:16 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_be458e5d74f1",
+    "source": "The Defiant",
+    "title": "Sky Buybacks and Rewards Exceed Revenue in Llama Data",
+    "url": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
+    "published_at": "Sat, 21 Nov 2026 01:34:11 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6e9b6a4495d3",
+    "source": "The Defiant",
+    "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks",
+    "url": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+    "published_at": "Sat, 21 Nov 2026 00:42:48 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0db97010f01",
+    "source": "The Defiant",
+    "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+    "url": "https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades",
+    "published_at": "Sat, 21 Nov 2026 00:11:07 GMT",
+    "fetched_at": "2026-11-21T06:53:47.031725+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112106",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,431,782,376 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-21T06:53:50.413185+00:00",
     "used": false
   }
 ]
