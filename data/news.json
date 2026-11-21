@@ -1,32 +1,5 @@
 [
   {
-    "id": "rss_e43b31d9dd37",
-    "source": "CoinDesk",
-    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-    "published_at": "Sat, 14 Nov 2026 16:33:23 +0000",
-    "fetched_at": "2026-11-14T16:56:39.532929+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8699d868c05c",
-    "source": "CoinDesk",
-    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-    "published_at": "Sat, 14 Nov 2026 12:57:00 +0000",
-    "fetched_at": "2026-11-14T16:56:39.532929+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111416",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,263,529,640 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-14T16:56:41.521203+00:00",
-    "used": false
-  },
-  {
     "id": "rss_a97547919c4e",
     "source": "The Defiant",
     "title": "Who Sells Shares When a Stock Leaves a Market Index?",
@@ -3030,6 +3003,105 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-21T15:14:33.737470+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1cc4cc41d592",
+    "source": "The Defiant",
+    "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+    "url": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+    "published_at": "Sat, 21 Nov 2026 20:54:00 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eaaf1d979f22",
+    "source": "The Defiant",
+    "title": "Tesla Begins FSD v15 Rollout to First-Wave Customers",
+    "url": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
+    "published_at": "Sat, 21 Nov 2026 19:43:54 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa13aeeae605",
+    "source": "The Defiant",
+    "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+    "url": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+    "published_at": "Sat, 21 Nov 2026 19:32:58 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_072fa3d9850f",
+    "source": "The Defiant",
+    "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+    "url": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+    "published_at": "Sat, 21 Nov 2026 19:02:34 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a19926909960",
+    "source": "The Defiant",
+    "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+    "url": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+    "published_at": "Sat, 21 Nov 2026 18:37:19 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_074d3d17edc4",
+    "source": "The Defiant",
+    "title": "How to Find and Read a Company's Public SEC Records",
+    "url": "https://thedefiant.io/news/regulation/how-to-find-and-read-a-company-s-public-sec-records",
+    "published_at": "Sat, 21 Nov 2026 18:18:36 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_339722169998",
+    "source": "The Defiant",
+    "title": "Lean Groups Certify Claude-Assisted Riemann Proof",
+    "url": "https://thedefiant.io/frontier/ai/lean-groups-certify-claude-assisted-riemann-proof",
+    "published_at": "Sat, 21 Nov 2026 17:13:59 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4be5c40fccad",
+    "source": "The Defiant",
+    "title": "Anthropic's IPO Premium Shrinks as Banks Draw Blame",
+    "url": "https://thedefiant.io/frontier/markets/anthropic-s-ipo-premium-shrinks-as-banks-draw-blame",
+    "published_at": "Sat, 21 Nov 2026 15:55:22 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bfdab1fef344",
+    "source": "The Defiant",
+    "title": "Bitcoin Rebounds 10% Before Slipping Below $60,000",
+    "url": "https://thedefiant.io/news/markets/bitcoin-rebounds-10-before-slipping-below-60-000",
+    "published_at": "Sat, 21 Nov 2026 15:24:47 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6d08eebb26fe",
+    "source": "The Defiant",
+    "title": "Coins.ph Halts Transfers With Self-Custody Wallets",
+    "url": "https://thedefiant.io/news/regulation/coins-ph-halts-transfers-with-self-custody-wallets",
+    "published_at": "Sat, 21 Nov 2026 15:20:19 GMT",
+    "fetched_at": "2026-11-21T21:01:24.004988+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112121",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,657,692,004 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-21T21:01:25.981514+00:00",
     "used": false
   }
 ]
