@@ -1,113 +1,5 @@
 [
   {
-    "id": "rss_e176fec2ff46",
-    "source": "The Defiant",
-    "title": "WSJ Details China’s Offshore Access to Nvidia Chips",
-    "url": "https://thedefiant.io/frontier/ai/wsj-details-china-s-offshore-access-to-nvidia-chips",
-    "published_at": "Sun, 15 Nov 2026 15:47:42 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6e1fb9fa9a8f",
-    "source": "The Defiant",
-    "title": "Binance Targets Full Withdrawal Reopening Next Week",
-    "url": "https://thedefiant.io/news/hacks/binance-targets-full-withdrawal-reopening-next-week",
-    "published_at": "Sun, 15 Nov 2026 15:45:58 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_4ce6a1e323f3",
-    "source": "The Defiant",
-    "title": "Spark TVL Falls 15.3% in a Week to a 30-Day Low",
-    "url": "https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low",
-    "published_at": "Sun, 15 Nov 2026 15:45:11 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d9d22ef1b06c",
-    "source": "The Defiant",
-    "title": "Large Wallets Buy ETH as Price Falls Below $1,800",
-    "url": "https://thedefiant.io/news/markets/large-wallets-buy-eth-as-price-falls-below-1-800",
-    "published_at": "Sun, 15 Nov 2026 15:44:31 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f3d8b6130dea",
-    "source": "The Defiant",
-    "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
-    "url": "https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint",
-    "published_at": "Sun, 15 Nov 2026 15:43:37 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6b15f625b6da",
-    "source": "The Defiant",
-    "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
-    "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
-    "published_at": "Sun, 15 Nov 2026 15:18:39 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_639d5bc5bd96",
-    "source": "The Defiant",
-    "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost",
-    "published_at": "Sun, 15 Nov 2026 14:12:49 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_29352fd00530",
-    "source": "The Defiant",
-    "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
-    "url": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
-    "published_at": "Sun, 15 Nov 2026 13:18:26 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_03be13f088b0",
-    "source": "The Defiant",
-    "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
-    "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions",
-    "published_at": "Sun, 15 Nov 2026 12:28:10 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ede2d946cf4b",
-    "source": "The Defiant",
-    "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
-    "url": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
-    "published_at": "Sun, 15 Nov 2026 12:16:44 GMT",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9503d58faf20",
-    "source": "CryptoSlate",
-    "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
-    "url": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
-    "published_at": "Sun, 15 Nov 2026 11:55:50 +0000",
-    "fetched_at": "2026-11-15T15:49:20.480940+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111515",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,188,248,201 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-15T15:49:22.838819+00:00",
-    "used": false
-  },
-  {
     "id": "rss_6809ced83107",
     "source": "The Defiant",
     "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
@@ -3003,6 +2895,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-22T09:37:44.499263+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ebd7c912e55e",
+    "source": "Cointelegraph Base",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
+    "fetched_at": "2026-11-22T17:43:40.249855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fe5fbc60fa37",
+    "source": "The Defiant",
+    "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+    "published_at": "Sun, 22 Nov 2026 13:44:01 GMT",
+    "fetched_at": "2026-11-22T17:43:40.249855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9334a66d5502",
+    "source": "CryptoSlate",
+    "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
+    "url": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
+    "published_at": "Sun, 22 Nov 2026 16:05:55 +0000",
+    "fetched_at": "2026-11-22T17:43:40.249855+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4cf0a3c9e294",
+    "source": "CryptoSlate",
+    "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
+    "url": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
+    "published_at": "Sun, 22 Nov 2026 14:00:44 +0000",
+    "fetched_at": "2026-11-22T17:43:40.249855+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112217",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,121,152,211 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-22T17:43:41.751309+00:00",
     "used": false
   }
 ]
