@@ -1,95 +1,5 @@
 [
   {
-    "id": "rss_6809ced83107",
-    "source": "The Defiant",
-    "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
-    "url": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
-    "published_at": "Sun, 15 Nov 2026 20:17:54 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_22f8a4cfdfec",
-    "source": "The Defiant",
-    "title": "Luxor Pledges Full Compensation for Commander Hijack",
-    "url": "https://thedefiant.io/news/hacks/luxor-pledges-full-compensation-for-commander-hijack",
-    "published_at": "Sun, 15 Nov 2026 20:16:40 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8174eb6d1500",
-    "source": "The Defiant",
-    "title": "AERO Falls 27% in a Week, Lagging Bitcoin and Ether",
-    "url": "https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether",
-    "published_at": "Sun, 15 Nov 2026 17:43:21 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3f58cd135139",
-    "source": "The Defiant",
-    "title": "Duffy Sees No Sign of Foreign Cyberattack in FAA Outage",
-    "url": "https://thedefiant.io/frontier/technology/duffy-sees-no-sign-of-foreign-cyberattack-in-faa-outage",
-    "published_at": "Sun, 15 Nov 2026 16:14:44 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_94c181476392",
-    "source": "The Defiant",
-    "title": "CFTC Sues Louisiana Over Prediction-Market Shutdown",
-    "url": "https://thedefiant.io/news/regulation/cftc-sues-louisiana-over-prediction-market-shutdown",
-    "published_at": "Sun, 15 Nov 2026 16:04:22 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_56ee81a5688b",
-    "source": "The Defiant",
-    "title": "AI Tops Financial Stability Risks Cited in Fed Survey",
-    "url": "https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey",
-    "published_at": "Sun, 15 Nov 2026 15:54:16 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6d1cefbe2643",
-    "source": "The Defiant",
-    "title": "Coinone Warns of Identity Theft After Support Breach",
-    "url": "https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach",
-    "published_at": "Sun, 15 Nov 2026 15:52:35 GMT",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1335de607e51",
-    "source": "CryptoSlate",
-    "title": "Tether wants its gold token to rival ETFs",
-    "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
-    "published_at": "Sun, 15 Nov 2026 17:25:18 +0000",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_15fd558edd2f",
-    "source": "Decrypt",
-    "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-    "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-    "published_at": "Sun, 15 Nov 2026 16:01:02 +0000",
-    "fetched_at": "2026-11-15T20:57:31.871891+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111520",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,163,781,890 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-15T20:57:34.993370+00:00",
-    "used": false
-  },
-  {
     "id": "rss_865568549b20",
     "source": "Cointelegraph Base",
     "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -2940,6 +2850,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-22T17:43:41.751309+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9d1e3112a7d6",
+    "source": "The Defiant",
+    "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
+    "url": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
+    "published_at": "Sun, 22 Nov 2026 20:13:12 GMT",
+    "fetched_at": "2026-11-22T23:29:55.049418+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ce4fc80b513",
+    "source": "The Defiant",
+    "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-s-latest-launch-notice-lists-six-stock-tokens",
+    "published_at": "Sun, 22 Nov 2026 20:01:26 GMT",
+    "fetched_at": "2026-11-22T23:29:55.049418+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_98294234e3c3",
+    "source": "The Defiant",
+    "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
+    "url": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
+    "published_at": "Sun, 22 Nov 2026 19:15:44 GMT",
+    "fetched_at": "2026-11-22T23:29:55.049418+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_be59c3ac4321",
+    "source": "The Defiant",
+    "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
+    "url": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
+    "published_at": "Sun, 22 Nov 2026 19:03:49 GMT",
+    "fetched_at": "2026-11-22T23:29:55.049418+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d3ad0d8ef121",
+    "source": "The Defiant",
+    "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
+    "url": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
+    "published_at": "Sun, 22 Nov 2026 18:50:09 GMT",
+    "fetched_at": "2026-11-22T23:29:55.049418+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112223",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,119,939,837 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-22T23:29:56.873710+00:00",
     "used": false
   }
 ]
