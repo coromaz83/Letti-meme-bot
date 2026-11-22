@@ -1,104 +1,5 @@
 [
   {
-    "id": "rss_ebd7c912e55e",
-    "source": "Cointelegraph Base",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 02 Oct 2026 11:40:21 +0000",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_125db7f411d4",
-    "source": "The Defiant",
-    "title": "Lido Lend Plan Would Block Repayments, Not Interest",
-    "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
-    "published_at": "Sun, 15 Nov 2026 08:19:55 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_240cbf60603f",
-    "source": "The Defiant",
-    "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
-    "url": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
-    "published_at": "Sun, 15 Nov 2026 07:21:35 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c08d878e1440",
-    "source": "The Defiant",
-    "title": "Aave Executive Reports $39 Million in Liquidations",
-    "url": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
-    "published_at": "Sun, 15 Nov 2026 03:09:50 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ec0cec1af881",
-    "source": "The Defiant",
-    "title": "XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024",
-    "url": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
-    "published_at": "Sun, 15 Nov 2026 03:03:49 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c56aaffb0812",
-    "source": "The Defiant",
-    "title": "Forward Industries Denies $123 Million SOL Transfer",
-    "url": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
-    "published_at": "Sun, 15 Nov 2026 02:45:46 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cc9693d1459f",
-    "source": "The Defiant",
-    "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
-    "url": "https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen",
-    "published_at": "Sun, 15 Nov 2026 02:21:35 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_875688bbcccb",
-    "source": "The Defiant",
-    "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
-    "url": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
-    "published_at": "Sun, 15 Nov 2026 01:26:31 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_335a84026e7e",
-    "source": "The Defiant",
-    "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
-    "url": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
-    "published_at": "Sun, 15 Nov 2026 01:24:59 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_254f9af6a5e1",
-    "source": "The Defiant",
-    "title": "Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens",
-    "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
-    "published_at": "Sun, 15 Nov 2026 01:18:25 GMT",
-    "fetched_at": "2026-11-15T08:21:46.933288+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111508",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,136,306,426 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-15T08:21:49.254404+00:00",
-    "used": false
-  },
-  {
     "id": "rss_e176fec2ff46",
     "source": "The Defiant",
     "title": "WSJ Details China’s Offshore Access to Nvidia Chips",
@@ -3057,6 +2958,51 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-22T01:30:57.367712+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a7dfee87bdf7",
+    "source": "The Defiant",
+    "title": "OpenRouter Drops Zero-Data-Retention Labels From Affected MiniMax Endpoints",
+    "url": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
+    "published_at": "Sun, 22 Nov 2026 06:10:26 GMT",
+    "fetched_at": "2026-11-22T09:37:41.874846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_dd940e7cda65",
+    "source": "The Defiant",
+    "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
+    "published_at": "Sun, 22 Nov 2026 04:25:54 GMT",
+    "fetched_at": "2026-11-22T09:37:41.874846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d10f70756003",
+    "source": "The Defiant",
+    "title": "Cysic Bridge Exploit Minted 10 Million Tokens on BNB",
+    "url": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
+    "published_at": "Sun, 22 Nov 2026 04:10:34 GMT",
+    "fetched_at": "2026-11-22T09:37:41.874846+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c5a833218b80",
+    "source": "The Defiant",
+    "title": "Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack",
+    "url": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
+    "published_at": "Sun, 22 Nov 2026 02:49:00 GMT",
+    "fetched_at": "2026-11-22T09:37:41.874846+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112209",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,013,072,735 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-22T09:37:44.499263+00:00",
     "used": false
   }
 ]
