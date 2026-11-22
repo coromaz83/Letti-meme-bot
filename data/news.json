@@ -1,68 +1,5 @@
 [
   {
-    "id": "rss_a97547919c4e",
-    "source": "The Defiant",
-    "title": "Who Sells Shares When a Stock Leaves a Market Index?",
-    "url": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
-    "published_at": "Sat, 14 Nov 2026 18:14:23 GMT",
-    "fetched_at": "2026-11-14T21:19:36.952539+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111421",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,231,997,700 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-14T21:19:39.670728+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2b832786bd88",
-    "source": "The Defiant",
-    "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
-    "url": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
-    "published_at": "Sun, 15 Nov 2026 01:03:53 GMT",
-    "fetched_at": "2026-11-15T01:14:23.145090+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5d6584737687",
-    "source": "The Defiant",
-    "title": "Bitcoin Near $64,000 as Drawdown From October High Tops 24%",
-    "url": "https://thedefiant.io/news/markets/bitcoin-near-64-000-as-drawdown-from-october-high-tops-24",
-    "published_at": "Sun, 15 Nov 2026 00:22:20 GMT",
-    "fetched_at": "2026-11-15T01:14:23.145090+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fe3ef5a9606d",
-    "source": "The Defiant",
-    "title": "Kava Lend Exploit Drains Millions as KAVA Falls 47%",
-    "url": "https://thedefiant.io/news/hacks/kava-lend-exploit-drains-millions-as-kava-falls-47",
-    "published_at": "Sun, 15 Nov 2026 00:21:52 GMT",
-    "fetched_at": "2026-11-15T01:14:23.145090+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f70d0a2539bf",
-    "source": "The Defiant",
-    "title": "SpaceX Catches Starship Returning From Orbit for First Time",
-    "url": "https://thedefiant.io/frontier/technology/spacex-catches-starship-returning-from-orbit-for-first-time",
-    "published_at": "Sun, 15 Nov 2026 00:17:25 GMT",
-    "fetched_at": "2026-11-15T01:14:23.145090+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111501",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,097,887,699 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-15T01:14:25.251401+00:00",
-    "used": false
-  },
-  {
     "id": "rss_ebd7c912e55e",
     "source": "Cointelegraph Base",
     "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
@@ -3102,6 +3039,24 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-21T21:01:25.981514+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_afe1cebeaaa5",
+    "source": "The Defiant",
+    "title": "Together AI Discloses Prompt Leak After Dragos Study",
+    "url": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+    "published_at": "Sat, 21 Nov 2026 23:32:49 GMT",
+    "fetched_at": "2026-11-22T01:30:54.490249+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112201",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,660,724,746 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-22T01:30:57.367712+00:00",
     "used": false
   }
 ]
