@@ -1,59 +1,5 @@
 [
   {
-    "id": "rss_dfbaeacc79a0",
-    "source": "The Defiant",
-    "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
-    "url": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
-    "published_at": "Mon, 16 Nov 2026 05:22:03 GMT",
-    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_999422beed93",
-    "source": "The Defiant",
-    "title": "Pony.ai Adds Toyota bZ4X to Guangzhou Driverless Service",
-    "url": "https://thedefiant.io/frontier/technology/pony-ai-adds-toyota-bz4x-to-guangzhou-driverless-service",
-    "published_at": "Mon, 16 Nov 2026 05:19:11 GMT",
-    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_875a8b5888cb",
-    "source": "The Defiant",
-    "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
-    "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
-    "published_at": "Mon, 16 Nov 2026 02:20:35 GMT",
-    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_da0045d64e08",
-    "source": "The Defiant",
-    "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
-    "url": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
-    "published_at": "Mon, 16 Nov 2026 02:19:35 GMT",
-    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_05d0452b4c9c",
-    "source": "The Defiant",
-    "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
-    "url": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
-    "published_at": "Mon, 16 Nov 2026 01:20:30 GMT",
-    "fetched_at": "2026-11-16T07:50:45.998363+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111607",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,144,201,358 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-16T07:50:48.982382+00:00",
-    "used": false
-  },
-  {
     "id": "rss_3915b5eecaea",
     "source": "CoinDesk",
     "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
@@ -2832,6 +2778,150 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-23T03:57:48.048244+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_865568549b20",
+    "source": "Cointelegraph Base",
+    "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+    "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 11 Sep 2026 16:05:15 +0000",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_144b5c8f4840",
+    "source": "Cointelegraph Base",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 20 Aug 2026 15:43:00 +0000",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3cbb9fdb2d7f",
+    "source": "Cointelegraph Base",
+    "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+    "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 01:14:58 +0000",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cb41604b11e5",
+    "source": "CoinDesk",
+    "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+    "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+    "published_at": "Mon, 23 Nov 2026 12:13:35 +0000",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bdb6bfc9258f",
+    "source": "The Defiant",
+    "title": "Rune Says He Repaid 3M USDS as stUSDS Squeeze Persists",
+    "url": "https://thedefiant.io/news/defi/rune-says-he-repaid-3m-usds-as-stusds-squeeze-persists",
+    "published_at": "Mon, 23 Nov 2026 14:11:56 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ea339aee223",
+    "source": "The Defiant",
+    "title": "Nvidia Reinstates Jensen Huang as CEO and Director",
+    "url": "https://thedefiant.io/frontier/people/nvidia-reinstates-jensen-huang-as-ceo-and-director",
+    "published_at": "Mon, 23 Nov 2026 14:11:49 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fb6a919b7005",
+    "source": "The Defiant",
+    "title": "Chainflip Founder Weighs Compensation After Vault Hack",
+    "url": "https://thedefiant.io/news/hacks/chainflip-founder-weighs-compensation-after-vault-hack",
+    "published_at": "Mon, 23 Nov 2026 14:01:12 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1811bb981f31",
+    "source": "The Defiant",
+    "title": "Vstock Selects Metagood to Power Issuer-Sponsored Tokenization for Its 1,000+ Issuers",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/vstock-metagood-issuer-sponsored-tokenization",
+    "published_at": "Mon, 23 Nov 2026 14:00:00 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec21ff4b57a0",
+    "source": "The Defiant",
+    "title": "Taiwan Stocks Rebound as Kospi Falls Despite Rescue Plans",
+    "url": "https://thedefiant.io/frontier/ai/taiwan-stocks-rebound-as-kospi-falls-despite-rescue-plans",
+    "published_at": "Mon, 23 Nov 2026 13:17:52 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_49ff6d13c611",
+    "source": "The Defiant",
+    "title": "Arm CEO Haas Commits Through 2033, Adds SoftBank Role",
+    "url": "https://thedefiant.io/frontier/people/arm-ceo-haas-commits-through-2033-adds-softbank-role",
+    "published_at": "Mon, 23 Nov 2026 12:49:22 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_931165738374",
+    "source": "The Defiant",
+    "title": "CrowdStrike Agrees to Buy Zscaler in $43.9B Stock Deal",
+    "url": "https://thedefiant.io/frontier/technology/crowdstrike-agrees-to-buy-zscaler-in-43-9b-stock-deal",
+    "published_at": "Mon, 23 Nov 2026 11:13:35 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c2f59a2896d2",
+    "source": "The Defiant",
+    "title": "Sky’s stUSDS Rates Near 50% as Withdrawal Squeeze Persists",
+    "url": "https://thedefiant.io/news/defi/sky-s-stusds-rates-near-50-as-withdrawal-squeeze-persists",
+    "published_at": "Mon, 23 Nov 2026 10:50:45 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b3c98fbaa41a",
+    "source": "The Defiant",
+    "title": "OCBC Pilots Stablecoin-to-Fiat Business Payments",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments",
+    "published_at": "Mon, 23 Nov 2026 10:22:04 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c23a4791516e",
+    "source": "The Defiant",
+    "title": "Bitquery Finds 400 BTC Gap in Maple's Listed Wallets",
+    "url": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+    "published_at": "Mon, 23 Nov 2026 04:19:13 GMT",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2c85b697be84",
+    "source": "CryptoSlate",
+    "title": "BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short",
+    "url": "https://cryptoslate.com/blackrocks-staked-ethereum-etf-redemptions/",
+    "published_at": "Mon, 23 Nov 2026 06:05:20 +0000",
+    "fetched_at": "2026-11-23T14:24:35.512024+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112314",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,141,092,691 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-23T14:24:38.522414+00:00",
     "used": false
   }
 ]
