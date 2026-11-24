@@ -1,167 +1,5 @@
 [
   {
-    "id": "rss_3915b5eecaea",
-    "source": "CoinDesk",
-    "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-    "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-    "published_at": "Mon, 16 Nov 2026 08:18:03 +0000",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b60b245cc297",
-    "source": "The Defiant",
-    "title": "Liquid AI's d1.2-ultra Tops Decision Model Ranking",
-    "url": "https://thedefiant.io/frontier/ai/liquid-ai-s-d1-2-ultra-tops-decision-model-ranking",
-    "published_at": "Mon, 16 Nov 2026 16:47:51 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8fe6f4b5344e",
-    "source": "The Defiant",
-    "title": "Anza Urges Solana Operators to Patch 'NoisyTCP' Flaw",
-    "url": "https://thedefiant.io/news/security/anza-urges-solana-operators-to-patch-noisytcp-flaw",
-    "published_at": "Mon, 16 Nov 2026 16:29:55 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0097d81b017e",
-    "source": "The Defiant",
-    "title": "OpenAI Enlists METR for Safety Review of Largest RL Run",
-    "url": "https://thedefiant.io/frontier/ai/openai-enlists-metr-for-safety-review-of-largest-rl-run",
-    "published_at": "Mon, 16 Nov 2026 16:22:32 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_58f6c48105c2",
-    "source": "The Defiant",
-    "title": "Nvidia Unveils Rubin HPC GPU for Scientific Computing",
-    "url": "https://thedefiant.io/frontier/technology/nvidia-unveils-rubin-hpc-gpu-for-scientific-computing",
-    "published_at": "Mon, 16 Nov 2026 16:17:27 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_86e20ff859fe",
-    "source": "The Defiant",
-    "title": "Supreme Court Rejects Custodia’s Fed Account Appeal",
-    "url": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal",
-    "published_at": "Mon, 16 Nov 2026 15:46:23 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_29d57f4cc3cc",
-    "source": "The Defiant",
-    "title": "Safe Wallet Drained of $6.4 Million via Roles Module",
-    "url": "https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module",
-    "published_at": "Mon, 16 Nov 2026 15:27:43 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_be910f41184d",
-    "source": "The Defiant",
-    "title": "Trump Says He Would Not Mind Huang Returning to Nvidia",
-    "url": "https://thedefiant.io/frontier/ai/trump-says-he-would-not-mind-huang-returning-to-nvidia",
-    "published_at": "Mon, 16 Nov 2026 15:21:08 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_aecffd1af9b6",
-    "source": "The Defiant",
-    "title": "Duffy Says AT&T, Verizon Ready to Rebuild FAA Network",
-    "url": "https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network",
-    "published_at": "Mon, 16 Nov 2026 15:18:20 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cf3806ca2577",
-    "source": "The Defiant",
-    "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
-    "url": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams",
-    "published_at": "Mon, 16 Nov 2026 15:07:07 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_de23c90f35af",
-    "source": "The Defiant",
-    "title": "Arbitrum's ARB Falls 26% in a Week, Lagging BTC and ETH",
-    "url": "https://thedefiant.io/news/markets/arbitrum-s-arb-falls-26-in-a-week-lagging-btc-and-eth",
-    "published_at": "Mon, 16 Nov 2026 15:03:21 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0b4682cc4f1b",
-    "source": "The Defiant",
-    "title": "b14g Opens CORE Claims for Revenue-Funded Repayments",
-    "url": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
-    "published_at": "Mon, 16 Nov 2026 14:30:24 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dbffaa70fe81",
-    "source": "The Defiant",
-    "title": "NYSE Parent ICE Weighs Becoming a Solana Validator",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator",
-    "published_at": "Mon, 16 Nov 2026 14:21:45 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ff295f015a8e",
-    "source": "The Defiant",
-    "title": "Shareholder Voting Rights: What US Investors Can Decide",
-    "url": "https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide",
-    "published_at": "Mon, 16 Nov 2026 14:16:29 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_60f8bf871568",
-    "source": "The Defiant",
-    "title": "Crypto Margin and Leverage: What Collateral Is at Risk?",
-    "url": "https://thedefiant.io/news/markets/crypto-margin-and-leverage-what-collateral-is-at-risk",
-    "published_at": "Mon, 16 Nov 2026 14:15:25 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6431eeb39173",
-    "source": "The Defiant",
-    "title": "AMD Closes World Labs Deal, Bringing Model Research In-House",
-    "url": "https://thedefiant.io/frontier/ai/amd-closes-world-labs-deal-bringing-model-research-in-house",
-    "published_at": "Mon, 16 Nov 2026 14:15:16 GMT",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fdd98018c252",
-    "source": "Decrypt",
-    "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-    "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
-    "published_at": "Mon, 16 Nov 2026 09:54:55 +0000",
-    "fetched_at": "2026-11-16T18:18:10.975408+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111618",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,144,237,457 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-16T18:18:13.911412+00:00",
-    "used": false
-  },
-  {
     "id": "rss_851d55e53e02",
     "source": "The Defiant",
     "title": "Bitcoin Holds Near $64,800 After 20.5% Four-Week Drop",
@@ -2922,6 +2760,168 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-23T14:24:38.522414+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6ade0c597ef7",
+    "source": "The Defiant",
+    "title": "Sky Halts New DAI Borrowing From Five Maker Vault Types",
+    "url": "https://thedefiant.io/news/defi/sky-halts-new-dai-borrowing-from-five-maker-vault-types",
+    "published_at": "Tue, 24 Nov 2026 01:44:29 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_25e39de4c5a5",
+    "source": "The Defiant",
+    "title": "Strategy's Estimated Equity Value Trails Its Bitcoin",
+    "url": "https://thedefiant.io/news/markets/strategy-s-estimated-equity-value-trails-its-bitcoin",
+    "published_at": "Tue, 24 Nov 2026 01:11:14 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3de6a070a84b",
+    "source": "The Defiant",
+    "title": "Avalanche Announces Dedicated Chain for UAE PASS Vault",
+    "url": "https://thedefiant.io/news/infrastructure/avalanche-announces-dedicated-chain-for-uae-pass-vault",
+    "published_at": "Tue, 24 Nov 2026 01:05:20 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ca62fe938da8",
+    "source": "The Defiant",
+    "title": "Maple’s Reported Loan Book Shrinks 13% in Four Days",
+    "url": "https://thedefiant.io/news/defi/maple-s-reported-loan-book-shrinks-13-in-four-days",
+    "published_at": "Tue, 24 Nov 2026 01:01:21 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0a7be95192cc",
+    "source": "The Defiant",
+    "title": "USDC Supply Falls 84% in Morpho’s USDe Market on Base",
+    "url": "https://thedefiant.io/news/defi/usdc-supply-falls-84-in-morpho-s-usde-market-on-base",
+    "published_at": "Tue, 24 Nov 2026 00:26:17 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ae8a35bb6de5",
+    "source": "The Defiant",
+    "title": "Threshold Votes to Replace T Rebates With Peg Keepers",
+    "url": "https://thedefiant.io/news/defi/threshold-votes-to-replace-t-rebates-with-peg-keepers",
+    "published_at": "Mon, 23 Nov 2026 23:01:10 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_519eb29c08d9",
+    "source": "The Defiant",
+    "title": "CFTC Staff Clarifies Crypto Use in Operating Reserves",
+    "url": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
+    "published_at": "Mon, 23 Nov 2026 22:45:30 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c20e4757bcc8",
+    "source": "The Defiant",
+    "title": "FinCEN Flags $14.7 Billion in Potential Iran Shadow Banking",
+    "url": "https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking",
+    "published_at": "Mon, 23 Nov 2026 22:18:49 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_183380624d11",
+    "source": "The Defiant",
+    "title": "Claude Unifies Connectors and Skills in One Plugins Hub",
+    "url": "https://thedefiant.io/frontier/ai/claude-unifies-connectors-and-skills-in-one-plugins-hub",
+    "published_at": "Mon, 23 Nov 2026 21:54:04 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_db06fa83cf27",
+    "source": "The Defiant",
+    "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
+    "url": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems",
+    "published_at": "Mon, 23 Nov 2026 21:37:21 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_74d6d9ce5ec8",
+    "source": "The Defiant",
+    "title": "Jito Proposal Would Cut JitoSOL Validator Target to 250",
+    "url": "https://thedefiant.io/news/defi/jito-proposal-would-cut-jitosol-validator-target-to-250",
+    "published_at": "Mon, 23 Nov 2026 21:17:07 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8581b81dad46",
+    "source": "The Defiant",
+    "title": "Stellar's Bell Upgrade Goes Live With Smart-Account Tools",
+    "url": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-with-smart-account-tools",
+    "published_at": "Mon, 23 Nov 2026 21:00:24 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8c982ce8444f",
+    "source": "The Defiant",
+    "title": "Cohere Backs Aleph Alpha’s Open-Weight Kolibri Update",
+    "url": "https://thedefiant.io/frontier/ai/cohere-backs-aleph-alpha-s-open-weight-kolibri-update",
+    "published_at": "Mon, 23 Nov 2026 20:45:27 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1d15f9e6a5b9",
+    "source": "The Defiant",
+    "title": "US Plans Megaspeed Trade Blacklist, Semafor Reports",
+    "url": "https://thedefiant.io/frontier/regulation/us-plans-megaspeed-trade-blacklist-semafor-reports",
+    "published_at": "Mon, 23 Nov 2026 20:40:58 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eec607f15ce2",
+    "source": "The Defiant",
+    "title": "Polymarket Starts Phased Protocol V2 Market Rollout",
+    "url": "https://thedefiant.io/news/defi/polymarket-starts-phased-protocol-v2-market-rollout",
+    "published_at": "Mon, 23 Nov 2026 20:24:30 GMT",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f571c66aad54",
+    "source": "CryptoSlate",
+    "title": "Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees",
+    "url": "https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/",
+    "published_at": "Mon, 23 Nov 2026 18:00:37 +0000",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b17e244139c7",
+    "source": "Decrypt",
+    "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+    "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+    "published_at": "Mon, 23 Nov 2026 16:46:03 +0000",
+    "fetched_at": "2026-11-24T01:50:09.493786+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112401",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,095,610,248 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-24T01:50:12.027923+00:00",
     "used": false
   }
 ]
