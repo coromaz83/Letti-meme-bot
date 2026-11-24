@@ -1,329 +1,5 @@
 [
   {
-    "id": "rss_851d55e53e02",
-    "source": "The Defiant",
-    "title": "Bitcoin Holds Near $64,800 After 20.5% Four-Week Drop",
-    "url": "https://thedefiant.io/news/markets/bitcoin-holds-near-64-800-after-20-5-four-week-drop",
-    "published_at": "Tue, 17 Nov 2026 01:59:16 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8e1490e5507b",
-    "source": "The Defiant",
-    "title": "Huang's Nvidia Return Odds Rebound to 11% on Kalshi",
-    "url": "https://thedefiant.io/frontier/ai/huang-s-nvidia-return-odds-rebound-to-11-on-kalshi",
-    "published_at": "Tue, 17 Nov 2026 01:22:03 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b494c5a4fbac",
-    "source": "The Defiant",
-    "title": "Invesco's Stablecoin Reserve Fund Goes Live on Ethereum",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum",
-    "published_at": "Tue, 17 Nov 2026 01:17:01 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b74961b0b074",
-    "source": "The Defiant",
-    "title": "CFTC Approves Backpack’s Blockchain Derivatives Venue",
-    "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
-    "published_at": "Tue, 17 Nov 2026 00:51:34 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9974493629c3",
-    "source": "The Defiant",
-    "title": "Researchers Find Crypto Malware in Optimizely Scripts",
-    "url": "https://thedefiant.io/news/hacks/researchers-find-crypto-malware-in-optimizely-scripts",
-    "published_at": "Tue, 17 Nov 2026 00:25:38 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6808103099bb",
-    "source": "The Defiant",
-    "title": "OpenAI Says Astra Rated Safe on 99% of Medical Inbox Tasks",
-    "url": "https://thedefiant.io/frontier/ai/openai-says-astra-rated-safe-on-99-of-medical-inbox-tasks",
-    "published_at": "Tue, 17 Nov 2026 00:20:35 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3e0d1e42d531",
-    "source": "The Defiant",
-    "title": "Snowflake-Led AI Group Wins US Export Program Backing",
-    "url": "https://thedefiant.io/frontier/ai/snowflake-led-ai-group-wins-us-export-program-backing",
-    "published_at": "Tue, 17 Nov 2026 00:18:54 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3c2ca92c2723",
-    "source": "The Defiant",
-    "title": "Grok Bot Can Use Claude, but Users Can't Pick Models",
-    "url": "https://thedefiant.io/frontier/ai/grok-bot-can-use-claude-but-users-can-t-pick-models",
-    "published_at": "Tue, 17 Nov 2026 00:18:10 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3c0360589f20",
-    "source": "The Defiant",
-    "title": "Musk Says Owner Robotaxi Trials May Start in December",
-    "url": "https://thedefiant.io/frontier/technology/musk-says-owner-robotaxi-trials-may-start-in-december",
-    "published_at": "Mon, 16 Nov 2026 23:24:09 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7d8252c09a72",
-    "source": "The Defiant",
-    "title": "NVIDIA Targets Desktop HPC With Four-Spark Developer Kit",
-    "url": "https://thedefiant.io/frontier/technology/nvidia-targets-desktop-hpc-with-four-spark-developer-kit",
-    "published_at": "Mon, 16 Nov 2026 23:16:41 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a6d36e4603dd",
-    "source": "The Defiant",
-    "title": "Rocket Pool Says Saturn Migration Queued $100M in ETH",
-    "url": "https://thedefiant.io/news/defi/rocket-pool-says-saturn-migration-queued-100m-in-eth",
-    "published_at": "Mon, 16 Nov 2026 22:35:54 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a3a503182ba5",
-    "source": "The Defiant",
-    "title": "Trump Accounts Traded Up to $97.5M in Nvidia: CNBC",
-    "url": "https://thedefiant.io/frontier/ai/trump-accounts-traded-up-to-97-5m-in-nvidia-cnbc",
-    "published_at": "Mon, 16 Nov 2026 22:35:06 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9c5628330725",
-    "source": "The Defiant",
-    "title": "Wells Fargo’s Reported IBIT Position More Than Doubles",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles",
-    "published_at": "Mon, 16 Nov 2026 22:29:07 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1586dea5b49a",
-    "source": "The Defiant",
-    "title": "Microsoft Passes Nvidia as AI Chipmaker's Slide Deepens",
-    "url": "https://thedefiant.io/frontier/ai/microsoft-passes-nvidia-as-ai-chipmaker-s-slide-deepens",
-    "published_at": "Mon, 16 Nov 2026 22:26:54 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6d689ed42901",
-    "source": "The Defiant",
-    "title": "Allfunds Announces 22-Manager Cohort for Solana Funds",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/allfunds-announces-22-manager-cohort-for-solana-funds",
-    "published_at": "Mon, 16 Nov 2026 22:26:46 GMT",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9042dadb9508",
-    "source": "Decrypt",
-    "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-    "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-    "published_at": "Mon, 16 Nov 2026 20:36:03 +0000",
-    "fetched_at": "2026-11-17T02:00:10.803760+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111702",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,197,598,142 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-17T02:00:12.437989+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a460393d9455",
-    "source": "CoinDesk",
-    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-    "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-    "published_at": "Tue, 17 Nov 2026 09:21:19 +0000",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_860ef7f45a33",
-    "source": "The Defiant",
-    "title": "Nvidia Forms Board Panel for Export-Control Oversight",
-    "url": "https://thedefiant.io/frontier/ai/nvidia-forms-board-panel-for-export-control-oversight",
-    "published_at": "Tue, 17 Nov 2026 10:18:16 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fb0c370b9474",
-    "source": "The Defiant",
-    "title": "Binance Rescales Anthropic Perp to Reflect IPO Shares",
-    "url": "https://thedefiant.io/news/markets/binance-rescales-anthropic-perp-to-reflect-ipo-shares",
-    "published_at": "Tue, 17 Nov 2026 10:14:08 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_92ce51cd91e0",
-    "source": "The Defiant",
-    "title": "Solana Foundation Backs CoinGecko Ahead of Trading Push",
-    "url": "https://thedefiant.io/news/infrastructure/solana-foundation-backs-coingecko-ahead-of-trading-push",
-    "published_at": "Tue, 17 Nov 2026 09:26:21 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8ea87e0be3d2",
-    "source": "The Defiant",
-    "title": "Binance Hacker-Linked Wallets Move Nearly 75,000 ETH",
-    "url": "https://thedefiant.io/news/hacks/binance-hacker-linked-wallets-move-nearly-75-000-eth",
-    "published_at": "Tue, 17 Nov 2026 09:13:03 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9fca16039978",
-    "source": "The Defiant",
-    "title": "Bitcoin, Ether Lose Over 13% in Week as Rebound Fades",
-    "url": "https://thedefiant.io/news/markets/bitcoin-ether-lose-over-13-in-week-as-rebound-fades",
-    "published_at": "Tue, 17 Nov 2026 09:03:15 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_2fee24991312",
-    "source": "The Defiant",
-    "title": "KOSPI Closes Below 5,000 as Chip Stocks Extend Slide",
-    "url": "https://thedefiant.io/frontier/markets/kospi-closes-below-5-000-as-chip-stocks-extend-slide",
-    "published_at": "Tue, 17 Nov 2026 08:21:25 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a58e69806f61",
-    "source": "The Defiant",
-    "title": "Injective Says Transfer-Agent Affiliate Is SEC-Registered",
-    "url": "https://thedefiant.io/news/regulation/injective-says-transfer-agent-affiliate-is-sec-registered",
-    "published_at": "Tue, 17 Nov 2026 07:48:36 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a60664f44ef9",
-    "source": "The Defiant",
-    "title": "OpenAI Details NATO Use of Its Cybersecurity Models",
-    "url": "https://thedefiant.io/frontier/ai/openai-details-nato-use-of-its-cybersecurity-models",
-    "published_at": "Tue, 17 Nov 2026 07:30:07 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c6618ed04810",
-    "source": "The Defiant",
-    "title": "Tencent's Hy4 Flash Undercuts Rivals' Base API Rates",
-    "url": "https://thedefiant.io/frontier/ai/tencent-s-hy4-flash-undercuts-rivals-base-api-rates",
-    "published_at": "Tue, 17 Nov 2026 07:14:07 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ab7935469f13",
-    "source": "The Defiant",
-    "title": "Abraxas-Linked Wallets Cut Hyperliquid Shorts to $8.6M",
-    "url": "https://thedefiant.io/news/defi/abraxas-linked-wallets-cut-hyperliquid-shorts-to-8-6m",
-    "published_at": "Tue, 17 Nov 2026 06:28:14 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c776a235c546",
-    "source": "The Defiant",
-    "title": "NVIDIA Expands Vera CPU Racks for Scientific Computing",
-    "url": "https://thedefiant.io/frontier/technology/nvidia-expands-vera-cpu-racks-for-scientific-computing",
-    "published_at": "Tue, 17 Nov 2026 05:19:33 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d913199d715c",
-    "source": "The Defiant",
-    "title": "US Says Justice Leads Megaspeed AI-Chip Investigation",
-    "url": "https://thedefiant.io/frontier/ai/us-says-justice-leads-megaspeed-ai-chip-investigation",
-    "published_at": "Tue, 17 Nov 2026 03:40:25 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_01232c9abbf2",
-    "source": "The Defiant",
-    "title": "Bitget-Linked Bitcoin Moves On From Fresh Wallets",
-    "url": "https://thedefiant.io/news/security/bitget-linked-bitcoin-moves-on-from-fresh-wallets",
-    "published_at": "Tue, 17 Nov 2026 03:35:54 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9f0b916151f2",
-    "source": "The Defiant",
-    "title": "Arkham Says Bitget Hacker Moved $161 Million in Bitcoin",
-    "url": "https://thedefiant.io/news/hacks/arkham-says-bitget-hacker-moved-161-million-in-bitcoin",
-    "published_at": "Tue, 17 Nov 2026 03:34:28 GMT",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d06a7ba7bdef",
-    "source": "CryptoSlate",
-    "title": "Uniswap freezes $300,000 in stranded fees, halting automatic token burns",
-    "url": "https://cryptoslate.com/uniswap-freezes-300000-in-stranded-fees-halting-automatic-token-burns/",
-    "published_at": "Tue, 17 Nov 2026 03:30:05 +0000",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9e9ad775bd91",
-    "source": "CryptoSlate",
-    "title": "Ethereum test exposes flaw that lets transactions skip payments",
-    "url": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
-    "published_at": "Tue, 17 Nov 2026 02:10:39 +0000",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_479cce33df0d",
-    "source": "Decrypt",
-    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-    "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-    "published_at": "Tue, 17 Nov 2026 09:27:29 +0000",
-    "fetched_at": "2026-11-17T10:35:38.931450+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111710",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,177,573,750 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-17T10:35:40.971679+00:00",
-    "used": false
-  },
-  {
     "id": "rss_47fbbb4030b2",
     "source": "CoinDesk",
     "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
@@ -2922,6 +2598,177 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-24T01:50:12.027923+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3bd5729cb6c4",
+    "source": "CoinDesk",
+    "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+    "url": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+    "published_at": "Tue, 24 Nov 2026 10:55:30 +0000",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7d5380cb6f44",
+    "source": "The Defiant",
+    "title": "Anthropic Slips Below $83 IPO Price in Premarket Trade",
+    "url": "https://thedefiant.io/frontier/markets/anthropic-slips-below-83-ipo-price-in-premarket-trade",
+    "published_at": "Tue, 24 Nov 2026 11:30:46 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_10e78295aa1d",
+    "source": "The Defiant",
+    "title": "OpenAI, Anthropic Staff Fear New Model Releases: Axios",
+    "url": "https://thedefiant.io/frontier/ai/openai-anthropic-staff-fear-new-model-releases-axios",
+    "published_at": "Tue, 24 Nov 2026 10:57:52 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6ee1c4fac5de",
+    "source": "The Defiant",
+    "title": "Lookonchain Flags Suspected Hack of Ansem-Linked Wallet",
+    "url": "https://thedefiant.io/news/hacks/lookonchain-flags-suspected-hack-of-ansem-linked-wallet",
+    "published_at": "Tue, 24 Nov 2026 10:17:30 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b86d014a5692",
+    "source": "The Defiant",
+    "title": "Bitcoin ETF Outflows Set Monthly Record at $4.71 Billion",
+    "url": "https://thedefiant.io/news/markets/bitcoin-etf-outflows-set-monthly-record-at-4-71-billion",
+    "published_at": "Tue, 24 Nov 2026 09:29:51 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2155cfae4e2c",
+    "source": "The Defiant",
+    "title": "South Korea Proposes ICO Return, Exchange Ownership Cap",
+    "url": "https://thedefiant.io/news/regulation/south-korea-proposes-ico-return-exchange-ownership-cap",
+    "published_at": "Tue, 24 Nov 2026 07:26:40 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e221c5555856",
+    "source": "The Defiant",
+    "title": "BlackRock Opens Hong Kong Fund to Stablecoin Payments",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-opens-hong-kong-fund-to-stablecoin-payments",
+    "published_at": "Tue, 24 Nov 2026 06:32:21 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d1d6c4b56bc7",
+    "source": "The Defiant",
+    "title": "Lighter Bridge TVL Falls 14.4% as USDC Balance Shrinks",
+    "url": "https://thedefiant.io/news/defi/lighter-bridge-tvl-falls-14-4-as-usdc-balance-shrinks",
+    "published_at": "Tue, 24 Nov 2026 05:24:47 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fede84da029c",
+    "source": "The Defiant",
+    "title": "Reuters: Circle, World Liberty Ordered to Keep Tokens Frozen",
+    "url": "https://thedefiant.io/news/hacks/reuters-circle-world-liberty-ordered-to-keep-tokens-frozen",
+    "published_at": "Tue, 24 Nov 2026 05:19:20 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5226f37766bb",
+    "source": "The Defiant",
+    "title": "AI-Designed Tests Improve but Still Fall Short for METR",
+    "url": "https://thedefiant.io/frontier/ai/ai-designed-tests-improve-but-still-fall-short-for-metr",
+    "published_at": "Tue, 24 Nov 2026 05:13:52 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0562529e25e9",
+    "source": "The Defiant",
+    "title": "How Chips Are Made: From Design to Tested Hardware",
+    "url": "https://thedefiant.io/news/technology/how-chips-are-made-from-design-to-tested-hardware",
+    "published_at": "Tue, 24 Nov 2026 05:11:14 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_650d571474cf",
+    "source": "The Defiant",
+    "title": "Ten Under Formal Investigation in Paris Gold-Crypto Probe",
+    "url": "https://thedefiant.io/news/security/ten-under-formal-investigation-in-paris-gold-crypto-probe",
+    "published_at": "Tue, 24 Nov 2026 05:09:53 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a7cfb00d3473",
+    "source": "The Defiant",
+    "title": "Yield Basis Activates propAMM on Active Bitcoin Pools",
+    "url": "https://thedefiant.io/news/defi/yield-basis-activates-propamm-on-active-bitcoin-pools",
+    "published_at": "Tue, 24 Nov 2026 05:05:43 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_48564c4d820c",
+    "source": "The Defiant",
+    "title": "UK Qualifying Crypto Venues Face Own-Platform Market-Making Ban",
+    "url": "https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban",
+    "published_at": "Tue, 24 Nov 2026 05:01:51 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_525637489e55",
+    "source": "The Defiant",
+    "title": "OpenAI Chief Scientist Proposes Limits on AI Development",
+    "url": "https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development",
+    "published_at": "Tue, 24 Nov 2026 04:58:58 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a4c35fabec49",
+    "source": "The Defiant",
+    "title": "Wiz Says Attacker Mined AI Coding Histories for Logins",
+    "url": "https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins",
+    "published_at": "Tue, 24 Nov 2026 04:57:53 GMT",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_525496eea061",
+    "source": "CryptoSlate",
+    "title": "BitMine’s $655 million Ethereum hit wipes out nearly three years of staking income",
+    "url": "https://cryptoslate.com/bitmines-655-million-ethereum-hit-wipes-out-nearly-three-years-of-staking-income/",
+    "published_at": "Tue, 24 Nov 2026 11:00:25 +0000",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_43209f34e3da",
+    "source": "CryptoSlate",
+    "title": "BTCS sold more Ethereum than it has left to repay $43.8 million in debt",
+    "url": "https://cryptoslate.com/btcs-sold-more-ethereum-than-it-has-left-to-repay-43-8-million-in-debt/",
+    "published_at": "Tue, 24 Nov 2026 03:40:38 +0000",
+    "fetched_at": "2026-11-24T12:19:09.608413+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112412",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,016,598,046 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-24T12:19:12.698840+00:00",
     "used": false
   }
 ]
