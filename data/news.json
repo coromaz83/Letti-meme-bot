@@ -1,194 +1,5 @@
 [
   {
-    "id": "rss_47fbbb4030b2",
-    "source": "CoinDesk",
-    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-    "published_at": "Tue, 17 Nov 2026 13:02:56 +0000",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_33b813732f88",
-    "source": "CoinDesk",
-    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-    "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-    "published_at": "Tue, 17 Nov 2026 11:25:58 +0000",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_06d2e04bfc07",
-    "source": "The Defiant",
-    "title": "Microsoft Makes Cobalt 200 VMs Available in 14 Regions",
-    "url": "https://thedefiant.io/frontier/infrastructure/microsoft-makes-cobalt-200-vms-available-in-14-regions",
-    "published_at": "Tue, 17 Nov 2026 18:50:40 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7ced49b84190",
-    "source": "The Defiant",
-    "title": "Brevan Howard Triples IBIT Stake to $1.1 Billion",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/brevan-howard-triples-ibit-stake-to-1-1-billion",
-    "published_at": "Tue, 17 Nov 2026 18:41:39 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7a683fd8a841",
-    "source": "The Defiant",
-    "title": "Anthropic Pairs IPO With $26 Billion Tech-Backer Deal",
-    "url": "https://thedefiant.io/frontier/ai/anthropic-pairs-ipo-with-26-billion-tech-backer-deal",
-    "published_at": "Tue, 17 Nov 2026 18:35:09 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f4c5148856b2",
-    "source": "The Defiant",
-    "title": "FinCEN Proposes Tighter ID Rules for Business Accounts",
-    "url": "https://thedefiant.io/converge/regulation/fincen-proposes-tighter-id-rules-for-business-accounts",
-    "published_at": "Tue, 17 Nov 2026 18:30:31 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_11b83dd2fe44",
-    "source": "The Defiant",
-    "title": "Western Union Says Solana Cash-Out Network Is Live",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-says-solana-cash-out-network-is-live",
-    "published_at": "Tue, 17 Nov 2026 18:17:18 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7b092305b370",
-    "source": "The Defiant",
-    "title": "OpenAI Widens Astra for Law Access With GPT-6.2 Update",
-    "url": "https://thedefiant.io/frontier/ai/openai-widens-astra-for-law-access-with-gpt-6-2-update",
-    "published_at": "Tue, 17 Nov 2026 18:16:55 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8cebd91714d0",
-    "source": "The Defiant",
-    "title": "Nvidia Taps Heidrick & Struggles for CEO Search: WSJ",
-    "url": "https://thedefiant.io/frontier/ai/nvidia-taps-heidrick-struggles-for-ceo-search-wsj",
-    "published_at": "Tue, 17 Nov 2026 18:08:23 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_66da1ec592a1",
-    "source": "The Defiant",
-    "title": "GPT-6.2 Models Rise on AI Index, but Coding Scores Stall",
-    "url": "https://thedefiant.io/frontier/ai/gpt-6-2-models-rise-on-ai-index-but-coding-scores-stall",
-    "published_at": "Tue, 17 Nov 2026 18:05:42 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bfffe787d9b7",
-    "source": "The Defiant",
-    "title": "CFTC Halts Kalshi Trump Word Bets for Manipulation Review",
-    "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
-    "published_at": "Tue, 17 Nov 2026 16:34:06 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fed348453725",
-    "source": "The Defiant",
-    "title": "Jensen Huang Offers Nvidia Return If Board Wants Him Back",
-    "url": "https://thedefiant.io/frontier/ai/jensen-huang-offers-nvidia-return-if-board-wants-him-back",
-    "published_at": "Tue, 17 Nov 2026 16:13:27 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_70d03928aacc",
-    "source": "The Defiant",
-    "title": "Nvidia Tracks Seventh Weekly Loss Ahead of Earnings",
-    "url": "https://thedefiant.io/frontier/markets/nvidia-tracks-seventh-weekly-loss-ahead-of-earnings",
-    "published_at": "Tue, 17 Nov 2026 16:04:52 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5de9b99167c9",
-    "source": "The Defiant",
-    "title": "Reported China Optics Ban Advances Despite Tech Pushback",
-    "url": "https://thedefiant.io/frontier/technology/reported-china-optics-ban-advances-despite-tech-pushback",
-    "published_at": "Tue, 17 Nov 2026 15:53:38 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c77556848300",
-    "source": "The Defiant",
-    "title": "New York AG Creates ASSET Unit to Enforce AI Safety",
-    "url": "https://thedefiant.io/frontier/ai/new-york-ag-creates-asset-unit-to-enforce-ai-safety",
-    "published_at": "Tue, 17 Nov 2026 15:36:43 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8291b3100491",
-    "source": "The Defiant",
-    "title": "Pantera Leads Codex's $30 Million Stablecoin FX Round",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/pantera-leads-codex-s-30-million-stablecoin-fx-round",
-    "published_at": "Tue, 17 Nov 2026 15:34:48 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_89b2ec4ee5e5",
-    "source": "The Defiant",
-    "title": "AI Models Mark Civilians as Targets in Vals Safety Tests",
-    "url": "https://thedefiant.io/frontier/ai/ai-models-mark-civilians-as-targets-in-vals-safety-tests",
-    "published_at": "Tue, 17 Nov 2026 15:26:37 GMT",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ed56a913b547",
-    "source": "Decrypt",
-    "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-    "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
-    "published_at": "Tue, 17 Nov 2026 19:26:02 +0000",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8fc15215c5a6",
-    "source": "Decrypt",
-    "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-    "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-    "published_at": "Tue, 17 Nov 2026 17:18:41 +0000",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a4fb5a5a218a",
-    "source": "Bankless",
-    "title": "Coinbase Launches a Trading Plugin for ChatGPT",
-    "url": "https://www.bankless.com/read/news/coinbase-launches-a-trading-plugin-for-chatgpt",
-    "published_at": "Tue, 17 Nov 2026 13:52:57 -0500",
-    "fetched_at": "2026-11-17T19:43:46.534834+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111719",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,117,128,741 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-17T19:43:49.889673+00:00",
-    "used": false
-  },
-  {
     "id": "rss_37db82d1c70c",
     "source": "CoinDesk",
     "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
@@ -2769,6 +2580,159 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-24T12:19:12.698840+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a02cd3fcdbb0",
+    "source": "The Defiant",
+    "title": "Hut 8 Says Beacon Point Phase 2 Cleared for Construction",
+    "url": "https://thedefiant.io/frontier/technology/hut-8-says-beacon-point-phase-2-cleared-for-construction",
+    "published_at": "Tue, 24 Nov 2026 22:41:34 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e677c2bb7c61",
+    "source": "The Defiant",
+    "title": "Dell Lifts Outlook as AI Server Sales Hit $22 Billion",
+    "url": "https://thedefiant.io/frontier/ai/dell-lifts-outlook-as-ai-server-sales-hit-22-billion",
+    "published_at": "Tue, 24 Nov 2026 22:40:54 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_18bf2f837589",
+    "source": "The Defiant",
+    "title": "Stablecoin Market Shrinks About $17 Billion in 30 Days",
+    "url": "https://thedefiant.io/news/markets/stablecoin-market-shrinks-about-17-billion-in-30-days",
+    "published_at": "Tue, 24 Nov 2026 22:40:33 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6d3dd074cf69",
+    "source": "The Defiant",
+    "title": "Ethereum Foundation Backs Keccak-256 for Quantum Shift",
+    "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-backs-keccak-256-for-quantum-shift",
+    "published_at": "Tue, 24 Nov 2026 21:53:48 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6a924bc0270c",
+    "source": "The Defiant",
+    "title": "OpenAI Reports Lab Binders From GPT-6.2 Protein Designs",
+    "url": "https://thedefiant.io/frontier/ai/openai-reports-lab-binders-from-gpt-6-2-protein-designs",
+    "published_at": "Tue, 24 Nov 2026 21:12:49 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8886786f9752",
+    "source": "The Defiant",
+    "title": "Kraken’s Krak Plans US Credit Cards With USDC Option",
+    "url": "https://thedefiant.io/converge/cefi/kraken-s-krak-plans-us-credit-cards-with-usdc-option",
+    "published_at": "Tue, 24 Nov 2026 20:35:38 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1011801b86ec",
+    "source": "The Defiant",
+    "title": "Sei v6.8 Adds CosmWasm Shutdown Controls Ahead of Giga",
+    "url": "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
+    "published_at": "Tue, 24 Nov 2026 20:31:56 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a0ca0ab3b71a",
+    "source": "The Defiant",
+    "title": "Gemini Announces Shielded Zcash Deposits Via Ironwood",
+    "url": "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood",
+    "published_at": "Tue, 24 Nov 2026 19:00:13 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_122ef4a52dca",
+    "source": "The Defiant",
+    "title": "SEC Staff Give Molecule No-Action Relief for Token Sales",
+    "url": "https://thedefiant.io/news/regulation/sec-staff-give-molecule-no-action-relief-for-token-sales",
+    "published_at": "Tue, 24 Nov 2026 18:42:19 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_0deffe49ab1d",
+    "source": "The Defiant",
+    "title": "Claude Adds MCP Skills and Long-Running Task Support",
+    "url": "https://thedefiant.io/frontier/ai/claude-adds-mcp-skills-and-long-running-task-support",
+    "published_at": "Tue, 24 Nov 2026 18:27:48 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_aaef6c55fe39",
+    "source": "The Defiant",
+    "title": "Ledn Moves US Business Onshore, Adds BitGo Custody",
+    "url": "https://thedefiant.io/news/cefi/ledn-moves-us-business-onshore-adds-bitgo-custody",
+    "published_at": "Tue, 24 Nov 2026 18:11:24 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_48cb688e631f",
+    "source": "The Defiant",
+    "title": "Utah Seeks to Drop Charges After Kalshi Blocks New Trades in the State",
+    "url": "https://thedefiant.io/news/regulation/utah-seeks-to-drop-charges-after-kalshi-blocks-new-trades-in-the-state",
+    "published_at": "Tue, 24 Nov 2026 18:01:58 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59a482d81bef",
+    "source": "The Defiant",
+    "title": "Bullpen Reports Unauthorized Transfers in 18–19 Accounts",
+    "url": "https://thedefiant.io/news/hacks/bullpen-reports-unauthorized-transfers-in-18-19-accounts",
+    "published_at": "Tue, 24 Nov 2026 17:31:48 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_733eaf576de5",
+    "source": "The Defiant",
+    "title": "Osmosis Restricts 84,000 Wallets After Web3Auth Breach",
+    "url": "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
+    "published_at": "Tue, 24 Nov 2026 17:27:50 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c68ea5d5fc5d",
+    "source": "The Defiant",
+    "title": "Tidal to Ban Fully AI-Generated Music From December 9",
+    "url": "https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9",
+    "published_at": "Tue, 24 Nov 2026 17:01:34 GMT",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_485ce25e1f22",
+    "source": "Decrypt",
+    "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+    "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+    "published_at": "Tue, 24 Nov 2026 20:36:02 +0000",
+    "fetched_at": "2026-11-24T22:42:36.530007+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112422",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,994,179,972 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-24T22:42:39.324814+00:00",
     "used": false
   }
 ]
