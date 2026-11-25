@@ -1,131 +1,5 @@
 [
   {
-    "id": "rss_37db82d1c70c",
-    "source": "CoinDesk",
-    "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-    "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-    "published_at": "Tue, 17 Nov 2026 19:45:57 +0000",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e39ef46aed01",
-    "source": "The Defiant",
-    "title": "Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss",
-    "url": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
-    "published_at": "Wed, 18 Nov 2026 02:03:01 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_32286a444fb9",
-    "source": "The Defiant",
-    "title": "PayPal’s PYUSD Supply Falls 14% as Ethereum Leads Drop",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-supply-falls-14-as-ethereum-leads-drop",
-    "published_at": "Wed, 18 Nov 2026 00:36:05 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_52cb5765491d",
-    "source": "The Defiant",
-    "title": "Nvidia Tops Sales Forecast After Huang's Resignation",
-    "url": "https://thedefiant.io/frontier/ai/nvidia-tops-sales-forecast-after-huang-s-resignation",
-    "published_at": "Wed, 18 Nov 2026 00:30:53 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_322aa3881fbb",
-    "source": "The Defiant",
-    "title": "USD1 Supply Falls 11% in a Week to Below $3 Billion",
-    "url": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
-    "published_at": "Wed, 18 Nov 2026 00:26:17 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5bfc141c8107",
-    "source": "The Defiant",
-    "title": "Java4Shell Fixes Arrive After AI-Assisted Discovery",
-    "url": "https://thedefiant.io/frontier/technology/java4shell-fixes-arrive-after-ai-assisted-discovery",
-    "published_at": "Wed, 18 Nov 2026 00:11:53 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fc43f7176fd9",
-    "source": "The Defiant",
-    "title": "Bank of England Finalizes Clearing-House Test Policy",
-    "url": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
-    "published_at": "Tue, 17 Nov 2026 21:34:33 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ccd5a810db43",
-    "source": "The Defiant",
-    "title": "The Graph to Tie Indexer Reward Requirements to Stake",
-    "url": "https://thedefiant.io/news/blockchains/the-graph-to-tie-indexer-reward-requirements-to-stake",
-    "published_at": "Tue, 17 Nov 2026 21:01:35 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_af077789fe88",
-    "source": "The Defiant",
-    "title": "FDIC Proposes Rules for Custodial-Deposit Exemption",
-    "url": "https://thedefiant.io/converge/regulation/fdic-proposes-rules-for-custodial-deposit-exemption",
-    "published_at": "Tue, 17 Nov 2026 20:45:01 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_dcf5640eb9fa",
-    "source": "The Defiant",
-    "title": "FT Reports $104 Billion in Nvidia Singapore Revenue",
-    "url": "https://thedefiant.io/frontier/ai/ft-reports-104-billion-in-nvidia-singapore-revenue",
-    "published_at": "Tue, 17 Nov 2026 20:34:18 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a88f5c00f019",
-    "source": "The Defiant",
-    "title": "Binance Wallet Sets Eight-Hour Anthropic IPO Token Window",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-wallet-sets-eight-hour-anthropic-ipo-token-window",
-    "published_at": "Tue, 17 Nov 2026 20:14:23 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7cc5d785b1fb",
-    "source": "The Defiant",
-    "title": "World Bank Group Explores USDC Payments With Citi",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/world-bank-group-explores-usdc-payments-with-citi",
-    "published_at": "Tue, 17 Nov 2026 20:07:44 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_356a0fde36da",
-    "source": "The Defiant",
-    "title": "Blockaid Says B18TimeBank Exploit Drained 404,540 USDC",
-    "url": "https://thedefiant.io/news/hacks/blockaid-says-b18timebank-exploit-drained-404-540-usdc",
-    "published_at": "Tue, 17 Nov 2026 20:00:29 GMT",
-    "fetched_at": "2026-11-18T02:18:12.762138+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111802",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,216,159,306 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-18T02:18:16.263112+00:00",
-    "used": false
-  },
-  {
     "id": "rss_59350c097c02",
     "source": "Cointelegraph Base",
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -2733,6 +2607,96 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-24T22:42:39.324814+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e3c99bc1157e",
+    "source": "The Defiant",
+    "title": "MON Hits Record Low After First Insider Lockup Ends",
+    "url": "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+    "published_at": "Wed, 25 Nov 2026 04:38:54 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5365aee27f11",
+    "source": "The Defiant",
+    "title": "Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+    "url": "https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally",
+    "published_at": "Wed, 25 Nov 2026 03:14:56 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_85ed7f9fe7dc",
+    "source": "The Defiant",
+    "title": "FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+    "url": "https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open",
+    "published_at": "Wed, 25 Nov 2026 02:35:03 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ab469a14e903",
+    "source": "The Defiant",
+    "title": "Liquity Says V2 ETH Branch Is in Safety Mode Near 149%",
+    "url": "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+    "published_at": "Wed, 25 Nov 2026 01:54:38 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2360664cb702",
+    "source": "The Defiant",
+    "title": "Trump Says He Lobbied Nvidia Board for Huang’s Return",
+    "url": "https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return",
+    "published_at": "Wed, 25 Nov 2026 00:20:09 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_8409396395e9",
+    "source": "The Defiant",
+    "title": "Trezor Says Firmware Blocks Known Spying Implants",
+    "url": "https://thedefiant.io/news/security/trezor-says-firmware-blocks-known-spying-implants",
+    "published_at": "Tue, 24 Nov 2026 22:59:45 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_e632bfc695d8",
+    "source": "The Defiant",
+    "title": "New York Enacts Five-Year Ban on AI Companion Toys",
+    "url": "https://thedefiant.io/frontier/regulation/new-york-enacts-five-year-ban-on-ai-companion-toys",
+    "published_at": "Tue, 24 Nov 2026 22:56:03 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a1ce5cf2429a",
+    "source": "The Defiant",
+    "title": "Morpho Borrow Rate Doubled Amid Spark Liquidity Pullback",
+    "url": "https://thedefiant.io/news/defi/morpho-borrow-rate-doubled-amid-spark-liquidity-pullback",
+    "published_at": "Tue, 24 Nov 2026 22:53:41 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3721d14c465e",
+    "source": "The Defiant",
+    "title": "Huawei Convicted on 10 Counts, Acquitted of Racketeering Conspiracy",
+    "url": "https://thedefiant.io/frontier/regulation/huawei-convicted-on-10-counts-acquitted-of-racketeering-conspiracy",
+    "published_at": "Tue, 24 Nov 2026 22:48:35 GMT",
+    "fetched_at": "2026-11-25T05:21:07.218469+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112505",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,976,413,964 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-25T05:21:10.299939+00:00",
     "used": false
   }
 ]
