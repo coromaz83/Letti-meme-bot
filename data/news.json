@@ -1,140 +1,5 @@
 [
   {
-    "id": "rss_f7ed7ce0c4a0",
-    "source": "The Defiant",
-    "title": "Fed Minutes Point to More Hikes, Flag AI Inflation Risk",
-    "url": "https://thedefiant.io/news/markets/fed-minutes-point-to-more-hikes-flag-ai-inflation-risk",
-    "published_at": "Wed, 18 Nov 2026 19:20:10 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_836ada7cd107",
-    "source": "The Defiant",
-    "title": "Binance Says ADGM Order Supports Recovery of Hack Funds",
-    "url": "https://thedefiant.io/news/hacks/binance-says-adgm-order-supports-recovery-of-hack-funds",
-    "published_at": "Wed, 18 Nov 2026 19:03:48 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3ea2a76058d6",
-    "source": "The Defiant",
-    "title": "Astra vs. Fable: What Document and Knowledge Tests Show",
-    "url": "https://thedefiant.io/news/ai/astra-vs-fable-what-document-and-knowledge-tests-show",
-    "published_at": "Wed, 18 Nov 2026 18:25:09 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e378ccac273a",
-    "source": "The Defiant",
-    "title": "Bitcoin Nears $62,000 as Citi Cuts Its Forecast",
-    "url": "https://thedefiant.io/news/markets/bitcoin-nears-62-000-as-citi-cuts-its-forecast",
-    "published_at": "Wed, 18 Nov 2026 17:46:21 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7d960d7d5473",
-    "source": "The Defiant",
-    "title": "EIGEN Falls 48% in Four Weeks, Lagging Bitcoin, Ether",
-    "url": "https://thedefiant.io/news/markets/eigen-falls-48-in-four-weeks-lagging-bitcoin-ether",
-    "published_at": "Wed, 18 Nov 2026 16:56:07 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a8225d718044",
-    "source": "The Defiant",
-    "title": "Variational Raises $110 Million to Expand Omni Trading",
-    "url": "https://thedefiant.io/news/defi/variational-raises-110-million-to-expand-omni-trading",
-    "published_at": "Wed, 18 Nov 2026 16:04:35 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c34e5734ec79",
-    "source": "The Defiant",
-    "title": "US Capital-Goods Import Prices Post Record Monthly Rise",
-    "url": "https://thedefiant.io/news/markets/us-capital-goods-import-prices-post-record-monthly-rise",
-    "published_at": "Wed, 18 Nov 2026 15:09:05 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_42963fae8851",
-    "source": "The Defiant",
-    "title": "Backpack Secures NFA Approval Ahead of US Perps Launch",
-    "url": "https://thedefiant.io/news/regulation/backpack-secures-nfa-approval-ahead-of-us-perps-launch",
-    "published_at": "Wed, 18 Nov 2026 15:05:27 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5155f06a069c",
-    "source": "The Defiant",
-    "title": "How to Choose AI Coding Benchmarks That Fit Your Work",
-    "url": "https://thedefiant.io/news/ai/how-to-choose-ai-coding-benchmarks-that-fit-your-work",
-    "published_at": "Wed, 18 Nov 2026 14:18:43 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_375b4afd0af9",
-    "source": "The Defiant",
-    "title": "USDC’s Direct Bank Cash Fell $1.88 Billion in Q3",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/usdc-s-direct-bank-cash-fell-1-88-billion-in-q3",
-    "published_at": "Wed, 18 Nov 2026 14:18:18 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_68e1ed0ffd9d",
-    "source": "The Defiant",
-    "title": "How Tokenized Nvidia Traded Through Two Weeks of Huang Headlines",
-    "url": "https://thedefiant.io/news/research-and-opinion/nvidia-tokens-weekend-price-gaps-credora-redstone",
-    "published_at": "Wed, 18 Nov 2026 14:08:01 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_46f2d8c83e73",
-    "source": "The Defiant",
-    "title": "APT Drops 24% in a Week, Erasing Its Autumn Rally",
-    "url": "https://thedefiant.io/news/markets/apt-drops-24-in-a-week-erasing-its-autumn-rally",
-    "published_at": "Wed, 18 Nov 2026 13:24:21 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8df0c5d3ae8e",
-    "source": "The Defiant",
-    "title": "Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls",
-    "url": "https://thedefiant.io/converge/cefi/bullish-beats-adjusted-revenue-forecast-as-spot-volume-falls",
-    "published_at": "Wed, 18 Nov 2026 12:57:45 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_63f6a87879bb",
-    "source": "The Defiant",
-    "title": "Bitcoin Sheds Most of Post-Nvidia Bounce in 35 Minutes",
-    "url": "https://thedefiant.io/news/markets/bitcoin-sheds-most-of-post-nvidia-bounce-in-35-minutes",
-    "published_at": "Wed, 18 Nov 2026 10:47:25 GMT",
-    "fetched_at": "2026-11-18T19:20:22.773876+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111819",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,109,305,644 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-18T19:20:26.936716+00:00",
-    "used": false
-  },
-  {
     "id": "rss_1cd6dfb96b26",
     "source": "The Defiant",
     "title": "LUKSO Blames Email Recovery Flaw for Profile Thefts",
@@ -2679,6 +2544,186 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-25T15:57:58.186908+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_59350c097c02",
+    "source": "Cointelegraph Base",
+    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+    "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 29 Aug 2026 16:27:28 +0000",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c15fcf8662a2",
+    "source": "CoinDesk",
+    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+    "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+    "published_at": "Wed, 25 Nov 2026 16:02:31 +0000",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a4b31db05dc9",
+    "source": "The Defiant",
+    "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+    "url": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+    "published_at": "Wed, 25 Nov 2026 23:41:55 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4226f21d8379",
+    "source": "The Defiant",
+    "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+    "url": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+    "published_at": "Wed, 25 Nov 2026 23:18:14 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4945b8c8e87d",
+    "source": "The Defiant",
+    "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+    "url": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+    "published_at": "Wed, 25 Nov 2026 22:59:12 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_261cbcc04cec",
+    "source": "The Defiant",
+    "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+    "url": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+    "published_at": "Wed, 25 Nov 2026 22:43:35 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4f68e7ae1c39",
+    "source": "The Defiant",
+    "title": "Convex TVL Falls 33%, More Than Twice Curve's Decline",
+    "url": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+    "published_at": "Wed, 25 Nov 2026 22:13:33 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cf68d19bfcff",
+    "source": "The Defiant",
+    "title": "Aaronson Qualifies Unverified AI Factoring Rumors",
+    "url": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+    "published_at": "Wed, 25 Nov 2026 22:06:15 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ff9d20188d61",
+    "source": "The Defiant",
+    "title": "OpenAI Tests Private Inference With Select Customers",
+    "url": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+    "published_at": "Wed, 25 Nov 2026 21:42:02 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fa0f3bf33eca",
+    "source": "The Defiant",
+    "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+    "url": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+    "published_at": "Wed, 25 Nov 2026 21:15:03 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_501b4a1fd52a",
+    "source": "The Defiant",
+    "title": "Venice Token Gains 33% While Bitcoin and TAO Retreat",
+    "url": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+    "published_at": "Wed, 25 Nov 2026 21:14:30 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_918024f1a75e",
+    "source": "The Defiant",
+    "title": "Sky’s Rune Pursues stUSDS Deal as Withdrawal Squeeze Persists",
+    "url": "https://thedefiant.io/news/defi/sky-s-rune-pursues-stusds-deal-as-withdrawal-squeeze-persists",
+    "published_at": "Wed, 25 Nov 2026 20:06:17 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ef377eb0d47",
+    "source": "The Defiant",
+    "title": "1Password Says Breach Exposed Account Data, Not Vaults",
+    "url": "https://thedefiant.io/news/security/1password-says-breach-exposed-account-data-not-vaults",
+    "published_at": "Wed, 25 Nov 2026 19:29:48 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6f247b1efe21",
+    "source": "The Defiant",
+    "title": "Fidelity Files for Spot Chainlink Fund on Nasdaq",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-files-for-spot-chainlink-fund-on-nasdaq",
+    "published_at": "Wed, 25 Nov 2026 19:05:25 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_48b1a98f25da",
+    "source": "The Defiant",
+    "title": "US Bitcoin Reserve Bill Reaches House Union Calendar",
+    "url": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-reaches-house-union-calendar",
+    "published_at": "Wed, 25 Nov 2026 19:05:10 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1bad9a7d327",
+    "source": "The Defiant",
+    "title": "EU Rejects US Overcapacity Finding, Defends 15% Tariff Cap",
+    "url": "https://thedefiant.io/news/markets/eu-rejects-us-overcapacity-finding-defends-15-tariff-cap",
+    "published_at": "Wed, 25 Nov 2026 19:04:37 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c34587ffb5ef",
+    "source": "The Defiant",
+    "title": "CoW Swap Fees Double, With Ethereum Driving the Gain",
+    "url": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
+    "published_at": "Wed, 25 Nov 2026 19:01:06 GMT",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4c43189f55d4",
+    "source": "CryptoSlate",
+    "title": "UK to test whether AI can replace a second mammogram reader in trial of 660,000 women",
+    "url": "https://cryptoslate.com/uk-to-test-whether-ai-can-replace-a-second-mammogram-reader-in-trial-of-660000-women/",
+    "published_at": "Wed, 25 Nov 2026 21:30:55 +0000",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_466d535a8107",
+    "source": "Bankless",
+    "title": "Coinbase Is Buying Back COIN Again as Shares Slide",
+    "url": "https://www.bankless.com/read/news/coinbase-is-buying-back-coin-again-as-shares-slide",
+    "published_at": "Wed, 25 Nov 2026 15:07:38 -0500",
+    "fetched_at": "2026-11-26T00:11:43.834328+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112600",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,062,598,302 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-26T00:11:45.656897+00:00",
     "used": false
   }
 ]
