@@ -1,167 +1,5 @@
 [
   {
-    "id": "rss_1cd6dfb96b26",
-    "source": "The Defiant",
-    "title": "LUKSO Blames Email Recovery Flaw for Profile Thefts",
-    "url": "https://thedefiant.io/news/security/lukso-blames-email-recovery-flaw-for-profile-thefts",
-    "published_at": "Thu, 19 Nov 2026 01:13:31 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_248ed5e6fdf1",
-    "source": "The Defiant",
-    "title": "BlackRock’s IBIT Resumes Outflows After One-Day Break",
-    "url": "https://thedefiant.io/news/markets/blackrock-s-ibit-resumes-outflows-after-one-day-break",
-    "published_at": "Thu, 19 Nov 2026 00:19:30 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_17eb5a542a94",
-    "source": "The Defiant",
-    "title": "Binance Opens US Stock Options to API Trading With USDC",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-opens-us-stock-options-to-api-trading-with-usdc",
-    "published_at": "Thu, 19 Nov 2026 00:15:57 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fd280734bfcf",
-    "source": "The Defiant",
-    "title": "Texas Resumes Environmental Permit Reviews for Data Centers",
-    "url": "https://thedefiant.io/frontier/technology/texas-resumes-environmental-permit-reviews-for-data-centers",
-    "published_at": "Wed, 18 Nov 2026 23:49:08 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1920a4c1c102",
-    "source": "The Defiant",
-    "title": "OpenAI Reports Agent Gains on Multihour Research Tasks",
-    "url": "https://thedefiant.io/frontier/ai/openai-reports-agent-gains-on-multihour-research-tasks",
-    "published_at": "Wed, 18 Nov 2026 23:48:06 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_db210dc306b0",
-    "source": "The Defiant",
-    "title": "Microsoft Plans Intel EMIB Packaging for Azure Chips",
-    "url": "https://thedefiant.io/frontier/infrastructure/microsoft-plans-intel-emib-packaging-for-azure-chips",
-    "published_at": "Wed, 18 Nov 2026 23:35:31 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_26ea16664efe",
-    "source": "The Defiant",
-    "title": "Tencent's AI Buildout Deepens Free Cash Flow Deficit",
-    "url": "https://thedefiant.io/frontier/ai/tencent-s-ai-buildout-deepens-free-cash-flow-deficit",
-    "published_at": "Wed, 18 Nov 2026 23:32:55 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7fe4b7d59308",
-    "source": "The Defiant",
-    "title": "Kraken Parent Payward Agrees to Acquire Tribe Capital",
-    "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
-    "published_at": "Wed, 18 Nov 2026 23:25:15 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_bcacf9365872",
-    "source": "The Defiant",
-    "title": "GAO Says Four AI Chatbots Helped Develop Attack Plans",
-    "url": "https://thedefiant.io/frontier/ai/gao-says-four-ai-chatbots-helped-develop-attack-plans",
-    "published_at": "Wed, 18 Nov 2026 23:25:00 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_197b91a204b5",
-    "source": "The Defiant",
-    "title": "Sunrise Plans Anthropic Stock Token for Solana Debut",
-    "url": "https://thedefiant.io/news/defi/sunrise-plans-anthropic-stock-token-for-solana-debut",
-    "published_at": "Wed, 18 Nov 2026 23:17:09 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5dbf83eb161a",
-    "source": "The Defiant",
-    "title": "Babylon Co-Founder Proposes Ending Bitcoin Staking",
-    "url": "https://thedefiant.io/news/defi/babylon-co-founder-proposes-ending-bitcoin-staking",
-    "published_at": "Wed, 18 Nov 2026 23:13:13 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ee0f3d62c4a7",
-    "source": "The Defiant",
-    "title": "Coinbase Offers Anthropic Perp Ahead of Nasdaq Debut",
-    "url": "https://thedefiant.io/news/cefi/coinbase-offers-anthropic-perp-ahead-of-nasdaq-debut",
-    "published_at": "Wed, 18 Nov 2026 23:12:23 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_47c334bc028d",
-    "source": "The Defiant",
-    "title": "Injective's Veyra Upgrade Passes Vote, Targets Nov. 24",
-    "url": "https://thedefiant.io/news/blockchains/injective-s-veyra-upgrade-passes-vote-targets-nov-24",
-    "published_at": "Wed, 18 Nov 2026 23:05:45 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_155df1c535e0",
-    "source": "The Defiant",
-    "title": "NEAR Ratifies Issuance Cut, Pending Validator Upgrade",
-    "url": "https://thedefiant.io/news/blockchains/near-ratifies-issuance-cut-pending-validator-upgrade",
-    "published_at": "Wed, 18 Nov 2026 23:05:37 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d34d97f93d35",
-    "source": "The Defiant",
-    "title": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties",
-    "url": "https://thedefiant.io/frontier/ai/report-bytedance-ai-sales-strain-microsoft-openai-ties",
-    "published_at": "Wed, 18 Nov 2026 22:56:40 GMT",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_67afe4062977",
-    "source": "CryptoSlate",
-    "title": "Coinbase AI blocks $4.7 million scam, but a simple lie exposes its weakness",
-    "url": "https://cryptoslate.com/coinbase-ai-blocks-4-7-million-scam-but-a-simple-lie-exposes-its-weakness/",
-    "published_at": "Wed, 18 Nov 2026 22:00:46 +0000",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_3eedc59b6d32",
-    "source": "Decrypt",
-    "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-    "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-    "published_at": "Wed, 18 Nov 2026 19:46:02 +0000",
-    "fetched_at": "2026-11-19T01:24:46.603437+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026111901",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $5,077,549,406 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-19T01:24:49.636598+00:00",
-    "used": false
-  },
-  {
     "id": "rss_ec0369489b16",
     "source": "Cointelegraph Base",
     "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -2724,6 +2562,132 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-26T00:11:45.656897+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_c6defac6724a",
+    "source": "The Defiant",
+    "title": "Venice AI Founder Defends Privacy After VVV Slide",
+    "url": "https://thedefiant.io/news/security/venice-ai-founder-defends-privacy-after-vvv-slide",
+    "published_at": "Thu, 26 Nov 2026 07:03:20 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92ff0b43d9bd",
+    "source": "The Defiant",
+    "title": "SIX Lists Switzerland’s First Spot Bitcoin ETF",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-lists-switzerland-s-first-spot-bitcoin-etf",
+    "published_at": "Thu, 26 Nov 2026 06:41:19 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3be3bf6dec44",
+    "source": "The Defiant",
+    "title": "Anthropic Safety Rebuke Tops 1,000 Signatures, Group Says",
+    "url": "https://thedefiant.io/frontier/ai/anthropic-safety-rebuke-tops-1-000-signatures-group-says",
+    "published_at": "Thu, 26 Nov 2026 06:33:04 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_9e1d6c7a5d54",
+    "source": "The Defiant",
+    "title": "b14g’s Recorded TVL Nearly Halved to $135M by Nov. 24",
+    "url": "https://thedefiant.io/news/defi/b14g-s-recorded-tvl-nearly-halved-to-135m-by-nov-24",
+    "published_at": "Thu, 26 Nov 2026 06:20:46 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_7ff47e270e4c",
+    "source": "The Defiant",
+    "title": "Nvidia Tells Partners to Halt AI Server Shipments to Four Countries: FT",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-tells-partners-to-halt-ai-server-shipments-to-four-countries-ft",
+    "published_at": "Thu, 26 Nov 2026 06:19:49 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d6a74b42c687",
+    "source": "The Defiant",
+    "title": "WSJ: Nvidia’s Ex-Sales Chief Dated Super Micro Executive",
+    "url": "https://thedefiant.io/frontier/ai/wsj-nvidia-s-ex-sales-chief-dated-super-micro-executive",
+    "published_at": "Thu, 26 Nov 2026 06:18:13 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_347aa4668f62",
+    "source": "The Defiant",
+    "title": "Nvidia Sells Top AI Chips to Chinese-Owned US Firms: CBS",
+    "url": "https://thedefiant.io/frontier/ai/nvidia-sells-top-ai-chips-to-chinese-owned-us-firms-cbs",
+    "published_at": "Thu, 26 Nov 2026 06:17:03 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_2216716979c2",
+    "source": "The Defiant",
+    "title": "Post: Pentagon Weighed Wartime Law to Pressure Nvidia",
+    "url": "https://thedefiant.io/frontier/technology/post-pentagon-weighed-wartime-law-to-pressure-nvidia",
+    "published_at": "Thu, 26 Nov 2026 06:10:12 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_4402e516abc9",
+    "source": "The Defiant",
+    "title": "Amazon’s Trainium3 Shows Cost Edge in AI Benchmark",
+    "url": "https://thedefiant.io/frontier/ai/amazon-s-trainium3-shows-cost-edge-in-ai-benchmark",
+    "published_at": "Thu, 26 Nov 2026 05:59:29 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_60dca550873c",
+    "source": "The Defiant",
+    "title": "Zakura Urges Zcash to Cut Off Sapling Deposits Sooner",
+    "url": "https://thedefiant.io/news/blockchains/zakura-urges-zcash-to-cut-off-sapling-deposits-sooner",
+    "published_at": "Thu, 26 Nov 2026 05:59:22 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_63149ec21a83",
+    "source": "The Defiant",
+    "title": "Lido Widens Operator Penalties After Slashing Exposed Gap",
+    "url": "https://thedefiant.io/news/defi/lido-widens-operator-penalties-after-slashing-exposed-gap",
+    "published_at": "Thu, 26 Nov 2026 05:56:38 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_11b29700e9e4",
+    "source": "The Defiant",
+    "title": "Tempo's Native Multisig Goes Live on Testnet",
+    "url": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+    "published_at": "Thu, 26 Nov 2026 01:09:41 GMT",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_1b3c76d6a8e5",
+    "source": "CryptoSlate",
+    "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
+    "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/",
+    "published_at": "Thu, 26 Nov 2026 01:50:48 +0000",
+    "fetched_at": "2026-11-26T08:48:45.256397+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112608",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $5,087,282,530 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-26T08:48:48.262036+00:00",
     "used": false
   }
 ]
