@@ -1,176 +1,5 @@
 [
   {
-    "id": "rss_03c1cbf97587",
-    "source": "Cointelegraph Base",
-    "title": "Trueo prediction market moves from Base to Ethereum",
-    "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 22 Sep 2026 04:03:00 +0000",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d5b4673a6712",
-    "source": "CoinDesk",
-    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-    "published_at": "Fri, 20 Nov 2026 04:58:08 +0000",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5e40595e04da",
-    "source": "CoinDesk",
-    "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-    "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-    "published_at": "Fri, 20 Nov 2026 04:28:52 +0000",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ae89f5a538ae",
-    "source": "The Defiant",
-    "title": "Rupee Withdrawal Problems Hit Three Crypto Exchanges",
-    "url": "https://thedefiant.io/news/cefi/rupee-withdrawal-problems-hit-three-crypto-exchanges",
-    "published_at": "Fri, 20 Nov 2026 08:41:17 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f74a071da2cb",
-    "source": "The Defiant",
-    "title": "Nigeria Sets Nov. 30 Tax Portal Form Deadline for Crypto Firms",
-    "url": "https://thedefiant.io/news/regulation/nigeria-sets-nov-30-tax-portal-form-deadline-for-crypto-firms",
-    "published_at": "Fri, 20 Nov 2026 08:38:27 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_0a4ee01301cf",
-    "source": "The Defiant",
-    "title": "OpenAI Brings GPT-Live-1.1 to API With Cheaper Standby",
-    "url": "https://thedefiant.io/frontier/ai/openai-brings-gpt-live-1-1-to-api-with-cheaper-standby",
-    "published_at": "Fri, 20 Nov 2026 07:55:15 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_cb17ea01b5f0",
-    "source": "The Defiant",
-    "title": "Anthropic Ends Debut Up 17% as Ondo Launches ANTon",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ends-debut-up-17-as-ondo-launches-anton",
-    "published_at": "Fri, 20 Nov 2026 06:34:54 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9587a18cc774",
-    "source": "The Defiant",
-    "title": "Coinbase’s Anthropic Share Certificate Trades on Base",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-s-anthropic-share-certificate-trades-on-base",
-    "published_at": "Fri, 20 Nov 2026 05:02:28 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_7220a5b55dde",
-    "source": "The Defiant",
-    "title": "AI Agent Builders: Visual Versus Code-First Tools",
-    "url": "https://thedefiant.io/news/infrastructure/ai-agent-builders-visual-versus-code-first-tools",
-    "published_at": "Fri, 20 Nov 2026 04:51:01 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_fcd4d29e99ff",
-    "source": "The Defiant",
-    "title": "Google Expands Gemini’s Mac Automation With App Control",
-    "url": "https://thedefiant.io/frontier/ai/google-expands-gemini-s-mac-automation-with-app-control",
-    "published_at": "Fri, 20 Nov 2026 04:47:23 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5987259b5160",
-    "source": "The Defiant",
-    "title": "Sky Council Plans Extra Buybacks After SKY Price Slump",
-    "url": "https://thedefiant.io/news/defi/sky-council-plans-extra-buybacks-after-sky-price-slump",
-    "published_at": "Fri, 20 Nov 2026 04:44:53 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_79db0b376f68",
-    "source": "The Defiant",
-    "title": "Sky’s USDS Circulating Supply Falls 39% in One Day",
-    "url": "https://thedefiant.io/news/defi/sky-s-usds-circulating-supply-falls-39-in-one-day",
-    "published_at": "Fri, 20 Nov 2026 04:42:25 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_c3f6c795083e",
-    "source": "The Defiant",
-    "title": "Moonshot Drops $150 Million Blackwell Deal, Report Says",
-    "url": "https://thedefiant.io/frontier/ai/moonshot-drops-150-million-blackwell-deal-report-says",
-    "published_at": "Fri, 20 Nov 2026 04:41:46 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_177fdec7f704",
-    "source": "The Defiant",
-    "title": "California Subpoenas Nvidia Over Investor Disclosures",
-    "url": "https://thedefiant.io/frontier/regulation/california-subpoenas-nvidia-over-investor-disclosures",
-    "published_at": "Fri, 20 Nov 2026 04:36:19 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f52994d2e5fe",
-    "source": "The Defiant",
-    "title": "Wiz Suspects Certificate Compromise in Microsoft AI Package Hack",
-    "url": "https://thedefiant.io/frontier/ai/wiz-suspects-certificate-compromise-in-microsoft-ai-package-hack",
-    "published_at": "Fri, 20 Nov 2026 04:31:36 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1aa4ad7b9f0e",
-    "source": "The Defiant",
-    "title": "SpaceX AI-Chip Debt Sale Raises $32 Billion: Report",
-    "url": "https://thedefiant.io/frontier/technology/spacex-ai-chip-debt-sale-raises-32-billion-report",
-    "published_at": "Fri, 20 Nov 2026 04:31:12 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_f5861fb9724d",
-    "source": "The Defiant",
-    "title": "Nginx Patches Five Flaws That Can Let Attackers Run Code",
-    "url": "https://thedefiant.io/news/security/nginx-patches-five-flaws-that-can-let-attackers-run-code",
-    "published_at": "Fri, 20 Nov 2026 04:30:34 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b1cbb93b7b11",
-    "source": "The Defiant",
-    "title": "Tencent Releases Hy4 Weights With Limits for Large Hosts",
-    "url": "https://thedefiant.io/frontier/ai/tencent-releases-hy4-weights-with-limits-for-large-hosts",
-    "published_at": "Fri, 20 Nov 2026 04:30:10 GMT",
-    "fetched_at": "2026-11-20T09:04:50.045855+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026112009",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,863,519,508 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-20T09:04:52.260608+00:00",
-    "used": false
-  },
-  {
     "id": "rss_cdd30d1e6541",
     "source": "Cointelegraph Base",
     "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -2508,6 +2337,114 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-27T02:07:06.974050+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_287140871b21",
+    "source": "Cointelegraph Base",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_843e153cb82d",
+    "source": "CoinDesk",
+    "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+    "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+    "published_at": "Fri, 27 Nov 2026 10:00:00 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_eb1b9ef659d5",
+    "source": "CoinDesk",
+    "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+    "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+    "published_at": "Fri, 27 Nov 2026 04:29:47 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_970b2200f3ef",
+    "source": "The Defiant",
+    "title": "Brazil’s B3 and Six Firms Plan Real-Backed Stablecoin",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/brazil-s-b3-and-six-firms-plan-real-backed-stablecoin",
+    "published_at": "Fri, 27 Nov 2026 11:00:14 GMT",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cfa76c29ecd5",
+    "source": "The Defiant",
+    "title": "China Chip Index Closes Up 17.6%; Beijing Pledges Support",
+    "url": "https://thedefiant.io/frontier/technology/china-chip-index-closes-up-17-6-beijing-pledges-support",
+    "published_at": "Fri, 27 Nov 2026 10:33:26 GMT",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_bae5fce73acd",
+    "source": "The Defiant",
+    "title": "Collector Crypt Pack Volume Drops 46% After October Peak",
+    "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
+    "published_at": "Fri, 27 Nov 2026 05:29:41 GMT",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_fcd85abfe97d",
+    "source": "The Defiant",
+    "title": "Bluefin to Shut Down Perpetual Futures on Sui Dec. 4",
+    "url": "https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4",
+    "published_at": "Fri, 27 Nov 2026 03:02:07 GMT",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3ebfdb55451a",
+    "source": "The Defiant",
+    "title": "OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws",
+    "url": "https://thedefiant.io/frontier/ai/openai-says-its-1-2-million-audit-found-948-linux-flaws",
+    "published_at": "Fri, 27 Nov 2026 02:10:07 GMT",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_92a100dd0a23",
+    "source": "CryptoSlate",
+    "title": "Ethereum’s quantum defense plans could delay a major upgrade to stop transaction censorship",
+    "url": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/",
+    "published_at": "Fri, 27 Nov 2026 06:40:09 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_57bb7f2dd005",
+    "source": "CryptoSlate",
+    "title": "USDT leads borrowing on four of six DeFi protocols examined by Europe’s banking watchdog",
+    "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog/",
+    "published_at": "Fri, 27 Nov 2026 04:20:14 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_5265be6773a2",
+    "source": "Decrypt",
+    "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+    "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+    "published_at": "Fri, 27 Nov 2026 10:15:51 +0000",
+    "fetched_at": "2026-11-27T11:18:42.318401+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112711",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,723,938,583 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-27T11:18:44.722263+00:00",
     "used": false
   }
 ]
