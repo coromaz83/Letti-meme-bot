@@ -1,158 +1,5 @@
 [
   {
-    "id": "rss_287140871b21",
-    "source": "Cointelegraph Base",
-    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 05 Jul 2026 00:50:30 +0000",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_76fb73c00729",
-    "source": "The Defiant",
-    "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
-    "url": "https://thedefiant.io/news/blockchains/solana-resumes-upgrades-with-direct-mapping-warning",
-    "published_at": "Thu, 19 Nov 2026 23:48:10 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_6fd92470d51e",
-    "source": "The Defiant",
-    "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
-    "url": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
-    "published_at": "Thu, 19 Nov 2026 22:44:05 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_98c612452ac3",
-    "source": "The Defiant",
-    "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
-    "url": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
-    "published_at": "Thu, 19 Nov 2026 21:09:53 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_5b0001767aa6",
-    "source": "The Defiant",
-    "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
-    "url": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
-    "published_at": "Thu, 19 Nov 2026 20:57:46 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_30d7c2671c54",
-    "source": "The Defiant",
-    "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
-    "url": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
-    "published_at": "Thu, 19 Nov 2026 20:53:06 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_223237b62dc5",
-    "source": "The Defiant",
-    "title": "Bitcoin Falls Below $62,000 to Its Lowest Since July on Coinbase",
-    "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-62-000-to-its-lowest-since-july-on-coinbase",
-    "published_at": "Thu, 19 Nov 2026 20:44:40 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a18f806592e8",
-    "source": "The Defiant",
-    "title": "Binance.US Says Perps Bid Clears CFTC Completeness Check",
-    "url": "https://thedefiant.io/news/regulation/binance-us-says-perps-bid-clears-cftc-completeness-check",
-    "published_at": "Thu, 19 Nov 2026 19:48:35 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_240215338a15",
-    "source": "The Defiant",
-    "title": "Google Opens Genie 4 World Model to Developers",
-    "url": "https://thedefiant.io/frontier/ai/google-opens-genie-4-world-model-to-developers",
-    "published_at": "Thu, 19 Nov 2026 19:37:49 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_8280d9c094ff",
-    "source": "The Defiant",
-    "title": "OFAC Sanctions Comancheros Leader, Lists Tron Address",
-    "url": "https://thedefiant.io/news/regulation/ofac-sanctions-comancheros-leader-lists-tron-address",
-    "published_at": "Thu, 19 Nov 2026 19:20:32 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_b484ba8e3ed2",
-    "source": "The Defiant",
-    "title": "Anthropic Perp Tops $1.4 Billion in 24-Hour Volume",
-    "url": "https://thedefiant.io/news/markets/anthropic-perp-tops-1-4-billion-in-24-hour-volume",
-    "published_at": "Thu, 19 Nov 2026 19:19:27 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_175573aad10d",
-    "source": "The Defiant",
-    "title": "ECB Flags Over $4 Trillion in Big Tech Commitments",
-    "url": "https://thedefiant.io/frontier/ai/ecb-flags-over-4-trillion-in-big-tech-commitments",
-    "published_at": "Thu, 19 Nov 2026 19:14:09 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_73f30e3d284e",
-    "source": "The Defiant",
-    "title": "Lighter Lists Anthropic-Linked Token on Robinhood Chain",
-    "url": "https://thedefiant.io/news/defi/lighter-lists-anthropic-linked-token-on-robinhood-chain",
-    "published_at": "Thu, 19 Nov 2026 19:12:15 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_845d3ee3c4eb",
-    "source": "The Defiant",
-    "title": "Ethereum Execution Teams Lean Toward Keeping Glamsterdam Gas Rules",
-    "url": "https://thedefiant.io/news/blockchains/ethereum-execution-teams-lean-toward-keeping-glamsterdam-gas-rules",
-    "published_at": "Thu, 19 Nov 2026 18:46:08 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_d1a0221e96fd",
-    "source": "The Defiant",
-    "title": "Fluidkey Urges Users to Avoid Website and App After Incident",
-    "url": "https://thedefiant.io/news/security/fluidkey-urges-users-to-avoid-website-and-app-after-incident",
-    "published_at": "Thu, 19 Nov 2026 18:40:41 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_860fcc31ced8",
-    "source": "The Defiant",
-    "title": "US Crypto Perps: Coinbase and Kraken Access Explained",
-    "url": "https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained",
-    "published_at": "Thu, 19 Nov 2026 18:35:56 GMT",
-    "fetched_at": "2026-11-20T01:09:34.988306+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026112001",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,896,135,936 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-20T01:09:37.212192+00:00",
-    "used": false
-  },
-  {
     "id": "rss_03c1cbf97587",
     "source": "Cointelegraph Base",
     "title": "Trueo prediction market moves from Base to Ethereum",
@@ -2607,6 +2454,60 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-26T18:56:18.901450+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_ec0369489b16",
+    "source": "Cointelegraph Base",
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 20 Oct 2026 12:30:00 +0000",
+    "fetched_at": "2026-11-27T02:07:04.134480+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_78633ac911be",
+    "source": "The Defiant",
+    "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
+    "url": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
+    "published_at": "Thu, 26 Nov 2026 21:35:55 GMT",
+    "fetched_at": "2026-11-27T02:07:04.134480+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f9140738eb2a",
+    "source": "The Defiant",
+    "title": "Fluid Pauses DEX Swaps After ‘Mythos 5.2’ Security Review",
+    "url": "https://thedefiant.io/news/security/fluid-pauses-dex-swaps-after-mythos-5-2-security-review",
+    "published_at": "Thu, 26 Nov 2026 21:12:13 GMT",
+    "fetched_at": "2026-11-27T02:07:04.134480+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6340d63fac22",
+    "source": "The Defiant",
+    "title": "Microsoft Links China, North Korea Hackers to ARTEX",
+    "url": "https://thedefiant.io/frontier/ai/microsoft-links-china-north-korea-hackers-to-artex",
+    "published_at": "Thu, 26 Nov 2026 19:19:13 GMT",
+    "fetched_at": "2026-11-27T02:07:04.134480+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_316cc663ff61",
+    "source": "The Defiant",
+    "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
+    "url": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
+    "published_at": "Thu, 26 Nov 2026 19:17:27 GMT",
+    "fetched_at": "2026-11-27T02:07:04.134480+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112702",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,656,196,052 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-27T02:07:06.974050+00:00",
     "used": false
   }
 ]
