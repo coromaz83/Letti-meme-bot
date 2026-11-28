@@ -1,149 +1,5 @@
 [
   {
-    "id": "rss_600895faaa3a",
-    "source": "CoinDesk",
-    "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-    "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-    "published_at": "Fri, 20 Nov 2026 22:05:31 +0000",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1eb6d1af97d2",
-    "source": "The Defiant",
-    "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway",
-    "url": "https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway",
-    "published_at": "Fri, 20 Nov 2026 22:54:45 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_21bab383e85e",
-    "source": "The Defiant",
-    "title": "S&P 500 Sinks 3.7%, Extending Slide to Seven Sessions",
-    "url": "https://thedefiant.io/converge/markets/s-p-500-sinks-3-7-extending-slide-to-seven-sessions",
-    "published_at": "Fri, 20 Nov 2026 21:24:26 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_ba85bf47df29",
-    "source": "The Defiant",
-    "title": "Oracle Says OpenAI Infrastructure Deal Is Fully Funded",
-    "url": "https://thedefiant.io/frontier/ai/oracle-says-openai-infrastructure-deal-is-fully-funded",
-    "published_at": "Fri, 20 Nov 2026 21:10:33 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a55451b045f8",
-    "source": "The Defiant",
-    "title": "Cloudflare Adds Ruby2Shell Rules; Ruby Patch Still Needed",
-    "url": "https://thedefiant.io/news/security/cloudflare-adds-ruby2shell-rules-ruby-patch-still-needed",
-    "published_at": "Fri, 20 Nov 2026 20:40:31 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_700d4fa03850",
-    "source": "The Defiant",
-    "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
-    "url": "https://thedefiant.io/frontier/ai/thinking-machines-releases-inkling-2-mini-for-local-ai",
-    "published_at": "Fri, 20 Nov 2026 20:28:30 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_1261c4e81d22",
-    "source": "The Defiant",
-    "title": "44 Attorneys General Challenge CFTC Prediction Rules",
-    "url": "https://thedefiant.io/news/regulation/44-attorneys-general-challenge-cftc-prediction-rules",
-    "published_at": "Fri, 20 Nov 2026 19:55:11 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_51c258705263",
-    "source": "The Defiant",
-    "title": "SEC Proposes Direct Control of Consolidated Audit Trail",
-    "url": "https://thedefiant.io/converge/regulation/sec-proposes-direct-control-of-consolidated-audit-trail",
-    "published_at": "Fri, 20 Nov 2026 19:51:39 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_a590ed4b94fd",
-    "source": "The Defiant",
-    "title": "December Fed Hike Odds Ease in Futures-Based Monitor",
-    "url": "https://thedefiant.io/news/markets/december-fed-hike-odds-ease-in-futures-based-monitor",
-    "published_at": "Fri, 20 Nov 2026 19:49:40 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_eb044a6e6f38",
-    "source": "The Defiant",
-    "title": "Nvidia Slides Nearly 10% as Nasdaq 100 Falls Sharply",
-    "url": "https://thedefiant.io/frontier/markets/nvidia-slides-nearly-10-as-nasdaq-100-falls-sharply",
-    "published_at": "Fri, 20 Nov 2026 19:30:12 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e89981b05b20",
-    "source": "The Defiant",
-    "title": "Bitcoin Falls Below $58,000 but Holds Above June Low",
-    "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-58-000-but-holds-above-june-low",
-    "published_at": "Fri, 20 Nov 2026 19:11:36 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_951349fa31fe",
-    "source": "The Defiant",
-    "title": "BENQI Plans New Queue to Shorten sAVAX Unstaking Waits",
-    "url": "https://thedefiant.io/news/defi/benqi-plans-new-queue-to-shorten-savax-unstaking-waits",
-    "published_at": "Fri, 20 Nov 2026 18:54:17 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_e51a4e2a4407",
-    "source": "The Defiant",
-    "title": "Stock Market Cap: What It Measures and What Losses Mean",
-    "url": "https://thedefiant.io/news/markets/stock-market-cap-what-it-measures-and-what-losses-mean",
-    "published_at": "Fri, 20 Nov 2026 18:20:27 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_69ba85d3368d",
-    "source": "The Defiant",
-    "title": "Sky's USDC Exit Reserve Rises 29% to 1.13 Billion",
-    "url": "https://thedefiant.io/news/defi/sky-s-usdc-exit-reserve-rises-29-to-1-13-billion",
-    "published_at": "Fri, 20 Nov 2026 18:18:23 GMT",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "rss_9f4d8ce931eb",
-    "source": "Bankless",
-    "title": "What You Own When You Buy ANT Onchain",
-    "url": "https://www.bankless.com/read/what-you-own-when-you-buy-ant-onchain",
-    "published_at": "Fri, 20 Nov 2026 15:56:57 -0500",
-    "fetched_at": "2026-11-20T23:56:06.593666+00:00",
-    "used": false
-  },
-  {
-    "id": "llama_2026112023",
-    "source": "DeFiLlama",
-    "title": "Base TVL: $4,568,931,558 🟢 +0.00% (24h)",
-    "url": "https://defillama.com/chain/Base",
-    "published_at": "",
-    "fetched_at": "2026-11-20T23:56:09.385711+00:00",
-    "used": false
-  },
-  {
     "id": "rss_d1c6bc429b29",
     "source": "Cointelegraph Base",
     "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
@@ -2355,6 +2211,132 @@
     "url": "https://defillama.com/chain/Base",
     "published_at": "",
     "fetched_at": "2026-11-27T20:13:01.787183+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cdd30d1e6541",
+    "source": "Cointelegraph Base",
+    "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+    "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 15 Sep 2026 09:40:27 +0000",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_f1b056cb4dc9",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 24 Aug 2026 19:11:48 +0000",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_935f3b855f6e",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+    "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 27 Jul 2026 09:01:05 +0000",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_3f4a6d72768f",
+    "source": "Cointelegraph Base",
+    "title": "Base says sequencer bug caused back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 28 Jun 2026 05:14:05 +0000",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b1194184a5db",
+    "source": "Cointelegraph Base",
+    "title": "Coinbase's Base resumes block production after 2-hour outage",
+    "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss_tag_base&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 26 Jun 2026 05:10:44 +0000",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_a2d6a9919072",
+    "source": "The Defiant",
+    "title": "Sky Allocates More SKY to Stakers, Cuts Vault Debt Limits",
+    "url": "https://thedefiant.io/news/defi/sky-allocates-more-sky-to-stakers-cuts-vault-debt-limits",
+    "published_at": "Sat, 28 Nov 2026 02:15:17 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_b6153e2b975f",
+    "source": "The Defiant",
+    "title": "Telegram Urges Users on Older iOS to Update iPhones",
+    "url": "https://thedefiant.io/news/security/telegram-urges-users-on-older-ios-to-update-iphones",
+    "published_at": "Fri, 27 Nov 2026 23:50:31 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_cc2b609f57f3",
+    "source": "The Defiant",
+    "title": "Anza Urges Immediate Agave Upgrade on Solana Mainnet",
+    "url": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
+    "published_at": "Fri, 27 Nov 2026 23:37:39 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_d260a4b7df2c",
+    "source": "The Defiant",
+    "title": "SKY Rebounds 16% as Bitcoin and Crypto Market Slip",
+    "url": "https://thedefiant.io/news/tokens/sky-rebounds-16-as-bitcoin-and-crypto-market-slip",
+    "published_at": "Fri, 27 Nov 2026 22:29:08 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_6fa2660c42a4",
+    "source": "The Defiant",
+    "title": "Block Discloses Proposed $442.5M Investor Settlement",
+    "url": "https://thedefiant.io/converge/regulation/block-discloses-proposed-442-5m-investor-settlement",
+    "published_at": "Fri, 27 Nov 2026 22:10:58 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_08429e99197b",
+    "source": "The Defiant",
+    "title": "Babylon’s Reported Bitcoin Stake Falls 31% in a Day",
+    "url": "https://thedefiant.io/news/defi/babylon-s-reported-bitcoin-stake-falls-31-in-a-day",
+    "published_at": "Fri, 27 Nov 2026 21:51:27 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_401c846d1762",
+    "source": "The Defiant",
+    "title": "World Liberty-Linked Wallet Swaps WETH and mETH for $20M in Stablecoins",
+    "url": "https://thedefiant.io/news/defi/world-liberty-linked-wallet-swaps-weth-and-meth-for-20m-in-stablecoins",
+    "published_at": "Fri, 27 Nov 2026 21:05:51 GMT",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "rss_340315b7db7f",
+    "source": "BlockWorks",
+    "title": "ETH derivatives reset and the next retail trade",
+    "url": "https://blockworks.com/news/eth-derivatives-reset",
+    "published_at": "2026-01-05T15:14:17.000Z",
+    "fetched_at": "2026-11-28T02:54:53.595445+00:00",
+    "used": false
+  },
+  {
+    "id": "llama_2026112802",
+    "source": "DeFiLlama",
+    "title": "Base TVL: $4,633,723,034 🟢 +0.00% (24h)",
+    "url": "https://defillama.com/chain/Base",
+    "published_at": "",
+    "fetched_at": "2026-11-28T02:54:56.019476+00:00",
     "used": false
   }
 ]
